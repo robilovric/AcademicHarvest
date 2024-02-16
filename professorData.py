@@ -1,4 +1,6 @@
 import requests
+import json
+import os
 from bs4 import BeautifulSoup
 
 class Professor:
@@ -31,6 +33,39 @@ class Professor:
         print("Intensity List:")
         for intensity_value in self.intensity:
             print(f"  - {intensity_value}")
+    
+    def WriteDataToFile(self):
+        # Create folder if it doesn't exist
+        folder_name = 'professorsDataLake'
+        if not os.path.exists(folder_name):
+            os.makedirs(folder_name)
+        
+        # Create file name
+        file_name = f"{self.name.replace(' ', '')}.json"
+        file_path = os.path.join(folder_name, file_name)
+
+        # Write data to JSON file
+        data = {
+            'name': self.name,
+            'num_citations': self.num_citations,
+            'publications': self.publications,
+            'co_authors': self.co_authors,
+            # Intensity is not saved in the JSON file
+        }
+        with open(file_path, 'w') as file:
+            json.dump(data, file, indent=4)
+
+    @classmethod
+    def ReadDataFromFile(cls, file_path):
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            return cls(
+                name=data['name'],
+                num_citations=data['num_citations'],
+                publications=data['publications'],
+                co_authors=data['co_authors'],
+                intensity=[]  # Intensity not saved in JSON, set to empty list
+            )
 
 professors=[] 
 

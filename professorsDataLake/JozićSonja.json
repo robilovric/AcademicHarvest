@@ -1,0 +1,611 @@
+{
+    "name": "Jozi\u0107 Sonja",
+    "num_citations": 422,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regression analysis, support vector machines, and Bayesian neural network approaches to modeling surface roughness in face milling",
+                "pub_year": "2009",
+                "citation": "The International Journal of Advanced Manufacturing Technology 42, 1082-1088, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6620591026327652305",
+            "cites_id": [
+                "6620591026327652305"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of compressed cold air cooling: achieving multiple performance characteristics in end milling process",
+                "pub_year": "2015",
+                "citation": "Journal of Cleaner Production 100, 325-332, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:Zph67rFs4hoC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11976505927570350039",
+            "cites_id": [
+                "11976505927570350039"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of the influence of cutting parameters on the surface roughness, tool wear and cutting force in face milling in off-line process control",
+                "pub_year": "2012",
+                "citation": "Strojni\u0161ki vestnik\u2013Journal of Mechanical Engineering 58 (11), 673-682, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:Se3iqnhoufwC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8750207777427928343",
+            "cites_id": [
+                "8750207777427928343"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical modeling of solid-state recycling of aluminum chips",
+                "pub_year": "2016",
+                "citation": "The International Journal of Advanced Manufacturing Technology 87, 1125-1133, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:dhFuZR0502QC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17725292110536767098",
+            "cites_id": [
+                "17725292110536767098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new mathematical model for flank wear prediction using functional data analysis methodology",
+                "pub_year": "2014",
+                "citation": "Advances in Materials Science and Engineering 2014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16981851376512231801",
+            "cites_id": [
+                "16981851376512231801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of semi-solid high-pressure die casting process by computer simulation, Taguchi method and grey relational analysis",
+                "pub_year": "2021",
+                "citation": "International Journal of Metalcasting 15, 108-118, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:_kc_bZDykSQC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16449716149440780325",
+            "cites_id": [
+                "16449716149440780325"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental analysis and optimization of the controllable parameters in turning of en aw-2011 alloy; dry machining and alternative cooling techniques",
+                "pub_year": "2020",
+                "citation": "Facta Universitatis, Series: Mechanical Engineering 18 (1), 013-029, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5777817649800493861",
+            "cites_id": [
+                "5777817649800493861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrosion behavior of different types of stainless steel in PBS solution",
+                "pub_year": "2022",
+                "citation": "Sustainability 14 (14), 8935, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6165571397360619015",
+            "cites_id": [
+                "6165571397360619015"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flank wear and surface roughness in end milling of hardened steel",
+                "pub_year": "2015",
+                "citation": "Metalurgija 54 (2), 343-346, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11249058889839900543",
+            "cites_id": [
+                "11249058889839900543"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization for an efficient and highly productive turning process",
+                "pub_year": "2021",
+                "citation": "Reports in Mechanical Engineering 2 (1), 212-221, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:hC7cP41nSMkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6432161464638278606",
+            "cites_id": [
+                "6432161464638278606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive neuro-fuzzy and regression models for predicting microhardness and electrical conductivity of solid-state recycled EN AW 6082",
+                "pub_year": "2019",
+                "citation": "The International Journal of Advanced Manufacturing Technology 100, 2981-2993, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6225387054822000852",
+            "cites_id": [
+                "6225387054822000852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of semi-solid high-pressure die casting process by computer simulation, Taguchi method and grey relational analysis. Inter. Metalcast. 15, 108\u2013118 (2021)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7569763172746693997",
+            "cites_id": [
+                "7569763172746693997"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of 3D tool wear in machining by successive stereophotogrammetry and point cloud processing",
+                "pub_year": "2013",
+                "citation": "Tehni\u010dki Vjesnik\u2013Technical Gazette 20 (3), 449-458, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4059985964490464010",
+            "cites_id": [
+                "4059985964490464010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface roughness modelling in super duplex stainless steel turning",
+                "pub_year": "2018",
+                "citation": "International Journal for Engineering Modelling 31 (3 Regular Issue), 19-34, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:8k81kl-MbHgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10433370347968907425",
+            "cites_id": [
+                "10433370347968907425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Topic, S.: Flank Wear in Down and Up Milling",
+                "citation": "Annals of DAAAM for 2012 & Proceedings of the 23rd International DAAAM \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:IWHjjKOFINEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=62600680464707645",
+            "cites_id": [
+                "62600680464707645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Closed Cell Foams from the Aluminium Chip Waste",
+                "pub_year": "2021",
+                "citation": "Croatian society for mechanical technologies: Split, Croatia, 95-100, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:maZDTaKrznsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16652574810730394775",
+            "cites_id": [
+                "16652574810730394775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse engineering application in preservation of cultural heritage",
+                "pub_year": "2011",
+                "citation": "Annals of DAAAM & Proceedings, 1239-1241, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6350559258003921178",
+            "cites_id": [
+                "6350559258003921178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orthogonal cutting simulation of EN AW 6082 T6 alloy using a coupled Eulerian-Lagrangian approach",
+                "pub_year": "2023",
+                "citation": "Heliyon 9 (4), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10263048476608741666",
+            "cites_id": [
+                "10263048476608741666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hard Milling Process Based on Compressed Cold Air-Cooling Using Vortex Tube for Sustainable and Smart Manufacturing",
+                "pub_year": "2023",
+                "citation": "Machines 11 (2), 264, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8616418347865098006",
+            "cites_id": [
+                "8616418347865098006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of different cutting conditions in the machining of steel\u2014Towards cleaner production",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 356, 131881, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16781178096457378058",
+            "cites_id": [
+                "16781178096457378058"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Closed-Cell Foams Out of Aluminum Chip Waste: Mathematical Modeling and Optimization",
+                "pub_year": "2022",
+                "citation": "Metals 12 (6), 933, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:TQgYirikUcIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7656133243447058479",
+            "cites_id": [
+                "7656133243447058479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of Real Image Microstructural Model of Semi-solid Aluminium Alloy Using a Coupled Eulerian\u2013Lagrangian Approach",
+                "pub_year": "2021",
+                "citation": "International Journal of Metalcasting, 1-11, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:qUcmZB5y_30C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4492148480905553583",
+            "cites_id": [
+                "4492148480905553583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermomechanical treatment of A380 aluminum alloy for globular thixo feedstock",
+                "pub_year": "2020",
+                "citation": "Materialwissenschaft und Werkstofftechnik 51 (8), 1047-1057, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2980774466715893042",
+            "cites_id": [
+                "2980774466715893042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and optimization of surface roughness predictive models in turning super duplex stainless steel by using artificial intelligence methods",
+                "pub_year": "2017",
+                "citation": "Mechanical Technologies and Structural Materials, 149-158, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=221280609689757699",
+            "cites_id": [
+                "221280609689757699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Achievement of Green Manufacturing using Alternative Types of Cooling in Machining Processes",
+                "pub_year": "2014",
+                "citation": "IBU JOURNAL OF SCIENCE AND TECHNOLOGY 95, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15989514803651507175",
+            "cites_id": [
+                "15989514803651507175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse engineering process application in single item production",
+                "pub_year": "2016",
+                "citation": "Proceedings of international conference Mechanical Technologies and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8602987911071840040",
+            "cites_id": [
+                "8602987911071840040"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CONTRIBUTION TO THE ASSESSMENT OF ECONOMIC VIABILITY OF HARD MILLING PROCESS.",
+                "pub_year": "2014",
+                "citation": "Tehnicki vjesnik/Technical Gazette 21 (6), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:0EnyYjriUFMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9729283199950079285",
+            "cites_id": [
+                "9729283199950079285"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vi\u0161eparametarsko modeliranje i optimiranje tvrdog glodanja",
+                "pub_year": "2012",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6360041348628114353",
+            "cites_id": [
+                "6360041348628114353"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cutting force analysis in face milling using rotatable central composite design of experiments and Taguchi method",
+                "pub_year": "2011",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 53 (4), 243-248, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13519251007733353665",
+            "cites_id": [
+                "13519251007733353665"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primjena plana pokusa u optimizaciji procesa glodanja",
+                "pub_year": "2010",
+                "citation": "Metalurgija 49 (2), 123-126, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11670114811761510064",
+            "cites_id": [
+                "11670114811761510064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of modal analysis on machine tool for stability lobe daigram generation",
+                "pub_year": "2023",
+                "citation": "12th International Conference on Mechanical Technologies and Structural \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EXPERIMENTAL INVESTIGATION OF FACE MILLING ALUMINUM ALLOY EN AW\u20132011 T6 USING VARIOUS COOLING TECHNIQUES",
+                "pub_year": "2023",
+                "citation": "Facta Universitatis, Series: Mechanical Engineering, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSIS OF PRODUCTION METHOD AND STABILIZING AGENT ON STRUCTURE OF ALUMINUM METAL FOAMS",
+                "pub_year": "2023",
+                "citation": "Journal of Sustainable Technologies and Materials 3 (4), 16-21, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Open-Cell Metal Foams by Recycling of Aluminum Alloy Chips",
+                "pub_year": "2023",
+                "citation": "Materials 16 (11), 3930, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrosion Behavior of Different Types of Stainless Steel in PBS Solution. Sustainability 2022, 14, 8935",
+                "pub_year": "2022",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CORROSION BEHAVIOR OF AL FOAMS IN 0.5 M NACL SOLUTION KOROZIJSKO PONA\u0160ANJE AL PJENA U0, 5M NACL OTOPINI",
+                "citation": "MATRIB 2022, 0"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Athens Journal of Technology & Engineering",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Open Cell Foams Out of Aluminium Chips",
+                "citation": "Athens Journal of Technology & Engineering, 299, 0"
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYZING AND MODELING OF THE INFLUENCE OF CUTTING PARAMETERS ON THE CUTTING FORCE IN FACE MILLING",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of cutting parameters in end-milling of 42CrMo4 steel by applying Taguchi method and the Grey relational analysis",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODELING THE SURFACE ROUGHNESS DURING MILLING IN OFF-LINE MONITORING",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "LkhFLsAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

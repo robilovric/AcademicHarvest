@@ -1,0 +1,309 @@
+{
+    "name": "Tomac Ivan",
+    "num_citations": 135,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tuneable vibration absorber using acceleration and displacement feedback",
+                "pub_year": "2012",
+                "citation": "Journal of sound and vibration 331 (12), 2713-2728, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9568278038024489273",
+            "cites_id": [
+                "9568278038024489273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability and performance limits for active vibration isolation using blended velocity feedback",
+                "pub_year": "2011",
+                "citation": "Journal of Sound and Vibration 330 (21), 4981-4997, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3223196567662257037",
+            "cites_id": [
+                "3223196567662257037"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended Morlet-Wave damping identification method",
+                "pub_year": "2017",
+                "citation": "International Journal of Mechanical Sciences 127, 31-40, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5945576673829521481",
+            "cites_id": [
+                "5945576673829521481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Damping identification based on a high-speed camera",
+                "pub_year": "2022",
+                "citation": "Mechanical Systems and Signal Processing 166, 108485, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14943376399768663332",
+            "cites_id": [
+                "14943376399768663332"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete optimization of truss structures using variable neighborhood search",
+                "pub_year": "2021",
+                "citation": "Iranian Journal of Science and Technology, Transactions of Civil Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7743951068851016249",
+            "cites_id": [
+                "7743951068851016249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morlet-wave-based modal identification in the time domain",
+                "pub_year": "2023",
+                "citation": "Mechanical Systems and Signal Processing 192, 110243, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9983325620946596423",
+            "cites_id": [
+                "9983325620946596423"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OVERVIEW AND CASE STUDY EVALUATION OF TIME-FREQUENCY METHODS FOR ESTIMATION OF DAMPING RATIO OF STRUCTURES.",
+                "pub_year": "2011",
+                "citation": "Transactions of FAMENA 35 (4), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8108745840060355730",
+            "cites_id": [
+                "8108745840060355730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Isogeometric approach to the dynamics of the catenary exposed to large displacements",
+                "pub_year": "2019",
+                "citation": "Acta Mechanica 230, 351-366, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8474909826286689044",
+            "cites_id": [
+                "8474909826286689044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lozina, Active vibration control using PI regulated electro-dynamic actuator\u2014bond graph approach. Advanced Ship Design for Pollution Prevention\u2013Guedes Soares & Parunov (eds \u2026",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12439713041978409694",
+            "cites_id": [
+                "12439713041978409694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic analysis of elastic pendulum with slider",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7254738913314784582",
+            "cites_id": [
+                "7254738913314784582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theoretical and experimental analysis of a tuneable vibration absorber using acceleration and displacement feedback",
+                "pub_year": "2010",
+                "citation": "Proceedings of International Conference on Noise and Vibration Engineering \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11315278329794280107",
+            "cites_id": [
+                "11315278329794280107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single-pixel optical-flow-based experimental modal analysis",
+                "pub_year": "2023",
+                "citation": "Mechanical Systems and Signal Processing 202, 110686, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Damping identification with high speed camera",
+                "pub_year": "2022",
+                "citation": "Kuhljevi dnevi 2022, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Identification of the unbalanced magnetic pull in generator at excitation and the hydropower machine model validation",
+                "pub_year": "2018",
+                "citation": "MATEC Web of Conferences 211, 06003, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Vibration Testing and Nondestructive Testing",
+                "pub_year": "2012",
+                "citation": "HDKBR INFO Magazin 2 (3), 23-29, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza torzijskih vibracija osovinskog voda",
+                "pub_year": "2005",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODELLING AND SIMULATION OF THE ACTIVE VIBRATION CONTROL BY MEANS OF PI REGULATED ELECTRO-DYNAMIC ACTUATOR AND BOND GRAPH APPROACH",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DETEKCIJA MODALNIH PARAMETARA KONSTRUKCIJA PRIMJENOM VALNE TRANSFORMACIJE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamics of nonlinear isogeometric catanery models",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pNADTR0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cCayjsYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Damir Sedlar",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t0T204AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Neven Alujevic",
+            "affiliation": "University of Zagreb, Faculty of Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1jfNslkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Janko Slavi\u010d",
+            "affiliation": "Professor of Mechanics, University of Ljubljana"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QQRzuM4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Domen Gorjup",
+            "affiliation": "University of Ljubljana, Faculty of Mechanical Engineering"
+        }
+    ]
+}

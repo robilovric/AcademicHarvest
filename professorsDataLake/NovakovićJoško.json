@@ -1,0 +1,71 @@
+{
+    "name": "Novakovi\u0107 Jo\u0161ko",
+    "num_citations": 89,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expression of Ki-67, Oct-4, \u03b3-tubulin and \u03b1-tubulin in human tooth development",
+                "pub_year": "2014",
+                "citation": "Archives of oral biology 59 (11), 1119-1129, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "fmj5b38AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2567429751151927822",
+            "cites_id": [
+                "2567429751151927822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell proliferation and apoptosis in the fusion of human primary and secondary palates",
+                "pub_year": "2012",
+                "citation": "European journal of oral sciences 120 (4), 283-291, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "fmj5b38AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4358568183460082775",
+            "cites_id": [
+                "4358568183460082775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developmental patterns of Ki-67, bcl-2 and caspase-3 proteins expression in the human upper jaw",
+                "pub_year": "2011",
+                "citation": "Acta histochemica 113 (5), 519-526, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "fmj5b38AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16668895853634392954",
+            "cites_id": [
+                "16668895853634392954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Treatment cost of patients with maxillofacial fractures at the University Hospital in Mostar 2002\u20132006",
+                "pub_year": "2010",
+                "citation": "Collegium antropologicum 34 (1), 199-203, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "fmj5b38AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12842087719242805702",
+            "cites_id": [
+                "12842087719242805702"
+            ]
+        }
+    ],
+    "co_authors": []
+}

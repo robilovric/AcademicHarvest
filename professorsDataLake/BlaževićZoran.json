@@ -1,0 +1,1599 @@
+{
+    "name": "Bla\u017eevi\u0107 Zoran",
+    "num_citations": 453,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Full wave model versus transmission line representation of Tesla's wave propagation: 155th anniversary of birth of Nikola Tesla",
+                "pub_year": "2011",
+                "citation": "SoftCOM 2011, 19th International Conference on Software, Telecommunications \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:5nxA0vEk-isC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6284955601121056711",
+            "cites_id": [
+                "6284955601121056711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some notes on transmission line representations of Tesla\u2019s transmitters",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:maZDTaKrznsC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4980078506246088606",
+            "cites_id": [
+                "4980078506246088606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gen2 RFID as IoT enabler: Characterization and performance improvement",
+                "pub_year": "2017",
+                "citation": "IEEE Wireless Communications 24 (3), 33-39, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:gKiMpY-AVTkC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7709297439344126469",
+            "cites_id": [
+                "7709297439344126469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing theoretical and experimental results in Gen2 RFID throughput",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Automation Science and Engineering 14 (1), 349-357, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:lvd772isFD0C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2107735305789268826",
+            "cites_id": [
+                "2107735305789268826"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of passive RFID applicability in a retail store: What can we expect?",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (7), 2038, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:buQ7SEKw-1sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=880554616322086445",
+            "cites_id": [
+                "880554616322086445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spherical helices for resonant wireless power transfer",
+                "pub_year": "2013",
+                "citation": "International Journal of Antennas and Propagation 2013, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:lSLTfruPkqcC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7491597224935503382",
+            "cites_id": [
+                "7491597224935503382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Helical antennas in satellite radio channel",
+                "pub_year": "2011",
+                "citation": "Advances in Satellite Communications, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8312885140609472899,9913126049804740451",
+            "cites_id": [
+                "8312885140609472899",
+                "9913126049804740451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of Channel Parameters for\" Saleh-Valenzuela\" Model Simulation",
+                "pub_year": "2005",
+                "citation": "2005 18th International Conference on Applied Electromagnetics and \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13688741742000227458",
+            "cites_id": [
+                "13688741742000227458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministic wideband modeling of satellite propagation channel with buildings blockage",
+                "pub_year": "2005",
+                "citation": "IEEE transactions on vehicular technology 54 (4), 1225-1234, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:TFP_iSt0sucC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12580530560299454744",
+            "cites_id": [
+                "12580530560299454744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagation measurements at 2.4 GHz inside a university building and estimation of Saleh-Valenzuela parameters",
+                "pub_year": "2007",
+                "citation": "Journal of Communications Software and Systems 3 (2), 99-107, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5063322474237930169",
+            "cites_id": [
+                "5063322474237930169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interaction between human and near-field of wireless power transfer system",
+                "pub_year": "2016",
+                "citation": "Progress In Electromagnetics Research C 67, 1-10, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:nVrZBo8bIpAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8133900179012979162",
+            "cites_id": [
+                "8133900179012979162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-Sensing Antenna for Soil Moisture: Beacon Approach",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (24), 9863, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:MhiOAD_qIWkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1101607204542141895",
+            "cites_id": [
+                "1101607204542141895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uhf rfid: Retail store performance",
+                "pub_year": "2021",
+                "citation": "IEEE Journal of Radio Frequency Identification 6, 481-489, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:nRpfm8aw39MC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17351869519693308068,5068339747497854455",
+            "cites_id": [
+                "17351869519693308068",
+                "5068339747497854455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic characterization of SNR variation in passive Gen2 RFID system",
+                "pub_year": "2017",
+                "citation": "2017 Ninth International Conference on Ubiquitous and Future Networks (ICUFN \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:tH6gc1N1XXoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=373789469932167659",
+            "cites_id": [
+                "373789469932167659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bandwidth of the helical beam antenna loaded by a dielectric rod",
+                "pub_year": "2010",
+                "citation": "2010 Conference Proceedings ICECom, 20th International Conference on Applied \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:isC4tDSrTZIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9152579972937444839",
+            "cites_id": [
+                "9152579972937444839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Helical antenna performance in wideband communications",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:r0BpntZqJG4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17895170660477437877,13155417680860526487",
+            "cites_id": [
+                "17895170660477437877",
+                "13155417680860526487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Signal-to-noise ratio measurements and statistical characterization in Gen2 RFID",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:vDZJ-YLwNdEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9478380066776661329",
+            "cites_id": [
+                "9478380066776661329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of tag responsiveness on Gen2 RFID throughput",
+                "pub_year": "2016",
+                "citation": "IEEE Communications Letters 20 (11), 2181-2184, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:gVv57TyPmFsC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6409989227898531210",
+            "cites_id": [
+                "6409989227898531210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design for a class of spherical helical antennas applied in wireless transmission of energy by resonant coupling",
+                "pub_year": "2012",
+                "citation": "SoftCOM 2012, 20th International Conference on Software, Telecommunications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9050879081091340176",
+            "cites_id": [
+                "9050879081091340176"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the helical antenna performance by changing the pitch angle and the shape of reflector",
+                "pub_year": "2010",
+                "citation": "SoftCOM 2010, 18th International Conference on Software, Telecommunications \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=205940693559878589,13905018499509557943,3054392971601692471",
+            "cites_id": [
+                "205940693559878589",
+                "13905018499509557943",
+                "3054392971601692471"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of human body exposure to high and low frequency wireless power transfer systems using simplified models",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:F1b5ZUV5XREC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=301867195347451761,13095518245877648596",
+            "cites_id": [
+                "301867195347451761",
+                "13095518245877648596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2.4 GHz micro-strip patch antenna array with suppressed sidelobes",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:GFxP56DSvIMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2934066639806038692",
+            "cites_id": [
+                "2934066639806038692"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increasing the radiation efficiency and resistance of electrically small spherical helical antenna for wireless power transfer",
+                "pub_year": "2013",
+                "citation": "2013 21st International Conference on Software, Telecommunications and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:35N4QoGY0k4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14541414446625987878,17650984040344871643",
+            "cites_id": [
+                "14541414446625987878",
+                "17650984040344871643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of electrically small monofilar spherical helical antenna used for mid-range wireless power transfer",
+                "pub_year": "2012",
+                "citation": "2012 Proceedings of the 35th International Convention MIPRO, 241-245, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6273638824811296718",
+            "cites_id": [
+                "6273638824811296718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing and testing the quadrafilar helical antenna",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009-17th International Conference on Software, Telecommunications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14681785384997054377",
+            "cites_id": [
+                "14681785384997054377"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the inter-floor radio propagation: General UTD analysis",
+                "pub_year": "2009",
+                "citation": "Int. Rev. Phy 3 (2), 135-142, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11329690660518844817",
+            "cites_id": [
+                "11329690660518844817"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wideband measurements and analysis of the single-floor indoor radio channel at 2.4 GHz",
+                "pub_year": "2007",
+                "citation": "2007 19th International Conference on Applied Electromagnetics and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15426384946457402704",
+            "cites_id": [
+                "15426384946457402704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple Transmission Line Representation of Tesla Coil and Tesla\u2019s Wave Propagation Concept",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16936286566199572500",
+            "cites_id": [
+                "16936286566199572500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dislocated Measurements of Human Gait and Central Data Processing",
+                "pub_year": "2001",
+                "citation": "Proceedings of the SoftCOM, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:7BrZ7Jt4UNcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1775203320116334933",
+            "cites_id": [
+                "1775203320116334933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Simplified Analytical Model for Human Exposure to Electromagnetic Radiation of HF Wireless Power Transmitter",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:IaI1MmNe2tcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12689762169560718622,14679261882291918767",
+            "cites_id": [
+                "12689762169560718622",
+                "14679261882291918767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small printed antenna for soil sensors",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:PaBasH6fAo0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15212325541390739193,4512160965186752761",
+            "cites_id": [
+                "15212325541390739193",
+                "4512160965186752761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of human body exposure to near field of high and low RF wireless power transfer systems",
+                "pub_year": "2020",
+                "citation": "International Journal for Engineering Modelling 33 (1-2 Regular Issue), 19-36, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:jgBuDB5drN8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7862561588919038504",
+            "cites_id": [
+                "7862561588919038504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resonant Near-Field Power Transfer: Revisiting the frequency-splitting phenomenon using the spherical mode theory antenna model",
+                "pub_year": "2019",
+                "citation": "IEEE Antennas and Propagation Magazine 61 (4), 39-45, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:0CzhzZyukY4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15351766725122882023,1827751334889396296,13014291405940136203",
+            "cites_id": [
+                "15351766725122882023",
+                "1827751334889396296",
+                "13014291405940136203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interaction between humans and wireless power transfer systems",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:M05iB0D1s5AC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16942556655170028358,13183624420219459213",
+            "cites_id": [
+                "16942556655170028358",
+                "13183624420219459213"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theremin in Human Posture Identification",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:HDshCWvjkbEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15149150618045612440",
+            "cites_id": [
+                "15149150618045612440"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Satellite propagation channel analysis via ray-tracing simulation",
+                "pub_year": "2003",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15122846489338346512,557283059907079755",
+            "cites_id": [
+                "15122846489338346512",
+                "557283059907079755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple-folded antenna design for maximizing power transfer efficiency at 6.78 MHz",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:Bg7qf7VwUHIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1733776750175056655",
+            "cites_id": [
+                "1733776750175056655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultra-wideband parabolic bicone antenna for ground penetrating radar",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:_OXeSy2IsFwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15066761115917057091",
+            "cites_id": [
+                "15066761115917057091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scaled simulation of radio propagation channel",
+                "pub_year": "2004",
+                "citation": "Proceedings of MIPRO 2004, MEET+ HGS, 152-156, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3918325051177787702",
+            "cites_id": [
+                "3918325051177787702"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Comparison of Mean Power Prediction with Wide-Band Measurements in the Indoor Environment",
+                "pub_year": "2004",
+                "citation": "Proceedings of SoftCOM 2004. International Conference, 407-410, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9385290069660416808",
+            "cites_id": [
+                "9385290069660416808"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurements and Analysis of Coherence Bandwidth in Typical Indoor Environment",
+                "pub_year": "2004",
+                "citation": "Proceedings of MIPRO, 147-151, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5373594365751600585",
+            "cites_id": [
+                "5373594365751600585"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-sensing antenna for soil moisture",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:7H_MAutzIkAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10967919084231372290",
+            "cites_id": [
+                "10967919084231372290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RFID Performance Evaluation in a Retail Store",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:BzfGm06jWhQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9753280889385657044,14912512141473226301",
+            "cites_id": [
+                "9753280889385657044",
+                "14912512141473226301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of SAR using Simplified Body Representation due to RFiD Field Exposure",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Software, Telecommunications and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:43bX7VzcjpAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18348544863334491750",
+            "cites_id": [
+                "18348544863334491750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurements and Statistical Characterization of Time-varying WiFi Indoor Radio Channel",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:NyGDZy8z5eUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18383330654487025128",
+            "cites_id": [
+                "18383330654487025128"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enabling IoT through Gen2 RFID: PHY/MAC research opportunities",
+                "pub_year": "2018",
+                "citation": "2018 6th International EURASIP Workshop on RFID Technology (EURFID), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:wMgC3FpKEyYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14016163941137793375",
+            "cites_id": [
+                "14016163941137793375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antenna Design for Low-Cost Laptop-based Ground Penetrating Radar",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:AHdEip9mkN0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2189011932634098559",
+            "cites_id": [
+                "2189011932634098559"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer simulation of knife-edge based approximate methods for multiple diffraction estimation",
+                "pub_year": "2010",
+                "citation": "International Journal of Intelligent Defence Support Systems 3 (1-2), 37-51, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:GnPB-g6toBAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14308909722648620297",
+            "cites_id": [
+                "14308909722648620297"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UWB channel measurements in office desktop environment",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009-17th International Conference on Software, Telecommunications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:k_IJM867U9cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1630447291687938780",
+            "cites_id": [
+                "1630447291687938780"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of Tesla\u2019s transmitter using the wire antenna theory with ground effects included",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9661355042721990915",
+            "cites_id": [
+                "9661355042721990915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Wideband Indoor Radio Channel Based on Non-LOS Measurements at 2.4 GHz",
+                "pub_year": "2007",
+                "citation": "2007 15th International Conference on Software, Telecommunications and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16844937815015375315",
+            "cites_id": [
+                "16844937815015375315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyis of Tesla\u2019s Transmitter using Wire Antenna Theory",
+                "pub_year": "2006",
+                "citation": "Proc. Int. Symposium: Nikola Tesla/The Scientist out of Time, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9663875371172930211",
+            "cites_id": [
+                "9663875371172930211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance Analysis of Antenna-Based Soil Sensing",
+                "pub_year": "2023",
+                "citation": "IEEE Journal of Radio Frequency Identification, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:-mN3Mh-tlDkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iterative Solution to Resonant Near-field Coupling Adjustments between Different Electrically Small Antennas",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Antennas and Propagation, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:jU7OWUQzBzMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial Ratio of Quarter-and Half-wavelength Cloverleaf Antenna for Drone FPV Applications",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Software, Telecommunications and Computer \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:CB2v5VPnA5kC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Influence of HF Wireless Power Transmitter on nearby Thin-Wire Objects: A Simplified Analytical Model",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Software, Telecommunications and Computer \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:owLR8QvbtFgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some Notes on Tesla Coil Design and Power Transfer Performances",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:wKETBy42zhYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Human Exposure to High Frequency Fields Generated by Wireless Transmitters: A Simplified Analytical Model",
+                "pub_year": "2023",
+                "citation": "Progress in Electromagnetics Research PIER-B 2023, 19-35, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:PYBJJbyH-FwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Septum Feed Design for Right and Left Circular Polarisation",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:kw52XkFRtyQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing RFID Tags Performance through Software Defined Radio",
+                "pub_year": "2019",
+                "citation": "2019 IEEE International Conference on RFID Technology and Applications (RFID \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:uDGL6kOW6j0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Indoor Channel Characterization for GPR Electromagnetic Compatibility",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:4xDN1ZYqzskC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wi-Fi Signal Measurements in Building Surroundings",
+                "pub_year": "2017",
+                "citation": "Recent Advances in Communications and Networking Technology (Formerly Recent \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:LgRImbQfgY4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wi-Fi Channel Measurements in the Outdoor Building Environment",
+                "pub_year": "2017",
+                "citation": "Splitech 2017, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:artPoR2Yc-kC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of generalized telegrapher equations approach and circuit model for wireless power transfer",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:5icHVeHT4IsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of multiple-folded spherical helical antenna using the Galerkin-Bubnov scheme of the Boundary Element method",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:ZzlSgRqYykMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimization of Ship Radar Cross Section",
+                "pub_year": "2014",
+                "citation": "Softcom 2014-Workshop on Information and Communication Technologies, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A desktop ultra-wideband radio channel analysis",
+                "pub_year": "2011",
+                "citation": "SoftCOM 2011, 19th International Conference on Software, Telecommunications \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of Bandwidth on Estimation of UWB Channel Parameters",
+                "pub_year": "2011",
+                "citation": "Ultra Wideband Communications: Novel Trends-Antennas and Propagation, 97, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthetic aperture radar simulation and measurements",
+                "pub_year": "2011",
+                "citation": "Softcom 2011-Workshop on ICT, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:5MTHONV0fEkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transmission Line Theory approach used on Typical Power Line Communication Structures",
+                "pub_year": "2011",
+                "citation": "Softcom 2011-Workshop on Information and Communication Technologies, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UWB Radio Propagation Measurements in a Desktop Environment",
+                "pub_year": "2010",
+                "citation": "Journal of Communications Software and Systems 6 (2), 74-78, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced Procedure for Double Knife-Edge Diffraction Path-Loss Assessment",
+                "pub_year": "2010",
+                "citation": "International Review of Electrical Engineering 5 (4), 2010"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transmitted Power Reduction Measurements for Common Indoor Materials at 5.5 and 10 GHz",
+                "pub_year": "2009",
+                "citation": "Workshop on Information and Communication Technologies - SoftCOM 2009 events, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-of-arrival characteristics of an indoor radio channel at 2.4 GHz",
+                "pub_year": "2008",
+                "citation": "2008 European Conference on Wireless Technology, 186-189, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wideband Propagation Channel Parameters Measurement Inside an University Building",
+                "pub_year": "2006",
+                "citation": "2006 International Conference on Software in Telecommunications and Computer \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nikola Tesla-Scientist Out of Time",
+                "pub_year": "2006",
+                "citation": "Nikola Tesla-Scientist Out of Time, Split, 2006, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:XUvXOeBm_78C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling Tesla\u2019s Radio System as a Transmission Line",
+                "pub_year": "2006",
+                "citation": "Nikola Tesla-Scientist Out of Time, Split, 2006, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of Tesla's Transmitter using the Antenna Theory Approach",
+                "pub_year": "2006",
+                "citation": "\u017divot i djelo Nikole Tesle The Life and Work of Nikola Tesla, 102-103, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Target Tracking in Radar Technology",
+                "pub_year": "2006",
+                "citation": "Softcom 2006-Workshop on Information and Communication Technologies, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scaled Measurements and Ray-Tracing Simulations of Multipath Propagation Radio Channels",
+                "pub_year": "2005",
+                "citation": "2005 18th International Conference on Applied Electromagnetics and \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministi\u010dko modeliranje satelitskog propagacijskog kanala na osnovi koherentnog pojasa",
+                "pub_year": "2005",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:NDuN12AVoxsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Satellite Multipath Propagation Channel Model for Links in the 1-10 GHz Range",
+                "pub_year": "2005",
+                "citation": "Softcom 2005, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ray-Tracing Simulations of Satellite Propagation Channel with a Building Blockage",
+                "pub_year": "2005",
+                "citation": "Mipro 2005, 4, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Field Strength Measurements and Simulation of the GSM Radio Positioning Service",
+                "pub_year": "2005",
+                "citation": "Sofcom 2005-Workshop on ICT, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvedba i primjena signalizacijskog sustava DTMF u radiodispe\u010derskoj mre\u017ei",
+                "pub_year": "2004",
+                "citation": "\u017deljeznice 21: stru\u010dni \u010dasopis in\u017eenjera i tehni\u010dara Hrvatskih \u017eeljeznica 1 \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:jE2MZjpN3IcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applications of Radio Systems to Biomechanics Experiments",
+                "pub_year": "2004",
+                "citation": "Softcom 2004-Workshop on Signals and Systems in Human Motion, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metoda odre\u0111ivanja polo\u017eaja nehomogenih mjesta na telekomunikacijskim i energetskim kabelima",
+                "pub_year": "2002",
+                "citation": "\u017deljeznice 21: stru\u010dni \u010dasopis in\u017eenjera i tehni\u010dara Hrvatskih \u017eeljeznica 1 \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:mKu_rENv82IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The analysis of UGTD simulation for 900MHz single-floor propagation",
+                "pub_year": "2002",
+                "citation": "International conference on software, telecommunications and computer \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagacijski efekti kod mobilnih radiokomunikacijskih sustava u urbanim sredinama",
+                "pub_year": "2000",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:3NQIlFlcGxIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Railway radio coverage calculation based on terrain map digitising",
+                "pub_year": "2000",
+                "citation": "Software in telecommunications, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministic method for calculation of coverage using computer",
+                "pub_year": "1999",
+                "citation": "MIPRO-CTE Computers in Telecommunications, 50-53, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Giovaneli's Contribution to a Multiple Diffraction Losses Prediction",
+                "pub_year": "1998",
+                "citation": "International Conference on software in telecommunications and computer \u2026, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:U_HPUtbDl20C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Comparison of the Models for the Path Loss Prediction in Suburban Environment",
+                "pub_year": "1998",
+                "citation": "EUROSIM, 1998, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:prdVHNxh-e8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Use of the Error Correction RS Codes on ATM Adaptation Layer",
+                "pub_year": "1997",
+                "citation": "SoftCom'97, 133-142, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:Dem6FJhTUoYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenja u be\u017ei\u010dnim sustavima",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:cK4Rrx0J3m0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mikrovalna elektronika 1.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:kVjdVfd2voEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Radiokomunikacije-predavanja-FESB\u2013SPLIT",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GYzk-XsAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P_v4YJoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maja Skiljo",
+            "affiliation": "Associate professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ywncz00AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dragan Poljak",
+            "affiliation": "University of Split unist.hr Faculty of Electrical Engineering, Mechanical Engineering and \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SQp__JgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petar \u0160oli\u0107",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V3NxDscAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Toni Perkovi\u0107",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "znV5GuIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mario Cvetkovi\u0107",
+            "affiliation": "Assistant Professor, University of Split, Faculty of Electrical Engineering, Mechanical \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "axRzlyoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luigi PATRONO",
+            "affiliation": "University of Salento"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "97WutEsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joel Rodrigues, AAIA & IEEE FELLOW, Highly Cited Researcher",
+            "affiliation": "Senac Cear\u00e1; KSU; Lusofona University, COPELABS; UFPI; INATEL; UBI; Instituto de \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WZBenhUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petra Rasic",
+            "affiliation": "University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6lUck8AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Silvestar Sesnic",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V7vOkgUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Duje \u010coko",
+            "affiliation": "University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jSpGpgcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vicko Doric",
+            "affiliation": "Assosiate Professor, Department of Electronics and Computing, University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0TffQtAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lea Dujic Rodic",
+            "affiliation": "University of Split  Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VPd7XC4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Riccardo Colella",
+            "affiliation": "University of Salento"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JSqHGlQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josko Radic",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OGDtCJ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Maras",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Yn0o2ekAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cedomir Stefanovic",
+            "affiliation": "Professor in Communications and Networking, Aalborg University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tejYqAEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petar Popovski",
+            "affiliation": "Professor, Connectivity, Aalborg University, Denmark"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4zz-g08AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maja Stella",
+            "affiliation": "University of Split, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OmPUlukAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladan Papic",
+            "affiliation": "University of Split  unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iZ3dGucAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tamara Gruji\u0107",
+            "affiliation": "Professor, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oAShnpsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ante Kapetanovi\u0107",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "U74qBXMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Khalil EL KHAMLICHI DRISSI, H-index=20",
+            "affiliation": "Professeur of Electrical Engineering Department, Polytech Clermont Ferrand"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Yz05FNwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anna \u0160u\u0161njara",
+            "affiliation": "Postdoc researcher, University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hzDzc5IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hamid Zargariasl",
+            "affiliation": "Brandenburg University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3ZrWwzAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "ca rodriguez gonzalez",
+            "affiliation": "universidad autonoma de ciudad juarez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GYpDqGoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gert Fr\u00f8lund Pedersen",
+            "affiliation": "Professor Antennas, Aalborg University"
+        }
+    ]
+}

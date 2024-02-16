@@ -1,0 +1,2258 @@
+{
+    "name": "Krstulovi\u0107-Opara Lovre",
+    "num_citations": 2838,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smooth C1\u2010interpolations for two\u2010dimensional frictional contact problems",
+                "pub_year": "2001",
+                "citation": "International Journal for Numerical Methods in Engineering 51 (12), 1469-1495, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 169,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10275437887574941180",
+            "cites_id": [
+                "10275437887574941180"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic and quasi-static bending behaviour of thin-walled aluminium tubes filled with aluminium foam",
+                "pub_year": "2014",
+                "citation": "Composite structures 109, 48-56, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 165,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12595012348719635874",
+            "cites_id": [
+                "12595012348719635874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Static and dynamic axial crush performance of in-situ foam-filled tubes",
+                "pub_year": "2015",
+                "citation": "Composite structures 124, 128-139, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 152,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3175622409084503640",
+            "cites_id": [
+                "3175622409084503640"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Manufacturing and bending behaviour of in situ foam-filled aluminium alloy tubes",
+                "pub_year": "2015",
+                "citation": "Materials & Design 66, 532-544, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 118,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17785312505440127738",
+            "cites_id": [
+                "17785312505440127738"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-static and dynamic compressive behaviour of sheet TPMS cellular structures",
+                "pub_year": "2021",
+                "citation": "Composite Structures 266, 113801, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:zLWjf1WUPmwC",
+            "num_citations": 114,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18346521420991652777",
+            "cites_id": [
+                "18346521420991652777"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A C1-continuous formulation for 3D finite deformation frictional contact",
+                "pub_year": "2002",
+                "citation": "Computational Mechanics 29, 27-42, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 108,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14337651352473075095",
+            "cites_id": [
+                "14337651352473075095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterisation of aluminium alloy tubes filled with aluminium alloy integral-skin foam under axial compressive loads",
+                "pub_year": "2015",
+                "citation": "Composite Structures 121, 154-162, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 90,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2325444198987154367",
+            "cites_id": [
+                "2325444198987154367"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic compressive loading of expanded perlite/aluminum syntactic foam",
+                "pub_year": "2015",
+                "citation": "Materials Science and Engineering: A 626, 296-304, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 90,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17205557155279000919",
+            "cites_id": [
+                "17205557155279000919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In situ manufacturing and mechanical properties of syntactic foam filled tubes",
+                "pub_year": "2016",
+                "citation": "Materials & Design 99, 356-368, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3423797163207168840",
+            "cites_id": [
+                "3423797163207168840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial crush performance of polymer-aluminium alloy hybrid foam filled tubes",
+                "pub_year": "2019",
+                "citation": "Thin-Walled Structures 138, 124-136, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:XiVPGOgt02cC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7214420995870638222",
+            "cites_id": [
+                "7214420995870638222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characterisation of auxetic cellular structures built from inverted tetrapods",
+                "pub_year": "2018",
+                "citation": "Composite Structures 196, 96-107, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16125404988512788085",
+            "cites_id": [
+                "16125404988512788085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial crush behaviour of the aluminium alloy in-situ foam filled tubes with very low wall thickness",
+                "pub_year": "2018",
+                "citation": "Composite Structures 192, 184-192, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:D_sINldO8mEC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3504635259661820226",
+            "cites_id": [
+                "3504635259661820226"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell shape effect evaluation of polyamide cellular structures",
+                "pub_year": "2010",
+                "citation": "Polymer testing 29 (8), 991-994, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3671731331228670467",
+            "cites_id": [
+                "3671731331228670467"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical properties of hybrid metamaterial with auxetic chiral cellular structure and silicon filler",
+                "pub_year": "2020",
+                "citation": "Composite Structures 234, 111718, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:WqliGbK-hY8C",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2429248469933122334",
+            "cites_id": [
+                "2429248469933122334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal imaging and thermoelastic stress analysis of impact damage of composite materials",
+                "pub_year": "2011",
+                "citation": "Engineering Failure Analysis 18 (2), 713-719, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:p2g8aNsByqUC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=955178147964651650",
+            "cites_id": [
+                "955178147964651650"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compression and shear behaviour of graded chiral auxetic structures",
+                "pub_year": "2020",
+                "citation": "Mechanics of Materials 148, 103524, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:dQ2og3OwTAUC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5946462322711180871",
+            "cites_id": [
+                "5946462322711180871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variation of quasi-static and dynamic compressive properties in a single aluminium foam block",
+                "pub_year": "2014",
+                "citation": "Materials Science and Engineering: A 616, 171-182, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7212696140408798676",
+            "cites_id": [
+                "7212696140408798676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of novel hybrid TPMS cellular lattices and their mechanical characterisation",
+                "pub_year": "2021",
+                "citation": "journal of materials research and technology 15, 1318-1329, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:vDijr-p_gm4C",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4272276285297502437",
+            "cites_id": [
+                "4272276285297502437"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive behaviour of unconstrained and constrained integral-skin closed-cell aluminium foam",
+                "pub_year": "2016",
+                "citation": "Composite Structures 154, 231-238, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:IWHjjKOFINEC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16025776205038771033",
+            "cites_id": [
+                "16025776205038771033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive performance evaluation of APM (Advanced Pore Morphology) foam filled tubes",
+                "pub_year": "2015",
+                "citation": "Composite Structures 134, 409-420, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:5nxA0vEk-isC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6467042823289658270",
+            "cites_id": [
+                "6467042823289658270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending performance evaluation of aluminium alloy tubes filled with different cellular metal cores",
+                "pub_year": "2020",
+                "citation": "Composite Structures 234, 111748, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:LjlpjdlvIbIC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13845276582288315186",
+            "cites_id": [
+                "13845276582288315186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental study of open-cell cellular structures with elastic filler material",
+                "pub_year": "2009",
+                "citation": "Experimental mechanics 49, 501-509, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14257926877788286283",
+            "cites_id": [
+                "14257926877788286283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crush performance of multifunctional hybrid foams based on an aluminium alloy open-cell foam skeleton",
+                "pub_year": "2018",
+                "citation": "Polymer Testing 67, 246-256, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:eflP2zaiRacC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17065423477178147382",
+            "cites_id": [
+                "17065423477178147382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic compression of aluminium foam derived from infiltration casting of salt dough",
+                "pub_year": "2016",
+                "citation": "Mechanics of Materials 93, 96-108, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:8k81kl-MbHgC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15494039914784861396",
+            "cites_id": [
+                "15494039914784861396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical properties of advanced pore morphology foam elements",
+                "pub_year": "2015",
+                "citation": "Mechanics of Advanced Materials and Structures 22 (5), 359-366, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17762889393412051256",
+            "cites_id": [
+                "17762889393412051256"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of irregular open-cell cellular structure with silicone pore filler",
+                "pub_year": "2013",
+                "citation": "Polymer testing 32 (8), 1538-1544, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4005655216728236103",
+            "cites_id": [
+                "4005655216728236103"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of infrared and 3D digital image correlation techniques applied for mechanical testing of materials",
+                "pub_year": "2015",
+                "citation": "Infrared physics & technology 73, 166-174, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5135732368743512248",
+            "cites_id": [
+                "5135732368743512248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical and microstructural analysis of unidirectional porous (UniPore) copper",
+                "pub_year": "2016",
+                "citation": "Materials & Design 90, 867-880, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6069495699403185179",
+            "cites_id": [
+                "6069495699403185179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental and computational evaluation of tensile properties of additively manufactured hexa-and tetrachiral auxetic cellular structures",
+                "pub_year": "2021",
+                "citation": "Additive Manufacturing 45, 102022, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:epqYDVWIO7EC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15010561124008518505",
+            "cites_id": [
+                "15010561124008518505"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic compression of functionally-graded metal syntactic foams",
+                "pub_year": "2021",
+                "citation": "Composite Structures 261, 113308, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:yB1At4FlUx8C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17552469591229375230",
+            "cites_id": [
+                "17552469591229375230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive behaviour of closed-cell aluminium foam at different strain rates",
+                "pub_year": "2019",
+                "citation": "Materials 12 (24), 4108, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ye4kPcJQO24C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5254052516134697022",
+            "cites_id": [
+                "5254052516134697022"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Behavior of composite advanced pore morphology foam",
+                "pub_year": "2011",
+                "citation": "Journal of composite materials 45 (26), 2823-2831, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13003145600767431584",
+            "cites_id": [
+                "13003145600767431584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi static and dynamic compression of zinc syntactic foams",
+                "pub_year": "2018",
+                "citation": "Journal of Alloys and Compounds 768, 962-969, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:J-pR_7NvFogC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9231826606490713187",
+            "cites_id": [
+                "9231826606490713187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infrared thermography as a method for energy absorption evaluation of metal foams",
+                "pub_year": "2016",
+                "citation": "Materials Today: Proceedings 3 (4), 1025-1030, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16213773567595878338",
+            "cites_id": [
+                "16213773567595878338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of photopolymer cellular structure with silicone pore filler",
+                "pub_year": "2012",
+                "citation": "Polymer testing 31 (5), 705-709, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18305786813972079455",
+            "cites_id": [
+                "18305786813972079455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and characterisation of novel three-dimensional axisymmetric chiral auxetic structures",
+                "pub_year": "2022",
+                "citation": "journal of materials research and technology 17, 2701-2713, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:BUYA1_V_uYcC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5367828621020122235",
+            "cites_id": [
+                "5367828621020122235"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization and physical properties of aluminium foam\u2013polydimethylsiloxane nanocomposite hybrid structures",
+                "pub_year": "2019",
+                "citation": "Composite Structures 230, 111521, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1590330888705350380",
+            "cites_id": [
+                "1590330888705350380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fabrication of unidirectional porous-structured aluminum through explosive compaction using cylindrical geometry",
+                "pub_year": "2018",
+                "citation": "Journal of Materials Processing Technology 251, 262-266, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:geHnlv5EZngC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10097833367183906144",
+            "cites_id": [
+                "10097833367183906144"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue cracks and failures in cement industry, shipbuilding and power plant facilities",
+                "pub_year": "2005",
+                "citation": "Engineering failure analysis 12 (5), 819-833, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:WF5omc3nYNoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10475713983200313569",
+            "cites_id": [
+                "10475713983200313569"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of 2D smooth polynomial frictional contact elements based on a symbolic approach",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8949078774094844465",
+            "cites_id": [
+                "8949078774094844465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brief review on experimental and computational techniques for characterization of cellular metals",
+                "pub_year": "2020",
+                "citation": "Metals 10 (6), 726, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ZuybSZzF8UAC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16751253698477932916",
+            "cites_id": [
+                "16751253698477932916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of performance of in-situ carbon steel bar reinforced Al-alloy foams",
+                "pub_year": "2016",
+                "citation": "Composite Structures 152, 432-443, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6298892053626655741",
+            "cites_id": [
+                "6298892053626655741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical, thermal, and acoustic properties of aluminum foams impregnated with epoxy/graphene oxide nanocomposites",
+                "pub_year": "2019",
+                "citation": "Metals 9 (11), 1214, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:eq2jaN3J8jMC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4253151721903005085",
+            "cites_id": [
+                "4253151721903005085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The moving friction cone approach for three-dimensional contact simulations",
+                "pub_year": "2004",
+                "citation": "International Journal of Computational Methods 1 (01), 105-119, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11373416892211489697",
+            "cites_id": [
+                "11373416892211489697"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self\u2013Actuating SMA\u2013HPFRC Fuses for Auto\u2013Adaptive Composite Structures",
+                "pub_year": "2003",
+                "citation": "Computer\u2010Aided Civil and Infrastructure Engineering 18 (1), 78-94, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15337945332326550819",
+            "cites_id": [
+                "15337945332326550819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling the plastic anisotropy evolution of AA5754-H22 sheet and implementation in predicting cylindrical cup drawing process",
+                "pub_year": "2019",
+                "citation": "European Journal of Mechanics-A/Solids 77, 103806, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:N5tVd3kTz84C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10070186337385422351",
+            "cites_id": [
+                "10070186337385422351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of the explosive treatment on the mechanical properties and microstructure of copper",
+                "pub_year": "2015",
+                "citation": "Materials & Design 75, 85-94, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5916369731291262493",
+            "cites_id": [
+                "5916369731291262493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact loading of additively manufactured metallic stochastic sheet-based cellular material",
+                "pub_year": "2023",
+                "citation": "International Journal of Impact Engineering 174, 104527, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:EYYDruWGBe4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3330789335828238726",
+            "cites_id": [
+                "3330789335828238726"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validation of numerical model by means of digital image correlation and thermography",
+                "pub_year": "2015",
+                "citation": "Procedia Engineering 101, 450-458, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8439217419570713003",
+            "cites_id": [
+                "8439217419570713003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symbolically generated 3D smooth polynomial frictional contact element based on the quartic B\u00e9zier surfaces",
+                "pub_year": "2000",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7033897008829068023",
+            "cites_id": [
+                "7033897008829068023"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental and numerical evaluation of the mechanical behavior of strongly anisotropic light-weight metallic fiber structures under static and dynamic compressive loading",
+                "pub_year": "2016",
+                "citation": "Materials 9 (5), 398, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:blknAaTinKkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5418092182117792925",
+            "cites_id": [
+                "5418092182117792925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-destructive wind turbine blade analysis based on the Thermal Stress Analysis",
+                "pub_year": "2009",
+                "citation": "Proceedings of the international symposium on coupled methods in numerical \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:0EnyYjriUFMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16123614687326395917",
+            "cites_id": [
+                "16123614687326395917"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A two-dimensional C1-continuous contact element based on the moving friction cone description",
+                "pub_year": "2002",
+                "citation": "Fifth World Congress on Computational Mechanics, July 7-12, Vienna, Austria, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11059179362739476692",
+            "cites_id": [
+                "11059179362739476692"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Homogenization principle based multi-scale modeling of cellular structures",
+                "pub_year": "2010",
+                "citation": "Journal of the Serbian Society for Computational Mechanics 4 (2), 97-109, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18156546938294553654",
+            "cites_id": [
+                "18156546938294553654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uvod u termoelasti\u010dnu analizu naprezanja",
+                "pub_year": "2008",
+                "citation": "Drugi susret Hrvatskog dru\u0161tva za mehaniku, Split, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8405252851140226527",
+            "cites_id": [
+                "8405252851140226527"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending behavior of triply periodic minimal surface foam-filled tubes",
+                "pub_year": "2023",
+                "citation": "Mechanics of Advanced Materials and Structures 30 (15), 3061-3074, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Z5m8FVwuT1cC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6611180247826952247",
+            "cites_id": [
+                "6611180247826952247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infrared thermography of steel structure by FFT",
+                "pub_year": "2019",
+                "citation": "Materials Today: Proceedings 12, 298-303, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:5ugPr518TE4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10531751797554065048",
+            "cites_id": [
+                "10531751797554065048"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The detection of plastic flow propagation based on the temperature gradient",
+                "pub_year": "2017",
+                "citation": "Materials Today: Proceedings 4 (5), 5925-5930, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ldfaerwXgEUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14399104142230229438",
+            "cites_id": [
+                "14399104142230229438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermographic analysis of stress distribution in welded joints",
+                "pub_year": "2010",
+                "citation": "EPJ web of conferences 6, 07004, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10695077874092595453",
+            "cites_id": [
+                "10695077874092595453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental and numerical modelling of open-cell cellular structures",
+                "pub_year": "2006",
+                "citation": "Proceedings 5th International congress of Croatian Society of Mechanics, 8, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Se3iqnhoufwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=693385514865131540",
+            "cites_id": [
+                "693385514865131540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A C1-continuous formulation for finite deformation contact",
+                "pub_year": "2000",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12429202670068532142",
+            "cites_id": [
+                "12429202670068532142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-static and impact behaviour of foam-filled graded auxetic panel",
+                "pub_year": "2023",
+                "citation": "International Journal of Impact Engineering 178, 104606, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:L7CI7m0gUJcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8707113275250485270",
+            "cites_id": [
+                "8707113275250485270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variation of quasi-static and dynamic compressive properties in single Aluminium-alloy foam block",
+                "pub_year": "2014",
+                "citation": "Procedia Materials Science 4, 157-162, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4780625017072201849",
+            "cites_id": [
+                "4780625017072201849"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of osmotic damages in GRP boat hulls",
+                "pub_year": "2013",
+                "citation": "Infrared Physics & Technology 60, 359-364, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10626238362224924930",
+            "cites_id": [
+                "10626238362224924930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic compressive behaviour of aluminium foams fabricated from rejected precursor materials",
+                "pub_year": "2016",
+                "citation": "Ci\u00eancia & Tecnologia dos Materiais 28 (1), 19-22, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:abG-DnoFyZgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16175999814877523395",
+            "cites_id": [
+                "16175999814877523395"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of gradient based IR thermography to the GRP structures inspection",
+                "pub_year": "2012",
+                "citation": "Key Engineering Materials 488, 682-685, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7624687937294355297",
+            "cites_id": [
+                "7624687937294355297"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence studies for 2D smooth contact elements",
+                "pub_year": "2001",
+                "citation": "European Conference on Computational Mechanics, 26-29, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11901762835598105164",
+            "cites_id": [
+                "11901762835598105164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale Numerical Modeling of Regular Open-Cell Cellular Structures wiht Elastic Filler Material, BA Schrefler, U. Perego, eds",
+                "citation": "8th World Congress on Computational Mechanics (WCCM8), 0"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15482500315839891156",
+            "cites_id": [
+                "15482500315839891156"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fabrication and mechanical properties of rolled aluminium unidirectional cellular structure",
+                "pub_year": "2020",
+                "citation": "Metals 10 (6), 770, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:hkOj_22Ku90C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11134370924863896462",
+            "cites_id": [
+                "11134370924863896462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pulse Phase Thermography: Impact Damage Retrieval",
+                "pub_year": "2018",
+                "citation": "Materials Today: Proceedings 5 (13), 26578-26583, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6141786470686189839",
+            "cites_id": [
+                "6141786470686189839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of material anomalies based on infrared thermography image processing",
+                "pub_year": "2013",
+                "citation": "Proceedings of NDT week in Zagreb 7 (12), 3-13, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=971331955801790299",
+            "cites_id": [
+                "971331955801790299"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Application of lR Thermography to the NDT and Thermal Stress Analysis",
+                "pub_year": "2012",
+                "citation": "HDKBR INFO Magazin 2 (2), 17-22, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=698951007407416029",
+            "cites_id": [
+                "698951007407416029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The application of pulse heating infrared thermography to the wind turbine blade analysis",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 16th International Conference on Composite Structures, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6498645821463472642",
+            "cites_id": [
+                "6498645821463472642"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of regular open-cell cellular structures accounting for the filler effects: experimental study. A. \u00d6chsner",
+                "pub_year": "2007",
+                "citation": "Z. Ren. L. de Silva, eds. International Conference on Advanced Computational \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7454239442658470730",
+            "cites_id": [
+                "7454239442658470730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Skripta iz osnova strojarstva",
+                "pub_year": "2006",
+                "citation": "Sveu\u010dili\u0161te u Splitu, Kemijsko tehnolo\u0161ki fakultet, Split, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:dshw04ExmUIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17865374077507090661",
+            "cites_id": [
+                "17865374077507090661"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic Behavior of Thermally Affected Injection-Molded High-Density Polyethylene Parts Modified by Accelerated Electrons",
+                "pub_year": "2022",
+                "citation": "Polymers 14 (22), 4970, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:XoXfffV-tXoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11371404656174310511",
+            "cites_id": [
+                "11371404656174310511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing IR thermographic inspection of subsurface defects by using the technique of edge detection",
+                "pub_year": "2021",
+                "citation": "Russian Journal of Nondestructive Testing 57, 609-618, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:URolC5Kub84C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15129152940452193596",
+            "cites_id": [
+                "15129152940452193596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cellular Metals: Fabrication, Properties and Applications",
+                "pub_year": "2020",
+                "citation": "Metals 10 (11), 1545, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:uc_IGeMz5qoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9243112128470786461",
+            "cites_id": [
+                "9243112128470786461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis of Unidirectional Porous-Structured Aluminium through Explosive Compaction Using Cylindrical Geomatry",
+                "pub_year": "2017",
+                "citation": "J. Jpn. Soc. Technol. Plast 673, 156-160, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:DUooU5lO8OsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11744962843946544084",
+            "cites_id": [
+                "11744962843946544084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201eLock-in thermography in detection of osmotic damage \u201c",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 33rd Danubia Adria Symposium on Advances in Experimental \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:KxtntwgDAa4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17479610367993338843",
+            "cites_id": [
+                "17479610367993338843"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical properties of advanced pore morphology foam composites",
+                "pub_year": "2013",
+                "citation": "Advanced Composite Materials for Automotive Applications: Structural \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12270195664979700094",
+            "cites_id": [
+                "12270195664979700094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of gradient based IR thermography to the GRP structures inspection",
+                "pub_year": "2011",
+                "citation": "Key Engineering Materials 1382 (488), 682, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1937142648084012783",
+            "cites_id": [
+                "1937142648084012783"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental testing of single APM spheres",
+                "pub_year": "2010",
+                "citation": "EPJ Web of Conferences 6, 02005, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:XiSMed-E-HIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099388377834853370",
+            "cites_id": [
+                "7099388377834853370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The application of the pulse thermography to the GRP glider inspection",
+                "pub_year": "2010",
+                "citation": "Proc. of 27th Symposium on Advances in Experimental Mechanics, Wroclaw \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3489247268914986088",
+            "cites_id": [
+                "3489247268914986088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dizajn industrijskih proizvoda",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ODE9OILHJdcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5648255687254685606",
+            "cites_id": [
+                "5648255687254685606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-scale modeling of regular open-cell cellular structures based on the homogenization principles",
+                "pub_year": "2009",
+                "citation": "2nd South-East European Conference on Computational Mechanics, SEECCM, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14980197496815656398",
+            "cites_id": [
+                "14980197496815656398"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence studies for 3D smooth frictional contact elements based on the quartic B\u00e9zier surfaces",
+                "pub_year": "2002",
+                "citation": "Contact Mechanics: Proceedings of the 3rd Contact Mechanics International \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7259618982147599117",
+            "cites_id": [
+                "7259618982147599117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and simulation of Pulse thermography: comparison with measurements",
+                "pub_year": "2022",
+                "citation": "16th Quanntitative Infrared Thermography Conference Pariz, 351-358, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:hMsQuOkrut0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144060949765235941",
+            "cites_id": [
+                "7144060949765235941"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Open-source application for determination of proof strength based on the plastic extension method",
+                "pub_year": "2022",
+                "citation": "Materials Today: Proceedings 62, 2628-2636, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ML0RJ9NH7IQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9932476043092989853",
+            "cites_id": [
+                "9932476043092989853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Failure analysis of the rolls with grooves",
+                "pub_year": "2020",
+                "citation": "Engineering Power: Bulletin of the Croatian Academy of Engineering 15 (1), 8-13, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:1yQoGdGgb4wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10189298864706909013",
+            "cites_id": [
+                "10189298864706909013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Knife Fabricated from Tool Steel by Heat Treatment and Knife Fabricated from Structural Steel by Hard Surface Welding",
+                "pub_year": "2020",
+                "citation": "Advances in Materials, Mechanics and Manufacturing: Proceedings of the \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16503221299915833983",
+            "cites_id": [
+                "16503221299915833983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crush performance of foam filled tubular structures made of aluminium alloys at different loading conditions",
+                "pub_year": "2017",
+                "citation": "International Journal of Automotive Composites 3 (2-4), 127-140, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13305006466883400745",
+            "cites_id": [
+                "13305006466883400745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validacija numeri\u010dkog modela primjenom metoda digitalne korelacije slike i termografije",
+                "pub_year": "2014",
+                "citation": "Zbornik radova \u0161estog susreta Hrvatskog dru\u0161tva za mehaniku, 61-66, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:HE397vMXCloC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9729756906198670568",
+            "cites_id": [
+                "9729756906198670568"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primjena termografije u analizi pogonskog optere\u0107enja konstrukcija",
+                "pub_year": "2013",
+                "citation": "HDKBR INFO Magazin 3 (2), 12-17, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15557565563357501424",
+            "cites_id": [
+                "15557565563357501424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of Thermography in Analysis of Fatigue Strength of Materials and Structures",
+                "pub_year": "2013",
+                "citation": "HDKBR INFO Magazin 3 (2), 12-17, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:a0OBvERweLwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14353905029803860643",
+            "cites_id": [
+                "14353905029803860643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the Poisson's ratio from the 3D laser scanning data",
+                "pub_year": "2009",
+                "citation": "Bulletin of Applied Mechanics 5 (19), 50-53, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:sSrBHYA8nusC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17260935237301973523",
+            "cites_id": [
+                "17260935237301973523"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Podloge za predavanja iz metalnih konstrukcija i Konstruiranja",
+                "pub_year": "2006",
+                "citation": "Sveu\u010dili\u0161te u Splitu, Fakultet elektrotehnike, strojarstva i brodogradnje, Split, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:5awf1xo2G04C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5908009723397774908",
+            "cites_id": [
+                "5908009723397774908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "12 MODELING AND USE OF SIMCON AND OTHER HIGH PERFORMANCE FIBER-COMPOSITES FOR INCREASING STRUCTURAL RESISTANCE TO EXTREME LOADINGS",
+                "pub_year": "2003",
+                "citation": "Fourth International Workshop on High Performance Fiber Reinforced Cement \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:vbGhcppDl1QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10720281593458570632",
+            "cites_id": [
+                "10720281593458570632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-actuating fiber composites for auto-adaptive structures",
+                "pub_year": "2001",
+                "citation": "Smart Structures and Materials 2001: Smart Systems for Bridges, Structures \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9409042941534578525",
+            "cites_id": [
+                "9409042941534578525"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Auto-adaptive composite structures with self-actuating SMA-HPFRCC fuses",
+                "pub_year": "2000",
+                "citation": "International Journal of Computer-Aided Civil and Infrastructural Engineering pp, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15594350485057520581",
+            "cites_id": [
+                "15594350485057520581"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HIGH STRAIN RATE BEHAVIOUR OF UNIFORM AND HYBRID TPMS METAMATERIALS",
+                "pub_year": "2023",
+                "citation": "ESHP 2023: Book of Abstracts: Seventh International Symposium on, 46, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:g3aElNc5_aQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal to digital image correlation image to image translation with CycleGAN and Pix2Pix",
+                "pub_year": "2023",
+                "citation": "Materials Today: Proceedings 93, 752-760, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ILKRHgRFtOwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temperature stability of injection moulded low-density polyethylene parts modified by accelerated electrons",
+                "pub_year": "2022",
+                "citation": "2022 26th International Conference on Circuits, Systems, Communications and \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:M7yex6snE4oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal analysis of impact damage of prepreg composite materials",
+                "pub_year": "2022",
+                "citation": "Materials Today: Proceedings 62, 2577-2580, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:EkHepimYqZsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NDT of Composites Based on Active Infrared Thermography and Ultrasound Testing",
+                "pub_year": "2021",
+                "citation": "Journal of Energy: Energija 70 (2), 3-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:AvfA0Oy_GE0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EXEMPLER BASED SYNTHETIC DATASET GENERATION FROM MAGNETIC TESTING DATA FOR THE PURPOSE OF TRAINING AN AI MODEL FOR CRACK DETECTION",
+                "pub_year": "2021",
+                "citation": "\u041f\u0418\u041b\u041e\u0422\u0418\u0420\u0423\u0415\u041c\u042b\u0415 \u041f\u041e\u041b\u0415\u0422\u042b \u0412 \u041a\u041e\u0421\u041c\u041e\u0421, 54-56, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:BwyfMAYsbu0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue Failures in Industry and Their Repairs\u2013Case Studies",
+                "pub_year": "2020",
+                "citation": "Engineering Power: Bulletin of the Croatian Academy of Engineering 15 (1), 2-7, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MULTIFUNCTIONAL HYBRID FOAMS COMPOSED BY ALUMINIUM OPEN-CELL FOAM FILLED WITH POLYMERS",
+                "pub_year": "2019",
+                "citation": "InCell 2019: Book of Abstracts of the International Conference on \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INFRARED EVALUATION OF DYNAMIC LOADED TUBULAR STRUCTURAL MEMBERS WITH CELLULAR FILLERS",
+                "pub_year": "2019",
+                "citation": "InCell 2019: Book of Abstracts of the International Conference on \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:PELIpwtuRlgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FABRICATION OF UNI-PORE MATERIALS THROUGH EXPLOSIVE COMPACTION USING CYLINDRICAL GEOMETRY",
+                "pub_year": "2019",
+                "citation": "InCell 2019: Book of Abstracts of the International Conference on \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:_B80troHkn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The damage depth evaluation based on the active IR termography",
+                "pub_year": "2019",
+                "citation": "University of West Bohemia, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:SdhP9T11ey4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INFRARED THERMOGRAPHY AS THE TOOL FOR TRACING PLASTIFICATION OF CELLULAR MATERIALS AND COMPOSITE STRUCTURES",
+                "pub_year": "2017",
+                "citation": "Cellular Materials: Structural Behaviour, Modelling and Characterisation, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MULTIFUNCTIONAL FOAM FILLED TUBES",
+                "pub_year": "2017",
+                "citation": "Cellular Materials: Structural Behaviour, Modelling and Characterisation, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISUALIZING STRAIN IN DYNAMICALLY LOADED CELLULAR MATERIALS",
+                "pub_year": "2017",
+                "citation": "Cellular Materials: Structural Behaviour, Modelling and Characterisation, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu zgrade Vukovarska 141 Makarska",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:fFSKOagxvKUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu gra\u0111evine: poslovna zgrada Vodoprivreda dd Split",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:tYavs44e6CUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Karakterizacija naprednih celi\u010dnih struktur s spremenljivo poroznostjo: zaklju\u010dno poro\u010dilo o izvajanju slovensko-hrva\u0161kega projekta znanstvenega sodelovanja v letih 2014 IN 2015",
+                "pub_year": "2016",
+                "citation": "Univerza v Mariboru, Fakulteta za strojni\u0161tvo, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Application of Pulsed Thermography Image Processing Method to Longwave Bolomteric Infrared Cameras",
+                "pub_year": "2015",
+                "citation": "HDKBR INFO Magazin 5 (1), 7-14, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu poslovnog centra Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:yMeIxYmEMEAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade \u0110akova\u010dka 7",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:3htObqc8RwsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenje parametara kvalitete unutarnjeg zraka u centru Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:OR75R8vi5nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o reviziji energetskog pregleda zgrade Sveucilisne knj\u017enice u Splitu",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:IUKN3-7HHlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu zgrade Op\u0107ine Podstrana",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:tuHXwOkdijsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Static and dynamic crush performance of in-situ foam-filled tubes",
+                "pub_year": "2015",
+                "citation": "research@ ua 6, 45-45, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:nrtMV_XWKgEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Damage Initiation and Evolution in Nodular Cast Iron for Wind Turbine Components",
+                "pub_year": "2015",
+                "citation": "Proceedings of the 8th International Congress of Croatian Society of \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Domovinskog rata 117 (Stro\u017eanac)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:HeT0ZceujKMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Tr\u0161\u0107anska 53",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:bKqednn6t2AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Trondheimska 4a, 4b, 4c i 4d.",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:HtS1dXgVpQUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nalaz termovizijskih mjerenja u pogonu tvornice Omial Novi doo",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:mlAyqtXpCwEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o termografskom ispitivanju zgrade DV\" Cvr\u010dak\" Ka\u0161tela",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:6ZxmRoH8BuwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu zgrade Hektorovi\u0107eva 51 (Solin)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:XvxMoLDsR5gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu gra\u0111evine \u010d. z. 4034/26 Plo\u010de",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:4hFrxpcac9AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade u Ulici Dinka \u0160imunovi\u0107a 15",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:5qfkUJPXOUwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nalaz termovizijskih mjerenja TS VE Jelinak 12/110 kV/kV",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:0N-VGjzr574C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade u Ulici Joke Kne\u017eevi\u0107a 1, Omi\u0161",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ruyezt5ZtCIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE QUARTICBEZIER SURFACES",
+                "pub_year": "2013",
+                "citation": "Contact Mechanics: Proceedings of the 3rd Contact Mechanics International \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Dobrilina 7",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:KbBQZpvPDL4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade D. \u0160imunovi\u0107a 25",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:yFnVuubrUp4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu upravne zgrade HEP OPS PrP Split",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:NXb4pA-qfm4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu upravne zgrade\" Brodomerkur\"",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:FAceZFleit8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Vukovarska 113",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:kuK5TVdYjLIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polymer Testing: characterization of photopolymer cellular structure with silicone pore filler",
+                "pub_year": "2012",
+                "citation": "Cellular Polymers 31 (5), 279-280, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:uWiczbcajpAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale Modeling of Metal Foams Using the XFEM",
+                "pub_year": "2011",
+                "citation": "Recent Developments and Innovative Applications in Computational Mechanics \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The quadrilateral parametric contact element based on the moving friction cone formulation",
+                "pub_year": "2006",
+                "citation": "Analysis and Simulation of Contact Problems, 95-102, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A THREE-DIMENSIONAL CONTACT ELEMENT BASED ON THE MOVING FRICTION CONE APPROACH AND THE ELLIPTICAL COULOMB LAW",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numeri\u010dko modeliranje velikih elastoplasti\u010dnih deformacija",
+                "pub_year": "1997",
+                "citation": "Sveu\u010dili\u0161te u Zagrebu, Fakultet strojarstva i brodogradnje, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:t6usbXjVLHcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza naprezanja tankostjenog spremnika",
+                "pub_year": "1994",
+                "citation": "Fakultet strojarstva i brodogradnje, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:OcBU2YAGkTUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)| 978-1-6654-8186-1/22/$31.00\u00a9 2022 IEEE| DOI: 10.1109/CSCC55931. 2022.00067",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:i2xiXl-TujoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THERMAL2DIC IMAGE TO IMAGE TRANSLATION WITH CYCLEGAN AND PIX2PIX",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:p__nRnzSRKYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Additively Manufactured Stochastic Sheet-Based Cellular Metamaterial: Quasi-Static and High Strain Rate Compressive Loading",
+                "citation": "Available at SSRN 4145211, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:4MWp96NkSFoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "InfraRed NDT for cured prepreg carbon specimens",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:ipzZ9siozwsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPLICATION OF THERMOGRAPHY IN ANALYSIS OF",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The open-cell cellular structure modeled herein is aluminum foam (Figure 1) scanned by a CT scan. The finite deformation material model assumed is a Neo-Hookean model including \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE EVALUATION OF LOADING CAPACITY OF A GLASS CARRIER STRUCTURE BASED ON EXPERIMENTAL AND NUMERICAL APPROACH",
+                "citation": "September 23 rd\u201326 th, 2009 Montanuniversit\u00e4t Leoben/Austria, 125, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NONDESTRUCTIVE EVALUATION OF IMPACT DAMAGE IN GLASS AND CARBON REINFORCED COMPOSITES BASED ON INFRARED THERMOGRAPHY METHODS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Y-qixWIAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

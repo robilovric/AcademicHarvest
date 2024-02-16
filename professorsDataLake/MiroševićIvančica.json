@@ -1,0 +1,193 @@
+{
+    "name": "Miro\u0161evi\u0107 Ivan\u010dica",
+    "num_citations": 17,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritam k-sredina",
+                "pub_year": "2016",
+                "citation": "KoG 20 (20), 91-98, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13033940372493979406",
+            "cites_id": [
+                "13033940372493979406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Functorial reducing pro\u204e-Grp category to pro-Grp",
+                "pub_year": "2019",
+                "citation": "Topology and its Applications 263, 74-89, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3852055195729643654",
+            "cites_id": [
+                "3852055195729643654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "k-means Algorithm",
+                "pub_year": "2016",
+                "citation": "KoG 20 (20), 91-98, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1981118413874253009",
+            "cites_id": [
+                "1981118413874253009"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Mean Value Theorem in the Context of Generalized Approach to Differentiability",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (20), 4294, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6570002128320576211",
+            "cites_id": [
+                "6570002128320576211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razli\u010diti nastavno-metodi\u010dki pristupi \u010dunjosje\u010dnicama",
+                "pub_year": "2015",
+                "citation": "Math. e 27 (1), 12-35, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12334046781004229503",
+            "cites_id": [
+                "12334046781004229503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Hurewicz theorem in Sho* and Sho* 2",
+                "pub_year": "2023",
+                "citation": "Rad Hrvatske akademije znanosti i umjetnosti. Matemati\u010dke znanosti, 245-257, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On classification of morphisms by box-homotopy",
+                "pub_year": "2021",
+                "citation": "Acta Mathematica Spalatensia 1 (2021), 97-103, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Box-homotopy and the reduction of  category",
+                "pub_year": "2020",
+                "citation": "Homology, Homotopy and Applications 22 (1), 55-68, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Redukcija kategorija pro*-Grp i pro*-HTop",
+                "pub_year": "2019",
+                "citation": "University of Zagreb. Faculty of Science. Department of Mathematics, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spectral partitioning of graph",
+                "pub_year": "2017",
+                "citation": "Osje\u010dki matemati\u010dki list 17 (1), 71-87, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spektralno particioniranje grafa",
+                "pub_year": "2017",
+                "citation": "Osje\u010dki matemati\u010dki list 17 (1), 71-87, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spektralno particioniranje grafa i primjena na ekstrakciju znanja",
+                "pub_year": "2005",
+                "citation": "Prirodoslovno-matemati\u010dki fakultet, Zagreb, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE HUREWICZ THEOREM IN Sh AND Sh",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Spectral Bipartite Clustering Algorithm and Automatic Determination of the Number of Clusters",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pTI6KSMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

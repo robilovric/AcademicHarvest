@@ -1,0 +1,473 @@
+{
+    "name": "Modri\u0107 Ton\u0107i",
+    "num_citations": 193,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the estimation of Heidler function parameters for reproduction of various standardized and recorded lightning current waveshapes",
+                "pub_year": "2013",
+                "citation": "International Transactions on Electrical Energy Systems 23 (2), 290-300, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10527115084408637125",
+            "cites_id": [
+                "10527115084408637125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D computation of the power lines magnetic field",
+                "pub_year": "2015",
+                "citation": "Progress In Electromagnetics Research M 41, 1-9, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9188976808240312153",
+            "cites_id": [
+                "9188976808240312153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D computation of the overhead power lines electric field",
+                "pub_year": "2017",
+                "citation": "Progress in Electromagnetics Research M 53, 17-28, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:5nxA0vEk-isC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4427246875809927905",
+            "cites_id": [
+                "4427246875809927905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of different metal oxide surge arrester models",
+                "pub_year": "2011",
+                "citation": "Int. J. Emerg. Sci 4, 545-554, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12653205760970571703",
+            "cites_id": [
+                "12653205760970571703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2D computation and measurement of electric and magnetic fields of overhead electric power lines",
+                "pub_year": "2011",
+                "citation": "Proceedings of the Joint INDS'11 & ISTET'11, 1-6, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:qjMakFHDy7sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8806551903475412554",
+            "cites_id": [
+                "8806551903475412554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of the electric field in the vicinity of overhead power line towers",
+                "pub_year": "2016",
+                "citation": "Electric Power Systems Research 135, 68-76, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:0EnyYjriUFMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16875734174418491768",
+            "cites_id": [
+                "16875734174418491768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A surface charge simulation method based on advanced numerical integration",
+                "pub_year": "2015",
+                "citation": "Advances in engineering software 86, 20-28, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14420900907524007600",
+            "cites_id": [
+                "14420900907524007600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izrada pravila i mjera sigurnosti za osiguranje mjesta rada na elektroenergetskim vodovima",
+                "pub_year": "2013",
+                "citation": "Sveu\u010dili\u0161te u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=431377604585121391",
+            "cites_id": [
+                "431377604585121391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid model for analysis of ground fault current distribution",
+                "pub_year": "2012",
+                "citation": "International Review of Electrical Engineering 7 (2), 2012"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=67489092024766066",
+            "cites_id": [
+                "67489092024766066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Least squares estimation of double-exponential function parameters",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 11th International Conference on Applied Electromagnetics \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17877654563428661496",
+            "cites_id": [
+                "17877654563428661496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A general model of optimal energy storage operation in the market conditions",
+                "pub_year": "2022",
+                "citation": "Electric Power Systems Research 209, 107957, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13633785396176696858",
+            "cites_id": [
+                "13633785396176696858"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Definition and computation of Carson formulas",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17800429136102115397",
+            "cites_id": [
+                "17800429136102115397"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Highly accurate computation of Carson formulas based on exponential approximation",
+                "pub_year": "2018",
+                "citation": "Electric Power Systems Research 162, 134-141, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18008145339598809178",
+            "cites_id": [
+                "18008145339598809178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internal impedance of two-layer cylindrical conductors",
+                "pub_year": "2014",
+                "citation": "International Review of Electrical Engineering (IREE) 9 (1), 235-243, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1393575202245457638",
+            "cites_id": [
+                "1393575202245457638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometrical approximation of the overhead power line conductors",
+                "pub_year": "2014",
+                "citation": "International Review on Modelling and Simulations 7 (1), 76-82, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17192479684999210784",
+            "cites_id": [
+                "17192479684999210784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The difference between voltage and potential difference",
+                "pub_year": "2011",
+                "citation": "Proceedings of the Joint INDS'11 & ISTET'11, 1-7, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=268321128792707648",
+            "cites_id": [
+                "268321128792707648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of conductive passive parts on the magnetic flux density produced by overhead power lines",
+                "pub_year": "2019",
+                "citation": "Facta Universitatis, Series: Electronics and Energetics 32 (4), 555-569, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6463881600223677725",
+            "cites_id": [
+                "6463881600223677725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Carson formulas using piecewise quadratic approximation",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1288369262475498438",
+            "cites_id": [
+                "1288369262475498438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmentation of overhead power line conductors for 3D electric and magnetic field computation",
+                "pub_year": "2011",
+                "citation": "10th International Conference on Applied Electromagnetics\u2013PES, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5560437462912803815",
+            "cites_id": [
+                "5560437462912803815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced numerical computation of electromagnetic field of power lines and substations",
+                "citation": "Ph. D. Thesis, University of Split, FESB, 2014 (in Croatian), 0"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14565679959899729707",
+            "cites_id": [
+                "14565679959899729707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient Linear Circuit Analysis Using Finite Element Technique",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (19), 9554, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11997252553572711020",
+            "cites_id": [
+                "11997252553572711020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-iterative algorithm for computation of the prospective permissible touch voltage according to EN 50522",
+                "pub_year": "2019",
+                "citation": "Electric Power Systems Research 167, 222-229, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8996011280388967005",
+            "cites_id": [
+                "8996011280388967005"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Harvesting on AB-Class Power Amplifier Applying Thermoelectric Generators in Push\u2013Pull Mode",
+                "pub_year": "2023",
+                "citation": "Machines 11 (6), 622, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of the Electricity Market Prices on Energy Storage Operation during the COVID-19 Pandemic",
+                "pub_year": "2023",
+                "citation": "International Journal of Energy and Power Engineering 17 (1), 11-16, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced computation of the field apparent resistivity of the soil for driven-rod electrodes",
+                "pub_year": "2021",
+                "citation": "Electrotechnica & Electronica (E+ E) 56, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Carson formulas using piecewise approximation of kernel function",
+                "pub_year": "2018",
+                "citation": "International Journal for Engineering Modelling 31 (1-2), 15-30, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relejna za\u0161tita kondenzatorskih baterija",
+                "pub_year": "2005",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved Algorithm for FET Analysis of Transient Linear Circuit Problems",
+                "citation": "eNergetics 2022, 63, 0"
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ELECTROTECHNICA & ELECTRONICA E+ E",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPUTATION OF THE FIELD APPARENT RESISTIVITY OF THE SOIL FOR DRIVEN-ROD ELECTRODES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Korelacijska analiza dotoka u akumulacijske bazene",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalar electric potential in the air due to a direct current point source buried in the earth",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "B5Oje2sAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

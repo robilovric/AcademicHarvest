@@ -1,0 +1,282 @@
+{
+    "name": "Bagavac Petra",
+    "num_citations": 44,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infrared thermography of steel structure by FFT",
+                "pub_year": "2019",
+                "citation": "Materials Today: Proceedings 12, 298-303, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10531751797554065048",
+            "cites_id": [
+                "10531751797554065048"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The detection of plastic flow propagation based on the temperature gradient",
+                "pub_year": "2017",
+                "citation": "Materials Today: Proceedings 4 (5), 5925-5930, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14399104142230229438",
+            "cites_id": [
+                "14399104142230229438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced mechanical properties of aluminium alloy EN AW 6082 recycled without remelting",
+                "pub_year": "2019",
+                "citation": "Tehni\u010dki vjesnik 26 (5), 1253-1259, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=834929726350943401",
+            "cites_id": [
+                "834929726350943401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and optimization of tensile strength of ABS parts manufactured by the fused deposition modeling process",
+                "pub_year": "2017",
+                "citation": "Conference Proceedings\" International conference \u201cMechanical Technologies \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=513250475860137736,10232345586641581204",
+            "cites_id": [
+                "513250475860137736",
+                "10232345586641581204"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy logic modeling of ultimate tensile strength and cost in fused deposition modeling process of additive manufacturing",
+                "pub_year": "2021",
+                "citation": "International Conference Mechanical Technologies and Structural Materials, 1-10, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12877702290248688470",
+            "cites_id": [
+                "12877702290248688470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pulse Phase Thermography: Impact Damage Retrieval",
+                "pub_year": "2018",
+                "citation": "Materials Today: Proceedings 5 (13), 26578-26583, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6141786470686189839",
+            "cites_id": [
+                "6141786470686189839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lock-in thermography image procesing",
+                "pub_year": "2016",
+                "citation": "HDKBR INFO Magazin 6 (1), 3-7, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8222282718404367562",
+            "cites_id": [
+                "8222282718404367562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orthogonal cutting simulation of EN AW 6082 T6 alloy using a coupled Eulerian-Lagrangian approach",
+                "pub_year": "2023",
+                "citation": "Heliyon 9 (4), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:hC7cP41nSMkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10263048476608741666",
+            "cites_id": [
+                "10263048476608741666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing IR thermographic inspection of subsurface defects by using the technique of edge detection",
+                "pub_year": "2021",
+                "citation": "Russian Journal of Nondestructive Testing 57, 609-618, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15129152940452193596",
+            "cites_id": [
+                "15129152940452193596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201eLock-in thermography in detection of osmotic damage \u201c",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 33rd Danubia Adria Symposium on Advances in Experimental \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17479610367993338843",
+            "cites_id": [
+                "17479610367993338843"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and simulation of Pulse thermography: comparison with measurements",
+                "pub_year": "2022",
+                "citation": "16th Quanntitative Infrared Thermography Conference Pariz, 351-358, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144060949765235941",
+            "cites_id": [
+                "7144060949765235941"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza u\u010dinkovitosti mikrokogeneracijskog sustava",
+                "citation": "FESB Split, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:5nxA0vEk-isC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8995001884070428300",
+            "cites_id": [
+                "8995001884070428300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal analysis of impact damage of prepreg composite materials",
+                "pub_year": "2022",
+                "citation": "Materials Today: Proceedings 62, 2577-2580, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primjena infracrvene termografije na karakterizaciju geometrijskih, fizikalnih i mehani\u010dkih svojstava materijala",
+                "pub_year": "2021",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NDT of Composites Based on Active Infrared Thermography and Ultrasound Testing",
+                "pub_year": "2021",
+                "citation": "Journal of Energy: Energija 70 (2), 3-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Failure analysis of the rolling mill stand coupling",
+                "pub_year": "2020",
+                "citation": "Engineering Power: Bulletin of the Croatian Academy of Engineering 15 (1), 21-28, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The damage depth evaluation based on the active IR termography",
+                "pub_year": "2019",
+                "citation": "University of West Bohemia, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Obrada termografa lock-in metodom",
+                "pub_year": "2016",
+                "citation": "HDKBR INFO Magazin 6 (1), 3-7, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "InfraRed NDT for cured prepreg carbon specimens",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0ceclX0AAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

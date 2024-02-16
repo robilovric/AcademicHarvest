@@ -1,0 +1,231 @@
+{
+    "name": "Zori\u0107 Marija",
+    "num_citations": 112,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward a mechanistic understanding of electrocatalytic nanocarbon",
+                "pub_year": "2021",
+                "citation": "Nature Communications 12 (1), 3288, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15268347976396966162",
+            "cites_id": [
+                "15268347976396966162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal-free motifs for solar fuel applications",
+                "pub_year": "2017",
+                "citation": "Annual Review of Physical Chemistry 68, 305-331, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:WF5omc3nYNoC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18121973579046179338",
+            "cites_id": [
+                "18121973579046179338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exciton coherence length and dynamics in graphene quantum dot assemblies",
+                "pub_year": "2019",
+                "citation": "The journal of physical chemistry letters 11 (1), 210-216, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16399342119900614775",
+            "cites_id": [
+                "16399342119900614775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strong electronic coupling of graphene nanoribbons onto basal plane of a glassy carbon electrode",
+                "pub_year": "2021",
+                "citation": "ACS Applied Electronic Materials 3 (2), 854-860, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12024362024679907128",
+            "cites_id": [
+                "12024362024679907128"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electron transfer kinetics at graphene quantum dot assembly electrodes",
+                "pub_year": "2019",
+                "citation": "ACS applied materials & interfaces 11 (49), 46303-46310, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2938701565052481666",
+            "cites_id": [
+                "2938701565052481666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Triarylmethyl cation redox mediators enhance Li\u2013O2 battery discharge capacities",
+                "pub_year": "2023",
+                "citation": "Nature Chemistry 15 (9), 1247-1254, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17811028056518511843",
+            "cites_id": [
+                "17811028056518511843"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cocatalysis: role of organic cations in oxygen evolution reaction on oxide electrodes",
+                "pub_year": "2018",
+                "citation": "ACS applied materials & interfaces 10 (32), 26825-26829, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=727067148096849869",
+            "cites_id": [
+                "727067148096849869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conformational flexibility of xanthene\u2010based covalently linked dimers",
+                "pub_year": "2016",
+                "citation": "Journal of Physical Organic Chemistry 29 (10), 505-513, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15303029452062704540",
+            "cites_id": [
+                "15303029452062704540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In situ x-ray absorption investigations of a heterogenized molecular catalyst and its interaction with a carbon nanotube support",
+                "pub_year": "2023",
+                "citation": "The Journal of Chemical Physics 158 (7), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5451180116050046860",
+            "cites_id": [
+                "5451180116050046860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dissociation of Pyridinethiolate Ligands during Hydrogen Evolution Reactions of Ni-Based Catalysts: Evidence from X-ray Absorption Spectroscopy",
+                "pub_year": "2022",
+                "citation": "Inorganic Chemistry 61 (26), 9868-9876, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17908529808251497024",
+            "cites_id": [
+                "17908529808251497024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conformational analysis of diols: Role of the linker on the relative orientation of hydroxyl groups",
+                "pub_year": "2019",
+                "citation": "Journal of Physical Organic Chemistry 32 (10), e3975, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11174407128571762606",
+            "cites_id": [
+                "11174407128571762606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Li-O2 Battery Discharge Redox Mediation by Triarylmethyl Cations",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards Mechanistic Understanding of Carbon-Based Electrocatalysts in Energy Applications",
+                "pub_year": "2021",
+                "citation": "University of Illinois at Chicago, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal-free covalently-linked xanthenol dimers as model catalysts for OER: The OO bond formation and their oxidative behavior",
+                "pub_year": "2018",
+                "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal-free Motifs for Oxygen Evolution Catalysis",
+                "pub_year": "2017",
+                "citation": "Bowling Green State University, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eMpMo_4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

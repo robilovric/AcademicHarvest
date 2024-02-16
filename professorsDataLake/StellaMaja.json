@@ -1,0 +1,605 @@
+{
+    "name": "Stella Maja",
+    "num_citations": 470,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CNN-based method for lung cancer detection in whole slide histopathology images",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17093757616658588584",
+            "cites_id": [
+                "17093757616658588584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Location determination in indoor environment based on RSS fingerprinting and artificial neural network",
+                "pub_year": "2007",
+                "citation": "2007 9th International conference on Telecommunications, 301-306, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12974654119949334230",
+            "cites_id": [
+                "12974654119949334230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RF Localization in Indoor Environment.",
+                "pub_year": "2012",
+                "citation": "Radioengineering 21 (2), 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3368069802758486080",
+            "cites_id": [
+                "3368069802758486080"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fingerprinting based localization in heterogeneous wireless networks",
+                "pub_year": "2014",
+                "citation": "Expert systems with Applications 41 (15), 6738-6747, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5749624306218810024",
+            "cites_id": [
+                "5749624306218810024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic modeling of harvested GSM energy and its application in extending UHF RFID tags reading range",
+                "pub_year": "2013",
+                "citation": "Journal of Electromagnetic Waves and Applications 27 (4), 473-484, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:qjMakFHDy7sC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6122344647523668040",
+            "cites_id": [
+                "6122344647523668040"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Free-field TDOA-AOA sound source localization using three soundfield microphones",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 87749-87761, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:aqlVkmm33-oC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10403430335797382504",
+            "cites_id": [
+                "10403430335797382504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive noise cancellation based on neural network",
+                "pub_year": "2006",
+                "citation": "2006 International Conference on Software in Telecommunications and Computer \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12808548946228930863",
+            "cites_id": [
+                "12808548946228930863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cochleogram-based approach for detecting perceived emotions in music",
+                "pub_year": "2020",
+                "citation": "Information Processing & Management 57 (5), 102270, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13338392139265661525",
+            "cites_id": [
+                "13338392139265661525"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust cochlear-model-based speech recognition",
+                "pub_year": "2019",
+                "citation": "Computers 8 (1), 5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:Zph67rFs4hoC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1754628175584156412",
+            "cites_id": [
+                "1754628175584156412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emotion recognition using a reduced set of EEG channels based on holographic feature maps",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (9), 3248, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12922004330842090897",
+            "cites_id": [
+                "12922004330842090897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Speech recognition over Bluetooth ACL and SCO links: a comparison",
+                "pub_year": "2005",
+                "citation": "Second IEEE Consumer Communications and Networking Conference, 2005. CCNC \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=877706626830181131",
+            "cites_id": [
+                "877706626830181131"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic performance analysis of anechoic chambers based on ISO 3745 and ISO 26101: standards comparison and performance analysis of the anechoic chamber at the University of Split",
+                "pub_year": "2018",
+                "citation": "Proc. Euronoise, 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4300094038323372957",
+            "cites_id": [
+                "4300094038323372957"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biophysical cochlear model: Time-frequency analysis and signal reconstruction",
+                "pub_year": "2011",
+                "citation": "Acta Acustica united with Acustica 97 (4), 632-640, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10194983178394897710",
+            "cites_id": [
+                "10194983178394897710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GSM-based approach for indoor localization",
+                "pub_year": "2013",
+                "citation": "International Journal of Electronics and Communication Engineering 7 (4 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9527510833339263696",
+            "cites_id": [
+                "9527510833339263696"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RBF network design for indoor positioning based on WLAN and GSM",
+                "pub_year": "2014",
+                "citation": "International Journal of Circuits, Systems and Signal Processing 8, 116, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1498026819602086983",
+            "cites_id": [
+                "1498026819602086983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved linearized combinatorial model (ILCM) for optimal frame size selection in ALOHA-based RFID systems",
+                "pub_year": "2013",
+                "citation": "2013 IEEE International Conference on Communications Workshops (ICC), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:IWHjjKOFINEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12554303048946007694",
+            "cites_id": [
+                "12554303048946007694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Signal-to-noise ratio measurements and statistical characterization in Gen2 RFID",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:8k81kl-MbHgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9478380066776661329",
+            "cites_id": [
+                "9478380066776661329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RFID reader-tag communication throughput analysis using Gen2 Q-algorithm frame adaptation scheme",
+                "pub_year": "2014",
+                "citation": "Int. J. Circuits Syst. Signal Proc 8, 233-239, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1867267237525119130",
+            "cites_id": [
+                "1867267237525119130"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voice Command Module for Smart Home Automation",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11011869803922539832",
+            "cites_id": [
+                "11011869803922539832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RBF Network Design for WLAN Indoor Positioning",
+                "pub_year": "2013",
+                "citation": "Recent Advances in Circuits, Systems, Telecommunications and Control, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6893616069391553934",
+            "cites_id": [
+                "6893616069391553934"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tags/s-RFID reader-tag communication throughput using Gen2 Q-algorithm frame adaptation scheme",
+                "pub_year": "2013",
+                "citation": "Proc. 5th Eur. Conf. Comput. Sci.(ECCS), 100-105, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8720128251397624203",
+            "cites_id": [
+                "8720128251397624203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Front-End Signal Processing for Speech Recognition",
+                "pub_year": "2013",
+                "citation": "1st International Conference on Wireless and Mobile Communication Systems \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12786834556221378522",
+            "cites_id": [
+                "12786834556221378522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Noise reduction in speech signals using a cochlear model",
+                "pub_year": "2012",
+                "citation": "Advances in Smart Systems Research 2 (1), 7, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5208166851588687734",
+            "cites_id": [
+                "5208166851588687734"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using cutaneous receptor vibration to uncover the effect of transcranial magnetic stimulation (TMS) on motor cortical excitability",
+                "pub_year": "2020",
+                "citation": "Medical Science Monitor: International Medical Journal of Experimental and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3558907506928768885",
+            "cites_id": [
+                "3558907506928768885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cochlea-inspired speech recognition interface",
+                "pub_year": "2019",
+                "citation": "Medical & Biological Engineering & Computing 57, 1393-1403, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5150090572392473082",
+            "cites_id": [
+                "5150090572392473082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cochlear Model based Enhancement of Noisy Speech Signals",
+                "pub_year": "2015",
+                "citation": "International Journal of Circuits, Systems and Signal Processing 9, 446-451, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5447152376219372646",
+            "cites_id": [
+                "5447152376219372646"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guest Editorial: Smart Environment Technologies",
+                "pub_year": "2014",
+                "citation": "Journal of Communications Software and Systems 10 (3), 161-162, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:5nxA0vEk-isC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745334416180643165",
+            "cites_id": [
+                "2745334416180643165"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved Linearized Combinatorial Model (ILCM) for optimal frame size selection in ALOHA-based RFID systems",
+                "pub_year": "2013",
+                "citation": "2013 IEEE International Conference on Communications Workshops (ICC), 1072-1077, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10886443037984891994",
+            "cites_id": [
+                "10886443037984891994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell nuclei segmentation using distance map regression and inverted Huber loss",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Players Detection using U-Net based Fully Convolutional Network",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimized indoor positioning using graph-theory-based map matching",
+                "pub_year": "2018",
+                "citation": "Common Foundations 2018-uniSTem: 6th Congress of Young Researchers in the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odre\u0111ivanje polo\u017eaja na temelju otisaka heterogene be\u017ei\u010dne mre\u017ee",
+                "pub_year": "2011",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fingerprint-based positioning in heterogeneous wireless networks",
+                "pub_year": "2011",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnj u Splitu, Sveu\u010dili\u0161te u \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odre\u0111ivanje polo\u017eaja u senzorskim mre\u017eama primjenom neuralnih mre\u017ea",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Positioning in sensor networks based on neural networks",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, Sveu\u010dili\u0161te u \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dragana Krstid Jonghoon Kwon Maria Laura Stefanizzi Marco Leo",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High Performance Processing for Speech Recognition",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extraction of Scene Text in HSI Color Space using K-means Clustering with Chromatic and Intensity Distance",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extraction of Scene Text in HSI Color Space using K-means Clustering with Chromatic and Intensity Distance",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tags/s-RFID reader-tag communication throughput using Gen2 Q-algorithm frame adaptation scheme",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scene Text Extraction using K-means Clustering in HSI Color Space: Influence of Color Distance Measure",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zz-g08AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

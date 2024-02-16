@@ -1,0 +1,611 @@
+{
+    "name": "\u0160ari\u0107 Matko",
+    "num_citations": 271,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CNN-based method for lung cancer detection in whole slide histopathology images",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17093757616658588584",
+            "cites_id": [
+                "17093757616658588584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Player number localization and recognition in soccer video using hsv color space and internal contours",
+                "pub_year": "2008",
+                "citation": "International Journal of Electrical and Computer Engineering 2 (7), 1408-1412, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17750950395312735954,7355405683134260474",
+            "cites_id": [
+                "17750950395312735954",
+                "7355405683134260474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "White noise reduction of audio signal using wavelets transform with modified universal threshold",
+                "pub_year": "2005",
+                "citation": "Proceedings of the 4th WSEAS International Conference on Signal Processing \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16833890759658410778",
+            "cites_id": [
+                "16833890759658410778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scene text segmentation using low variation extremal regions and sorting based character grouping",
+                "pub_year": "2017",
+                "citation": "Neurocomputing 266, 56-65, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:mB3voiENLucC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8633591847502555081",
+            "cites_id": [
+                "8633591847502555081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emotion recognition using a reduced set of EEG channels based on holographic feature maps",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (9), 3248, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:XoXfffV-tXoC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12922004330842090897",
+            "cites_id": [
+                "12922004330842090897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic gesture recognition interface for smart home control based on croatian sign language",
+                "pub_year": "2020",
+                "citation": "Applied Sciences 10 (7), 2300, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2898794971461046094",
+            "cites_id": [
+                "2898794971461046094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shot boundary detection in soccer video using twin-comparison algorithm and dominant color region",
+                "pub_year": "2008",
+                "citation": "Journal of Information and Organizational Sciences 32 (1), 67-73, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1072366417135892148",
+            "cites_id": [
+                "1072366417135892148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Player number recognition in soccer video using internal contours and temporal redundancy",
+                "pub_year": "2009",
+                "citation": "Proc. of the 10th WSEAS International Conference on Automation & Information \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13936858493415917460",
+            "cites_id": [
+                "13936858493415917460"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scene text extraction in HSI color space using K-means algorithm and modified cylindrical distance",
+                "pub_year": "2013",
+                "citation": "Przegl\u0105d elektrotechniczny, 117-121, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:ufrVoPGSRksC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10833113302191448336",
+            "cites_id": [
+                "10833113302191448336"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RBF network design for indoor positioning based on WLAN and GSM",
+                "pub_year": "2014",
+                "citation": "International Journal of Circuits, Systems and Signal Processing 8, 116, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1498026819602086983",
+            "cites_id": [
+                "1498026819602086983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved linearized combinatorial model (ILCM) for optimal frame size selection in ALOHA-based RFID systems",
+                "pub_year": "2013",
+                "citation": "2013 IEEE International Conference on Communications Workshops (ICC), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:6ZxmRoH8BuwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12554303048946007694",
+            "cites_id": [
+                "12554303048946007694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RFID reader-tag communication throughput analysis using Gen2 Q-algorithm frame adaptation scheme",
+                "pub_year": "2014",
+                "citation": "Int. J. Circuits Syst. Signal Proc 8, 233-239, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1867267237525119130",
+            "cites_id": [
+                "1867267237525119130"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scene text extraction in ihls color space using support vector machine",
+                "pub_year": "2015",
+                "citation": "Information Technology and Control 44 (1), 20-29, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3927504154392129234",
+            "cites_id": [
+                "3927504154392129234"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RBF Network Design for WLAN Indoor Positioning",
+                "pub_year": "2013",
+                "citation": "Recent Advances in Circuits, Systems, Telecommunications and Control, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6893616069391553934",
+            "cites_id": [
+                "6893616069391553934"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scene text extraction using modified cylindrical distance",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 12th WSEAS international conference on Neural networks \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10217122768182226800",
+            "cites_id": [
+                "10217122768182226800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Including of continuous model for discriminating chromatic and achromatic pixels in cylindrical distance",
+                "pub_year": "2010",
+                "citation": "Automatika 51 (3), 241-254, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3247353784945076199",
+            "cites_id": [
+                "3247353784945076199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cochlea-based features for music emotion classification",
+                "pub_year": "2017",
+                "citation": "14th international conference on signal processing and multimedia applications, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:LPZeul_q3PIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5715392314171617644",
+            "cites_id": [
+                "5715392314171617644"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tags/s-RFID reader-tag communication throughput using Gen2 Q-algorithm frame adaptation scheme",
+                "pub_year": "2013",
+                "citation": "Proc. 5th Eur. Conf. Comput. Sci.(ECCS), 100-105, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8720128251397624203",
+            "cites_id": [
+                "8720128251397624203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Front-End Signal Processing for Speech Recognition",
+                "pub_year": "2013",
+                "citation": "1st International Conference on Wireless and Mobile Communication Systems \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12786834556221378522",
+            "cites_id": [
+                "12786834556221378522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "QAVE\u2013a Gamebased Immersive Virtual Reality System",
+                "pub_year": "2007",
+                "citation": "Proceedings of the 18th International Conference on Information and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8748970222508869599",
+            "cites_id": [
+                "8748970222508869599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2023",
+                "citation": "IEEE Communications Magazine 61 (7), 1-4, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:wKETBy42zhYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6448389317566979823,465484930406806333",
+            "cites_id": [
+                "6448389317566979823",
+                "465484930406806333"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cochlea-inspired speech recognition interface",
+                "pub_year": "2019",
+                "citation": "Medical & Biological Engineering & Computing 57, 1393-1403, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:f2IySw72cVMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5150090572392473082",
+            "cites_id": [
+                "5150090572392473082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved Linearized Combinatorial Model (ILCM) for optimal frame size selection in ALOHA-based RFID systems",
+                "pub_year": "2013",
+                "citation": "2013 IEEE International Conference on Communications Workshops (ICC), 1072-1077, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10886443037984891994",
+            "cites_id": [
+                "10886443037984891994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crowdfunding Success Prediction using Project Title Image and Convolutional Neural Network",
+                "pub_year": "2023",
+                "citation": "Interdisciplinary Description of Complex Systems: INDECS 21 (6), 631-639, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:7H_MAutzIkAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended Reality Telemedicine Collaboration System Using Patient Avatar Based on 3D Body Pose Estimation",
+                "pub_year": "2023",
+                "citation": "Sensors 24 (1), 27, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:MpfHP-DdYjUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2023",
+                "citation": "IEEE Communications Magazine 61 (3), 13-16, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:OR75R8vi5nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell nuclei segmentation using distance map regression and inverted Huber loss",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:rmuvC79q63oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter, SoftCOM 2021 conference report",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:nRpfm8aw39MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Players Detection using U-Net based Fully Convolutional Network",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:VaXvl8Fpj5cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scene text segmentation based on redundant representation of character candidates",
+                "pub_year": "2017",
+                "citation": "V\u00e1clav Skala-UNION Agency, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SoftCOM 2016",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nastupi hrvatskih tenisa\u010da na Davis cup natjecanjima",
+                "pub_year": "2015",
+                "citation": "University of Zagreb. Faculty of Kinesiology. Department of General and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2015 23rd International Conference on Software, Telecommunications and Computer Networks (SoftCOM): SoftCOM 2015: Split-Bol (Island of Brac), Croatia, 16-18 September, 2015",
+                "pub_year": "2015",
+                "citation": "FESB, University of Split, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ISPRS: intelligent services for poverty reduction schemes",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izdvajanje tekstualne informacije iz scene primjenom modificirane cilindri\u010dne udaljenosti",
+                "pub_year": "2010",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:3NQIlFlcGxIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uklju\u010denje kontinuiranog modela razlu\u010divanja kromatskih i akromatskih piksela u cilindri\u010dnu udaljenost",
+                "pub_year": "2010",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Obrada slikovnih i video signala",
+                "pub_year": "2003",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:IaI1MmNe2tcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Magoni, Damien, France Mahanti, Aniket, Canada Marques, Paulo",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High Performance Processing for Speech Recognition",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scene Text Extraction using K-means Clustering in HSI Color Space: Influence of Color Distance Measure",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extraction of Scene Text in HSI Color Space using K-means Clustering with Chromatic and Intensity Distance",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of unsharp masking on OCR performance",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical tracking for QAVE, a CAVE-like Virtual Reality System",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0w4TUZsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

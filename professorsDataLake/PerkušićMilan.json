@@ -1,0 +1,157 @@
+{
+    "name": "Perku\u0161i\u0107 Milan",
+    "num_citations": 50,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel hybrid transmission for variable speed wind turbines",
+                "pub_year": "2015",
+                "citation": "Renewable Energy 83, 78-84, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5921765798555082610",
+            "cites_id": [
+                "5921765798555082610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kinematic synthesis of a novel type of the series of transmissions with independently controllable output speed",
+                "pub_year": "2016",
+                "citation": "Mechanism and Machine Theory 103, 189-201, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11490833737157205159",
+            "cites_id": [
+                "11490833737157205159"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regenerative hydraulic shock absorber for vehicle applications: prototype design",
+                "pub_year": "2020",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 1-25, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11191291540782066757",
+            "cites_id": [
+                "11191291540782066757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Feasibility of Independently Controllable Transmissions",
+                "pub_year": "2017",
+                "citation": "Energies 10 (11), 1835, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4179973934506546739",
+            "cites_id": [
+                "4179973934506546739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A concept of the novel regenerative hydraulic suspension: The prototype description",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14329214035947410575",
+            "cites_id": [
+                "14329214035947410575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regenerative Hydraulic Shock Absorber: A Novel Prototype Design Solution and a Methodology for the Calculation of Dynamic Strength",
+                "pub_year": "2019",
+                "citation": "Transactions of FAMENA 43, 4, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Transmission for Optimizing Input Machine Operation",
+                "pub_year": "2019",
+                "citation": "SAE International Journal of Alternative Powertrains 8 (2), 119-132, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of fatigue life of involute gearing pairs",
+                "pub_year": "2012",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 54 (5), 381-391, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procjena zamornog vijeka evolventnih zup\u010danih parova",
+                "pub_year": "2012",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 54 (5), 381-391, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ON THE FEASIBILITY OF THE POWER SPLIT TYPE TRANSMISSIONS HAVING INDEPENDENTLY CONTROLLABLE OUTPUT SPEED",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model of a hydraulic hybrid vehicle with regenerative suspensions",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "K3GGEIYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

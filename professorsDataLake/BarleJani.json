@@ -1,0 +1,350 @@
+{
+    "name": "Barle Jani",
+    "num_citations": 53,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Failure analysis of the highway sign structure and the design improvement",
+                "pub_year": "2011",
+                "citation": "Engineering failure analysis 18 (3), 1076-1084, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2063333829727834293",
+            "cites_id": [
+                "2063333829727834293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Service strength validation of wind-sensitive structures, including fatigue life evaluation",
+                "pub_year": "2010",
+                "citation": "Engineering structures 32 (9), 2767-2775, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9570446842869113169",
+            "cites_id": [
+                "9570446842869113169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ship geometry description using global 2D RBF interpolation",
+                "pub_year": "2010",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 61 (3), 233-242, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2452219285688260388",
+            "cites_id": [
+                "2452219285688260388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for the Service Strength Approval of the Drillship Derrick",
+                "pub_year": "2015",
+                "citation": "Rad Hrvatske akademije znanosti i umjetnosti. Tehni\u010dke znanosti, 51-62, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17697271709035939255",
+            "cites_id": [
+                "17697271709035939255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind load and wind direction effect on lattice antenna tower",
+                "pub_year": "2011",
+                "citation": "9th International Scientific Conference on Advanced Engineering, Computer \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7997543012791561484",
+            "cites_id": [
+                "7997543012791561484"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maritime component reliability assessment and maintenance using bayesian framework and generic data",
+                "pub_year": "2010",
+                "citation": "Adv. Sh. Des. Pollut. Prev, 181-188, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9459885636076449816",
+            "cites_id": [
+                "9459885636076449816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fractures on a drillship derrick, evaluation and improvement",
+                "pub_year": "2020",
+                "citation": "Engineering Failure Analysis 118, 104792, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=128058743648060184",
+            "cites_id": [
+                "128058743648060184"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aspects of a reliable determination of wind-generated loading spectra",
+                "pub_year": "2011",
+                "citation": "13th International Conference on Wind Engineering (ICWE13), Amsterdam, CD \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=387195244610671466",
+            "cites_id": [
+                "387195244610671466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Directional Wind Spectrum Description using Bivariate L1 Norm RBFs",
+                "pub_year": "2023",
+                "citation": "International Journal for Engineering Modelling 36 (1), 99-114, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian Conjugate Model for the Estimation of Friction Intensity",
+                "pub_year": "2021",
+                "citation": "Transactions of FAMENA 45 (1), 63-77, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the posterior predictive in Bayesian failure analysis",
+                "pub_year": "2019",
+                "citation": "University of West Bohemia, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The usage of random decrement method for linear damping estimation",
+                "pub_year": "2019",
+                "citation": "University of West Bohemia, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Postupak provjere pogonske \u010dvrstoce tornja broda za podmorska bu\u0161enja",
+                "pub_year": "2015",
+                "citation": "Rad Hrvatske akademije znanosti i umjetnosti. Tehni\u010dke znanosti, 51-62, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hrvatski katalog znanja, vje\u0161tina i kompetencija za studije strojarstva",
+                "pub_year": "2015",
+                "citation": "Strojarski fakultet u Slavonskom Brodu, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple dynamic model of wind turbine tower with experimental verification",
+                "pub_year": "2015",
+                "citation": "International journal for engineering modelling 28 (1-4), 49-59, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izrada kataloga znanja, vje\u0161tina i kompetencija za studije strojarstva u Republici Hrvatskoj",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental verification of the dynamic model for a wind turbine tower",
+                "pub_year": "2013",
+                "citation": "30th Danubia-Adria: Symposium on Advances in Experimental Mechanics, 219-220, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of high-pressure external gear pump",
+                "pub_year": "2011",
+                "citation": "13th International Scientific Conference on Production Engineering-CIM, 83-91, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ship Geometry Modelling Using Radial Basis Functions Interpolation",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JEDAN PRISTUP PRORA\u010cUNU ELASTI\u010cNOG TEMELJENJA BRODSKIH STROJEVA",
+                "pub_year": "2008",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 55 (3-4), 127-136, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JEDAN PRISTUP PRORACUNU ELASTICNOG TEMELJENJA BRODSKIH STROJEVA/An Approach to Calculation of Marine Machinery Flexible Seating",
+                "pub_year": "2008",
+                "citation": "Nase More 55 (3/4), 127, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EKSPERIMENTALNA PROCJENA KONSTRUKCIJE BRODSKIH MOTORA",
+                "pub_year": "2001",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 48 (5-6), 185-190, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ON THE SENSITIVITY OF RESIDUAL STRESSES DETERMINED USING THE HOLE-DRILLING METHOD",
+                "pub_year": "2001",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 48 (3-4), 137-144, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prilog pouzdanosti odre\u0111ivanja zaostalih naprezanja zabu\u0161ivanjem",
+                "pub_year": "1998",
+                "citation": "Sveu\u010dili\u0161te u Zagrebu, Fakultet strojarstva i brodogradnje, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvement of fatigue strength properties of aluminum alloy components by manufacturing processes",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DETERMINATION OF WIND LOAD ON ANTENNA TOWER",
+                "citation": "September 23 rd\u201326 th, 2009 Montanuniversit\u00e4t Leoben/Austria, 7, 0"
+            },
+            "filled": false,
+            "author_pub_id": "pP5HEYUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

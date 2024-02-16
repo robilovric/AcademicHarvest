@@ -1,0 +1,1322 @@
+{
+    "name": "\u0160esni\u0107 Silvestar",
+    "num_citations": 567,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Full wave model versus transmission line representation of Tesla's wave propagation: 155th anniversary of birth of Nikola Tesla",
+                "pub_year": "2011",
+                "citation": "SoftCOM 2011, 19th International Conference on Software, Telecommunications \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6284955601121056711",
+            "cites_id": [
+                "6284955601121056711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of progress in European medium sized tokamaks towards an integrated plasma-edge/wall solution a",
+                "pub_year": "2017",
+                "citation": "Nuclear Fusion 57 (10), 102014, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:TFP_iSt0sucC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1626319374791143799",
+            "cites_id": [
+                "1626319374791143799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized form of telegrapher's equations for the electromagnetic field coupling to buried wires of finite length",
+                "pub_year": "2009",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 51 (2), 331-337, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1503622514918851577",
+            "cites_id": [
+                "1503622514918851577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain analytical modeling of a straight thin wire buried in a lossy medium",
+                "pub_year": "2011",
+                "citation": "Progress in electromagnetics research 121, 485-504, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10833097745592637030",
+            "cites_id": [
+                "10833097745592637030"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of analytical and boundary element modeling of electromagnetic field coupling to overhead and buried wires",
+                "pub_year": "2011",
+                "citation": "Engineering analysis with boundary elements 35 (3), 555-563, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9498925683523964078",
+            "cites_id": [
+                "9498925683523964078"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical modeling of a transient current flowing along the horizontal grounding electrode",
+                "pub_year": "2013",
+                "citation": "IEEE transactions on electromagnetic compatibility 55 (6), 1132-1139, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16554972739532222590",
+            "cites_id": [
+                "16554972739532222590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical versus boundary element modelling of horizontal ground electrode",
+                "pub_year": "2010",
+                "citation": "Engineering analysis with boundary elements 34 (4), 307-314, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11067683513122026474",
+            "cites_id": [
+                "11067683513122026474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antenna model of the horizontal grounding electrode for transient impedance calculation: Analytical versus boundary element method",
+                "pub_year": "2013",
+                "citation": "Engineering Analysis with Boundary Elements 37 (6), 909-913, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:UebtZRa9Y70C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8606190035092925162",
+            "cites_id": [
+                "8606190035092925162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison of finite-difference, finite-integration, and integral-equation methods in the time-domain for modelling ground penetrating radar antennas",
+                "pub_year": "2016",
+                "citation": "2016 16th International Conference on Ground Penetrating Radar (GPR), 1-5, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2551300685474863157",
+            "cites_id": [
+                "2551300685474863157"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of time-domain finite-difference, finite-integration, and integral-equation methods for dipole radiation in half-space environments",
+                "pub_year": "2017",
+                "citation": "Progress In Electromagnetics Research M 57, 175-183, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:HDshCWvjkbEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4837940573296173493",
+            "cites_id": [
+                "4837940573296173493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic collocation applications in computational electromagnetics",
+                "pub_year": "2018",
+                "citation": "Mathematical Problems in Engineering 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:maZDTaKrznsC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14438157963732475572",
+            "cites_id": [
+                "14438157963732475572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct time domain modeling of the transient field transmitted in a dielectric half-space for gpr applications",
+                "pub_year": "2015",
+                "citation": "2015 International Conference on Electromagnetics in Advanced Applications \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:Se3iqnhoufwC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18023496417651051668",
+            "cites_id": [
+                "18023496417651051668"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct time domain evaluation of the transient field transmitted into a lossy ground due to GPR antenna radiation",
+                "pub_year": "2017",
+                "citation": "Engineering analysis with boundary elements 82, 27-31, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:mB3voiENLucC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3420981280652425644",
+            "cites_id": [
+                "3420981280652425644"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stochastic analysis of the transient current induced along the thin wire scatterer buried in a lossy medium",
+                "pub_year": "2016",
+                "citation": "International Journal of Antennas and Propagation 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:dhFuZR0502QC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14827530444626558321",
+            "cites_id": [
+                "14827530444626558321"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On some applications of stochastic collocation method in computational electromagnetics: Applications in ground penetrating radar, bioelectromagnetics, grounding systems and \u2026",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16033236580624703846",
+            "cites_id": [
+                "16033236580624703846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impulse impedance of the horizontal grounding electrode: comparison of the theoretical antenna model approach and experimental analysis",
+                "pub_year": "2017",
+                "citation": "Journal of Electromagnetic Waves and Applications 31 (8), 769-780, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:-f6ydRqryjwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14145796894966342954",
+            "cites_id": [
+                "14145796894966342954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On deterministic-stochastic time domain study of dipole antenna for GPR applications",
+                "pub_year": "2016",
+                "citation": "Engineering analysis with boundary elements 73, 14-20, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118396533066009196",
+            "cites_id": [
+                "11118396533066009196"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of some analytical solutions to the Grad-Shafranov equation",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:WF5omc3nYNoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9387616367043514812",
+            "cites_id": [
+                "9387616367043514812"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitivity analysis of the direct time domain analytical solution for transient impedance of the horizontal grounding electrode using ANOVA approach",
+                "pub_year": "2021",
+                "citation": "Electric Power Systems Research 190, 106861, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14694888931082941400",
+            "cites_id": [
+                "14694888931082941400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct time domain analytical solution for the transient impedance of the horizontal grounding electrode",
+                "pub_year": "2018",
+                "citation": "2018 2nd URSI Atlantic Radio Science Meeting (AT-RASC), 1-4, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2674128808517390597",
+            "cites_id": [
+                "2674128808517390597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EUROfusion Integrated Modelling (EU-IM) capabilities and selected physics applications",
+                "pub_year": "2016",
+                "citation": "2016-26th IAEA Fusion Energy Conference, 1-10, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:k_IJM867U9cC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10868369628092204004",
+            "cites_id": [
+                "10868369628092204004"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impulse impedance of the horizontal grounding electrode: Experimental analysis versus full-wave computational model",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:IWHjjKOFINEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7027095349770304588",
+            "cites_id": [
+                "7027095349770304588"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of the antenna model and experimental analysis of an impulse impedance of the horizontal grounding electrode",
+                "pub_year": "2015",
+                "citation": "Electric Power Systems Research 125, 159-163, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:4DMP91E08xMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11686605906543653129",
+            "cites_id": [
+                "11686605906543653129"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic collocation analysis of the transient current induced along the wire buried in a lossy medium",
+                "pub_year": "2015",
+                "citation": "Computational Methods and Experimental Measurements XVII 59, 47, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8435298101705551196",
+            "cites_id": [
+                "8435298101705551196"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time Domain Analysis of the Horizontal Grounding Electrode: Antenna theory approach versus transmission line approximation",
+                "pub_year": "2014",
+                "citation": "2014 International Symposium on Electromagnetic Compatibility, 181-185, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7813469243653853963",
+            "cites_id": [
+                "7813469243653853963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A finite element versus analytical approach to the solution of the current diffusion equation in tokamaks",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Plasma Science 46 (4), 1027-1034, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:isC4tDSrTZIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112498734677283406",
+            "cites_id": [
+                "5112498734677283406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain and frequency domain integral equation method for the analysis of ground penetrating radar (GPR) antenna",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13736667954193928207",
+            "cites_id": [
+                "13736667954193928207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient statistics from the lightning strike current flowing along grounding electrode",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8504821934836365617",
+            "cites_id": [
+                "8504821934836365617"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple antenna model of the human nerve",
+                "pub_year": "2013",
+                "citation": "2013 21st International Conference on Software, Telecommunications and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4326098380023003046",
+            "cites_id": [
+                "4326098380023003046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling from HF transmitter to power line communications system using antenna theory-Analytical versus numerical approach",
+                "pub_year": "2009",
+                "citation": "VXV International Symposium on Theoretical Engineering, 1-3, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15933991978423480435",
+            "cites_id": [
+                "15933991978423480435"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A note on the use of analytical and domain discretisation methods for the analysis of some phenomena in engineering physics",
+                "pub_year": "2018",
+                "citation": "International Journal for Engineering Modelling 31 (1-2), 43-60, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:rO6llkc54NcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16708858068307400297",
+            "cites_id": [
+                "16708858068307400297"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain generalized telegrapher\u2019s equations for the electromagnetic field coupling to finite-length wires buried in a lossy half-space",
+                "pub_year": "2018",
+                "citation": "Electric power systems research 160, 199-204, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15563869251742134426",
+            "cites_id": [
+                "15563869251742134426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic modeling of the GPR response to the pipe system set in the concrete slab",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6538936877693182895",
+            "cites_id": [
+                "6538936877693182895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced analysis of the transient impedance of the horizontal grounding electrode: From statistics to sensitivity indices",
+                "pub_year": "2017",
+                "citation": "2017 XXXIInd General Assembly and Scientific Symposium of the International \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15611002236033486448",
+            "cites_id": [
+                "15611002236033486448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitivity analysis of the time transient currents induced along thin wires buried in lossy and uncertain environments",
+                "pub_year": "2017",
+                "citation": "2017 11th European Conference on Antennas and Propagation (EUCAP), 801-805, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:hC7cP41nSMkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2734667609530832578",
+            "cites_id": [
+                "2734667609530832578"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient electromagnetic field coupling to buried thin wire configurations: antenna model versus transmission line approach in the time domain",
+                "pub_year": "2016",
+                "citation": "International Journal of Antennas and Propagation 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8048744333052162266",
+            "cites_id": [
+                "8048744333052162266"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the use of the vertical straight wire model in electromagnetics and related boundary element solution",
+                "pub_year": "2015",
+                "citation": "Engineering Analysis with Boundary Elements 50, 19-28, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7089095760299190821",
+            "cites_id": [
+                "7089095760299190821"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of electromagnetic field coupling to a single wire above a PEC ground using wire antenna theory: Analytical versus numerical solution",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13842904257899095558",
+            "cites_id": [
+                "13842904257899095558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic field coupling to buried wires: Comparison of frequency domain wire antenna and transmission line model",
+                "pub_year": "2007",
+                "citation": "2007 19th International Conference on Applied Electromagnetics and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5572077208048497965",
+            "cites_id": [
+                "5572077208048497965"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient Impedance of the Synchronous Generator Grounding Electrode due to Short Circuit Current",
+                "pub_year": "2020",
+                "citation": "2020 International Symposium on Electromagnetic Compatibility-EMC EUROPE, 1-4, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10522069420210611662",
+            "cites_id": [
+                "10522069420210611662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FDTD Modeling of the Landmine Detection via Ground Penetrating Radar Response",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:GnPB-g6toBAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17071099395864998311",
+            "cites_id": [
+                "17071099395864998311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency Domain and Time Domain Analysis of the Transient Field Radiated by GPR Antenna",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9287348061087700863",
+            "cites_id": [
+                "9287348061087700863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency Domain and Time Domain Analysis of the Transient Field Radiated by GPR Antenna: A Review of Deterministic Modeling Based on Integral Equation Approach",
+                "pub_year": "2018",
+                "citation": "SpliTech 2018: 3rd International Conference on Smart and Sustainable \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:_xSYboBqXhAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=68162893004914405",
+            "cites_id": [
+                "68162893004914405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement and modeling of the propagation of the Ripple Control Signal through the distribution network",
+                "pub_year": "2014",
+                "citation": "International Journal of Electrical Power & Energy Systems 63, 674-680, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7945263187932825591",
+            "cites_id": [
+                "7945263187932825591"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient response of a buried wire",
+                "pub_year": "2013",
+                "citation": "ICECom 2013, 1-4, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=245947590460584712",
+            "cites_id": [
+                "245947590460584712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient response of a buried wire",
+                "pub_year": "2013",
+                "citation": "ICECom 2013, 1-4, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=245947590460584712",
+            "cites_id": [
+                "245947590460584712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wire antenna model of the vertical grounding electrode",
+                "pub_year": "2013",
+                "citation": "Boundary Elements and Other Mesh Reduction Methods XXXV 54, 103, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10678909460482776981",
+            "cites_id": [
+                "10678909460482776981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the analysis of vertical straight thin wire above a lossy ground: Analytical versus numerical solution",
+                "pub_year": "2012",
+                "citation": "International Symposium on Electromagnetic Compatibility-EMC EUROPE, 1-6, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540753150451636426",
+            "cites_id": [
+                "4540753150451636426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic field coupling to multiple buried thin wires-Antenna model versus transmission line approach",
+                "pub_year": "2011",
+                "citation": "10th International Symposium on Electromagnetic Compatibility, 272-277, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9094934533741373885",
+            "cites_id": [
+                "9094934533741373885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The human body exposed to a magnetotherapy device magnetic field",
+                "pub_year": "2009",
+                "citation": "WIT Transactions on Biomedicine and Health 13, 203-211, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8644114570884180084",
+            "cites_id": [
+                "8644114570884180084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a Current Induced along the Horizontal Grounding Electrode due to Short-circuit Generator Current",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17104212120443265071",
+            "cites_id": [
+                "17104212120443265071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of the Transient Electric Field Transmitted in a Lossy Medium Radiated by an Equivalent GPR Dipole Antenna",
+                "pub_year": "2018",
+                "citation": "2018 17th International Conference on Ground Penetrating Radar (GPR), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:blknAaTinKkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14276773890896588192",
+            "cites_id": [
+                "14276773890896588192"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-deterministic and sensitivity analysis of the transient field generated by GPR dipole antenna and transmitted into a lossy ground",
+                "pub_year": "2017",
+                "citation": "2017 IEEE International Symposium on Electromagnetic Compatibility & Signal \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1064810195768915598",
+            "cites_id": [
+                "1064810195768915598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical transient impedance of horizontal grounding systems: application to sensitivity analysis with ANOVA approaches",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:TQgYirikUcIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17324034004070184840",
+            "cites_id": [
+                "17324034004070184840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of the soil ionization on the transient current induced along the horizontal grounding electrode",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9597399434475407306",
+            "cites_id": [
+                "9597399434475407306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency and Time Domain Analysis of Influence of the Grounding Electrode Conductivity on Induced Current Distribution",
+                "pub_year": "2013",
+                "citation": "Journal of Communications Software and Systems 9 (2), 137-143, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:5nxA0vEk-isC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6596730736224921923",
+            "cites_id": [
+                "6596730736224921923"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain analytical modeling of finite length thin wire embedded in homogeneous lossy medium",
+                "pub_year": "2010",
+                "citation": "SoftCOM 2010, 18th International Conference on Software, Telecommunications \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3605337300554808260",
+            "cites_id": [
+                "3605337300554808260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards the model for the assessment of the current density induced in the human body due to the electric field irradiated from the rod struck by lightning",
+                "pub_year": "2007",
+                "citation": "2007 15th International Conference on Software, Telecommunications and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6910929320596067667",
+            "cites_id": [
+                "6910929320596067667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic Modelling of the Human Body Exposed to Extremely Low Frequency (ELF) Electric Field",
+                "pub_year": "2004",
+                "citation": "WESSEX INSTITUTE OF TECHNOLOGY, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:70eg2SAEIzsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1989874984391567291",
+            "cites_id": [
+                "1989874984391567291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic field coupling to multiple buried thin wires-antenna model versus transmission line approach",
+                "citation": "10th International Symposium on Electromagnetic Compatibility, 0"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1512610963400433230",
+            "cites_id": [
+                "1512610963400433230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Atmospheric Overvoltages Suppression: In Situ and Analytical Validation",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 65 (2), 486-495, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical Solution for the Transient Current Induced along the Vertical Grounding Electrode",
+                "pub_year": "2022",
+                "citation": "Mathematical Problems in Engineering 2022, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Some Multiphysics Models for ElectromagneticThermal-Hydrodynamics (ETHD) Analysis",
+                "pub_year": "2019",
+                "citation": "2019 23rd International Conference on Applied Electromagnetics and \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-variable Analysis of the Transient Impedance of the Horizontal Grounding Electrode",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient impedance of the horizontal grounding electrode: Sensitivity analysis of the direct time domain analytical solution",
+                "pub_year": "2019",
+                "citation": "2019 URSI International Symposium on Electromagnetic Theory (EMTS), 1-3, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Various Applications of Stochastic Collocation in Computational Electromagnetics",
+                "pub_year": "2019",
+                "citation": "Uncertainty Modeling for Engineering Applications, 135-155, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric Field Transmitted into a Lossy Medium Radiated by a GPR Antenna-Comparison of Different Approaches",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced analysis of the transient impedance of the horizontal grounding electrode: From statistics to sensitivity indices",
+                "pub_year": "2017",
+                "citation": "General Assembly and Scientific Symposium of the International Union of \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic modelling, inversion, imaging and data-processing techniques for Ground Penetrating Radar: main results achieved by Working Group 3 of COST Action TU1208",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COST Action TU1208-Working Group 3-Electromagnetic modelling, inversion, imaging and data-processing techniques for Ground Penetrating Radar",
+                "pub_year": "2017",
+                "citation": "EGU General Assembly Conference Abstracts, 16855, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPRINGER PROCEEDINGS IN MATHEMATICS AND STATISTICS",
+                "pub_year": "2016",
+                "citation": "Mathematical modelling 115, 129, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Use of Analytical Methods in Electromagnetic Compatibility and Magnetohydrodynamics",
+                "pub_year": "2016",
+                "citation": "Engineering Mathematics I: Electromagnetics, Fluid Mechanics, Material \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient Response of Grounding Electrode using the Wire Antenna Theory Approach",
+                "pub_year": "2014",
+                "citation": "IOP Conference Series: Materials Science and Engineering 67 (1), 012014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of the grounding electrode conductivity on the induced transient current",
+                "pub_year": "2012",
+                "citation": "SoftCOM 2012, 20th International Conference on Software, Telecommunications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiti\u010dko modeliranje tranzijentnog odziva horizontalno ukopane \u017eice u kona\u010dno vodljivom poluprostoru",
+                "pub_year": "2010",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain analytical modeling of a horizontal wire buried in a lossy medium",
+                "pub_year": "2010",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human equivalent antenna model for HF exposures: Analytical versus numerical approach",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009-17th International Conference on Software, Telecommunications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic Modelling of the Human Body Exposed to Extremely Low Frequency (ELF) Electromagnetic Field",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of Extremely Low Frequency Electric and Magnetic Fields",
+                "pub_year": "2005",
+                "citation": "1. me\u0111unarodni seminar\" Izlo\u017eenost ljudi elektromagnetskom zra\u010denju\"/1^ st \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the statistical distributions of transient impedance of the horizontal grounding electrode subject to lightning strike",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LI, Shuaibing Lopes, Nuno Maras, Josip Marasovic, Tea",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Section 1: Computational and experimental methods",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the relationship between scientific and theological aspects of the work of Roger Joseph Boscovich",
+                "citation": "2011 International Conference on Software, Telecommunications and Computer \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency Response of Multiple Conductors Buried in a Lossy Ground",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6lUck8AAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "U74qBXMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Khalil EL KHAMLICHI DRISSI, H-index...",
+            "affiliation": "Professeur of Electrical Engineering Department, Polytech Clermont Ferrand"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9SQUXTkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "S\u00e9bastien LALLECHERE",
+            "affiliation": "Research Engineer EMC & lightning"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cz1haZUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre Bonnet",
+            "affiliation": "Professor, Institut Pascal, clermont universit\u00e9"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0GKjYwQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonios Giannopoulos",
+            "affiliation": "Professor, School of Engineering, The University of Edinburgh"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wxr3jDsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lara Pajewski",
+            "affiliation": "Sapienza University of Rome"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LfvPzLcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Craig Warren",
+            "affiliation": "Assistant Professor, Northumbria University; University of Edinburgh"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GYzk-XsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zoran Blazevic",
+            "affiliation": "Full professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FVvglUoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Farhad Rachidi",
+            "affiliation": "Professor at EPFL, Lausanne, Switzerland"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2GWkpkkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "ranko goic",
+            "affiliation": ""
+        }
+    ]
+}

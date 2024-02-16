@@ -1,0 +1,578 @@
+{
+    "name": "Marasovi\u0107 Ivan",
+    "num_citations": 85,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental study on a hybrid energy system with small-and medium-scale applications for mild climates",
+                "pub_year": "2014",
+                "citation": "Energy 75, 379-389, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7438970839830622558",
+            "cites_id": [
+                "7438970839830622558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel IoT-aware Smart Parking System based on the integration of RFID and WSN technologies",
+                "pub_year": "2016",
+                "citation": "International Journal of RF Technologies 7 (4), 175-199, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7697361425479928861",
+            "cites_id": [
+                "7697361425479928861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RFID-based efficient method for parking slot car detection",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:WF5omc3nYNoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11494528839145901809",
+            "cites_id": [
+                "11494528839145901809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling a nanowire grid for light-sensing applications",
+                "pub_year": "2012",
+                "citation": "Journal of Physics D: Applied Physics 45 (21), 215103, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:roLk4NBRz8UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15293726305076973234",
+            "cites_id": [
+                "15293726305076973234"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Signal feature recognition in time-frequency domain using edge detection algorithms",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4694040935117930281",
+            "cites_id": [
+                "4694040935117930281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel dynamic model of a photovoltaic module",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14378952956072415110",
+            "cites_id": [
+                "14378952956072415110"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and detection of failure in medical electrodes",
+                "pub_year": "2015",
+                "citation": "automatika 56 (3), 341-349, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1696376304662138334",
+            "cites_id": [
+                "1696376304662138334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new approach to comparing photovoltaic simulation software",
+                "pub_year": "2023",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 45 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13664095702962660307",
+            "cites_id": [
+                "13664095702962660307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extraction of PV module electrical parameters based on the single diode and double diode model of a PV cell",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7940182424060586476",
+            "cites_id": [
+                "7940182424060586476"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spectrogram-based assessment of small SNR variations, with application to medical electrodes",
+                "pub_year": "2019",
+                "citation": "EURASIP Journal on Advances in Signal Processing 2019 (1), 1-14, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:5nxA0vEk-isC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17478279012821526141",
+            "cites_id": [
+                "17478279012821526141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "R\u00e9nyi entropy based failure detection of medical electrodes",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7310334333746959748",
+            "cites_id": [
+                "7310334333746959748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insulation Verification Using Low Voltage and High Current Sensitivity",
+                "pub_year": "2012",
+                "citation": "Engineering Review: Me\u0111unarodni \u010dasopis namijenjen publiciranju originalnih \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1810680679481390376",
+            "cites_id": [
+                "1810680679481390376"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Filter implementation as a means to enhance electromagnetic compatibility in chargers",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Power Point Tracking Algorithms",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Edge Detection Using Vector Quantization And Local Entropy Measures Applied To Spectrogram Component Extraction",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determining series resistance of the photovoltaic module",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Endobronchial ultrasound-guided transbronchial fine needle aspiration (EBUS TBNA): Solitary fibrous tumor of the mediastinum",
+                "pub_year": "2023",
+                "citation": "Lije\u010dni\u010dki vjesnik 145 (Supp 2), 65-65, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CR38 Endobronchial ultrasound-guided transbronchial fine needle aspiration (EBUSTBNA): Solitary fibrous tumor of the mediastinum.",
+                "pub_year": "2023",
+                "citation": "Lijecnicki Vjesnik 145, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primary Ewing sarcoma of lungs with mediastinal metastasis, a rare type of metastatic lung neoplasm",
+                "pub_year": "2022",
+                "citation": "Lije\u010dni\u010dki vjesnik 144 (Supp 7), 24-24, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differencies between former smokers and non-smokers during post-Covid period",
+                "pub_year": "2022",
+                "citation": "European Respiratory Journal 60 (suppl 66), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating the performance of photovoltaic simulation tools: case study of grid-connected 31 kWp photovoltaic system",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LIJE\u010cENJE OPSTRUKTIVNIH PLU\u0106NIH BOLESTI U VRIJEME COVID-19 PANDEMIJE",
+                "pub_year": "2022",
+                "citation": "Fizikalna i rehabilitacijska medicina 36 (1-2), 6-7, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guest Editorial: Smart Systems and Architectures",
+                "pub_year": "2021",
+                "citation": "Journal of Communications Software and Systems 17 (2), 203-204, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPONTANEOUS PNEUMOMEDIASTINUM IN A PATIENT TWO MONTHS AFTER RECOVERY FROM COVID-19 PNEUMONIA AFTER PERFORMING SPIROMETRY",
+                "pub_year": "2021",
+                "citation": "Acta medica Croatica: \u010casopis Akademije medicinskih znanosti Hrvatske 75 (3 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPONTANI PNEUMOMEDIJASTINUM NAKON SPIROMETRIJE U BOLESNIKA DVA MJESECA NAKON PREBOLJENJA PNEUMONIJE COVID-19",
+                "pub_year": "2021",
+                "citation": "Acta medica Croatica: \u010casopis Akademije medicinskih znanosti Hrvatske 75 (3 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj bavljenja sportom na kardiolo\u0161ki pobol u srednjoj i starijoj dobi",
+                "pub_year": "2019",
+                "citation": "University of Zagreb. School of Medicine. Department of Internal Medicine, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mre\u017ena aplikacija za prodaju proizvoda malih gospodarstava",
+                "pub_year": "2017",
+                "citation": "University of Split. University of Split, Faculty of science. Department of \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration of hybrid solar panels in the ventilated buildings facades",
+                "pub_year": "2017",
+                "citation": "14. ME\u0110UNARODNA KONFERENCIJA\" ODR\u017dAVANJE I PROIZVODNI IN\u017dENJERING\", 2017"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odre\u0111ivanje dubine i njena upotrebljivost u navigaciji",
+                "pub_year": "2016",
+                "citation": "Pomorski fakultet u Splitu, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje i detekcija kvara u medicinskim elektrodama",
+                "pub_year": "2015",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resistance fluctuations in GaAs nanowire grids",
+                "pub_year": "2014",
+                "citation": "Journal of Nanomaterials 2014, 79-79, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odre\u0111ivanje pojave proboja u sustavu kvantnih to\u010daka simuliranjem i mjerenjem spektralne ovisnosti \u0161uma",
+                "pub_year": "2012",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of the electrical breakdown in the system of quantum dots by simulation and measuring the spectral density of noise",
+                "pub_year": "2012",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of PD response on different input voltages and incident light wavelengths",
+                "pub_year": "2012",
+                "citation": "International Conference on Innovative Technologies IN-TECH, 381-385, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pogre\u0161ke na odljevcima tla\u010dnog lijeva",
+                "pub_year": "2011",
+                "citation": "Fakultet strojarstva i brodogradnje, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dielectric layer reliability estimation model for modern MOS transistors",
+                "pub_year": "2011",
+                "citation": "7. znanstveni sastanak Hrvatskog fizikalnog dru\u0161tva, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measuring the Current-Voltage Characteristics of Solar Cells",
+                "pub_year": "2008",
+                "citation": "MIPRO 2008 31st International Convention, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tester za solarne module",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tester for PV modules",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIMULATION OF DIRECTED PERCOLATION ON IDEAL AND REAL RANDOM DIODE NETWORKS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integracija hibridnih solarnih panela u ventilirane fasade zgrada",
+                "citation": "ODR\u017dAVANJE I PROIZVODNI IN\u017dENJERING, 135, 0"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Corkscrew Electrode Failure Origins",
+                "citation": "Proceedings of International Conference on Innovative Technologies (IN-TECH \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model za procjenu pouzdanosti dielektri\u010dnog sloja u modernim MOS tranzistorima",
+                "citation": "Knjiga sa\u017eetaka 7. znanstvenog sastanka Hrvatskog fizikalnog dru\u0161tva, 0"
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating series resistance of amorphous silicon solar cells using one diode model with variable diode ideality factor",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "tjzzYesAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

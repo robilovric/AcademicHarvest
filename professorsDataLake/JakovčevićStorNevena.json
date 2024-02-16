@@ -1,0 +1,244 @@
+{
+    "name": "Jakov\u010devi\u0107 Stor Nevena",
+    "num_citations": 75,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of real symmetric arrowhead matrices and applications",
+                "pub_year": "2015",
+                "citation": "Linear algebra and its applications 464, 62-89, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367702285364749126",
+            "cites_id": [
+                "1367702285364749126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward stable eigenvalue decomposition of rank-one modifications of diagonal matrices",
+                "pub_year": "2015",
+                "citation": "Linear Algebra and its Applications 487, 301-315, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12490677592836807365",
+            "cites_id": [
+                "12490677592836807365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast computation of optimal damping parameters for linear vibrational systems",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (5), 790, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16592911053975907804",
+            "cites_id": [
+                "16592911053975907804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deflation for the Symmetric Arrowhead and Diagonal-Plus-Rank-One Eigenvalue Problems",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Matrix Analysis and Applications 43 (2), 681-709, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7379197032012230028",
+            "cites_id": [
+                "7379197032012230028"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of arrowhead matrices, rank-one modifications of diagonal matrices and applications",
+                "pub_year": "2014",
+                "citation": "International Workshop on Accurate Solution of Eigenvalue Problems X, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3917202581264753258",
+            "cites_id": [
+                "3917202581264753258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward Stable Computation of Roots of Real Polynomials with Real Simple Roots",
+                "pub_year": "2017",
+                "citation": "Appl. Math. Inf. Sci 11, 33-41, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13637134966835310903",
+            "cites_id": [
+                "13637134966835310903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast optimization of viscosities for frequency\u2010weighted damping of second\u2010order systems",
+                "pub_year": "2023",
+                "citation": "ZAMM\u2010Journal of Applied Mathematics and Mechanics/Zeitschrift f\u00fcr Angewandte \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matematika 3, Osnovni pojmovi i rije\u0161eni zadaci",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast multiplication, determinants, and inverses of arrowhead and diagonal-plus-rank-one matrices over associative fields",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2212.10966, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward stable computation of roots of real polynomials with only real distinct roots",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1509.06224, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "To\u010dan rastav svojstvenih vrijednosti streli\u010dastih matrica i primjene",
+                "pub_year": "2011",
+                "citation": "Prirodoslovno-matemati\u010dki fakultet, Zagreb, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A\u017euriranje matri\u010dnih rastava i primjene",
+                "pub_year": "2006",
+                "citation": "Prirodoslovno-matemati\u010dki fakultet, Zagreb, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tocan rastav svojstvenih vrijednosti strelicastih matrica i primjene",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DEFLATION FOR THE SYMMETRIC ARROW MATRIX EIGENVALUE PROBLEM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of real symmetric arrowhead (AH) and diagonal-plus-rank-one (DPR1) matrices and applications",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Spectral Bipartite Clustering Algorithm and Automatic Determination of the Number of Clusters",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2NorFuAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9UJdlLMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Slapni\u010dar",
+            "affiliation": "Full Professor, University of Split unist.hr, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DhIXUXYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zoran Tomljanovi\u0107",
+            "affiliation": "Associate Professor, University of Osijek, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CPJOLCUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matea Ugrica",
+            "affiliation": "Postdoc"
+        }
+    ]
+}

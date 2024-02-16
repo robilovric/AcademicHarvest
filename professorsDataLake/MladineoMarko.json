@@ -1,0 +1,1391 @@
+{
+    "name": "Mladineo Marko",
+    "num_citations": 1075,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Managing innovative production network of smart factories",
+                "pub_year": "2015",
+                "citation": "IFAC-PapersOnLine 48 (3), 555-560, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 144,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1159537358836330346",
+            "cites_id": [
+                "1159537358836330346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From industry 4.0 towards industry 5.0: A review and analysis of paradigm shift for the people, organization and technology",
+                "pub_year": "2022",
+                "citation": "Energies 15 (14), 5221, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 117,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13443706973256257654",
+            "cites_id": [
+                "13443706973256257654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving partner selection problem in cyber-physical production networks using the HUMANT algorithm",
+                "pub_year": "2017",
+                "citation": "International Journal of Production Research 55 (9), 2506-2521, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16507017301957408291",
+            "cites_id": [
+                "16507017301957408291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conceptual approach to analysing manufacturing companies\u2019 profiles concerning Industry 4.0 in emerging economies",
+                "pub_year": "2018",
+                "citation": "Procedia Manufacturing 17, 419-426, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:maZDTaKrznsC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12878170843492871944",
+            "cites_id": [
+                "12878170843492871944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lean learning factory at FESB\u2013University of Split",
+                "pub_year": "2015",
+                "citation": "Procedia Cirp 32, 132-137, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16221176859138486090",
+            "cites_id": [
+                "16221176859138486090"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transfer of model of innovative smart factory to Croatian economy using lean learning factory",
+                "pub_year": "2016",
+                "citation": "Procedia Cirp 54, 158-163, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13988275613555765884",
+            "cites_id": [
+                "13988275613555765884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the current state of Croatian manufacturing industry with regard to Industry 4.0",
+                "pub_year": "2015",
+                "citation": "Proceedings of the 15th International Scientific Conference on Production \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1184247416421652014",
+            "cites_id": [
+                "1184247416421652014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection of the basic lean tools for development of croatian model of innovative smart enterprise",
+                "pub_year": "2016",
+                "citation": "Tehni\u010dki vjesnik 23 (5), 1317-1324, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16398102969885886183",
+            "cites_id": [
+                "16398102969885886183"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration and testing of the RFID-enabled Smart Factory concept within the Learning Factory",
+                "pub_year": "2019",
+                "citation": "Procedia manufacturing 31, 384-389, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9527355169925236406",
+            "cites_id": [
+                "9527355169925236406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Collaborative robot task allocation on an assembly line using the decision support system",
+                "pub_year": "2022",
+                "citation": "International Journal of Computer Integrated Manufacturing 35 (4-5), 510-526, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17988190323008729086",
+            "cites_id": [
+                "17988190323008729086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selecting manufacturing partners in push and pull-type smart collaborative networks",
+                "pub_year": "2018",
+                "citation": "Advanced engineering informatics 38, 291-305, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:r0BpntZqJG4C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4069512057223085581",
+            "cites_id": [
+                "4069512057223085581"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplified approach to the PROMETHEE method for priority setting in management of mine action projects",
+                "pub_year": "2016",
+                "citation": "Croatian Operational Research Review 7 (2), 249-268, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5964007359833709631",
+            "cites_id": [
+                "5964007359833709631"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of the RFID system for optimal design of the intelligent assembly line in the learning factory",
+                "pub_year": "2018",
+                "citation": "Procedia Manufacturing 23, 63-68, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6361027662302572125",
+            "cites_id": [
+                "6361027662302572125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a knowledge-based cognitive system for industrial application: Case of personalized products",
+                "pub_year": "2022",
+                "citation": "Journal of Industrial Information Integration 27, 100284, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:_xSYboBqXhAC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17856671140341706822",
+            "cites_id": [
+                "17856671140341706822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of assembly systems in lean learning factory at the University of Split",
+                "pub_year": "2017",
+                "citation": "Procedia manufacturing 9, 49-56, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:qUcmZB5y_30C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6271103390140763500",
+            "cites_id": [
+                "6271103390140763500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of multicriteria methods to planning of investment projects in the field of civil engineering",
+                "pub_year": "2012",
+                "citation": "Croatian Operational Research Review 3 (1), 113-125, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1899914881596719141",
+            "cites_id": [
+                "1899914881596719141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A smart Warehouse 4.0 approach for the pallet management using machine vision and Internet of Things (IoT): A real industrial case study",
+                "pub_year": "2021",
+                "citation": "Advances in Production Engineering & Management 16 (3), 297-306, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6553812894561353093",
+            "cites_id": [
+                "6553812894561353093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Planning support concept to implementation of sustainable parking development projects in ancient Mediterranean cities",
+                "pub_year": "2014",
+                "citation": "Croatian operational research review 5 (2), 345-359, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18377949390144680177",
+            "cites_id": [
+                "18377949390144680177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration of the human-robot system in the learning factory assembly process",
+                "pub_year": "2020",
+                "citation": "Procedia manufacturing 45, 158-163, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:lSLTfruPkqcC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13346190418931613381",
+            "cites_id": [
+                "13346190418931613381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-stage product design selection by using PROMETHEE and Taguchi method: A case study.",
+                "pub_year": "2019",
+                "citation": "Advances in Production Engineering & Management 14 (1), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:hMod-77fHWUC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2433918713942935677",
+            "cites_id": [
+                "2433918713942935677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Project management in mine actions using Multi-Criteria-Analysis-based decision support system",
+                "pub_year": "2014",
+                "citation": "Croatian Operational Research Review, 415-425, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11190575357480784639",
+            "cites_id": [
+                "11190575357480784639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of the selection of competence cells in regional production network",
+                "pub_year": "2011",
+                "citation": "Technical Gazette 18 (4), 581-688, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16366010876052607301",
+            "cites_id": [
+                "16366010876052607301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prediction of surface roughness and power in turning process using response surface method and ANN",
+                "pub_year": "2021",
+                "citation": "Tehni\u010dki vjesnik 28 (2), 456-464, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13484437124389204590",
+            "cites_id": [
+                "13484437124389204590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing a layout using Schmigalla method combined with software tool vistable",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:dhFuZR0502QC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15687180238182855232",
+            "cites_id": [
+                "15687180238182855232"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of industry 4.0 implementation selection process towards enhancement of a manual assembly line",
+                "pub_year": "2021",
+                "citation": "Energies 15 (1), 30, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:NhqRSupF_l8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8644571551085704405",
+            "cites_id": [
+                "8644571551085704405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web MCA-based decision support system for incident situations in maritime traffic: Case study of Adriatic Sea",
+                "pub_year": "2017",
+                "citation": "The Journal of Navigation 70 (6), 1312-1334, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12670771557530051334",
+            "cites_id": [
+                "12670771557530051334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single-objective and multi-objective optimization using the HUMANT algorithm",
+                "pub_year": "2015",
+                "citation": "Croatian Operational Research Review 6 (2), 459-473, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11419472892579881533",
+            "cites_id": [
+                "11419472892579881533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ranking enterprises in terms of competences inside regional production network",
+                "pub_year": "2013",
+                "citation": "Croatian Operational Research Review 4 (1), 65-75, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9924963943051884868",
+            "cites_id": [
+                "9924963943051884868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human-centric approach of the Lean management as an enabler of Industry 5.0 in SMEs",
+                "pub_year": "2021",
+                "citation": "10th International Conference on Mechanical Technologies and Structural \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:P5F9QuxV20EC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9642985671129730500",
+            "cites_id": [
+                "9642985671129730500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Criteria Decision Support System for Smart and Sustainable Machining Process",
+                "pub_year": "2022",
+                "citation": "Energies 15 (3), 772, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12227275506120813458",
+            "cites_id": [
+                "12227275506120813458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methodology for the Assessment of Multi-Hazard Risk in Urban Homogenous Zones",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (24), 12843, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:SP6oXDckpogC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1994026808347087552",
+            "cites_id": [
+                "1994026808347087552"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Criteria for selection of cooperators in a regional production network",
+                "pub_year": "2011",
+                "citation": "Proceedings of 13th International Scientific Conference on Production \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7015795125857345441",
+            "cites_id": [
+                "7015795125857345441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From Industry 4.0 towards Industry 5.0: A Review and Analysis of Paradigm Shift for the People, Organization and Technology. Energies 2022, 15, 5221",
+                "pub_year": "2022",
+                "citation": "Industry 4.0\u2014from Smart Factory to Cognitive Cyberphysical Production \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:UxriW0iASnsC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13543336115887337465",
+            "cites_id": [
+                "13543336115887337465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D Scanning, CAD Optimization and 3D Print Application in Cultural Heritage: An Example on Statue from the Ancient Salona",
+                "pub_year": "2018",
+                "citation": "Mechanical Technologies and Structural Materials; MTSM Conference \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4049283108579403386",
+            "cites_id": [
+                "4049283108579403386"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Croatian Model Of Innovative Smart Enterprise (HR-ISE Model)",
+                "pub_year": "2017",
+                "citation": "16th International Scientific Conference on Production Engineering (CIM 2017 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11616278610390113113",
+            "cites_id": [
+                "11616278610390113113"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustainability through production networks",
+                "pub_year": "2013",
+                "citation": "Management and Production Engineering Review 4 (4), 76-82, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6635437581049167268",
+            "cites_id": [
+                "6635437581049167268"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of performances of RFID systems for assembly line purposes in Learning Factory",
+                "pub_year": "2019",
+                "citation": "Proceeding of the 9th International Conference of Mechanical Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2461563709523540426",
+            "cites_id": [
+                "2461563709523540426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GIS-based multicriteria analysis for mariculture site selection",
+                "pub_year": "2017",
+                "citation": "Aquaculture Europe, 571-572, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5951742228961473621",
+            "cites_id": [
+                "5951742228961473621"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izbor osnovnih Lean alata za razvoj Hrvatskog modela Inovativnog pametnog poduze\u0107a",
+                "pub_year": "2016",
+                "citation": "Tehni\u010dki vjesnik 23 (5), 1317-1324, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1730571810071158491",
+            "cites_id": [
+                "1730571810071158491"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection of the Cobot Workstation for the Learning Factory by using the Multi-Criteria Analysis",
+                "pub_year": "2022",
+                "citation": "12th Conference on Learning Factories (CLF 2022), Proceedings of the 12th \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6580117703486685019",
+            "cites_id": [
+                "6580117703486685019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production Networks meet Industry 4.0",
+                "pub_year": "2020",
+                "citation": "GRIN Publishing, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:a0OBvERweLwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2323316748096130814",
+            "cites_id": [
+                "2323316748096130814"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Obvezni doprinosi",
+                "pub_year": "2018",
+                "citation": "Sveu\u010dili\u0161te u Splitu. Split, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5306433921744366472",
+            "cites_id": [
+                "5306433921744366472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of the RFID-enabled manufacturing execution system",
+                "pub_year": "2017",
+                "citation": "Mechanical Technology and Structural Materials 55, 77-82, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:TQgYirikUcIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11883944033068270981",
+            "cites_id": [
+                "11883944033068270981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Case Study of Croatian manufacturing industry: Industry 4.0 Providers or Users?",
+                "pub_year": "2016",
+                "citation": "6th International Conference Mechanical Technologies and Structural \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12382645856262276367",
+            "cites_id": [
+                "12382645856262276367"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phenomenological approach to the design of production networks",
+                "pub_year": "2014",
+                "citation": "PhD thesis, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12344869520367160708",
+            "cites_id": [
+                "12344869520367160708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production networks and partner selection problem",
+                "pub_year": "2013",
+                "citation": "DAAAM International Scientific Book, 511-544, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1060451612382818824",
+            "cites_id": [
+                "1060451612382818824"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hard Milling Process Based on Compressed Cold Air-Cooling Using Vortex Tube for Sustainable and Smart Manufacturing",
+                "pub_year": "2023",
+                "citation": "Machines 11 (2), 264, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8616418347865098006",
+            "cites_id": [
+                "8616418347865098006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards equipping an assembly line with Industry 4.0 concept elements in laboratory environment",
+                "pub_year": "2018",
+                "citation": "LEAN SPRING SUMMIT, 24-25, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:abG-DnoFyZgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7828809921442683248",
+            "cites_id": [
+                "7828809921442683248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPLICATION OF THE INTEGRATIVE PROCEDURE FOR MANAGEMENT OF PRODUCTION AND SERVICE IMPROVEMENT PROCESS ON THE ASSEMBLY LINE.",
+                "pub_year": "2018",
+                "citation": "Annals of DAAAM & Proceedings 29, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7857190759921287512",
+            "cites_id": [
+                "7857190759921287512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lifelong Learning in Learning Factory",
+                "pub_year": "2016",
+                "citation": "23rd EurOMA Conference, Trondheim, Norway. https://www. researchgate. net \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14319991424702373019",
+            "cites_id": [
+                "14319991424702373019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of industrial maturity level: a case study of Croatia",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16163613612362741745",
+            "cites_id": [
+                "16163613612362741745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New product introduction by using Hoshin Kanri",
+                "pub_year": "2011",
+                "citation": "21st International Conference on Production Research: Innovation in Product \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10462581619743372947",
+            "cites_id": [
+                "10462581619743372947"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Industry 4.0--from Smart Factory to Cognitive Cyberphysical Production System and Cloud Manufacturing",
+                "pub_year": "2022",
+                "citation": "MDPI-Multidisciplinary Digital Publishing Institute, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:KxtntwgDAa4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9046619551585557393",
+            "cites_id": [
+                "9046619551585557393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Croatian model of Innovative smart Enterprise for Different Sizes of Enterprise",
+                "pub_year": "2018",
+                "citation": "The International Conference on Applied Mechanics and Mechanical Engineering \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11094002312753881684",
+            "cites_id": [
+                "11094002312753881684"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Are the children (again) becoming victims of the Fourth industrial revolution?",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:p2g8aNsByqUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4938770720224176885",
+            "cites_id": [
+                "4938770720224176885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Current State Analysis of Croatian Manufacturing Industry with Regard to Industry 4.0/5.0",
+                "pub_year": "2024",
+                "citation": "Machines 12 (2), 87, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPINT algorithm for decision-making based on information integration in the assembly of personalized products",
+                "pub_year": "2024",
+                "citation": "Journal of Industrial Information Integration, 100560, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for sustainable product development in the learning factory environment",
+                "pub_year": "2023",
+                "citation": "Available at SSRN 4476049, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Criteria Decision Support System for Smart and Sustainable Machining Process. Energies 2022, 15, 772",
+                "pub_year": "2022",
+                "citation": "Industry 4.0\u2014from Smart Factory to Cognitive Cyberphysical Production \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tackling the problem of defective components in the Learning Factory assembly process by using the intelligent assembly line",
+                "pub_year": "2021",
+                "citation": "Proceedings of the Conference on Learning Factories (CLF), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Criteria Analysis for Priority-setting in Mine Action",
+                "pub_year": "2018",
+                "citation": "Walter de Gruyter GmbH, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hrvatski model inovativnog pametnog poduze\u0107a",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:t6usbXjVLHcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Innovative Smart Enterprise: Konfigurator proizvoda",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:olpn-zPbct0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Factory Layout optimization through Cyber-Physical System and Virtual Reality",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrating Digital Factory, Lean Management and Industry 4.0 into the Learning Factory\u2013Case Study at University of Split",
+                "pub_year": "2017",
+                "citation": "Proceedings of the ICEAI, Kawamura, Michelle (ur.). Kyoto: Higher Education \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza postoje\u0107eg stanja hrvatskih industrijskih poduze\u0107a",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza postoje\u0107eg stanja hrvatske industrije u odnosu na Industriju 4.0",
+                "pub_year": "2015",
+                "citation": "Zavarivanje 58, 133-138, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Education in Learning Factory",
+                "pub_year": "2015",
+                "citation": "3. Seminar o zelenoj i odr\u017eivoj proizvodnji, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lean Learning Factory",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the current state of Croatian manufacturing enterprises",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fenomenolo\u0161ki pristup oblikovanju proizvodnih mre\u017ea",
+                "pub_year": "2014",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model of Innovative Smart Enterprise",
+                "pub_year": "2014",
+                "citation": "Proceedings of 6th International Conference on Mass Customization and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GIS-based Multi-Criteria Analysis of Priority Selection in Humanitarian Demining",
+                "pub_year": "2014",
+                "citation": "Esri European User Conference EUC 2014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web-based Decision Support for Incident Situation in the Adriatic Sea",
+                "pub_year": "2014",
+                "citation": "Esri European User Conference EUC 2014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-criteria decision-making in virtual enterprise formation process",
+                "pub_year": "2013",
+                "citation": "14th International Scientific Conference on Production Engineering, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An overview of GIS-based Multi-Criteria Analysis of priority selection in humanitarian demining",
+                "pub_year": "2012",
+                "citation": "10th International IARP Workshop HUDEM'2012, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizacija odabira kompetencijskih stanica u regionalnoj proizvodnoj mre\u017ei",
+                "pub_year": "2011",
+                "citation": "Tehni\u010dki vjesnik 18 (4), 581-588, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New aspects of emergency decision support for ships in distress",
+                "pub_year": "2011",
+                "citation": "TIEMS 18th Annual Conference, 573-582, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPLICATION OF GIS AND MATHEMATICAL MODELING IN MARITIME CRISIS SITUATIONS",
+                "pub_year": "2010",
+                "citation": "Croatian Operational Research Review 1 (1), 83-92, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alokacija poslovanja i proizvodnje tvrtke",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of DSS for Environment Protection in Cases of Marine Incidents",
+                "pub_year": "2009",
+                "citation": "East Asian Seas 2009 Congress, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Business and production of factory allocation",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of the 5S Method in the Production System",
+                "pub_year": "2009",
+                "citation": "CIM 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Bayesian updating of maintenance and reliability models",
+                "pub_year": "2009",
+                "citation": "Proceedings on 12th International Conference on Production Engineering, 13, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Upravljanje projektima",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D Scanning, CAD Optimization and 3D Print Application in Cultural Heritage: An Example on Statue from the Ancient Salona",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE HR-ISE MODEL FOR DIFFERENT SIZES OF ENTERPRISE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lean Learning Factory@ FESB: Smart Factory Project",
+                "citation": "FESB, 0"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Logistics Personal Excellence by Continuous Self-Assessment (LOPEC): Pilot Implementation-Case Studies",
+                "citation": "Conference Proceedings-MTSM 2014, 39, 0"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODEL OF INNOVATIVE SMART ENTERPRISE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Marine Pollution Risk and Sensitivity Assessments-GIS Option",
+                "citation": "Program i sa\u017eetci (Program and Abstracts), 0"
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Case Study of Lean Management implementation in beverage industry",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REGIONALNE PROIZVODNE MRE\u017dE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E6YZWEQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NbmJ6csAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "NIKOLA GJELDUM",
+            "affiliation": "Associate professor, University of Split unist.hr Faculty of electrical engineering, mechanical"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7kOsMooAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marina Crnjac Zizic",
+            "affiliation": "research assistant, University of Split, Faculty of Electrical engineering Mechanical engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BqVSdwMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amanda Aljinovic",
+            "affiliation": "Research Assistant, University of Split, Faculty of Electrical Engineering, Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Bp3OYvUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luka Celent",
+            "affiliation": "Teaching and research assistant at FESB, University of Split Unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UMS8pqsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nenad Mladineo",
+            "affiliation": "University of Split, Faculty of Civil Engineering, Architecture and Geodesy"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aP8h0rMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Prof.Ph.D. Stipe Celar",
+            "affiliation": "University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CgeypL8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nikola Banduka",
+            "affiliation": "University of Split, FESB"
+        }
+    ]
+}

@@ -1,0 +1,1047 @@
+{
+    "name": "Blagojevi\u0107 Branko",
+    "num_citations": 240,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simplified procedures for fatigue assessment of ship structures",
+                "pub_year": "2002",
+                "citation": "10th IMAM Congress, Crete, Grecee, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15816684459976842612",
+            "cites_id": [
+                "15816684459976842612"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the cross-section distortion of thin-walled beams with multi-cell cross-sections subjected to bending",
+                "pub_year": "2005",
+                "citation": "International Journal of Solids and Structures 42 (3-4), 901-925, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:HDshCWvjkbEC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8628249894462008351",
+            "cites_id": [
+                "8628249894462008351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Lagrangian differencing dynamics method for granular flow modeling",
+                "pub_year": "2021",
+                "citation": "Computers and Geotechnics 137, 104297, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11484423775771051558",
+            "cites_id": [
+                "11484423775771051558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Productional, operational, and theoretical sensitivities of fatigue damage assessment in shipbuilding",
+                "pub_year": "2002",
+                "citation": "Journal of ship production 18 (04), 185-194, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16251711728204681172",
+            "cites_id": [
+                "16251711728204681172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of numerical parameters in the finite-volume method on the Wigley hull resistance",
+                "pub_year": "2019",
+                "citation": "Proceedings of the Institution of Mechanical Engineers, Part M: Journal of \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11813047158207472817",
+            "cites_id": [
+                "11813047158207472817"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian differencing dynamics for incompressible flows",
+                "pub_year": "2022",
+                "citation": "Journal of Computational Physics 462, 111198, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4196569806993756223",
+            "cites_id": [
+                "4196569806993756223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved estimation of ship wave-making resistance",
+                "pub_year": "2020",
+                "citation": "Ocean Engineering 200, 107079, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949415730523977008",
+            "cites_id": [
+                "6949415730523977008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the stress distribution in thin-walled beams subjected to bending with influence of shear",
+                "pub_year": "2003",
+                "citation": "4th International Congress of Croatian Society oh Mechanics, September, 18-20, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:TQgYirikUcIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14741631011516076982",
+            "cites_id": [
+                "14741631011516076982"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of CFD simulation parameters in prediction of ventilated flow on a surface-piercing hydrofoil",
+                "pub_year": "2021",
+                "citation": "Ship Technology Research 68 (1), 1-13, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:dshw04ExmUIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6410854114971976123",
+            "cites_id": [
+                "6410854114971976123"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical solution of global 2D description of ship geometry with discontinuities using composition of polynomial radial basis functions",
+                "pub_year": "2014",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 65 (2), 1-22, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9208480878018486694",
+            "cites_id": [
+                "9208480878018486694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Comparison of hull resistances of a mono-hull and a SWATH craft",
+                "pub_year": "2013",
+                "citation": "International Journal of Engineering, Science and Innovative Technology 2 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11896548271248763340",
+            "cites_id": [
+                "11896548271248763340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A lagrangian finite difference method for sloshing: Simulations and comparison with experiments",
+                "pub_year": "2019",
+                "citation": "ISOPE International Ocean and Polar Engineering Conference, ISOPE-I-19-387, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16500204966088330060",
+            "cites_id": [
+                "16500204966088330060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian differencing dynamics for time-independent non-Newtonian materials",
+                "pub_year": "2021",
+                "citation": "Materials 14 (20), 6210, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9108449402922085190",
+            "cites_id": [
+                "9108449402922085190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ship geometry description using global 2D RBF interpolation",
+                "pub_year": "2010",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 61 (3), 233-242, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2452219285688260388",
+            "cites_id": [
+                "2452219285688260388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulating hydroelastic slamming by coupled Lagrangian-FDM and FEM",
+                "pub_year": "2020",
+                "citation": "HSMV 2020: Proceedings of the 12th Symposium on High Speed Marine Vehicles 5 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:UxriW0iASnsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14051217695972166463",
+            "cites_id": [
+                "14051217695972166463"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Peen-forming-the possibility of technology transfer from aircraft industry to the production of high-speed ships",
+                "pub_year": "2008",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 59 (1), 35-43, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:k_IJM867U9cC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14199149917887029683",
+            "cites_id": [
+                "14199149917887029683"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of Influential Parameters on Shot-peening of Aluminum Alloys",
+                "pub_year": "2008",
+                "citation": "2th International Research/Expert Conference Trends in the Development of \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4259794606739909125",
+            "cites_id": [
+                "4259794606739909125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending fatigue behaviour of shotpeened al-li 8090t3 thin plates",
+                "pub_year": "2009",
+                "citation": "Kovove materialy 47 (2), 115-120, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11940176997222446973",
+            "cites_id": [
+                "11940176997222446973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of project-based learning in GIS course",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17851582843010081345",
+            "cites_id": [
+                "17851582843010081345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD analysis of surface-piercing hydrofoil ventilation inception",
+                "pub_year": "2016",
+                "citation": "Proceedings of the XXII Theory and Practice of Shipbuilding, Trogir, Croatia \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9584848999753746545",
+            "cites_id": [
+                "9584848999753746545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the assessment of redundancy of ship structural components",
+                "pub_year": "2008",
+                "citation": "International Conference on Offshore Mechanics and Arctic Engineering 48197 \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:-f6ydRqryjwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7136038769386427253",
+            "cites_id": [
+                "7136038769386427253"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ocjenjivanje zamora brodskih konstrukcija",
+                "pub_year": "2000",
+                "citation": "Sveu\u010dili\u0161te u Zagrebu, Fakultet strojarstva i brodogradnje, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8623408619766546084",
+            "cites_id": [
+                "8623408619766546084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for reconstruction of gajeta hull form using photogrammetric measurement method",
+                "pub_year": "2022",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 73 (2), 139-151, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:08ZZubdj9fEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10644298382964991350",
+            "cites_id": [
+                "10644298382964991350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Prediction of Ship Wave-Making Resistance by Revised Michell's Integral",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 23rd Symposium on the Theory and Practice of Shipbuilding \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:LPZeul_q3PIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9420087087622248053",
+            "cites_id": [
+                "9420087087622248053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic indicators of structural redundancy in mechanics",
+                "pub_year": "2012",
+                "citation": "World Journal of Mechanics 2 (05), 229-238, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8956219959291006587",
+            "cites_id": [
+                "8956219959291006587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201cDRUZHBA ADRIA\u201d PROJECT\u2013MANAGING BALLAST WATER PROBLEMS",
+                "pub_year": "2007",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 54 (5-6), 227-232, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2313382896839454232",
+            "cites_id": [
+                "2313382896839454232"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of ship structural systems by events",
+                "pub_year": "2005",
+                "citation": "PhD Thesis, Zagreb, Croatia (in Croatian), 2005"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3210143821795214866",
+            "cites_id": [
+                "3210143821795214866"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling of non-Newtonian meshless flow with structural solvers",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:XiSMed-E-HIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10206013318078912026",
+            "cites_id": [
+                "10206013318078912026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian finite difference method for violent fluid\u2013structure interaction",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 32nd Symposium on Naval Hydrodynamics, M. Abdel-Maksoud \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:738O_yMBCRsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15463795874483286929",
+            "cites_id": [
+                "15463795874483286929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD analysis of surface-piercing hydrofoil ventilation inception",
+                "pub_year": "2016",
+                "citation": "XXII Theory and Practice of Shipbuilding, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:tOudhMTPpwUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=276305458791254791",
+            "cites_id": [
+                "276305458791254791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robustness Criteria for Safety Enhancement of Ship\u2019s Structural Components",
+                "pub_year": "2012",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 63 (1), 11-17, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18067501600566877819",
+            "cites_id": [
+                "18067501600566877819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust structural design based on event-oriented system analysis",
+                "pub_year": "2012",
+                "citation": "Advanced Shipping and Ocean Engineering International Journal of \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7098255452511307126",
+            "cites_id": [
+                "7098255452511307126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technologically improved strength of critical structural elements of high-speed ships",
+                "pub_year": "2007",
+                "citation": "11th International Research/Expert Conference \u201cTrends in the Development of \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5668777143776758613",
+            "cites_id": [
+                "5668777143776758613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje strukturnih sustava broda doga\u0111ajima",
+                "pub_year": "2005",
+                "citation": "Sveu\u010dili\u0161te u Zagrebu, Fakultet strojarstva i brodogradnje, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:r0BpntZqJG4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14521733731109435675",
+            "cites_id": [
+                "14521733731109435675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian Differencing Dynamics for microgravity sloshing",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:u9iWguZQMMsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2513128291471248201",
+            "cites_id": [
+                "2513128291471248201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic performance of an autonomous underwater vehicle with a swivel tail",
+                "pub_year": "2015",
+                "citation": "Towards green marine technology and transport. Boca Raton, FL: CRC Press, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5997341787765823546",
+            "cites_id": [
+                "5997341787765823546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experience and Sustainability of International Curriculum Development in Naval Architeture",
+                "pub_year": "2010",
+                "citation": "Fakultet strojarstva i brodogradnje, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:RGFaLdJalmkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15592383796832179906",
+            "cites_id": [
+                "15592383796832179906"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On project based learning in traditional engineering studies",
+                "pub_year": "2010",
+                "citation": "19th Symposium Sorta, 497-509, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:maZDTaKrznsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1384620544242138841",
+            "cites_id": [
+                "1384620544242138841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE SHOT-PEENING PROCESS CONTROL IN THE HIGH-SPEED VESSELS PRODUCTION.",
+                "pub_year": "2009",
+                "citation": "Brodogradnja 60 (1), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:isC4tDSrTZIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8975859685377553380",
+            "cites_id": [
+                "8975859685377553380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue yield of ship structures",
+                "pub_year": "2009",
+                "citation": "International Conference on Offshore Mechanics and Arctic Engineering 43420 \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13133916753264036062",
+            "cites_id": [
+                "13133916753264036062"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Approach for Simulating Planing Using Lagrangian CFD",
+                "pub_year": "2023",
+                "citation": "HSMV 2023, 33-40, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strong formulations of the generalised Navier-Stokes momentum equation",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2210.15724, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallelism and Iterative bi-Lanczos Solvers",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:p2g8aNsByqUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian Differencing Dynamics for Time-Independent Non-Newtonian Materials. Materials 2021, 14, 6210",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Book of Proceedings of the 24th Symposium on Theory and Practice of Shuipbuilding, In Memoriam of prof. Leopold Sorta",
+                "pub_year": "2020",
+                "citation": "24th Symposium on Theory and Practice of Shuipbuilding, In Memoriam of prof \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Analysis of the Ventilated Flow on a Rudder",
+                "pub_year": "2019",
+                "citation": "ISOPE International Ocean and Polar Engineering Conference, ISOPE-I-19-392, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resistance and propulsion Hydrodynamic performance of an autonomous underwater vehicle with a swivel tail",
+                "pub_year": "2015",
+                "citation": "Towards Green Marine Technology and Transport, 23-30, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE CONCEPT OF HYDRO LIFE SHIP PROPULSION",
+                "pub_year": "2015",
+                "citation": "International Journal of Advances in Engineering & Technology 8 (2), 9, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated active learning in Naval architecture studies",
+                "pub_year": "2014",
+                "citation": "Proceedings of 21st Symposium on Theory and Practice of Shipbuilding, 565, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Idejni projekt brzog broda s hibridnim pogonom",
+                "pub_year": "2013",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 60 (5-6), S91-96, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Idejni projekt brzog broda s hibridnim pogonom/Concept Design of a Fast Craft With Hybrid Propulsion",
+                "pub_year": "2013",
+                "citation": "Nase More 60 (suppl 5/6), 91, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kriteriji robustnosti za pove\u0107anje sigurnosti sastavnica brodskih konstrukcija",
+                "pub_year": "2012",
+                "citation": "Brodogradnja: \u010dasopis brodogradnje i brodogra\u0111evne industrije 63 (1), 11-17, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A procedure for measuring boat hull form",
+                "pub_year": "2011",
+                "citation": "V. savjetovanje o morskoj tehnologiji in memoriam Zlatku Winkleru, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ship Geometry Modelling Using Radial Basis Functions Interpolation",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FATIGUE YIELD OF SHIP STRUCTURES",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DRAFT: ON THE ASSESSMENT OF REDUNDANCY OF SHIP STRUCTURAL COMPONENTS",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISIO",
+                "pub_year": "2008",
+                "citation": "FESB, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The possibility of using peen-forming process in the new generation vessels prodution",
+                "pub_year": "2008",
+                "citation": "Shot-peening Conference, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shot-peening control process in the production of high-speed crafts",
+                "pub_year": "2008",
+                "citation": "XVIII. Simpozij teorija i praksa brodogradnje, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\" DRUZHBA ADRIA\" PROJECT-MANAGING BALLAST WATER PROBLEMS/\" Druzhba Adria\" projekt-problemi postupanja s balastnim vodama",
+                "pub_year": "2007",
+                "citation": "Nase More 54 (5/6), 228, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADRIA- MANAGING BALLAST WATER PROBLEMS",
+                "pub_year": "2007",
+                "citation": "Nase More 54, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvement of the fatigue properties of aluminum alloys for use in modern shipbuilding",
+                "pub_year": "2007",
+                "citation": "Second Conference on Marine Technology, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty of sequences of events",
+                "pub_year": "2006",
+                "citation": "28th International Conference on Information Technology Interfaces, 2006 \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the cross-section distortion of large tankers subjected to bending",
+                "pub_year": "2006",
+                "citation": "XVII. Simpozij Teorija i praksa brodogradnje SORTA 2006, 603-615, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje doga\u0111ajima strukturnih sustava broda",
+                "pub_year": "2005",
+                "citation": "Fakultet strojarstva i brodogradnje, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Event oriented modeling of ship structural systems",
+                "pub_year": "2005",
+                "citation": "Fakultet strojarstva i brodogradnje, Sveu\u010dili\u0161te u Zagrebu, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue Life Assessement of Ships Structures",
+                "pub_year": "2000",
+                "citation": "Fakultet strojarstva i brodogradnje, Sveu\u010dili\u0161te u Zagrebu, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Martina Andruna, Branko Blagojevi\u0107a, Josip Ba\u0161i\u0107a",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje forme trupa super brzog BRODA'spalato'tipA'gliding wing'",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic performance of an autonomous underwater vehicle with a swivel tail",
+                "citation": "Towards Green Marine Technology and Transport, 3, 0"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty of sequences of events",
+                "citation": "Proceedings of the 28th International Conference on Information Technology \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploitation of floating objects in coastal cities",
+                "citation": "International Maritime Scientific Conference, 201, 0"
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPLICATION OF MODERN COMPUTER TECHNOLOGY FOR PRODUCTION OF OLD TYPES OF SHIPS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje forme trupa super brzog BRODA'spalato'tipA'gliding wing'",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ms4bGFgAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

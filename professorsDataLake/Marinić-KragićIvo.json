@@ -1,0 +1,509 @@
+{
+    "name": "Marini\u0107-Kragi\u0107 Ivo",
+    "num_citations": 813,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of the passive cooled free-standing photovoltaic panel with fixed aluminum fins on the backside surface",
+                "pub_year": "2018",
+                "citation": "Journal of Cleaner Production 176, 119-129, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 137,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14987284313677938199",
+            "cites_id": [
+                "14987284313677938199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental and numerical investigation of a backside convective cooling mechanism on photovoltaic panels",
+                "pub_year": "2016",
+                "citation": "Energy 111, 211-225, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 110,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14120276563191477423",
+            "cites_id": [
+                "14120276563191477423"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical models for robust shape optimization of wind turbine blades",
+                "pub_year": "2016",
+                "citation": "Renewable Energy 87, 849-862, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16981111958626900606",
+            "cites_id": [
+                "16981111958626900606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Further progress in the research of fin\u2010based passive cooling technique for the free\u2010standing silicon photovoltaic panels",
+                "pub_year": "2019",
+                "citation": "International Journal of Energy Research 43 (8), 3475-3495, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15972545359702229567",
+            "cites_id": [
+                "15972545359702229567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concept of flexible vertical-axis wind turbine with numerical simulation and shape optimization",
+                "pub_year": "2019",
+                "citation": "Energy 167, 841-852, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15231661327269052504",
+            "cites_id": [
+                "15231661327269052504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of flow separation effect in the case of the free-standing photovoltaic panel exposed to various operating conditions",
+                "pub_year": "2018",
+                "citation": "Journal of Cleaner Production 174, 53-64, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:WF5omc3nYNoC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=442938480714700352",
+            "cites_id": [
+                "442938480714700352"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical workflow for 3D shape optimization and synthesis of vertical-axis wind turbines for specified operating regimes",
+                "pub_year": "2018",
+                "citation": "Renewable energy 115, 113-127, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16655433528595581767",
+            "cites_id": [
+                "16655433528595581767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational analysis of Savonius wind turbine modifications including novel scooplet-based design attained via smart numerical optimization",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 262, 121310, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17064446252936498068",
+            "cites_id": [
+                "17064446252936498068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and optimization of passive cooling approach for free-standing photovoltaic panel: Introduction of slits",
+                "pub_year": "2020",
+                "citation": "Energy Conversion and Management 204, 112277, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4468908999516798378",
+            "cites_id": [
+                "4468908999516798378"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global optimization of Savonius-type vertical axis wind turbine with multiple circular-arc blades using validated 3D CFD model",
+                "pub_year": "2022",
+                "citation": "Energy 241, 122841, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7159564427627454249",
+            "cites_id": [
+                "7159564427627454249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient shape parameterization method for multidisciplinary global optimization and application to integrated ship hull shape optimization workflow",
+                "pub_year": "2016",
+                "citation": "Computer-aided design 80, 61-75, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6681042842895234415",
+            "cites_id": [
+                "6681042842895234415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of heat convection for photovoltaic panel towards efficient design of novel hybrid cooling approach with incorporated organic phase change material",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 47, 101497, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15738514521936881515",
+            "cites_id": [
+                "15738514521936881515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of novel passive cooling strategies for free-standing silicon photovoltaic panels",
+                "pub_year": "2020",
+                "citation": "Journal of Thermal Analysis and Calorimetry 141, 163-175, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=534777405750702356",
+            "cites_id": [
+                "534777405750702356"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D shape optimization of fan vanes for multiple operating regimes subject to efficiency and noise-related excellence criteria and constraints",
+                "pub_year": "2016",
+                "citation": "Engineering Applications of Computational Fluid Mechanics 10 (1), 209-227, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11847458181268059659",
+            "cites_id": [
+                "11847458181268059659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-regime shape optimization of fan vanes for energy conversion efficiency using CFD, 3D optical scanning and parameterization",
+                "pub_year": "2014",
+                "citation": "Engineering Applications of Computational Fluid Mechanics 8 (3), 407-421, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2939483293428286721",
+            "cites_id": [
+                "2939483293428286721"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of thermo-electrical model of photovoltaic panel under hot-spot conditions with experimental validation",
+                "pub_year": "2021",
+                "citation": "Energy 230, 120785, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:4DMP91E08xMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10776672828697835239",
+            "cites_id": [
+                "10776672828697835239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust optimization of Savonius-type wind turbine deflector blades considering wind direction sensitivity and production material decrease",
+                "pub_year": "2022",
+                "citation": "Renewable Energy 192, 150-163, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5255596417973367255",
+            "cites_id": [
+                "5255596417973367255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of steel preheat temperature and molten casting alloy AlSi9Cu3 (Fe) impact speed on wear of X38CrMoV5-1 steel in high pressure die casting conditions",
+                "pub_year": "2019",
+                "citation": "Wear 424, 15-22, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:5nxA0vEk-isC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1448002055736456230",
+            "cites_id": [
+                "1448002055736456230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive re-parameterization based on arbitrary scalar fields for shape optimization and surface fitting",
+                "pub_year": "2018",
+                "citation": "Engineering Applications of Artificial Intelligence 67, 39-51, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=239487522565706749",
+            "cites_id": [
+                "239487522565706749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel projection of open geometry into rectangular domain for 3D shape parameterization",
+                "pub_year": "2018",
+                "citation": "Integrated Computer-Aided Engineering 25 (1), 1-14, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=142002136320945937",
+            "cites_id": [
+                "142002136320945937"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superimposed RBF and B-spline parametric surface for reverse engineering applications",
+                "pub_year": "2020",
+                "citation": "Integrated Computer-Aided Engineering 27 (1), 17-35, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3875122883768354098",
+            "cites_id": [
+                "3875122883768354098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Electrical Yield on Temperature Drop of the PhotovoltaicPanel: Numerical and Experimental Findings",
+                "pub_year": "2020",
+                "citation": "Journal of Sustainable Development of Energy, Water and Environment Systems \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7057333183280200496",
+            "cites_id": [
+                "7057333183280200496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and Experimental Evaluation of High-Efficiency Savonius Type Wind Turbine at Low Reynolds Number",
+                "pub_year": "2022",
+                "citation": "Proceedings of the 8th World Congress on Mechanical, Chemical, and Material \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4220977698947117946",
+            "cites_id": [
+                "4220977698947117946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduction of Shape Variables in B-Spline Based Optimization by Implementation of Analytical Shapes",
+                "pub_year": "2019",
+                "citation": "EngOpt 2018 Proceedings of the 6th International Conference on Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17305687520298353852",
+            "cites_id": [
+                "17305687520298353852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards resilient operation of photovoltaic-thermal collector with incorporated organic phase change material: Numerical and experimental investigation",
+                "pub_year": "2023",
+                "citation": "Sustainable Energy Technologies and Assessments 60, 103465, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mitigation of hot-spot effect via back side cooling techniques: A potential for electrical and thermal performance improvement",
+                "pub_year": "2023",
+                "citation": "Energy and Buildings 288, 113010, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "One-parameter battery degradation model for optimization of islanded microgrid system",
+                "pub_year": "2023",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 45 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence and Remeshing Criteria for Fitting Method Based on Iterative Reparameterization via Plane-Stress Model",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust evolutionary shape optimization for ergonomic excellence based on contact pressure distribution",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Biomechanics and Biomedical Engineering 23 (13), 945-958, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Simulation and Analysis of Die Casting Mould Wear",
+                "pub_year": "2018",
+                "citation": "Fracture, Fatigue and Wear, 621-627, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Models for Prediction of Energy Performance and Noise Emissions of Building Roof Fan",
+                "pub_year": "2018",
+                "citation": "The Role of Exergy in Energy and the Environment, 809-822, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution to airflow effect investigation over photovoltaic surfaces: Temperature and velocity contours",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary Numerical Workflow for Shape Optimization in Design for Additive Manufacturing",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EFFICIENT PARAMETERIZATION METHODS FOR GENERIC SHAPE OPTIMIZATION WITH ENGINEERING APPLICATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5CpIFpIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

@@ -1,0 +1,235 @@
+{
+    "name": "Ivanda Antonia",
+    "num_citations": 30,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping chlorophyll-a concentrations in the Ka\u0161tela Bay and Bra\u010d Channel using ridge regression and Sentinel-2 satellite images",
+                "pub_year": "2021",
+                "citation": "Electronics 10 (23), 3004, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13671032800160379722",
+            "cites_id": [
+                "13671032800160379722"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semantic Conceptual Framework for Environmental Monitoring and Surveillance\u2014A Case Study on Forest Fire Video Monitoring and Surveillance",
+                "pub_year": "2022",
+                "citation": "Electronics 11 (2), 275, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11806798842835031050",
+            "cites_id": [
+                "11806798842835031050"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of Cogent Confabulation Classifier to bathing water quality assessment using remote sensing data",
+                "pub_year": "2022",
+                "citation": "2022 45th Jubilee International Convention on Information, Communication and \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3115273801867574170",
+            "cites_id": [
+                "3115273801867574170"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transforming Social Media Posts into Volunteered Geographic Information using Data Mining Methods",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17750098018068470749",
+            "cites_id": [
+                "17750098018068470749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web Based Spatio-Temporal Data Bidirectional Relationship Visualization\u2014A Case Study of Oceanographic Data",
+                "pub_year": "2022",
+                "citation": "Appl. Sci 12, 6307, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4054858463880991555",
+            "cites_id": [
+                "4054858463880991555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An assessment of social media oil spill reports using transfer learning on remotely sensed images",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16986209736897680138",
+            "cites_id": [
+                "16986209736897680138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An application of 1D convolution and deep learning to remote sensing modelling of Secchi depth in the northern Adriatic Sea",
+                "pub_year": "2023",
+                "citation": "Big Earth Data, 1-33, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strojno u\u010denje i daljinska istra\u017eivanja za mapiranje prometnica u Splitsko-dalmatinskoj \u017eupaniji",
+                "pub_year": "2023",
+                "citation": "Zajedni\u010dki temelji 2023-uniSTem: deseti skup mladih istra\u017eiva\u010da iz podru\u010dja \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Community Involvement in Fire reporting: Time Series Examination of Official Reports and Social Media Posts in Split and Dalmatia County",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multichannel data from temporal and contextual information for early wildfire detection",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emergency services coverage area spatial analysis-a case study of Split and Dalmatia County",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Models and Technologies for Intelligent \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web Scraping Fire Incidents and Assessment of Fire Impact-A Case Study of Split and Dalmatia County Fires",
+                "pub_year": "2023",
+                "citation": "International Conference on Digital Transformation in Education and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting TV Viewership with Regression Models",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling walkability by remote sensing as latent walking speed extracted from multiple digital trail maps.",
+                "pub_year": "2022",
+                "citation": "Journal of Spatial Information Science, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web Based Spatio-Temporal Data Bidirectional Relationship Visualization\u2014A Case Study of Oceanographic Data",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (13), 6307, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance Comparison of the Cogent Confabulation Classifier with Other Commonly Used Supervised Machine Learning Algorithms for Bathing Water Quality Assessment",
+                "pub_year": "2022",
+                "citation": "Journal of computing and information technology 30 (1), 1-21, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Transfer Learning Methods for Wood Knot Detection",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eHBWOMUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

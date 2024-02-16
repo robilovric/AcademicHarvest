@@ -1,0 +1,1130 @@
+{
+    "name": "\u0160tula Maja",
+    "num_citations": 634,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forest fire protection by advanced video detection system-Croatian experiences",
+                "pub_year": "2006",
+                "citation": "Third TIEMS Workshop-Improvement of Disaster Management System, Trogir, 26-27, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4370311567162931319",
+            "cites_id": [
+                "4370311567162931319"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent forest fire monitoring system",
+                "pub_year": "2012",
+                "citation": "Information Systems Frontiers 14, 725-739, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11116353617530483242",
+            "cites_id": [
+                "11116353617530483242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced automatic wildfire surveillance and monitoring network",
+                "pub_year": "2010",
+                "citation": "VI International Conference on Forest Fire Research, 15-18, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17759999395828422559",
+            "cites_id": [
+                "17759999395828422559"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observer network and forest fire detection",
+                "pub_year": "2011",
+                "citation": "Information Fusion 12 (3), 160-175, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10255098046990089913",
+            "cites_id": [
+                "10255098046990089913"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent modeling with agent\u2010based fuzzy cognitive map",
+                "pub_year": "2010",
+                "citation": "International journal of intelligent systems 25 (10), 981-1004, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17921431153054690527",
+            "cites_id": [
+                "17921431153054690527"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying code of individual features in client-side web applications",
+                "pub_year": "2013",
+                "citation": "IEEE Transactions on Software Engineering 39 (12), 1680-1697, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11418639183576951050",
+            "cites_id": [
+                "11418639183576951050"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent based data collecting in a forest fire monitoring system",
+                "pub_year": "2006",
+                "citation": "2006 International Conference on Software in Telecommunications and Computer \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15708813999401448620",
+            "cites_id": [
+                "15708813999401448620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental intelligence based on advanced sensor networks",
+                "pub_year": "2007",
+                "citation": "2007 14th international workshop on systems, signals and image processing \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2084066857062385183",
+            "cites_id": [
+                "2084066857062385183"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A recursive tf-isf based sentence retrieval method with local context",
+                "pub_year": "2013",
+                "citation": "International Journal of Machine Learning and Computing 3 (2), 195, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:TFP_iSt0sucC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15705052881202408954",
+            "cites_id": [
+                "15705052881202408954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continuously self-adjusting fuzzy cognitive map with semi-autonomous concepts",
+                "pub_year": "2017",
+                "citation": "Neurocomputing 232, 34-51, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5652108240328774014",
+            "cites_id": [
+                "5652108240328774014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating fault tolerance approaches in multi-agent systems",
+                "pub_year": "2017",
+                "citation": "Autonomous agents and multi-agent systems 31, 151-177, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=745444441435011749",
+            "cites_id": [
+                "745444441435011749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generating feature usage scenarios in client-side web applications",
+                "pub_year": "2013",
+                "citation": "Web Engineering: 13th International Conference, ICWE 2013, Aalborg, Denmark \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:isC4tDSrTZIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11154828400028420840",
+            "cites_id": [
+                "11154828400028420840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reusing web application user-interface controls",
+                "pub_year": "2011",
+                "citation": "Web Engineering: 11th International Conference, ICWE 2011, Paphos, Cyprus \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13770105811976163406",
+            "cites_id": [
+                "13770105811976163406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vision based wildfire and natural risk observers",
+                "pub_year": "2012",
+                "citation": "2012 3rd International Conference on Image Processing Theory, Tools and \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:r0BpntZqJG4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12408306055775787995",
+            "cites_id": [
+                "12408306055775787995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Entropy-based approach in selection exact string-matching algorithms",
+                "pub_year": "2020",
+                "citation": "Entropy 23 (1), 31, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:SP6oXDckpogC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14648447891729245987",
+            "cites_id": [
+                "14648447891729245987"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse engineering legacy Web applications with phpModeler",
+                "pub_year": "2009",
+                "citation": "izlazi u samo elektronickom izdanju: NE, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4040844209839846445",
+            "cites_id": [
+                "4040844209839846445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiagent based greenhouse telecontrol system as a tool for distance experimentation",
+                "pub_year": "2005",
+                "citation": "Proceedings of the IEEE International Symposium on Industrial Electronics \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:RGFaLdJalmkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2255766402324023489,10960778283168110267",
+            "cites_id": [
+                "2255766402324023489",
+                "10960778283168110267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards specifying pragmatic software reuse",
+                "pub_year": "2015",
+                "citation": "Proceedings of the 2015 European Conference on Software Architecture \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11214251074731100699",
+            "cites_id": [
+                "11214251074731100699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed computation multi-agent system",
+                "pub_year": "2013",
+                "citation": "New Generation Computing 31, 187-209, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3224553811930066796",
+            "cites_id": [
+                "3224553811930066796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual learning environment",
+                "pub_year": "2011",
+                "citation": "Intelligent Tutoring Systems in E-Learning Environments: Design \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:-f6ydRqryjwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10676674417998609932",
+            "cites_id": [
+                "10676674417998609932"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An agent-based intelligent tutoring systems review",
+                "pub_year": "2019",
+                "citation": "International Journal of Learning Technology 14 (2), 125-140, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:_xSYboBqXhAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17662518360803406213",
+            "cites_id": [
+                "17662518360803406213"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy Cognitive Map for decision support in image post-processing",
+                "pub_year": "2011",
+                "citation": "2011 18th International Conference on Systems, Signals and Image Processing, 1-4, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17583646680513893151",
+            "cites_id": [
+                "17583646680513893151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent based methodologies in distributed control",
+                "pub_year": "2005",
+                "citation": "Proc. of Int. Conf. CEEPUS Summer School Intelligent Control Systems, 222-228, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1511977641485984519",
+            "cites_id": [
+                "1511977641485984519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web design-Past, present and future.",
+                "pub_year": "2018",
+                "citation": "MIPRO, 1476-1481, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:WbkHhVStYXYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11252276788908846865",
+            "cites_id": [
+                "11252276788908846865"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracting client-side web user interface controls",
+                "pub_year": "2010",
+                "citation": "International Conference on Web Engineering, 502-505, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7678835191582775475",
+            "cites_id": [
+                "7678835191582775475"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "phpModeler-A Web model extractor",
+                "pub_year": "2009",
+                "citation": "2009 IEEE/ACM International Conference on Automated Software Engineering \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4799588507145102318",
+            "cites_id": [
+                "4799588507145102318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Suvremeni sustavi za rano otkrivanje i pra\u0107enje po\u017eara raslinja mre\u017eom naprednih video motrila\u010dkih jedinica",
+                "pub_year": "2010",
+                "citation": "II. Konferencija Hrvatske platforme za smanjenje rizika od katastrofa 14, 1-13, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10821971608422441899",
+            "cites_id": [
+                "10821971608422441899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-agent Highway Toll Collection System.",
+                "pub_year": "2009",
+                "citation": "Automatika: Journal for Control, Measurement, Electronics, Computing \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17585238343091615050",
+            "cites_id": [
+                "17585238343091615050"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web design\u2014Past, present and future",
+                "pub_year": "2018",
+                "citation": "2018 41st International Convention on Information and Communication \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:f2IySw72cVMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8160559841175638563",
+            "cites_id": [
+                "8160559841175638563"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent multi agent systems for decision support in insurance industry",
+                "pub_year": "2014",
+                "citation": "2014 37th International Convention on Information and Communication \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:blknAaTinKkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15078452045905752331",
+            "cites_id": [
+                "15078452045905752331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Agent systems in distributed computation",
+                "pub_year": "2012",
+                "citation": "Agent and Multi-Agent Systems. Technologies and Applications: 6th KES \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8386562440929599830",
+            "cites_id": [
+                "8386562440929599830"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Country\u2019s Internet spreading rate modelling with fuzzy cognitive map",
+                "pub_year": "2011",
+                "citation": "International Journal of Modelling and Simulation 31 (4), 287-295, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10711535758781512896",
+            "cites_id": [
+                "10711535758781512896"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent based intelligent forest fire monitoring system",
+                "pub_year": "2009",
+                "citation": "Proc. of MIPRO 2009, 32nd International Convention, 260-265, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13450005976242155403",
+            "cites_id": [
+                "13450005976242155403"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Firecrow: a tool for web application analysis and reus",
+                "pub_year": "2014",
+                "citation": "Proceedings of the 29th ACM/IEEE International Conference on Automated \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:BqipwSGYUEgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17010212731342956093",
+            "cites_id": [
+                "17010212731342956093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Engineering of holonic multi agent intelligent forest fire monitoring system",
+                "pub_year": "2013",
+                "citation": "AI Communications 26 (3), 303-316, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5720530184200643983",
+            "cites_id": [
+                "5720530184200643983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CORAL-Online monitoring in distributed applications: Issues and solutions",
+                "pub_year": "2008",
+                "citation": "Wseas transactions on computers, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5762171991569969095",
+            "cites_id": [
+                "5762171991569969095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent based fuzzy cognitive maps in fire fighting decision support",
+                "pub_year": "2007",
+                "citation": "Split: 14th TIEMS Annual Conf Proc, 529-537, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4328521791755309767",
+            "cites_id": [
+                "4328521791755309767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring and control of complex, distributed systems using agent technology",
+                "pub_year": "1999",
+                "citation": "Proc. of SOFTCOM 99, Int. Conf. on Software in Telecommunications and \u2026, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15506585839935827590",
+            "cites_id": [
+                "15506585839935827590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using TF-ISF with Local Context to Generate an Owl Document Representation for Sentence Retrieval",
+                "pub_year": "2015",
+                "citation": "Comput. Sci. Eng. Int. J 5, 1-15, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:a0OBvERweLwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14118825472346067043",
+            "cites_id": [
+                "14118825472346067043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved sentence retrieval using local context and sentence length",
+                "pub_year": "2013",
+                "citation": "Information processing & management 49 (6), 1301-1312, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:k_IJM867U9cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5361691495350603270",
+            "cites_id": [
+                "5361691495350603270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fault Tolerance through Interaction and Mutual Cooperation in Hierarchical Multi-Agent Systems.",
+                "pub_year": "2013",
+                "citation": "ICAART (1), 337-344, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4507756296551875580",
+            "cites_id": [
+                "4507756296551875580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Holistic Approach to Forest Fire Protection in Split and Dalmatia County of Croatia",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:4DMP91E08xMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15107246599630130413",
+            "cites_id": [
+                "15107246599630130413"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feasible agent communication architecture",
+                "pub_year": "2002",
+                "citation": "International conference on software, telecommunications and computer \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8975424689480834501",
+            "cites_id": [
+                "8975424689480834501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian proprioceptor for forest fire observer network",
+                "pub_year": "2012",
+                "citation": "Agent and Multi-Agent Systems. Technologies and Applications: 6th KES \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12852472955523370994",
+            "cites_id": [
+                "12852472955523370994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent Based Sensor and Data Fusion in Forest Fire Observer",
+                "pub_year": "2009",
+                "citation": "IntechOpen, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:qUcmZB5y_30C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1699052146550230498",
+            "cites_id": [
+                "1699052146550230498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Questions and possible answers about ontologies concerning intelligent agents",
+                "pub_year": "2001",
+                "citation": "Proc. of SOFTCOM 2001-Int. Conf. on Software in Telecommunications and \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16210716198125649709",
+            "cites_id": [
+                "16210716198125649709"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2D motion analysis by fuzzy pattern comparator",
+                "pub_year": "1999",
+                "citation": "Computer Analysis of Images and Patterns: 8th International Conference, CAIP \u2026, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4134936207571319058",
+            "cites_id": [
+                "4134936207571319058"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining education, industry, and empirical studies in Software Engineering: an experience report",
+                "pub_year": "2015",
+                "citation": "Proceedings of the 2015 European Conference on Software Architecture \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1118834022055833923",
+            "cites_id": [
+                "1118834022055833923"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New generation of automatic ground based wildfire surveillance systems",
+                "pub_year": "2014",
+                "citation": "Parte: http://hdl. handle. net/10316.2/34013, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:GnPB-g6toBAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7732795870896854337",
+            "cites_id": [
+                "7732795870896854337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A general framework for mining relations for the semantic web",
+                "pub_year": "2012",
+                "citation": "Proceedings of the Ninth International Workshop on Information Integration \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2744325266920640000",
+            "cites_id": [
+                "2744325266920640000"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vi\u0161e-agentski sustav za naplatu cestarine",
+                "pub_year": "2009",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1155671649616103534",
+            "cites_id": [
+                "1155671649616103534"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The efficiency of supplement schema for IBVS algorithms",
+                "pub_year": "2005",
+                "citation": "Proceedings of the IEEE International Symposium on Industrial Electronics \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1624012384127852321",
+            "cites_id": [
+                "1624012384127852321"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process Control Knowledge Representation by Fuzzy Cognitive Map in an Intelligent Tutoring Systems",
+                "pub_year": "2004",
+                "citation": "Proc. of REDISCOVER, 14-16, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3126029658305340706",
+            "cites_id": [
+                "3126029658305340706"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of robot arm approach by Fuzzy Pattern comparison technique",
+                "pub_year": "1999",
+                "citation": "Computational Intelligence: Theory and Applications International Conference \u2026, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10763886713338236301",
+            "cites_id": [
+                "10763886713338236301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent based data collecting in a forest fire monitoring system",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7991558794777122923",
+            "cites_id": [
+                "7991558794777122923"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj, implementacija i kori\u0161tenje dodataka za osobe s o\u0161te\u0107enjem vida u Moodle sustavu",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cognitive Maps in Qualitative Modeling Techniques",
+                "pub_year": "2014",
+                "citation": "International Journal of Advancements in Computing Technology 6 (3), 120, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uvod u distribuirane informacijske sustave",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fraud detection in interoperable information systems",
+                "pub_year": "2010",
+                "citation": "CECIIS-2010, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Programiranje korisni\u010dkih su\u010delja na Windows platformama",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy relational architecture in robot control based on visual feedback",
+                "pub_year": "2004",
+                "citation": "Proceedings of the 12th IEEE Mediterranean Electrotechnical Conference (IEEE \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy rational arahitecture in rorot coctrol based on vivual fefdback",
+                "pub_year": "2004",
+                "citation": "MELECON 2004 (12th IEEE Mediterranean electrotechnical conference), 2004"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program structures for EPIC-LITE experimental implementation",
+                "pub_year": "2002",
+                "citation": "International conference on software, telecommunications and computer \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Special session on Image Processing for Natural Risks (IPNR)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "vatra. fesb. hr",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DICES: Distributed Component-based Embedded Software Systems",
+                "citation": "ANNUAL 2010/2011 OF THE CROATIAN ACADEMY OF ENGINEERING, 154, 0"
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual learning environment based on general CMS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MACS: Multi-agent charter system",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "phpModeler\u2013an approach to Reverse Engineering legacy Web applications",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rfgWlCIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V-v16W8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Darko Stipanicev",
+            "affiliation": "University of Split, Faculty of Elecrtical Engineering, Mechanical Engineering and Naval Arhitecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OGDtCJ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Maras",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QxhAZBQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ljiljana \u0160eri\u0107",
+            "affiliation": "University of Split, FESB, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gH5Au04AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jan Carlson",
+            "affiliation": "Professor, M\u00e4lardalen University, Sweden"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "v7GIcYYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sa\u0161a Mladenovi\u0107",
+            "affiliation": "University of Split, Faculty of Science, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yewx0GgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivica Crnkovic",
+            "affiliation": "Professor in Software Engineering, Chalmers University, Sweden"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "D-Zel8AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Marki\u0107",
+            "affiliation": "University of Mostar, Faculty of Mechanical Engineering, Computing and Electrical Engineering sum.ba"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jONzrXIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Slavomir Stankov",
+            "affiliation": "Full professor, Split, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MZ3wF_0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nenad Ukic",
+            "affiliation": "Ericsson Nikola Tesla d.d."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SQp__JgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petar \u0160oli\u0107",
+            "affiliation": "University of Split, FESB unist.hr"
+        }
+    ]
+}

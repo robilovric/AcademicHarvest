@@ -1,0 +1,367 @@
+{
+    "name": "Bu\u017ean\u010di\u0107 Primorac Branka",
+    "num_citations": 131,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Residual ultimate strength assessment of double hull oil tanker after collision",
+                "pub_year": "2017",
+                "citation": "Engineering structures 148, 704-717, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:dhFuZR0502QC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12902202266943632047",
+            "cites_id": [
+                "12902202266943632047"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of statistical data on ship accidents",
+                "pub_year": "2016",
+                "citation": "Maritime technology and engineering, 809-814, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3083503336103785461",
+            "cites_id": [
+                "3083503336103785461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural reliability analysis of ship hulls accounting for collision or grounding damage",
+                "pub_year": "2020",
+                "citation": "Journal of Marine Science and Application 19, 717-733, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6845105502088156997",
+            "cites_id": [
+                "6845105502088156997"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element study of residual ultimate strength of a double hull oil tanker with simplified collision damage and subjected to bi-axial bending",
+                "pub_year": "2018",
+                "citation": "Ships and Offshore Structures 13 (sup1), 25-36, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=619596092217665190",
+            "cites_id": [
+                "619596092217665190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Residual strength of damaged oil tanker in the Adriatic Sea",
+                "pub_year": "2012",
+                "citation": "Response of ships and shipping research to the international crisis, 127-128, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:aqlVkmm33-oC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5609994861140601066",
+            "cites_id": [
+                "5609994861140601066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic models of ultimate strength reduction of damaged ship",
+                "pub_year": "2015",
+                "citation": "Transactions of FAMENA 39 (2), 55-74, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16487753387328978536",
+            "cites_id": [
+                "16487753387328978536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistics of still water bending moment of damaged ship. Analysis and Design of Marine Structures, Guedes Soares & Shenoi",
+                "pub_year": "2015",
+                "citation": "Taylor and Francis Group, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7598752220761893167",
+            "cites_id": [
+                "7598752220761893167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element study of residual ultimate strength of a double hull oil tanker damaged in collision and subjected to bi-axial bending",
+                "pub_year": "2017",
+                "citation": "ICSOS 2017: Proceedings of the International Conference on Ships and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4350319034817226468",
+            "cites_id": [
+                "4350319034817226468"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PROBABILISTIC MODELS OF REDUCTION IN ULTIMATE STRENGTH OF A DAMAGED SHIP.",
+                "pub_year": "2015",
+                "citation": "Transactions of FAMENA 39 (2), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6338297945730951210",
+            "cites_id": [
+                "6338297945730951210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistics of still water bending moment of damaged ship",
+                "pub_year": "2015",
+                "citation": "Analysis and Design of Marine Structures, 491-497, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7934719903935912538",
+            "cites_id": [
+                "7934719903935912538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduction of the ultimate strength due to crack propagation in damaged ship structure",
+                "pub_year": "2014",
+                "citation": "Developments in Maritime Transportation and Exploitation of Sea Resources \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:HDshCWvjkbEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17752173730751112633",
+            "cites_id": [
+                "17752173730751112633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistics of still water bending moment of damaged Suezmax oil tanker",
+                "pub_year": "2015",
+                "citation": "Proceedings of the 18th International Conference on Ships and Shipping \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11962005634165541396",
+            "cites_id": [
+                "11962005634165541396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Framework for risk-based salvage operation of damaged oil tanker after collision in the Adriatic Sea",
+                "pub_year": "2018",
+                "citation": "Maritime Transportation and Harvesting of Sea Resources, 67-75, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3562804092316661567",
+            "cites_id": [
+                "3562804092316661567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural reliability assessment of accidentally damaged oil tanker",
+                "pub_year": "2015",
+                "citation": "Universities of Zagreb and Split, Croatia, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17019174031577349070,11501613081221375450",
+            "cites_id": [
+                "17019174031577349070",
+                "11501613081221375450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistics of still water bending moment of damaged ships",
+                "pub_year": "2015",
+                "citation": "Anal. Des. Mar. Struct, 491-497, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15983432879161938687",
+            "cites_id": [
+                "15983432879161938687"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New analytic model for torsion with shear influence of thin-walled composite beams with symmetrical open sections",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eccentric compressive load on short pultruded wide flange beam",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vjerojatnost sloma trupa o\u0161te\u0107enoga tankera za prijevoz nafte",
+                "pub_year": "2016",
+                "citation": "University of Zagreb. Faculty of Mechanical Engineering and Naval Architecture, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistics of still water bending moment of damaged Suezmax oil tanker",
+                "pub_year": "2015",
+                "citation": "NAV 2015 18th International Conference on Ships and Shipping Research, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Damaged structures Statistics of still water bending moment of damaged ships",
+                "pub_year": "2015",
+                "citation": "Analysis and Design of Marine Structures V, 505-512, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vjerojatnosni model smanjenja grani\u010dne \u010dvrsto\u0107e o\u0161te\u0107enog nasukanog broda",
+                "pub_year": "2014",
+                "citation": "Sorta 2014: zbornik radova XXI. simpozija Teorija i praksa brodogradnje, in \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj bo\u010dnog nagiba na grani\u010dni moment savijanja o\u0161te\u0107enog broda",
+                "pub_year": "2014",
+                "citation": "Sorta 2014: zbornik radova XXI. simpozija Teorija i praksa brodogradnje, in \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduction of the ultimate strength due to crack propagation in damaged ship structure",
+                "pub_year": "2013",
+                "citation": "Clinical Medicine of the Dog and Cat, 365, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RESIDUAL STRENGTH OF DAMAGED OIL TANKER IN THE ADRIATIC SEA",
+                "pub_year": "2012",
+                "citation": "NAV 2012 17th International Conference on Ships and Shipping Research, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural Reliability of Damaged Oil Tanker in the Adriatic Sea",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "t-ophbsAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

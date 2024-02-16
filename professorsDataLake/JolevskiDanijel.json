@@ -1,0 +1,239 @@
+{
+    "name": "Jolevski Danijel",
+    "num_citations": 102,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of gantry/bridge crane with anti-sway algorithm",
+                "pub_year": "2015",
+                "citation": "Journal of mechanical science and technology 29, 827-834, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1527437036934206403",
+            "cites_id": [
+                "1527437036934206403"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control structure design and dynamics modelling of the organic Rankine cycle system",
+                "pub_year": "2017",
+                "citation": "Energy 121, 193-204, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=687152429298922443",
+            "cites_id": [
+                "687152429298922443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Excitation system of synchronous generator",
+                "pub_year": "2009",
+                "citation": "Faculty of Electrical Engineering, Mechanical Engineering and Naval \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8732955196175195536",
+            "cites_id": [
+                "8732955196175195536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy feedback linearization adaptive control for nonlinear systems via a NN-based approach",
+                "pub_year": "2011",
+                "citation": "International Review of Automatic Control 4 (2), 144-152, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15451716106758505726",
+            "cites_id": [
+                "15451716106758505726"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transformer insulation coordination using volt\u2013time curve and limit\u2013state surface formulation",
+                "pub_year": "2017",
+                "citation": "International Journal of Electrical Power & Energy Systems 90, 256-266, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6171660726465777909",
+            "cites_id": [
+                "6171660726465777909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Input Shaping of the Synchronous Generator for Reduction of Self\u2010induced Oscillations",
+                "pub_year": "2016",
+                "citation": "Asian Journal of Control 18 (2), 473-480, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4560395368084421440",
+            "cites_id": [
+                "4560395368084421440"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modified GPC Controller for Control of Processes with Long Dead-Time and Integral Action",
+                "pub_year": "2011",
+                "citation": "International Review of Automatic Control 4 (2), 162-169, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10516116787269385157",
+            "cites_id": [
+                "10516116787269385157"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Electric Vehicle Parking Lot Energy Supply Based on Mixed-Integer Linear Programming",
+                "pub_year": "2023",
+                "citation": "Energies 16 (23), 7793, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric Vehicle Charging Station Power Supply Optimization with V2X Capabilities Based on Mixed-Integer Linear Programming",
+                "pub_year": "2023",
+                "citation": "Sustainability 15 (22), 16073, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modification and testing of the microinverter development kit for the purpose of connecting the battery system",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient integration of electric vehicles through optimal coordinated charging and reactive power support",
+                "pub_year": "2023",
+                "citation": "IET Digital Library, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active Distribution Network Voltage Profile Optimization Using Mixed Integer Linear Programming",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Smart Systems and Technologies (SST), 73-79, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GA Optimized AVR Controller with Higher Degree of Freedom of Tuning of Wanted Response",
+                "pub_year": "2015",
+                "citation": "International Review of Automatic Control (IREACO) 8 (1), 72-79, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prediktivno upravljanje dizali\u010dnim sustavom s algoritmom smanjenja njihanja tereta",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tuning voltage controller of synchronous generator",
+                "pub_year": "2010",
+                "citation": "20 International Conference\" Electrical Engineering Symposium\", 2010"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controlling process with large dead time and integral disturbance",
+                "pub_year": "2009",
+                "citation": "18 International Conference\" Electrical Engineering Symposium\", 2009"
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protokol o ispitivanju geoelektri\u010dkih zna\u010dajki tla na 110 kV kabelskoj trasi Pehlin-Turni\u0107",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "TQEiBh4AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

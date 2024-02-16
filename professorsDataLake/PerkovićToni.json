@@ -1,0 +1,1467 @@
+{
+    "name": "Perkovi\u0107 Toni",
+    "num_citations": 698,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart parking sensors: State of the art and performance evaluation",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 262, 121181, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:r0BpntZqJG4C",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6868040299010732816",
+            "cites_id": [
+                "6868040299010732816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SSSL: shoulder surfing safe login",
+                "pub_year": "2010",
+                "citation": "Journal of Communications Software and Systems 6 (2), 65-73, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5800053909557688703",
+            "cites_id": [
+                "5800053909557688703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart monitoring technologies for personal thermal comfort: A review",
+                "pub_year": "2021",
+                "citation": "Journal of Cleaner Production 312, 127685, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9833104406548113630",
+            "cites_id": [
+                "9833104406548113630"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shoulder-Surfing Safe Login in a Partially Observable Attacker Model: (Short Paper)",
+                "pub_year": "2010",
+                "citation": "Financial Cryptography and Data Security: 14th International Conference, FC \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7461380332147499452,16896981709395030598",
+            "cites_id": [
+                "7461380332147499452",
+                "16896981709395030598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Secure initialization of multiple constrained wireless devices for an unaided user",
+                "pub_year": "2012",
+                "citation": "IEEE transactions on mobile computing 11 (02), 337-351, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8335031175121342025",
+            "cites_id": [
+                "8335031175121342025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Breaking undercover: Exploiting design flaws and nonuniform human behavior",
+                "pub_year": "2011",
+                "citation": "Proceedings of the Seventh Symposium on Usable Privacy and Security, 1-15, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8694506831410549704",
+            "cites_id": [
+                "8694506831410549704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Timing attacks on cognitive authentication schemes",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Information Forensics and Security 10 (3), 584-596, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2226942976073603767",
+            "cites_id": [
+                "2226942976073603767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT-ready energy-autonomous parking sensor device",
+                "pub_year": "2020",
+                "citation": "IEEE Internet of Things Journal 8 (6), 4830-4840, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:BqipwSGYUEgC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1619168027585238334",
+            "cites_id": [
+                "1619168027585238334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine learning and soil humidity sensing: Signal strength approach",
+                "pub_year": "2021",
+                "citation": "ACM Transactions on Internet Technology (TOIT) 22 (2), 1-21, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:RGFaLdJalmkC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4605565702900147097",
+            "cites_id": [
+                "4605565702900147097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of passive RFID applicability in a retail store: What can we expect?",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (7), 2038, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=880554616322086445",
+            "cites_id": [
+                "880554616322086445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meeting challenges in IoT: Sensing, energy efficiency, and the implementation",
+                "pub_year": "2020",
+                "citation": "Fourth International Congress on Information and Communication Technology \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:qUcmZB5y_30C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6960207875581944275",
+            "cites_id": [
+                "6960207875581944275"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proof of presence: Novel vehicle detection system",
+                "pub_year": "2019",
+                "citation": "IEEE Wireless Communications 26 (6), 44-49, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11224909520272107999",
+            "cites_id": [
+                "11224909520272107999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Privacy leakage of LoRaWAN smart parking occupancy sensors",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 138, 142-159, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9211428218907583981",
+            "cites_id": [
+                "9211428218907583981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LIRA: A new key deployment scheme for Wireless Body Area Networks",
+                "pub_year": "2013",
+                "citation": "2013 21st International Conference on Software, Telecommunications and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6088019899508132803",
+            "cites_id": [
+                "6088019899508132803"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards reliable IoT: Testing lora communication",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1969808095295684663",
+            "cites_id": [
+                "1969808095295684663"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-cost implementation of reactive jammer on LoRaWAN network",
+                "pub_year": "2021",
+                "citation": "Electronics 10 (7), 864, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9523319100612111263",
+            "cites_id": [
+                "9523319100612111263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flashing displays: user\u2010friendly solution for bootstrapping secure associations between multiple constrained wireless devices",
+                "pub_year": "2016",
+                "citation": "Security and Communication Networks 9 (10), 1050-1071, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:roLk4NBRz8UC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8078590779966743465",
+            "cites_id": [
+                "8078590779966743465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LISA: Visible light based initialization and SMS based authentication of constrained IoT devices",
+                "pub_year": "2019",
+                "citation": "Future Generation Computer Systems 97, 105-118, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:IWHjjKOFINEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10384510072407724803",
+            "cites_id": [
+                "10384510072407724803"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blinkcomm: Initialization of iot devices using visible light communication",
+                "pub_year": "2018",
+                "citation": "Wireless Communications and Mobile Computing 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:4TOpqqG69KYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1233980658340316498",
+            "cites_id": [
+                "1233980658340316498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine Learning Approach towards LoRaWAN Indoor Localization",
+                "pub_year": "2023",
+                "citation": "Electronics 12 (2), 457, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:abG-DnoFyZgC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6859093290583625855",
+            "cites_id": [
+                "6859093290583625855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT approach towards smart water usage",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 367, 133065, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:u_35RYKgDlwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13492841198852279531",
+            "cites_id": [
+                "13492841198852279531"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensing occupancy through software: Smart parking proof of concept",
+                "pub_year": "2020",
+                "citation": "Electronics 9 (12), 2207, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17780229221381142822",
+            "cites_id": [
+                "17780229221381142822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Location privacy and changes in wifi probe request based connection protocols usage through years",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=503982275010182450",
+            "cites_id": [
+                "503982275010182450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of personal thermal comfort in office building by implementation of smart bracelet: A case study",
+                "pub_year": "2022",
+                "citation": "Energy 260, 124973, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4209083357450705860",
+            "cites_id": [
+                "4209083357450705860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SSID oracle attack on undisclosed Wi-Fi preferred network lists",
+                "pub_year": "2018",
+                "citation": "Wireless Communications and Mobile Computing 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:aqlVkmm33-oC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3649941849927231244",
+            "cites_id": [
+                "3649941849927231244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fortune cookies and smartphones: Weakly unrelayable channels to counter relay attacks",
+                "pub_year": "2015",
+                "citation": "Pervasive and Mobile Computing 20, 64-81, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1828158574228755857",
+            "cites_id": [
+                "1828158574228755857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multichannel protocols for user-friendly and scalable initialization of sensor networks",
+                "pub_year": "2009",
+                "citation": "Security and Privacy in Communication Networks: 5th International ICST \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4860054514803581409",
+            "cites_id": [
+                "4860054514803581409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT and health monitoring wearable devices as enabling technologies for sustainable enhancement of life quality in smart environments",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production 413, 137506, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7541207793237008855",
+            "cites_id": [
+                "7541207793237008855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-cost LoRaWAN jammer",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:GnPB-g6toBAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1266933237891335987",
+            "cites_id": [
+                "1266933237891335987"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-Sensing Antenna for Soil Moisture: Beacon Approach",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (24), 9863, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:_xSYboBqXhAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1101607204542141895",
+            "cites_id": [
+                "1101607204542141895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uhf rfid: Retail store performance",
+                "pub_year": "2021",
+                "citation": "IEEE Journal of Radio Frequency Identification 6, 481-489, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17351869519693308068",
+            "cites_id": [
+                "17351869519693308068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT wallet: Machine learning-based sensor portfolio application",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4607501532974953678",
+            "cites_id": [
+                "4607501532974953678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart parking sensor performance evaluation",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13852483232348840425",
+            "cites_id": [
+                "13852483232348840425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards ontology-based requirements engineering for iot-supported well-being, aging and health",
+                "pub_year": "2022",
+                "citation": "2022 IEEE 30th International Requirements Engineering Conference Workshops \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:f2IySw72cVMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4605596004901253070",
+            "cites_id": [
+                "4605596004901253070"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT deployment for smart building: Water consumption analysis",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9412158205135114911",
+            "cites_id": [
+                "9412158205135114911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometry from thin air: Theremin as a playful learning device",
+                "pub_year": "2021",
+                "citation": "2021 16th International Conference on Telecommunications (ConTEL), 89-96, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12209780191024778571",
+            "cites_id": [
+                "12209780191024778571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "eMoorings: Distributed low power wide area system to control moorings",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2717638164043111422",
+            "cites_id": [
+                "2717638164043111422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coastal Flooding Assessment Induced by Barometric Pressure, Wind-Generated Waves and Tidal-Induced Oscillations: Ka\u0161tela Bay Real-Time Early Warning System Mobile Application",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (24), 12776, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7117343688933143841",
+            "cites_id": [
+                "7117343688933143841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tag Estimation Method for ALOHA RFID System Based on Machine Learning Classifiers",
+                "pub_year": "2022",
+                "citation": "Electronics 11 (16), 2605, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2421385327231627190",
+            "cites_id": [
+                "2421385327231627190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small printed antenna for soil sensors",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15212325541390739193",
+            "cites_id": [
+                "15212325541390739193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards linking social media profiles with user\u2019s WiFi preferred network list",
+                "pub_year": "2020",
+                "citation": "Ad Hoc Networks 107, 102244, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:TFP_iSt0sucC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6138004013805173458",
+            "cites_id": [
+                "6138004013805173458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active IR system for projectile detection and tracking",
+                "pub_year": "2017",
+                "citation": "Advances in Electrical and Computer Engineering 17 (4), 125-130, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16082703629867805175",
+            "cites_id": [
+                "16082703629867805175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology-Based Cybersecurity for Well-Being, Aging and Health: A Scoping Review",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Mediterranean Conference on Communications and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:p2g8aNsByqUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13125659689159426182",
+            "cites_id": [
+                "13125659689159426182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the potential of bluetooth low energy for wireless sensing and on-board computation in remote health monitoring",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:KxtntwgDAa4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10207537838303238682",
+            "cites_id": [
+                "10207537838303238682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An industrial iot-based ontology development for well-being, aging and health: a scoping review",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on E-health Networking, Application \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14232834207373018020",
+            "cites_id": [
+                "14232834207373018020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-cost BLE bracelet as patients monitoring platform: range restrictions",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on E-health Networking, Application \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13150989446026651131",
+            "cites_id": [
+                "13150989446026651131"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward smart shirt for sensing thermal comfort",
+                "pub_year": "2022",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 44 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:rO6llkc54NcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7225620535186965633",
+            "cites_id": [
+                "7225620535186965633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On wpa2-enterprise privacy in high education and science",
+                "pub_year": "2020",
+                "citation": "Security and Communication Networks 2020, 1-11, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9034684467865196814",
+            "cites_id": [
+                "9034684467865196814"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of SDR-Based RFID reader: Filling Out the Gaps",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13108107383346406404",
+            "cites_id": [
+                "13108107383346406404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracting secret key from channel measurements in wireless sensor networks",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009-17th International Conference on Software, Telecommunications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9803463213150361411",
+            "cites_id": [
+                "9803463213150361411"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Investigation of a Replay Attack on LoRaWAN Wearable Devices",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Mediterranean Conference on Communications and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12413655470252194401",
+            "cites_id": [
+                "12413655470252194401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT Ontology Development Process for Well-Being, Aging and Health: Challenges and Opportunities",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15709645612134724874",
+            "cites_id": [
+                "15709645612134724874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-sensing antenna for soil moisture",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:dshw04ExmUIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10967919084231372290",
+            "cites_id": [
+                "10967919084231372290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RFID Performance Evaluation in a Retail Store",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9753280889385657044",
+            "cites_id": [
+                "9753280889385657044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internet of Things: Hardware and Software Solutions",
+                "pub_year": "2020",
+                "citation": "Journal of Communications Software and Systems 16 (2), 105-106, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:isC4tDSrTZIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8563585368127930250",
+            "cites_id": [
+                "8563585368127930250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enabling IoT through Gen2 RFID: PHY/MAC research opportunities",
+                "pub_year": "2018",
+                "citation": "2018 6th International EURASIP Workshop on RFID Technology (EURFID), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14016163941137793375",
+            "cites_id": [
+                "14016163941137793375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wake-on-a-Schedule: Energy-aware Communication in Wi-Fi Networks",
+                "pub_year": "2014",
+                "citation": "Advances in Electrical and Computer Engineering 14 (1), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5931624957977040755",
+            "cites_id": [
+                "5931624957977040755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "User Friendly Authentication Mechanisms in User-to-Device and Device-to-Device Interactions",
+                "pub_year": "2013",
+                "citation": "Doctoral Thesis, Split, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12289095466191674193",
+            "cites_id": [
+                "12289095466191674193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circuit Design, Realization, and Test of a Bluetooth Low Energy Wireless Sensor With On-Board Computation for Remote Healthcare Monitoring",
+                "pub_year": "2024",
+                "citation": "IEEE Journal of Radio Frequency Identification, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance Analysis of Antenna-Based Soil Sensing",
+                "pub_year": "2023",
+                "citation": "IEEE Journal of Radio Frequency Identification, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-standard Universal Datalogger for industrial applications",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and development of an IoT learning system for health-related applications",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Importance of air quality indicators for office environments: An overview",
+                "pub_year": "2023",
+                "citation": "IOP Conference Series: Earth and Environmental Science 1196 (1), 012099, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a Machine Learning Smart Toy Design for Early Childhood Geometry Education: Usability and Performance",
+                "pub_year": "2023",
+                "citation": "Electronics 12 (8), 1951, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrigendum to \u201cIoT approach towards smart water usage\u201d[J. Clean. Prod. 365 (10 September 2022) 132792]",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 367, 133069, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wearables for ML applications in health monitoring: a review of technologies and approaches",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guest Editorial: Smart Environments",
+                "pub_year": "2022",
+                "citation": "Journal of Communications Software and Systems 18 (2), 182-183, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward smart shirt for sensing thermal comfort",
+                "pub_year": "2022",
+                "citation": "ENERGY SOURCES PART A-RECOVERY UTILIZATION AND ENVIRONMENTAL EFFECTS 44 (2 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guest Editorial: Smart Systems and Architectures",
+                "pub_year": "2021",
+                "citation": "Journal of Communications Software and Systems 17 (2), 203-204, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2021",
+                "citation": "IEEE Communications Magazine 59 (6), 7-10, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Markov Model as Approach to Parking Space Occupancy Prediction",
+                "pub_year": "2021",
+                "citation": "IEICE Proceedings Series 64 (ICTF2020_paper_9), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2020",
+                "citation": "IEEE Communications Magazine 58 (2), 7-10, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing RFID Tags Performance through Software Defined Radio",
+                "pub_year": "2019",
+                "citation": "2019 IEEE International Conference on RFID Technology and Applications (RFID \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart Cities: Multidisciplinary Approach",
+                "pub_year": "2019",
+                "citation": "Journal of Communications Software and Systems 15 (2), 77-78, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2019 4th International Conference on Smart and Sustainable Technologies (SpliTech): SpliTech 2019: Bol/Split, Croatia, June 18-21, 2019",
+                "pub_year": "2019",
+                "citation": "FESB, University of Split, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart Cities",
+                "pub_year": "2018",
+                "citation": "Journal of Communications Software and Systems 14 (1), 1-3, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SpliTech 2018: 2018 3rd International Conference on Smart and Sustainable Technologies (SpliTech): Split, Croatia, June 26-29, 2018",
+                "pub_year": "2018",
+                "citation": "FESB, University of Split, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SpliTech 2018",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guest Editorial: Enabling Architectures and Technologies for Smart Cities",
+                "pub_year": "2017",
+                "citation": "Journal of Communications Software and Systems 13 (2), 41-43, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SpliTech 2017: 2017 2nd International Multidisciplinary Conference on Computer and Energy Science (SpliTech): Split, Croatia, July 12-14, 2017",
+                "pub_year": "2017",
+                "citation": "FESB, University of Split., 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing Decision Tree Attack on CAS Scheme",
+                "pub_year": "2016",
+                "citation": "Advances in Electrical and Computer Engineering 16 (2), 69-75, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju otpora izolacije i dielektri\u010dne \u010dvrsto\u0107e ure\u0111aja za transkranijalnu stimulaciju",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju kabliranja LAN instalacije u laboratoriju Sveu\u010dili\u0161nog odjela za stru\u010dne studije",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primjena problema EL FAROL BARA pri simulaciji komunikacijskih mre\u017ea",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:LPZeul_q3PIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of EL FAROL BAR to simulation of communication networks",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, Sveu\u010dili\u0161te u \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stamatiadou, Marina Eirini",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of 3d technologies in footwear trace evidence collection and identification",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "eMoorings: Distributed low power wide area system to control moorings",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LI, Shuaibing Lopes, Nuno Maras, Josip Marasovic, Tea",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iliev, Plamen 111",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small Coalitions in Cognitive Radio Networks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V3NxDscAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SQp__JgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petar \u0160oli\u0107",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y3F7cwIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mario Cagalj",
+            "affiliation": "University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0TffQtAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lea Dujic Rodic",
+            "affiliation": "University of Split  Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "97WutEsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joel Rodrigues, AAIA & IEEE FELLOW...",
+            "affiliation": "Senac Cear\u00e1; KSU; Lusofona University, COPELABS; UFPI; INATEL; UBI; Instituto de Telecomunica\u00e7\u00f5es"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GYzk-XsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zoran Blazevic",
+            "affiliation": "Full professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BtHI3X8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sandro Ni\u017eeti\u0107",
+            "affiliation": "University of Split, FESB, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xriWnMQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marin Bugaric",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s1Tr-G0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tonko Kovacevi\u0107",
+            "affiliation": "Senior Lecturer in Electronics and Computer Engineering, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "C2P1GHUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivo Stancic",
+            "affiliation": "University of Split, unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VPd7XC4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Riccardo Colella",
+            "affiliation": "University of Salento"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TJZ7cucAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luca catarinucci",
+            "affiliation": "Department of Innovation Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_x5BEjoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nitesh Saxena",
+            "affiliation": "Full Professor at the Texas A&M University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7PuKTjgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ante Dagelic",
+            "affiliation": "Research assistant"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2DNYP3EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shujun Li (\u674e\u6811\u94a7)",
+            "affiliation": "Professor of Cyber Security, School of Computing, University of Kent"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ch8oDegAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Toni Masteli\u0107",
+            "affiliation": "ETK Research, Ericsson Nikola Tesla d.d., Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hoxGszUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yousra Javed",
+            "affiliation": "Assistant Professor of Cybersecurity, Illinois State University"
+        }
+    ]
+}

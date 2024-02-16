@@ -1,0 +1,824 @@
+{
+    "name": "Gruji\u0107 Tamara",
+    "num_citations": 400,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design, development and testing of a low-cost sEMG system and its use in recording muscle activity in human gait",
+                "pub_year": "2014",
+                "citation": "Sensors 14 (5), 8235-8258, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:dhFuZR0502QC",
+            "num_citations": 83,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15156617144901966786",
+            "cites_id": [
+                "15156617144901966786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of hand preshaping during human grasping",
+                "pub_year": "2005",
+                "citation": "Medical engineering & physics 27 (9), 790-797, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:qUcmZB5y_30C",
+            "num_citations": 66,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16462079381487682719",
+            "cites_id": [
+                "16462079381487682719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of reach-to-grasp trajectories toward stationary objects",
+                "pub_year": "2011",
+                "citation": "Clinical biomechanics 26 (8), 811-818, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5790641844993382340",
+            "cites_id": [
+                "5790641844993382340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gesture recognition system for real-time mobile robot control based on inertial sensors and motion strings",
+                "pub_year": "2017",
+                "citation": "Engineering Applications of Artificial Intelligence 66, 33-48, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3298372387949563880",
+            "cites_id": [
+                "3298372387949563880"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design, development and evaluation of optical motion\u2010tracking system based on active white light markers",
+                "pub_year": "2013",
+                "citation": "IET Science, Measurement & Technology 7 (4), 206-214, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14555800692089771410",
+            "cites_id": [
+                "14555800692089771410"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Outline of a qualitative analysis for the human motion in case of ergometer rowing",
+                "pub_year": "2009",
+                "citation": "WSEAS International Conference. Proceedings. Mathematics and Computers in \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10063306540421209103",
+            "cites_id": [
+                "10063306540421209103"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Denoising of surface EMG signals: A comparision of wavelet and classical digital filtering procedures",
+                "pub_year": "2004",
+                "citation": "Technology and Health Care 12 (2), 130-135, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:TQgYirikUcIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18347875742838448270",
+            "cites_id": [
+                "18347875742838448270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design, development and testing of the modular unmanned surface vehicle platform for marine waste detection",
+                "pub_year": "2017",
+                "citation": "Journal of Multimedia Information System 4 (4), 195-204, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3941219350434324984",
+            "cites_id": [
+                "3941219350434324984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer vision system for human anthropometric parameters estimation",
+                "pub_year": "2009",
+                "citation": "WSEAS Transactions on Systems 8 (3), 430-439, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1519127878295944868",
+            "cites_id": [
+                "1519127878295944868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical evaluation of the effect of optimization and regularization techniques on the generalization performance of deep convolutional neural network",
+                "pub_year": "2020",
+                "citation": "Applied Sciences 10 (21), 7817, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11340338736098142600",
+            "cites_id": [
+                "11340338736098142600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New kinematic parameters for quantifying irregularities in the human and humanoid robot gait",
+                "pub_year": "2012",
+                "citation": "International journal of advanced robotic systems 9 (5), 215, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12437337483348292016",
+            "cites_id": [
+                "12437337483348292016"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement and analysis of human hand kinematics",
+                "pub_year": "2015",
+                "citation": "International Journal of Medical, Health, Biomedical and Pharmaceutical \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15577771945020910174",
+            "cites_id": [
+                "15577771945020910174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlation of EMG activity and kinematics in case of ergometer rowing",
+                "pub_year": "2006",
+                "citation": "Proceedings of the 7th WSEAS International Conference on Automation \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15697594282320619630",
+            "cites_id": [
+                "15697594282320619630"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculating positions of the finger joints centres of rotations in flexion-extension movement from reflective markers",
+                "pub_year": "2004",
+                "citation": "Proceedings of The IMEKO, IEEE, SICE 2nd International Symposium on \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:_kc_bZDykSQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12799822707163374400,3198518924681284023",
+            "cites_id": [
+                "12799822707163374400",
+                "3198518924681284023"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dislocated Measurements of Human Gait and Central Data Processing",
+                "pub_year": "2001",
+                "citation": "Proceedings of the SoftCOM, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1775203320116334933",
+            "cites_id": [
+                "1775203320116334933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of hand-object alingment during reachingto-grasp movement",
+                "citation": "Proceeding of the 3rd European Medical and Biological Engineering Conference \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10113335681683591762",
+            "cites_id": [
+                "10113335681683591762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of Low-Resolution Flying Objects in Videos Using the Machine Learning Approach.",
+                "pub_year": "2022",
+                "citation": "Advances in Electrical & Computer Engineering 22 (2), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:isC4tDSrTZIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8697064254974706067",
+            "cites_id": [
+                "8697064254974706067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and testing of a device for human kinematics measurement",
+                "pub_year": "2009",
+                "citation": "WSEAS transactions on systems 8 (9), 1083-1092, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:ufrVoPGSRksC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5299354926691416114",
+            "cites_id": [
+                "5299354926691416114"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of hand grasping by instrumented glove",
+                "pub_year": "2008",
+                "citation": "WSEAS Trans. Syst. Control 3 (1), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12819393456842406519",
+            "cites_id": [
+                "12819393456842406519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New experimental procedures for kinematics analysis and muscle activity identification in case of ergometer rowing.",
+                "pub_year": "2006",
+                "citation": "WSEAS Transactions on Systems 5 (7), 1601-1608, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13792521414342902293",
+            "cites_id": [
+                "13792521414342902293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface electromyography: measurement, processing and analysis of Semg signals recorded during gait",
+                "pub_year": "2004",
+                "citation": "SoftCOM, Dubrovnik-Split-Venice Proc, 37-41, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:UebtZRa9Y70C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1676060381566724344",
+            "cites_id": [
+                "1676060381566724344"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison and Evaluation of Machine Learning-Based Classification of Hand Gestures Captured by Inertial Sensors",
+                "pub_year": "2022",
+                "citation": "Computation 10 (9), 159, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:maZDTaKrznsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731490506005728509",
+            "cites_id": [
+                "12731490506005728509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction: Supuk, TG, et al. Design, Development and Testing of a Low-Cost sEMG System and Its Use in Recording Muscle Activity in Human Gait. Sensors 2014, 14, 8235\u20138258",
+                "pub_year": "2014",
+                "citation": "Sensors 14 (8), 15639-15640, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8930075046999108304",
+            "cites_id": [
+                "8930075046999108304"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial Sensor Based Identification of Human Movement, BIODEVICES 2009 Proceedings",
+                "pub_year": "2009",
+                "citation": "International Conference on Biomedical Electronics and Devices, 14th-17th \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13896343398681550781,16899699276146315668",
+            "cites_id": [
+                "13896343398681550781",
+                "16899699276146315668"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability in human postural control",
+                "pub_year": "2006",
+                "citation": "Engineering in Medicine and Biology 27th Annual Conference, 29-31, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460814284508637899",
+            "cites_id": [
+                "14460814284508637899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of Kinematics and Kinetics of Human Gait",
+                "pub_year": "2002",
+                "citation": "European Medical & Biological Engineering Conference, Embec 2, 04-08, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3683466055149491918",
+            "cites_id": [
+                "3683466055149491918"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Free and treadmill walking in a view of kinematic data",
+                "pub_year": "2002",
+                "citation": "2nd European Medical&Biological Engineering Conference EMBEC'02, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4269728437284309920",
+            "cites_id": [
+                "4269728437284309920"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Off-line inertial-sensor based hand gesture recognition and evaluation",
+                "pub_year": "2022",
+                "citation": "Complex Control Systems 4 (1), 1-6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:k_IJM867U9cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15337860548757400401",
+            "cites_id": [
+                "15337860548757400401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of modular unmanned surface vehicle for research and education",
+                "pub_year": "2017",
+                "citation": "Proceedings of 2nd International Multidisciplinary Conference on Computer \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5791477754208722971",
+            "cites_id": [
+                "5791477754208722971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visual Peoplemeter: A Vision-based Television Audience Measurement System",
+                "pub_year": "2014",
+                "citation": "Advances in Electrical and Computer Engineering 14 (4), 73-81, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6371706986471549988",
+            "cites_id": [
+                "6371706986471549988"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human anthropometric parameters estimation using video based techniques",
+                "pub_year": "2009",
+                "citation": "WSEAS International Conference. Proceedings. Mathematics and Computers in \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=589884154778092071",
+            "cites_id": [
+                "589884154778092071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measure of Quality in State Space",
+                "pub_year": "2004",
+                "citation": "WSEAS Transactions on Systems 3 (2), 584-589, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:0EnyYjriUFMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8901584000396662313",
+            "cites_id": [
+                "8901584000396662313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Measurement Of Muscle Activation Intervals From Semg Signals Denoised By Wavelet Filtering Procedure",
+                "pub_year": "2003",
+                "citation": "IASTED International Conference on Biomedical Engineering, 11-16, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12844256686070920745,3651561588635379024",
+            "cites_id": [
+                "12844256686070920745",
+                "3651561588635379024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Normative maps in gait analysis",
+                "citation": "Proceedings of Softcom\u201999, 13-16, 0"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11107908383162402214",
+            "cites_id": [
+                "11107908383162402214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of at-risk Students in Virtual Learning Environment",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Software, Telecommunications and Computer \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Science and Technology in Biomedical Engineering: Labacs Case Example",
+                "pub_year": "2014",
+                "citation": "Phys Med Rehabil Int 1 (2), 11, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hand Biomechanics: Assessment of Reach-to-Grasp Movements",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Case Study in Biomedical Engineering: New Approach to Biosignal Processing",
+                "pub_year": "2014",
+                "citation": "International Conference on Innovative Technologies IN-TECH, 293-296, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HIgh-tech life accompanying devices: how meaningfully are they used?",
+                "pub_year": "2014",
+                "citation": "13th International Conference on software Engineering, Parallel and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building and testing of a simple high speed kinematics measurement system",
+                "pub_year": "2011",
+                "citation": "Annals of DAAAM & Proceedings, 1651-1653, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust Structured Light Coding for Fast Antropometry Measurements",
+                "pub_year": "2010",
+                "citation": "Seventh IASTED International Conference on Biomedical Engineering, 325-328, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fuzzy qualitative framework for indoor rowing kinematics analysis",
+                "pub_year": "2009",
+                "citation": "WSEAS Transactions on Signal Processing 5 (8), 304-313, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement and evaluation of human grasping",
+                "pub_year": "2008",
+                "citation": "Proceeding of the 4th International Conference on Electrical and Power \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Division of reach-to-grasp trajectories into phases",
+                "pub_year": "2007",
+                "citation": "Proceedings of  3rd WSEAS International Conference on Remote Sensing (REMOTE \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robot assisted measurement and evaluation of reaching-to-grasp movement",
+                "pub_year": "2006",
+                "citation": "Fakulteta za elektrotehniko, Univerza v Ljubljani, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Merjenje in vrednotenje prijemanja v rehabilitaciji",
+                "pub_year": "2006",
+                "citation": "Medicinski razgledi 45 (2), 191-198, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of hand preshaping during human grasping by using instrumented glove",
+                "pub_year": "2006",
+                "citation": "Journal of Biomechanics, S505, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human Motion Identification",
+                "pub_year": "2004",
+                "citation": "Workshop on Signals and Systems in Human Motion SoftCOM 2004, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenje, obrada i analiza EMG signala mi\u0161i\u0107a lokomotornog sustava",
+                "pub_year": "2003",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement, Processing and Analysis of EMG signals of locomotor muscles",
+                "pub_year": "2003",
+                "citation": "Fakultet elektrotehnike, strojarstva i bodogradnje, Sveu\u010dili\u0161te u Splitu, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory for Identification of Human Movement with LABACs Software Support",
+                "pub_year": "2003",
+                "citation": "International Congress on Computational Bioengineering, 155-161, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatia Visualisation of Statistically Processed Gait Data",
+                "pub_year": "2003",
+                "citation": "International Conferece on Biomedical Engineering, 147-152, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of vertical component of ground reaction force during sit to stand movement: Direct Dynamics Approach",
+                "pub_year": "2002",
+                "citation": "11th International Electrotechnical and Computer Science Conference ERK 2002, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MJERENJE, OBRADA I ANALIZA EMG SIGNALA MI\u0160I\u0106A LOKOMOTORNOG SUSTAVA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tentative important dates",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering Analysis of Human Gait Data",
+                "citation": "Proc. of Int. Symposium on Computer Methods in Biomechanics and Biomedical \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomedical Engineering in Practice: Human Motion Tracking, Detection and Analysis",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "iZ3dGucAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

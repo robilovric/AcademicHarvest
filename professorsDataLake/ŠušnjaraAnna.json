@@ -1,0 +1,744 @@
+{
+    "name": "\u0160u\u0161njara Anna",
+    "num_citations": 239,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of progress in European medium sized tokamaks towards an integrated plasma-edge/wall solution a",
+                "pub_year": "2017",
+                "citation": "Nuclear fusion 57 (10), 102014, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1626319374791143799",
+            "cites_id": [
+                "1626319374791143799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculated Epithelial/Absorbed Power Density for Exposure From Antennas at 10\u201390 GHz: Intercomparison Study Using a Planar Skin Model",
+                "pub_year": "2023",
+                "citation": "IEEE Access 11, 7420-7435, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4410215370213018828",
+            "cites_id": [
+                "4410215370213018828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic collocation applications in computational electromagnetics",
+                "pub_year": "2018",
+                "citation": "Mathematical Problems in Engineering 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14438157963732475572",
+            "cites_id": [
+                "14438157963732475572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-deterministic thermal dosimetry below 6 GHz for 5G mobile communication systems",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 63 (5), 1667-1679, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7946350597320963433",
+            "cites_id": [
+                "7946350597320963433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic dosimetry of a three compartment head model",
+                "pub_year": "2020",
+                "citation": "Engineering Analysis with Boundary Elements 117, 332-345, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:0EnyYjriUFMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13320351202909141082",
+            "cites_id": [
+                "13320351202909141082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-deterministic boundary element modelling of transcranial electric stimulation using a three layer head model",
+                "pub_year": "2021",
+                "citation": "Engineering Analysis with Boundary Elements 123, 70-83, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3299975671579771042",
+            "cites_id": [
+                "3299975671579771042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic modelling of nanofluids using the fast Boundary-Domain Integral Method",
+                "pub_year": "2019",
+                "citation": "Engineering Analysis with Boundary Elements 107, 185-197, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14344693526219765892",
+            "cites_id": [
+                "14344693526219765892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic analysis of the electromagnetic induction effect on a neuron\u2019s action potential dynamics",
+                "pub_year": "2021",
+                "citation": "Nonlinear Dynamics 105 (4), 3585-3602, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:ufrVoPGSRksC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9339488601125661862",
+            "cites_id": [
+                "9339488601125661862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Uncertainty of Body Permittivity on Achievable Radiation Efficiency of Implantable Antennas\u2014Stochastic Analysis",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Antennas and Propagation 69 (10), 6894-6905, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9875483943562547890",
+            "cites_id": [
+                "9875483943562547890"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty quantification and sensitivity analysis of transcranial electric stimulation for 9-subdomain human head model",
+                "pub_year": "2022",
+                "citation": "Engineering Analysis with Boundary Elements 135, 1-11, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17705007092004709468",
+            "cites_id": [
+                "17705007092004709468"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Transmitted Power Density due to Radiation from Dipole Antenna of Finite Length: Part I: Theoretical background and current distribution",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2460897825017030699",
+            "cites_id": [
+                "2460897825017030699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric field radiated by a dipole antenna above a lossy half space: Comparison of plane wave approximation with the modified image theory approach",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:WF5omc3nYNoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9198789208883319046",
+            "cites_id": [
+                "9198789208883319046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Transmitted Power Density due to Radiation from Dipole Antenna of Finite Length: Part II: Transmitted field, volume power density and transmitted power density",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11180507797476425388",
+            "cites_id": [
+                "11180507797476425388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitivity analysis of the direct time domain analytical solution for transient impedance of the horizontal grounding electrode using ANOVA approach",
+                "pub_year": "2021",
+                "citation": "Electric Power Systems Research 190, 106861, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14694888931082941400",
+            "cites_id": [
+                "14694888931082941400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient deterministic-stochastic model of the human body exposed to ELF electric field",
+                "pub_year": "2016",
+                "citation": "International Journal of Antennas and Propagation 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3747470576441701998",
+            "cites_id": [
+                "3747470576441701998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EUROfusion Integrated Modelling (EU-IM) capabilities and selected physics applications",
+                "pub_year": "2016",
+                "citation": "2016-26th IAEA Fusion Energy Conference, 1-10, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:roLk4NBRz8UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10868369628092204004",
+            "cites_id": [
+                "10868369628092204004"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Absorbed Power Density at the Surface of Planar Tissue due to Radiation of Dipole Antenna",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1255407821797549990",
+            "cites_id": [
+                "1255407821797549990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Finite Element Versus Analytical Approach to the Solution of the Current Diffusion Equation in Tokamaks",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Plasma Science 46 (4), 1027-1034, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112498734677283406",
+            "cites_id": [
+                "5112498734677283406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain and frequency domain integral equation method for the analysis of ground penetrating radar (GPR) antenna",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:5nxA0vEk-isC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13736667954193928207",
+            "cites_id": [
+                "13736667954193928207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Absorbed Power Density in a Multilayer Tissue Model due to Radiation of Dipole Antenna at GHz Frequency Range: Part I Theoretical Background",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3061884085831780774",
+            "cites_id": [
+                "3061884085831780774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-Deterministic Assessment of Electric Field Radiated by Base Station Antenna above a Two-Layered Ground",
+                "pub_year": "2022",
+                "citation": "Mathematical Problems in Engineering 2022, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18225852575635981895",
+            "cites_id": [
+                "18225852575635981895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced analysis of the transient impedance of the horizontal grounding electrode: From statistics to sensitivity indices",
+                "pub_year": "2017",
+                "citation": "2017 XXXIInd General Assembly and Scientific Symposium of the International \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15611002236033486448",
+            "cites_id": [
+                "15611002236033486448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of absorbed power density in multilayer planar model of human tissue",
+                "pub_year": "2023",
+                "citation": "Radiation Protection Dosimetry 199 (8-9), 798-805, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=286924232440747443",
+            "cites_id": [
+                "286924232440747443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Transmitted Power Density in the Planar Multilayer Tissue Model due to Radiation from Dipole Antenna",
+                "pub_year": "2023",
+                "citation": "Journal of Communications Software and Systems 19 (1), 39-51, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:dhFuZR0502QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7775678945135647798",
+            "cites_id": [
+                "7775678945135647798"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministic\u2013stochastic modeling of transcranial magnetic stimulation featuring the use of method of moments and stochastic collocation",
+                "pub_year": "2023",
+                "citation": "Engineering Analysis with Boundary Elements 150, 662-671, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13391501448728805433",
+            "cites_id": [
+                "13391501448728805433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Absorbed Power Density in a Multilayer Tissue Model due to Radiation of Dipole Antenna: Part II Results",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6424722363361197620",
+            "cites_id": [
+                "6424722363361197620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty Estimation of Achievable Radiation Efficiency of Implantable Antennas",
+                "pub_year": "2021",
+                "citation": "2021 15th European Conference on Antennas and Propagation (EuCAP), 1-5, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14302330549874781035",
+            "cites_id": [
+                "14302330549874781035"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of stochastic collocation method and sensitivity analysis to bioelectromagnetics models",
+                "pub_year": "2021",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1146672751458965559",
+            "cites_id": [
+                "1146672751458965559"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Solution and Uncertainty Quantification of Bioheat Transfer Equation Using Neural Network Approach",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8494596869731334728",
+            "cites_id": [
+                "8494596869731334728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic sensitivity analysis of bioheat transfer equation",
+                "pub_year": "2019",
+                "citation": "2019 URSI International Symposium on Electromagnetic Theory (EMTS), 1-4, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1676593647789209148",
+            "cites_id": [
+                "1676593647789209148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty Quantification for the Transient Response of Human Equivalent Antenna Using the Stochastic Collocation Approach",
+                "pub_year": "2019",
+                "citation": "International Journal of Antennas and Propagation 2019, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7660754194645860336",
+            "cites_id": [
+                "7660754194645860336"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric Field Radiated in the Air by a Dipole Antenna Placed Above a Two-Layered Lossy Half Space: Comparison of Plane Wave Approximation with the Modified Image Theory Approach",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11655572834114079107",
+            "cites_id": [
+                "11655572834114079107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-deterministic and sensitivity analysis of the transient field generated by GPR dipole antenna and transmitted into a lossy ground",
+                "pub_year": "2017",
+                "citation": "2017 IEEE International Symposium on Electromagnetic Compatibility & Signal \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1064810195768915598",
+            "cites_id": [
+                "1064810195768915598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of different voltage source models on antenna current and input impedance within the boundary element method formalism",
+                "pub_year": "2023",
+                "citation": "2023 24th International Conference on Applied Electromagnetics and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty Quantification of Epithelial/Absorbed Power Density in 1-layered Planar Skin Model with Uncertain Tissue Electric Properties",
+                "pub_year": "2023",
+                "citation": "2023 XXXVth General Assembly and Scientific Symposium of the International \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Efficient Stochastic Modeling of Transmitted Power Density in Two-layered Planar Tissue Exposed to Incident Plane Wave",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-Deterministic Electromagnetic Modeling of Human Head Exposure to Microsoft HoloLens",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of SAR in a Simplified Body Model due to a Short Dipole Antenna Radiation",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COUPLED BOUNDARY ELEMENT: STOCHASTIC COLLOCATION APPROACH FOR THE UNCERTAINTY ESTIMATION OF SIMULATIONS OF TRANSCRANIAL ELECTRIC STIMULATION",
+                "pub_year": "2021",
+                "citation": "Boundary Elements and other Mesh Reduction Methods XLIV 131, 145, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministic-Stochastic Modeling of a Glide Path Antenna System above a Multilayer",
+                "pub_year": "2020",
+                "citation": "2020 International Symposium on Electromagnetic Compatibility-EMC EUROPE, 1-5, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COUPLING OF THE FAST BOUNDARY-DOMAIN INTEGRAL METHOD WITH THE STOCHASTIC COLLOCATION METHOD FOR FLUID FLOW SIMULATIONS",
+                "pub_year": "2019",
+                "citation": "WIT Transactions on Engineering Sciences 126, 237-241, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic Boundary-Domain Integral Method for heat transfer simulations",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient impedance of the horizontal grounding electrode: Sensitivity analysis of the direct time domain analytical solution",
+                "pub_year": "2019",
+                "citation": "2019 URSI International Symposium on Electromagnetic Theory (EMTS), 1-3, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Some Multiphysics Models for ElectromagneticThermal-Hydrodynamics (ETHD) Analysis",
+                "pub_year": "2019",
+                "citation": "2019 23rd International Conference on Applied Electromagnetics and \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TWINS II",
+                "pub_year": "2018",
+                "citation": "Training, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced analysis of the transient impedance of the horizontal grounding electrode: From statistics to sensitivity indices",
+                "pub_year": "2017",
+                "citation": "General Assembly and Scientific Symposium of the International Union of \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of multiple-folded spherical helical antenna using the Galerkin-Bubnov scheme of the Boundary Element method",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Yz05FNwAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ywncz00AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dragan Poljak",
+            "affiliation": "University of Split unist.hr Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "znV5GuIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mario Cvetkovi\u0107",
+            "affiliation": "Assistant Professor, University of Split, Faculty of Electrical Engineering, Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6lUck8AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Silvestar Sesnic",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jSpGpgcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vicko Doric",
+            "affiliation": "Assosiate Professor, Department of Electronics and Computing, University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SpB6-2UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hrvoje Dodig",
+            "affiliation": "University of Split, Faculty of Maritime Studies"
+        }
+    ]
+}

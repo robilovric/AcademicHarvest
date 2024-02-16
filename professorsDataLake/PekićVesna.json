@@ -1,0 +1,207 @@
+{
+    "name": "Peki\u0107 Vesna",
+    "num_citations": 47,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust cochlear-model-based speech recognition",
+                "pub_year": "2019",
+                "citation": "Computers 8 (1), 5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1754628175584156412",
+            "cites_id": [
+                "1754628175584156412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Network performance monitoring within MPLS traffic engineering enabled networks",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2531048846604222806",
+            "cites_id": [
+                "2531048846604222806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constrained priority countdown freezing-a collision memory avoidance algorithm",
+                "pub_year": "2012",
+                "citation": "ICWMC 2012, the Eighth International Conference on Wireless and Mobile \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3133130217832632602",
+            "cites_id": [
+                "3133130217832632602"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Class based tunnel exclusion router architecture",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3451973717273427282",
+            "cites_id": [
+                "3451973717273427282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Network Performance Criteria for Telecommunication Traffic Types driven by Quality of Experience",
+                "pub_year": "2019",
+                "citation": "Journal of Communications Software and Systems 15 (3), 233-244, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5544175823646840975",
+            "cites_id": [
+                "5544175823646840975"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quality of experience driven network performance criteria for telecommunication traffic types",
+                "pub_year": "2019",
+                "citation": "Journal of Communications Software and Systems 15 (3), 233-244, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5275127864957968234",
+            "cites_id": [
+                "5275127864957968234"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WTFC to tcp flow control proxy",
+                "pub_year": "2012",
+                "citation": "Proc. ACCESS 2012, InfoWare 2012, 7-13, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2776030199545049582",
+            "cites_id": [
+                "2776030199545049582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed and monolithic profiles in robust packet header compression",
+                "pub_year": "2007",
+                "citation": "2007 15th International Conference on Software, Telecommunications and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17804782613325871971",
+            "cites_id": [
+                "17804782613325871971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High priority space protection (HPP): countdown space-based MAC protocol with enhanced lockdown effect",
+                "pub_year": "2024",
+                "citation": "Wireless Networks, 1-21, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Transfer Learning-Based Approach for Electromagnetic Signal Classification Using Simulated HGCAL Data",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Software, Telecommunications and Computer \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image-Based Sensor for Liquid Level Monitoring during Bottling with Application to Craft and Home-Brewing",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (16), 7126, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj modela i algoritama povezivanja kontrole toka na pristupnoj i glavnoj mre\u017ei Interneta",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive algorithm for WTFC to TCP flow control proxy",
+                "pub_year": "2012",
+                "citation": "SoftCOM 2012, 20th International Conference on Software, Telecommunications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kontrola toka kao metoda kontrole zagu\u0161enja na internetu",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "UfiBCV0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

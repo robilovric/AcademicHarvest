@@ -1,0 +1,303 @@
+{
+    "name": "Bego Ozren",
+    "num_citations": 149,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of gantry/bridge crane with anti-sway algorithm",
+                "pub_year": "2015",
+                "citation": "Journal of mechanical science and technology 29, 827-834, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1527437036934206403",
+            "cites_id": [
+                "1527437036934206403"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupling multivariable GPC with reference observation",
+                "pub_year": "2000",
+                "citation": "2000 10th Mediterranean Electrotechnical Conference. Information Technology \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6012440046395376860",
+            "cites_id": [
+                "6012440046395376860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of soil thermal properties by spherical probe",
+                "pub_year": "2005",
+                "citation": "IEEE transactions on instrumentation and measurement 54 (3), 1219-1226, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7717635651429901590",
+            "cites_id": [
+                "7717635651429901590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control structure design and dynamics modelling of the organic Rankine cycle system",
+                "pub_year": "2017",
+                "citation": "Energy 121, 193-204, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=687152429298922443",
+            "cites_id": [
+                "687152429298922443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smanjenje udarnih struja uklopa trofaznog energetskog transformatora",
+                "pub_year": "2008",
+                "citation": "Journal of Energy: Energija 57 (3), 350-367, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8918932905863863438",
+            "cites_id": [
+                "8918932905863863438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex hydrological system inflow prediction using artificial neural network",
+                "pub_year": "2022",
+                "citation": "Tehni\u010dki vjesnik 29 (1), 172-177, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9850288013678702359",
+            "cites_id": [
+                "9850288013678702359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Input Shaping of the Synchronous Generator for Reduction of Self\u2010induced Oscillations",
+                "pub_year": "2016",
+                "citation": "Asian Journal of Control 18 (2), 473-480, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4560395368084421440",
+            "cites_id": [
+                "4560395368084421440"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A systematic approach to a time series neural model development for river flow forecasting",
+                "pub_year": "2012",
+                "citation": "International review of automatic control 5 (3), 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12397390308413853076",
+            "cites_id": [
+                "12397390308413853076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid-connected and Islanded Control of Energy Storage Converter",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Electrical Drives & Power Electronics (EDPE \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17905063826536128809",
+            "cites_id": [
+                "17905063826536128809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modified GPC Controller for Control of Processes with Long Dead-Time and Integral Action",
+                "pub_year": "2011",
+                "citation": "International Review of Automatic Control 4 (2), 162-169, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10516116787269385157",
+            "cites_id": [
+                "10516116787269385157"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REDUCTION OF THE INRUSH CURRENT OF THREE-PHASE POWER TRANSFORMERS",
+                "pub_year": "2008",
+                "citation": "Journal of Energy: Energija 57 (3), 350-367, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=424569716994890158",
+            "cites_id": [
+                "424569716994890158"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odabir optimalnog kapaciteta i analiza isplativosti ulaganja u baterijsko skladi\u0161te u sklopu VE Vrataru\u0161a",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LCL Filter Design with Amorphous Core Inductor for 100 kVA Energy Storage Converter",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Electrical Drives & Power Electronics (EDPE \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protokol o ispitivanju geoelektri\u010dkih zna\u010dajki tla na 110 kV kabelskoj trasi Pehlin-Turni\u0107",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimalno vo\u0111enje proizvodnje hidroelektrana JP Elektroprivreda HZ Herceg Bosne Mostar",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centar sliva rijeke Cetine (CSRCE), glavni projekt, Knjiga 4-Strojarski i elektro dio",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza automatizacije hidroelektrana vodotoka Like i Gacke s osnova sigurnosti, stabilnosti, optimiranja pogona hidroelektrana i pru\u017eanja usluga EES-u",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of multi inputs-multi outputs processes",
+                "pub_year": "2005",
+                "citation": "Fakultet elektrotehnike i ra\u010dunarstva, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza automatizacije hidroelektrana vodotoka Cetine s osnova sigurnosti, stabilnosti, optimiranja pogona hidroelektrana i pru\u017eanja usluga EES-u",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digitalni sustavi upravljanja",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protokol o ispitivanju geotermi\u010dkih i geoelektri\u010dkih zna\u010dajki tla na trasi 110 kV mre\u017ee Splita",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1wOzUAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

@@ -1,0 +1,387 @@
+{
+    "name": "Mati\u0107 Daniela",
+    "num_citations": 63,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ideological discourse structures in political speeches",
+                "pub_year": "2012",
+                "citation": "Komunikacija i kultura online 3 (3), 54-78, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4372813445837135335",
+            "cites_id": [
+                "4372813445837135335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Attitudes of computer science students to the English element in Croatian ICT magazines",
+                "pub_year": "2014",
+                "citation": "ESP Today. Journal of English for Specific Purposes at Tertiary Level 2 (2 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7871221782013713499",
+            "cites_id": [
+                "7871221782013713499"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perception of the English element in the scientific register of Croatian ICT university educational material with graduate ICT students",
+                "pub_year": "2017",
+                "citation": "Jezikoslovlje 18 (2), 319-345, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8403650882815584361,14011840275114479011",
+            "cites_id": [
+                "8403650882815584361",
+                "14011840275114479011"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "English at Croatian universities: luxury or necessity",
+                "pub_year": "2008",
+                "citation": "Maribor International Review 1 (1), 43-55, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15093244479882597969",
+            "cites_id": [
+                "15093244479882597969"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PERCEPCIJA HRVATSKIH STUDENATA RA\u010cUNARSTVA O PRIHVATLJIVOSTI ENGLESKOGA ELEMENTA U GLAGOLIMA, GLAGOLSKIM IMENICAMA I JUKSTAPONIRANIM LEKSI\u010cKIM SEGMENTIMA U HRVATSKIM TEKSTOVIMA \u2026",
+                "pub_year": "2015",
+                "citation": "Od teorije do prakse u jeziku struke/ Vesna Cigan, Darija Omr\u010den (ur.), 65-81, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17004616392885102220",
+            "cites_id": [
+                "17004616392885102220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pronouns in American Political Speeches",
+                "pub_year": "2013",
+                "citation": "LINGUA MONTENEGRINA \u010dasopis za jezikoslovna, knji\u017eevna i kulturna pitanja \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6845471502895701621",
+            "cites_id": [
+                "6845471502895701621"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zamjenice u hrvatskim politi\u010dkim govorima",
+                "pub_year": "2012",
+                "citation": "\u0424\u0438\u043b\u043e\u043b\u043e\u0433\u2013\u0447\u0430\u0441\u043e\u043f\u0438\u0441 \u0437\u0430 \u0458\u0435\u0437\u0438\u043a, \u043a\u045a\u0438\u0436\u0435\u0432\u043d\u043e\u0441\u0442 \u0438 \u043a\u0443\u043b\u0442\u0443\u0440\u0443, 187-198, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12886240922775070431",
+            "cites_id": [
+                "12886240922775070431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Govorni \u010dinovi u politi\u010dkome diskursu",
+                "pub_year": "2011",
+                "citation": "Filozofski fakultet u Zagrebu, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13312541313977135995",
+            "cites_id": [
+                "13312541313977135995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uspje\u0161nost pisanja na engleskome jeziku kod u\u010denika i studenata",
+                "pub_year": "2009",
+                "citation": "\u0160kolski vjesnik: \u010dasopis za pedagogijsku teoriju i praksu 58 (1.), 17-31, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9084104417475084456,4313863667292265986",
+            "cites_id": [
+                "9084104417475084456",
+                "4313863667292265986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "More lexis, less grammar: The importance of larger lexical input at more advanced levels of English",
+                "pub_year": "2009",
+                "citation": "Strani Jezici 38 (1), 59-77, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4397224504189046094",
+            "cites_id": [
+                "4397224504189046094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The perception of the \u201cEnglish element\u201d in Croatian ICT magazines with undergraduate and graduate computer science students",
+                "pub_year": "2018",
+                "citation": "Ib\u00e9rica, 201-226, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4491730788625167608",
+            "cites_id": [
+                "4491730788625167608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ideology hidden in the form of croatian and American political speeches.",
+                "pub_year": "2014",
+                "citation": "TEME: Casopis za Dru\u0161tvene Nauke 38 (3), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1784861040990572399,12665315414295892736",
+            "cites_id": [
+                "1784861040990572399",
+                "12665315414295892736"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IDEOLO\u0160KA POLARIZACIJA U GOVORNIM \u010cINOVIMA UNUTAR POLITI\u010cKIH GOVORA",
+                "pub_year": "2012",
+                "citation": "FOLIA LINGUISTICA ET LITTERARIA: \u010cASOPIS ZA NAUKU O JEZIKU I KNJI\u017dEVNOSTI, 59-77, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1600163763285387960",
+            "cites_id": [
+                "1600163763285387960"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GOVORNI \u010cINOVI NEODOBRAVANJA U DRAMI LOOK BACK IN ANGER JOHNA OSBORNEA",
+                "pub_year": "2011",
+                "citation": "Hum: \u010dasopis Filozofskog fakulteta Sveu\u010dili\u0161ta u Mostaru 7, 203-220, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5246910810020681182,3758540850844843496",
+            "cites_id": [
+                "5246910810020681182",
+                "3758540850844843496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DISKURS VISOKOG OBRAZOVANJA: PROMJENE UPOTREBE JEZI\u010cNIH I VIZUALNIH SREDSTAVA PRI PREDSTAVLJANJU JEDNOGA JAVNOG SVEU\u010cILI\u0160TA U HRVATSKOJ",
+                "pub_year": "2023",
+                "citation": "Folia Linguistica et Litteraria, 43-68, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MARKETIZACIJA U VISOKOME OBRAZOVANJU: DISKURS SAMOPREDSTAVLJANJA NA MRE\u017dNIM STRANICAMA JEDNOGA SVEU\u010cILI\u0160TA",
+                "pub_year": "2022",
+                "citation": "FLUMINENSIA: \u010dasopis za filolo\u0161ka istra\u017eivanja 34 (1), 163-194, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRISTUPI RA\u010cUNALNOME NAZIVLJU U ZNANSTVENO-PEDAGO\u0160KOM FUNKCIONALNOM STILU HRVATSKIH SVEU\u010cILI\u0160NIH NASTAVNIH MATERIJALA",
+                "pub_year": "2017",
+                "citation": "FLUMINENSIA: \u010dasopis za filolo\u0161ka istra\u017eivanja 29 (1), 47-63, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RODNE OZNAKE U OGLASIMA ZA POSAO",
+                "pub_year": "2013",
+                "citation": "KROZ JEZIKE I KULTURE ACCROSS LANGUAGES AND CULTURESKroz jezike i kulture \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jezi\u010dne igre mo\u0107i u drami Who's Afraid of Virginia Woolf? Edwarda Albeeja.",
+                "pub_year": "2012",
+                "citation": "Lingua Montenegrina 2 (10), 101-123, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Speech acts in political discourse",
+                "pub_year": "2011",
+                "citation": "Filozofski fakultet, Sveu\u010dili\u0161te u Zagrebu, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odnos prema starijim osobama u hrvatskim tiskanim medijima",
+                "pub_year": "2010",
+                "citation": "\u201eSusret kultura \u201c, 123, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NA\u010cINI PONOVNOG ZAPO\u010cINJANJA IZRI\u010cAJA",
+                "pub_year": "2010",
+                "citation": "FLUMINENSIA: \u010dasopis za filolo\u0161ka istra\u017eivanja 22 (2), 137-144, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osobe s invaliditetom u jeziku tiska",
+                "pub_year": "2009",
+                "citation": "Prilozi prou\u010davanju jezika 40, 79-96, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Oglasi za posao kao oblik javne komunikacije",
+                "pub_year": "2009",
+                "citation": "Lingvistika javne komunikacije: sociokulturni, pragmati\u010dki i stilisti\u010dki \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Students on English as a foreign language at an engineering college",
+                "pub_year": "2009",
+                "citation": "Strani jezici 38 (4), 387-404, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Popular Music Meanings as an Indicator of Musical Identity",
+                "citation": "18th International EAS Congress\" Music and music education within the \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "M-2V9HIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zannJ1UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Snjezana Dobrota",
+            "affiliation": "UNIVERSITY OF SPLIT unist.hr, FACULTY OF HUMANITIES AND SOCIAL SCIENCES"
+        }
+    ]
+}

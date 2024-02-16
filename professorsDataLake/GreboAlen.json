@@ -1,0 +1,117 @@
+{
+    "name": "Grebo Alen",
+    "num_citations": 9,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Concept of Firefighting Aerial Support with Autonomous Unmanned Aerial Systems (AUAS)",
+                "pub_year": "2020",
+                "citation": "2020 New Trends in Aviation Development (NTAD), 78-83, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13536036085738828192",
+            "cites_id": [
+                "13536036085738828192"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic Behavior of Thermally Affected Injection-Molded High-Density Polyethylene Parts Modified by Accelerated Electrons",
+                "pub_year": "2022",
+                "citation": "Polymers 14 (22), 4970, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11371404656174310511",
+            "cites_id": [
+                "11371404656174310511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Open-source application for determination of proof strength based on the plastic extension method",
+                "pub_year": "2022",
+                "citation": "Materials Today: Proceedings 62, 2628-2636, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9932476043092989853",
+            "cites_id": [
+                "9932476043092989853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of YOLO algorithm on student UAV",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10551557349997479466",
+            "cites_id": [
+                "10551557349997479466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal to digital image correlation image to image translation with CycleGAN and Pix2Pix",
+                "pub_year": "2023",
+                "citation": "Materials Today: Proceedings 93, 752-760, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EXEMPLER BASED SYNTHETIC DATASET GENERATION FROM MAGNETIC TESTING DATA FOR THE PURPOSE OF TRAINING AN AI MODEL FOR CRACK DETECTION",
+                "pub_year": "2021",
+                "citation": "\u041f\u0418\u041b\u041e\u0422\u0418\u0420\u0423\u0415\u041c\u042b\u0415 \u041f\u041e\u041b\u0415\u0422\u042b \u0412 \u041a\u041e\u0421\u041c\u041e\u0421, 54-56, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THERMAL2DIC IMAGE TO IMAGE TRANSLATION WITH CYCLEGAN AND PIX2PIX",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE DEVELOPMENT OF AN OPEN SOURCE APPLICATION FOR DETERMINATION OF THE PROOF STRENGTH BASED ON THE PLASTIC EXTENSION METHOD",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hSYmC0MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

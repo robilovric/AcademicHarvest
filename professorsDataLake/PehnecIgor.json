@@ -1,0 +1,484 @@
+{
+    "name": "Pehnec Igor",
+    "num_citations": 86,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational procedure for optimum shape design based on chained Bezier surfaces parameterization",
+                "pub_year": "2012",
+                "citation": "Engineering Applications of Artificial Intelligence 25 (3), 648-667, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6849456213333789649",
+            "cites_id": [
+                "6849456213333789649"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A compact parameterization for shape optimization of aerofoils",
+                "pub_year": "2008",
+                "citation": "Proceedings of the World Congress on Engineering 1, 111-116, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16889922301131976311",
+            "cites_id": [
+                "16889922301131976311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Test-field for evaluation of laboratory craters using a Crater Shape-based interpolation crater detection algorithm and comparison with Martian and Lunar impact craters",
+                "pub_year": "2012",
+                "citation": "Planetary and Space Science 71 (1), 106-118, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11617472615905104643",
+            "cites_id": [
+                "11617472615905104643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse shape synthesis of the hydropump volute using stereo-photogrammetry, parameterization, and geometric modeling",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2727072686275181101",
+            "cites_id": [
+                "2727072686275181101"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of crystal growth of borax in single and dual impeller batch cooling crystallizer",
+                "pub_year": "2020",
+                "citation": "Chemical Engineering Communications 207 (6), 847-860, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:_kc_bZDykSQC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18388353432298920891",
+            "cites_id": [
+                "18388353432298920891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of 3D tool wear in machining by successive stereophotogrammetry and point cloud processing",
+                "pub_year": "2013",
+                "citation": "Tehni\u010dki Vjesnik\u2013Technical Gazette 20 (3), 449-458, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4059985964490464010",
+            "cites_id": [
+                "4059985964490464010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupled evolutionary shape optimization and reverse engineering in product design and virtual prototyping",
+                "pub_year": "2009",
+                "citation": "constraints 3, 4, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15448514740474784549,7173831185103661140",
+            "cites_id": [
+                "15448514740474784549",
+                "7173831185103661140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Impeller Diameter on Crystal Growth Kinetics of Borax in a Mixed Dual\u2010Impeller Batch\u2010Cooling Crystallizer",
+                "pub_year": "2019",
+                "citation": "Chemical Engineering & Technology 42 (4), 788-796, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8612275536945994784",
+            "cites_id": [
+                "8612275536945994784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary topology optimization using parameterized B-spline surface",
+                "pub_year": "2016",
+                "citation": "VII European Congress on Computational Methods in Applied Sciences and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:ufrVoPGSRksC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2023272591068673456",
+            "cites_id": [
+                "2023272591068673456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ad-hoc cluster and workflow for parallel implementation of initial-stage evolutionary optimum design",
+                "pub_year": "2012",
+                "citation": "Structural and Multidisciplinary Optimization 45, 197-222, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18269822542598860793",
+            "cites_id": [
+                "18269822542598860793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced reverse engineering using genetic-algorithms-based experimental parallel workflow for optimum design",
+                "pub_year": "2011",
+                "citation": "Applications of Evolutionary Computation: EvoApplications 2011: EvoCOMNET \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4751277703891492742",
+            "cites_id": [
+                "4751277703891492742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse engineering with shape optimization using workflow-based computation and distributed computing",
+                "pub_year": "2009",
+                "citation": "Proceedings of the World Congress on Engineering 1, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6555538183067807897",
+            "cites_id": [
+                "6555538183067807897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lozina, Active vibration control using PI regulated electro-dynamic actuator\u2014bond graph approach. Advanced Ship Design for Pollution Prevention\u2013Guedes Soares & Parunov (eds \u2026",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12439713041978409694",
+            "cites_id": [
+                "12439713041978409694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and Experimental Evaluation of High-Efficiency Savonius Type Wind Turbine at Low Reynolds Number",
+                "pub_year": "2022",
+                "citation": "Proceedings of the 8th World Congress on Mechanical, Chemical, and Material \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4220977698947117946",
+            "cites_id": [
+                "4220977698947117946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Doprinos optimiranju oblika i topologije primjenom level set metode i parametrizacije",
+                "pub_year": "2013",
+                "citation": "Sveu\u010dili\u0161te u Splitu, Fakultet elektrotehnike, strojarstva i brodogradnje, Split, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1940427208659140801",
+            "cites_id": [
+                "1940427208659140801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Doprinos optimiranju oblika i topologije primjenom level set metode i parametrizacije",
+                "pub_year": "2013",
+                "citation": "Sveu\u010dili\u0161te u Splitu, Fakultet elektrotehnike, strojarstva i brodogradnje, Split, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1940427208659140801",
+            "cites_id": [
+                "1940427208659140801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Test-field for evaluation of laboratory craters using interpolation-based crater detection algorithm and comparison with Martian impact craters",
+                "pub_year": "2011",
+                "citation": "42nd Annual Lunar and Planetary Science Conference, 1453, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9669571381890104198",
+            "cites_id": [
+                "9669571381890104198"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse engineering of musical instrument by combining stereo imaging, 3D reconstruction, CAD primitives and parametrization",
+                "pub_year": "2011",
+                "citation": "Annals of DAAAM for 2011 & Proceedings of the 22nd International DAAAM \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6939223301544684834",
+            "cites_id": [
+                "6939223301544684834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D topography of laboratory craters and their comparison with Martian impact craters",
+                "pub_year": "2010",
+                "citation": "38th COSPAR Scientific Assembly 38, 9, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7085968445658107106",
+            "cites_id": [
+                "7085968445658107106"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for evaluation of laboratory craters using crater detection algorithm for digital topography data",
+                "pub_year": "2010",
+                "citation": "38th COSPAR Scientific Assembly 38, 9, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14929010600756864746",
+            "cites_id": [
+                "14929010600756864746"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupled evolutionary shape optimization and reverse engineering in rapid product design and prototyping",
+                "pub_year": "2009",
+                "citation": "constraints 3, 4, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7173831185103661140",
+            "cites_id": [
+                "7173831185103661140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust evolutionary shape optimization for ergonomic excellence based on contact pressure distribution",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Biomechanics and Biomedical Engineering 23 (13), 945-958, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-step optimization of the ducted propeller based on B-spline planes and reverse engineering",
+                "pub_year": "2016",
+                "citation": "Sedmi susret Hrvatskoga dru\u0161tva za mehaniku, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procjena trodimenzijskog tro\u0161enja alata u obradi odvajanjem \u010destica uporabom stereo-fotogrametrije i obrade oblaka to\u010daka",
+                "pub_year": "2013",
+                "citation": "Tehni\u010dki vjesnik 20 (3), 449-458, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Topology optimization with genetic algorithm using parameterization level set function",
+                "pub_year": "2013",
+                "citation": "5. susret Hrvatskog dru\u0161tva za mehaniku, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shape Optimization for Ergonomy and Comfort Based on Minimum Contact Stress Variance",
+                "pub_year": "2012",
+                "citation": "8th European Solid Mechanics Conference, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developing a custom cluster workflow for shape optimization with finite element analysis",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 9th WSEAS international conference on Simulation \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD/FSI analiza aeroprofila NACA 4415",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD/FSI analysis of NACA 4415 airfoil",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of Impeller Position on Crystal Growth Kinetics of Borax in Dual Axial Impeller Batch Cooling Crystallizer",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TOPOLO\u0160KO OPTIMIRANJE PARAMETRIZIRANOM LEVEL SET FUNKCIJOM I EVOLUCIJSKOM METODOM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Workflow-Based Shape Optimization of Airfoils and Blades using Chained Bezier Curves",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Adaptive Airfoils on Wind Turbine Working Characteristics",
+                "citation": "Energija i okoli\u0161 2008, 291, 0"
+            },
+            "filled": false,
+            "author_pub_id": "NK6ckmgAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

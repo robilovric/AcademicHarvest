@@ -1,0 +1,495 @@
+{
+    "name": "Ple\u0161tina Vladimir",
+    "num_citations": 198,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of sport talents using a web-oriented expert system with a fuzzy module",
+                "pub_year": "2009",
+                "citation": "Expert Systems with Applications 36 (5), 8830-8838, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 107,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=866844959577894668",
+            "cites_id": [
+                "866844959577894668"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of the expert system for sport talents detection.",
+                "pub_year": "2006",
+                "citation": "WSEAS Transactions on Information Science and Applications 3 (9), 1752-1755, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:roLk4NBRz8UC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3180074675845198900",
+            "cites_id": [
+                "3180074675845198900"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expert system for identification of sport talents: Idea, implementation and results",
+                "pub_year": "2011",
+                "citation": "Expert systems for human, materials and automation, 3-16, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17668154753112513483",
+            "cites_id": [
+                "17668154753112513483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A modular system for tracking players in sports games",
+                "pub_year": "2009",
+                "citation": "International Journal of Education and Information Technologies 4 (3), 197-204, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6274447445539881569",
+            "cites_id": [
+                "6274447445539881569"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constructive education approach: Robot soccer",
+                "pub_year": "2007",
+                "citation": "2007 29th International Conference on Information Technology Interfaces, 425-430, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:Se3iqnhoufwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2687037651268201008",
+            "cites_id": [
+                "2687037651268201008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Features analysis and Fuzzy-SVM classification for tracking players in water polo",
+                "pub_year": "2014",
+                "citation": "WSEAS Trans. Comput. 13, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7416346142325354991",
+            "cites_id": [
+                "7416346142325354991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Features analysis for tracking players in water polo",
+                "pub_year": "2014",
+                "citation": "16th International Conference on Automatic Control, Modelling & Simulation, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8133618847718853516",
+            "cites_id": [
+                "8133618847718853516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Object classification inwater sports",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Symposium on Computers and Communications (ISCC), 000839-000844, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1379733059424098766",
+            "cites_id": [
+                "1379733059424098766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward smart shirt for sensing thermal comfort",
+                "pub_year": "2022",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 44 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7225620535186965633",
+            "cites_id": [
+                "7225620535186965633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Measurement Uncertainty in Determining of Electrical Resistance Value by Applying Direct-Comparison Method",
+                "pub_year": "2022",
+                "citation": "Energies 15 (6), 2115, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3931452343291633599",
+            "cites_id": [
+                "3931452343291633599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustav za planiranje i implementaciju projektnih zadataka u nastavi informatike",
+                "pub_year": "2019",
+                "citation": "Politehnika: \u010casopist za tehni\u010dki odgoj i obrazovanje 3 (1), 21-39, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13697778141734044296",
+            "cites_id": [
+                "13697778141734044296"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EXPRESSION OF UNCERTAINTY IN MEASUREMENTS OF ACTIVE POWER BY MEANS OF ELECTRODYNAMIC WATTMETER.",
+                "pub_year": "2016",
+                "citation": "Tehnicki vjesnik/Technical Gazette 23 (6), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11614701011495504492",
+            "cites_id": [
+                "11614701011495504492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robot soccer educational courses",
+                "pub_year": "2010",
+                "citation": "Robot Soccer, 101, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17799859875317114303",
+            "cites_id": [
+                "17799859875317114303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT Ontology Development Process for Well-Being, Aging and Health: Challenges and Opportunities",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15709645612134724874",
+            "cites_id": [
+                "15709645612134724874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of SQL Prepared Statements in CRUD operations",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10542365354656709165",
+            "cites_id": [
+                "10542365354656709165"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Swimming pool segmentation in pre-processing for tracking water polo players",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Electrical, Communication, and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11584101861968831281",
+            "cites_id": [
+                "11584101861968831281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expressing uncertainty of active power measurement by means of electrodynamic wattmeter",
+                "pub_year": "2016",
+                "citation": "Tehni\u010dki vjesnik-technical gazette journal 23 (6), 1813-1820, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3661005600085747182",
+            "cites_id": [
+                "3661005600085747182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposal of a modular system for tracking indoor and outdoor sports",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 9th WSEAS international conference on Simulation \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17124347082500947907",
+            "cites_id": [
+                "17124347082500947907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circuit Design, Realization, and Test of a Bluetooth Low Energy Wireless Sensor With On-Board Computation for Remote Healthcare Monitoring",
+                "pub_year": "2024",
+                "citation": "IEEE Journal of Radio Frequency Identification, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Possibilities of implementing LEGO education in the first grade of elementary school: Perceptions of teachers of the subject of Informatics",
+                "pub_year": "2023",
+                "citation": "Politehnika: \u010casopis za tehni\u010dki odgoj i obrazovanje 7 (1), 8-19, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mogu\u0107nosti implementacije LEGO edukacije u prvi razred osnovne \u0161kole: Percepcije u\u010ditelja Informatike",
+                "pub_year": "2023",
+                "citation": "Politehnika: \u010casopis za tehni\u010dki odgoj i obrazovanje 7 (1), 8-19, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Public Lighting in Croatia: Consumption and Energy Efficiency",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "System for planning and implementation of project tasks in computer science teaching",
+                "pub_year": "2019",
+                "citation": "Politehnika: \u010casopis za tehni\u010dki odgoj i obrazovanje 3 (1), 21-39, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spiral Particle Distribution for Template based Tracking",
+                "pub_year": "2019",
+                "citation": "WSEAS Transactions on Computers 18, 122-127, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iskazivanje nesigurnosti kod mjerenja djelatne snage pomo\u0107u elektrodinamskog vatmetra",
+                "pub_year": "2016",
+                "citation": "Tehni\u010dki vjesnik 23 (6), 1813-1820, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pra\u0107enje igra\u010da u timskim sportovima fuzijom dinami\u010dkih i stati\u010dkih podataka iz baze znanja",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking team players by fuzing dynamic and static data from knowledge base",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of threshold methods for players segmentation",
+                "pub_year": "2009",
+                "citation": "Softcom 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "METHODOLOGICAL PRINCIPLES OF\" TALENT\"\u2013TALENT SCOUTING EXPERT SYSTEM",
+                "pub_year": "2009",
+                "citation": "3rd Special Focus Symposium on Kinesiological Education\u2013Heading Towards The \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A modular system for tracking players using computer vision",
+                "pub_year": "2008",
+                "citation": "2008 International Conference on Software, Telecommunications and Computer \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The categorization of sport activities in the domain of some basic motor abilities",
+                "pub_year": "2007",
+                "citation": "2nd International Conference Conteporary Kinesiology, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odlu\u010divanje uz pomo\u0107 ra\u010dunala",
+                "pub_year": "2006",
+                "citation": "Fakultet prirodoslovno-matemati\u010dkih znanosti i kineziologije, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer supported decision-making",
+                "pub_year": "2006",
+                "citation": "Fakultet prirodoslovno-matemati\u010dkih znanosti i kineziologije, Sveu\u010dili\u0161te u \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usporedba metoda za odre\u0111ivanje praga u svrhu segmentiranja igra\u010da",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "JbPKpocAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OmPUlukAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladan Papic",
+            "affiliation": "University of Split  unist.hr"
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "name": "Sedlar Damir",
+    "num_citations": 67,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended Morlet-Wave damping identification method",
+                "pub_year": "2017",
+                "citation": "International Journal of Mechanical Sciences 127, 31-40, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5945576673829521481",
+            "cites_id": [
+                "5945576673829521481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of the added mass of the cantilever beam partially submerged in water",
+                "pub_year": "2011",
+                "citation": "Technical Gazette 18 (4), 589-594, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5127072151974622177",
+            "cites_id": [
+                "5127072151974622177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An implementation of structural change detection procedure based on experimental and numerical model correlation",
+                "pub_year": "2012",
+                "citation": "Journal of sound and vibration 331 (13), 3068-3082, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:0EnyYjriUFMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13684245133446550827",
+            "cites_id": [
+                "13684245133446550827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete optimization of truss structures using variable neighborhood search",
+                "pub_year": "2021",
+                "citation": "Iranian Journal of Science and Technology, Transactions of Civil Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7743951068851016249",
+            "cites_id": [
+                "7743951068851016249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An evaluation of the generalized\u2013\u03b1 time integration scheme for a transient response of nonlinear structures",
+                "pub_year": "2020",
+                "citation": "Engineering Structures 204, 109992, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6400640370737518714",
+            "cites_id": [
+                "6400640370737518714"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model update with the observer/Kalman filter and genetic algorithm approach",
+                "pub_year": "2012",
+                "citation": "Transactions of FAMENA 36 (2), 9-22, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:5nxA0vEk-isC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453645268597367501",
+            "cites_id": [
+                "16453645268597367501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OVERVIEW AND CASE STUDY EVALUATION OF TIME-FREQUENCY METHODS FOR ESTIMATION OF DAMPING RATIO OF STRUCTURES.",
+                "pub_year": "2011",
+                "citation": "Transactions of FAMENA 35 (4), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8108745840060355730",
+            "cites_id": [
+                "8108745840060355730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPARISON OF GENETIC AND BEES ALGORITHMS IN THE FINITE ELEMENT MODEL UPDATE.",
+                "pub_year": "2011",
+                "citation": "Transactions of FAMENA 35 (1), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3327677680347834223",
+            "cites_id": [
+                "3327677680347834223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear static isogeometric analysis of cable structures",
+                "pub_year": "2019",
+                "citation": "Archive of Applied Mechanics 89, 713-729, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1796336280396247337",
+            "cites_id": [
+                "1796336280396247337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Isogeometric approach to the dynamics of the catenary exposed to large displacements",
+                "pub_year": "2019",
+                "citation": "Acta Mechanica 230, 351-366, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8474909826286689044",
+            "cites_id": [
+                "8474909826286689044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active vibration control of electro-mechanical system with step excitation and electromagnetic actuator",
+                "citation": "Procs. Int\u2019l Symp. Coupled Methods in Numerical Dynamics, Split, Croatia \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6298878493066946418",
+            "cites_id": [
+                "6298878493066946418"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of Electric Power Steering System\u2013OpenModelica Simulation",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4947060396070791810",
+            "cites_id": [
+                "4947060396070791810"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic analysis of elastic pendulum with slider",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7254738913314784582",
+            "cites_id": [
+                "7254738913314784582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INTEGRATION SCHEMES FOR THE TRANSIENT DYNAMICS OF NONLINEAR CABLE STRUCTURES",
+                "pub_year": "2018",
+                "citation": "ECCM ECCFD, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5817982008814401237",
+            "cites_id": [
+                "5817982008814401237"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Modal Analysis And Modal Parameters Extraction",
+                "pub_year": "2009",
+                "citation": "Book of Abstracts, 84, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5863794433449440829",
+            "cites_id": [
+                "5863794433449440829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fluid Structure Interaction Using Modal Superposition and Lagrangian CFD",
+                "pub_year": "2024",
+                "citation": "Journal of Marine Science and Engineering 12 (2), 318, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized finite difference method and advective problems",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modal and experimental analysis of floating floors",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and control based on the concept of an inverted pendulum",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of sound transmission loss of floating floors",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient Vibration of the Ship Power Train in Polar Conditions",
+                "pub_year": "2022",
+                "citation": "International Conference on Wave Mechanics and Vibrations, 998-1006, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling EPAS system including the exponential spring friction element",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-catenary isogeometric discretization with the sliding constraint",
+                "pub_year": "2021",
+                "citation": "Acta Mechanica Sinica 37, 80-91, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time integration methods for flexible pendulum with slider",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the transient problem integration in vicinity of resonance",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear Dynamics Quarter Car Model and Response to Road Excitation",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Identification of the unbalanced magnetic pull in generator at excitation and the hydropower machine model validation",
+                "pub_year": "2018",
+                "citation": "MATEC Web of Conferences 211, 06003, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Vibration Testing and Nondestructive Testing",
+                "pub_year": "2012",
+                "citation": "HDKBR INFO Magazin 2 (3), 23-29, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eksperimentalno istra\u017eivanje dodane mase na gredi djelomi\u010dno uronjenoj u vodu",
+                "pub_year": "2011",
+                "citation": "Tehni\u010dki vjesnik 18 (4), 589-594, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DOPRINOS EKSPERIMENTALNOJ MODALNOJ ANALIZI U DETEKCIJI STRUKTURNIH PROMJENA I METODAMA TEMELJENIM NA OSTATKU SILE",
+                "pub_year": "2009",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Modal Analysis and Structural Changes",
+                "pub_year": "2009",
+                "citation": "Book of Abstracts, 109, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamics of nonlinear isogeometric catanery models",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometric nonlinear analysis of cable structures using isogeometric cable elements",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cCayjsYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

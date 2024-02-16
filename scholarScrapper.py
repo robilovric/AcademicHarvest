@@ -27,6 +27,9 @@ for prof in professorData.professors:
 
         prof.display_information()
 
+        #Spremanje u file
+        prof.WriteDataToFile()        
+
     except Exception as e:
         conpromited_strings.append(prof.name)
         print(f"An exception of type {type(e).__name__} occurred: {e}")

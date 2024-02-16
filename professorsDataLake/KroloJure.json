@@ -1,0 +1,435 @@
+{
+    "name": "Krolo Jure",
+    "num_citations": 118,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical modeling of solid-state recycling of aluminum chips",
+                "pub_year": "2016",
+                "citation": "The International Journal of Advanced Manufacturing Technology 87, 1125-1133, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17725292110536767098",
+            "cites_id": [
+                "17725292110536767098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of semi-solid high-pressure die casting process by computer simulation, Taguchi method and grey relational analysis",
+                "pub_year": "2021",
+                "citation": "International Journal of Metalcasting 15, 108-118, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16449716149440780325",
+            "cites_id": [
+                "16449716149440780325"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical analysis of the combined ECAP and heat treatment for recycling aluminum chips without remelting",
+                "pub_year": "2019",
+                "citation": "Metals 9 (6), 660, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6138639089469353676",
+            "cites_id": [
+                "6138639089469353676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive neuro-fuzzy and regression models for predicting microhardness and electrical conductivity of solid-state recycled EN AW 6082",
+                "pub_year": "2019",
+                "citation": "The International Journal of Advanced Manufacturing Technology 100, 2981-2993, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6225387054822000852",
+            "cites_id": [
+                "6225387054822000852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced mechanical properties of aluminium alloy EN AW 6082 recycled without remelting",
+                "pub_year": "2019",
+                "citation": "Tehni\u010dki vjesnik 26 (5), 1253-1259, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=834929726350943401",
+            "cites_id": [
+                "834929726350943401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and optimization of tensile strength of ABS parts manufactured by the fused deposition modeling process",
+                "pub_year": "2017",
+                "citation": "Conference Proceedings\" International conference \u201cMechanical Technologies \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=513250475860137736,10232345586641581204",
+            "cites_id": [
+                "513250475860137736",
+                "10232345586641581204"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrosion Behavior of Stainless Steel in Seawater in the Presence of Sulfide",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (7), 4366, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:4TOpqqG69KYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13978671392351872695",
+            "cites_id": [
+                "13978671392351872695"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue and corrosion behavior of solid-state recycled aluminum alloy EN AW 6082",
+                "pub_year": "2020",
+                "citation": "Journal of Materials Engineering and Performance 29, 4310-4321, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:0EnyYjriUFMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16263775736065086874",
+            "cites_id": [
+                "16263775736065086874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of austempering temperature and salt bath agitation on microstructure and mechanical properties of austempered ductile iron",
+                "pub_year": "2018",
+                "citation": "Kovove Mater 56, 137-144, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1675456591823879933",
+            "cites_id": [
+                "1675456591823879933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy logic modeling of ultimate tensile strength and cost in fused deposition modeling process of additive manufacturing",
+                "pub_year": "2021",
+                "citation": "International Conference Mechanical Technologies and Structural Materials, 1-10, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12877702290248688470",
+            "cites_id": [
+                "12877702290248688470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Closed Cell Foams from the Aluminium Chip Waste",
+                "pub_year": "2021",
+                "citation": "Croatian society for mechanical technologies: Split, Croatia, 95-100, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16652574810730394775",
+            "cites_id": [
+                "16652574810730394775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical modelling of an experimental\u2010analytical method for friction coefficient determination in deep drawing",
+                "pub_year": "2019",
+                "citation": "Materialwissenschaft und Werkstofftechnik 50 (4), 372-381, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11477635403899730447",
+            "cites_id": [
+                "11477635403899730447"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Closed-Cell Foams Out of Aluminum Chip Waste: Mathematical Modeling and Optimization",
+                "pub_year": "2022",
+                "citation": "Metals 12 (6), 933, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7656133243447058479",
+            "cites_id": [
+                "7656133243447058479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermomechanical treatment of A380 aluminum alloy for globular thixo feedstock",
+                "pub_year": "2020",
+                "citation": "Materialwissenschaft und Werkstofftechnik 51 (8), 1047-1057, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2980774466715893042",
+            "cites_id": [
+                "2980774466715893042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrical conductivity and mechanical properties of the solid state recycled EN AW 6082 alloy",
+                "pub_year": "2017",
+                "citation": "Mech Technol Struct Mater, 71-76, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=116654322456633814",
+            "cites_id": [
+                "116654322456633814"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solid-state recycling of EN AW 2011 aluminium chips",
+                "pub_year": "2015",
+                "citation": "Mechanical Technologies and Structural Materials, 101-6, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=22605041915824065",
+            "cites_id": [
+                "22605041915824065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrosion Behaviour of Recycled Aluminium AlSi9Cu3 (Fe) Machining Chips by Hot Extrusion and Thixoforming",
+                "pub_year": "2024",
+                "citation": "Sustainability 16 (4), 1358, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSIS OF PRODUCTION METHOD AND STABILIZING AGENT ON STRUCTURE OF ALUMINUM METAL FOAMS",
+                "pub_year": "2023",
+                "citation": "Journal of Sustainable Technologies and Materials 3 (4), 16-21, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Open-Cell Metal Foams by Recycling of Aluminum Alloy Chips",
+                "pub_year": "2023",
+                "citation": "Materials 16 (11), 3930, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Closed-Cell Foams Out of Aluminum Chip Waste: Mathematical Modeling and Optimization. Metals 2022, 12, 933",
+                "pub_year": "2022",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recycling of EN AW 2011 Aluminum Chips without Remelting",
+                "pub_year": "2018",
+                "citation": "Encyclopedia of Aluminum and Its Alloys, Two-Volume Set (Print), 2361-2369, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminary study of severe plastic deformation tool for production of solid state recycled materials",
+                "pub_year": "2016",
+                "citation": "Mechanical Technologies and Structural Materials, 79-84, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "blela@ fesb. hr",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "kgrgic00@ fesb. hr blela@ fesb. hr sonja. jozic@ fesb. hr jkrolo@ fesb. hr",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CORROSION BEHAVIOR OF AL FOAMS IN 0.5 M NACL SOLUTION KOROZIJSKO PONA\u0160ANJE AL PJENA U0, 5M NACL OTOPINI",
+                "citation": "MATRIB 2022, 0"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Athens Journal of Technology & Engineering",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Open Cell Foams Out of Aluminium Chips",
+                "citation": "Athens Journal of Technology & Engineering, 299, 0"
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Microstructure of the extruded aluminium AlSi9Cu3 (Fe) machining chips reheated in the semisolid state",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "* University ofSplit, Faculty of Electrical Engineering, Mechanical Engineering and NavalArchitecture, Rudera Bo\u0161kovi\u0107a 32, 21ooo Split, Hrvatska",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "and Branimir LELA1",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN EXPERIMENTAL-ANALYTICAL METHOD FOR DETERMINATION OF FRICTION FACTOR IN DEEP DRAWING",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "akQLuEAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

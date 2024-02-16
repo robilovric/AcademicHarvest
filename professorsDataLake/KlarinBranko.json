@@ -1,0 +1,1412 @@
+{
+    "name": "Klarin Branko",
+    "num_citations": 492,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and feasibility of implementing solar chimney power plants in the Mediterranean region",
+                "pub_year": "2008",
+                "citation": "Energy 33 (11), 1680-1690, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 204,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12793888812369230518",
+            "cites_id": [
+                "12793888812369230518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplified analytical approach for evaluation of the optimal ratio of pressure drop across the turbine in solar chimney power plants",
+                "pub_year": "2010",
+                "citation": "Applied Energy 87 (2), 587-591, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14766722452368202337",
+            "cites_id": [
+                "14766722452368202337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal imaging and thermoelastic stress analysis of impact damage of composite materials",
+                "pub_year": "2011",
+                "citation": "Engineering Failure Analysis 18 (2), 713-719, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=955178147964651650",
+            "cites_id": [
+                "955178147964651650"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wing sails for hybrid propulsion of a ship",
+                "pub_year": "2016",
+                "citation": "Journal of Sustainable Development of Energy, Water and Environment Systems \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4832988379556416981",
+            "cites_id": [
+                "4832988379556416981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis and experimental validation of heat transfer during solidification of phase change material in a large domain",
+                "pub_year": "2020",
+                "citation": "Journal of Energy Storage 30, 101543, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17790062452316595716",
+            "cites_id": [
+                "17790062452316595716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of CFD simulation parameters in prediction of ventilated flow on a surface-piercing hydrofoil",
+                "pub_year": "2021",
+                "citation": "Ship Technology Research 68 (1), 1-13, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:UxriW0iASnsC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6410854114971976123",
+            "cites_id": [
+                "6410854114971976123"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-destructive wind turbine blade analysis based on the Thermal Stress Analysis",
+                "pub_year": "2009",
+                "citation": "Proceedings of the international symposium on coupled methods in numerical \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16123614687326395917",
+            "cites_id": [
+                "16123614687326395917"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New and smart approach to aeroponic and seafood production",
+                "pub_year": "2019",
+                "citation": "Journal of Cleaner Production 239, 117665, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12402709240965816908",
+            "cites_id": [
+                "12402709240965816908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulating hydroelastic slamming by coupled Lagrangian-FDM and FEM",
+                "pub_year": "2020",
+                "citation": "HSMV 2020: Proceedings of the 12th Symposium on High Speed Marine Vehicles 5 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:dshw04ExmUIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14051217695972166463",
+            "cites_id": [
+                "14051217695972166463"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Concept of Firefighting Aerial Support with Autonomous Unmanned Aerial Systems (AUAS)",
+                "pub_year": "2020",
+                "citation": "2020 New Trends in Aviation Development (NTAD), 78-83, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13536036085738828192",
+            "cites_id": [
+                "13536036085738828192"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economical analysis of replacing Diesel propulsion with hybrid electric-wind propulsion on ferries in the Adriatic",
+                "pub_year": "2016",
+                "citation": "2016 International Multidisciplinary Conference on Computer and Energy \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4011722820283395905",
+            "cites_id": [
+                "4011722820283395905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acceptable concept of carbon dioxide storage",
+                "pub_year": "2013",
+                "citation": "Technical Gazette 20 (1), 161, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10511443966009387663,17940255554968036829",
+            "cites_id": [
+                "10511443966009387663",
+                "17940255554968036829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of gradient based IR thermography to the GRP structures inspection",
+                "pub_year": "2012",
+                "citation": "Key Engineering Materials 488, 682-685, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7624687937294355297",
+            "cites_id": [
+                "7624687937294355297"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid wind-power-distillation plant",
+                "pub_year": "2012",
+                "citation": "Thermal Science 16 (1), 251-261, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:qUcmZB5y_30C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10937743986548614320",
+            "cites_id": [
+                "10937743986548614320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of expert systems in wind turbine applications",
+                "pub_year": "1993",
+                "citation": "Proc. European Community Wind Energy Conference and Exhibition, L\u00fcbeck, 804-807, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12651297753557331049",
+            "cites_id": [
+                "12651297753557331049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic analysis of PV/wind turbine stand-alone energy system",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:ldfaerwXgEUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3082491834233910300",
+            "cites_id": [
+                "3082491834233910300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Application of lR Thermography to the NDT and Thermal Stress Analysis",
+                "pub_year": "2012",
+                "citation": "HDKBR INFO Magazin 2 (2), 17-22, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=698951007407416029",
+            "cites_id": [
+                "698951007407416029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The application of pulse heating infrared thermography to the wind turbine blade analysis",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 16th International Conference on Composite Structures, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6498645821463472642",
+            "cites_id": [
+                "6498645821463472642"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Kornati fire accident\u2013Aerodynamic and thermodynamic aspects of the accident",
+                "pub_year": "2008",
+                "citation": "WIT Transactions on Ecology and the Environment 119, 377-386, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2699239027661763769",
+            "cites_id": [
+                "2699239027661763769"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling of non-Newtonian meshless flow with structural solvers",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:u9iWguZQMMsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10206013318078912026",
+            "cites_id": [
+                "10206013318078912026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of gradient based IR thermography to the GRP structures inspection",
+                "pub_year": "2011",
+                "citation": "Key Engineering Materials 1382 (488), 682, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1937142648084012783",
+            "cites_id": [
+                "1937142648084012783"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The application of the pulse thermography to the GRP glider inspection",
+                "pub_year": "2010",
+                "citation": "Proc. of 27th Symposium on Advances in Experimental Mechanics, Wroclaw \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3489247268914986088",
+            "cites_id": [
+                "3489247268914986088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Basic solar chimney flow improvements",
+                "pub_year": "2009",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 51 (5), 465-472, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=815366213391142616",
+            "cites_id": [
+                "815366213391142616"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aerodynamic aspects of the Kornati accident\u2013",
+                "pub_year": "2008",
+                "citation": "Workshop Forest Fire Behavior Research and Kornati Fire Accident\u2013Facts and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1663665033477853072",
+            "cites_id": [
+                "1663665033477853072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian Differencing Dynamics for microgravity sloshing",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:p2g8aNsByqUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2513128291471248201",
+            "cites_id": [
+                "2513128291471248201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mogu\u0107nosti primjene manjih vjetroturbina u proizvodnji energije na hrvatskoj obali i otocima",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje Sveu\u010dili\u0161ta u Splitu, Split, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11352893005702797938",
+            "cites_id": [
+                "11352893005702797938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mogu\u0107nosti primjene manjih vjetroturbina u proizvodnji energije na hrvatskoj obali i otocima",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje Sveu\u010dili\u0161ta u Splitu, Split, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:8k81kl-MbHgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11352893005702797938",
+            "cites_id": [
+                "11352893005702797938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of YOLO algorithm on student UAV",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:KxtntwgDAa4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10551557349997479466",
+            "cites_id": [
+                "10551557349997479466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energetski otoci-hibridni pu\u010dinski objekti",
+                "pub_year": "2016",
+                "citation": "Pomorski zbornik, 187-200, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16451679486498691764",
+            "cites_id": [
+                "16451679486498691764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Possibilities of offshore wind plants installation on the Croatian part of the Adriatic Sea",
+                "pub_year": "2014",
+                "citation": "1999 European Wind Energy Conference, 524-526, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15239318295000995992",
+            "cites_id": [
+                "15239318295000995992"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of CRO-EOL expert system for selecting the optimal wind turbine generator system as part of a combined electric energy system of an island",
+                "pub_year": "1996",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:blknAaTinKkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15933399212930201226",
+            "cites_id": [
+                "15933399212930201226"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of reinforced ice as alternative building material in cold regions: an overview",
+                "pub_year": "2023",
+                "citation": "Archives of Thermodynamics, 269-300-269-300, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Approach for Simulating Planing Using Lagrangian CFD",
+                "pub_year": "2023",
+                "citation": "HSMV 2023, 33-40, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The drone air-path development",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Islands\u2013Hybrid Off-shore Plants",
+                "pub_year": "2016",
+                "citation": "Journal of Maritime & Transportation Sciences, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Output Estimation of Wind Turbines at Potential Island and Coastal Sites of Croatia",
+                "pub_year": "2014",
+                "citation": "1999 European Wind Energy Conference, 1153-1156, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of Small Wind Turbine Production Potentiality on the Croatian Shore and Islands",
+                "pub_year": "2014",
+                "citation": "1999 European Wind Energy Conference, 520-523, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prihvatljivi koncept pohrane ugljikovog dioksida",
+                "pub_year": "2013",
+                "citation": "Tehni\u010dki vjesnik 20 (1), 161-165, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rigid wing sails for hyrid propulsion of the ship",
+                "pub_year": "2013",
+                "citation": "8th Conference on sustainable development of energy, water and environment \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "World Energy Trends-Large Off Shore Wind Power Plants",
+                "pub_year": "2011",
+                "citation": "Dru\u0161tvo in\u017eenjera strojarstva-Split, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prognoziranje granice razvla\u010denja betonskih \u010delika temeljem poznatog kemijskog sastava",
+                "pub_year": "2010",
+                "citation": "Metalurgija 49 (4), 321-324, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the yield point of concrete steels based upon known chemical composition",
+                "pub_year": "2010",
+                "citation": "Metalurgija 49 (4), 321-324, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the yield point of concrete steels based upon known chemical composition",
+                "pub_year": "2010",
+                "citation": "Metalurgija 49 (4), 321-324, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Possibilities of use a hybrid wind-solar power source (rigid wing and photovoltaics) for additional ship propulsion",
+                "pub_year": "2010",
+                "citation": "Nepoznat skup, 41-54, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acceptable concept of carbon dioxide storage in Croatia",
+                "pub_year": "2010",
+                "citation": "Energy and Environment, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osnovna unapre\u0111enja solarne dimnja\u010dne elektrane",
+                "pub_year": "2009",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 51 (5), 465-472, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aerodynamic aspects of additional ship powering by rigid sail-wing",
+                "pub_year": "2008",
+                "citation": "Festival znanosti, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data Aspects of Unmanned Aerial Vehicle",
+                "pub_year": "2008",
+                "citation": "Festival znanosti, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface tension-some physical and practical aspects",
+                "pub_year": "2008",
+                "citation": "Festival znanosti, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mission Adapted Unmanned Aerial Vehicle",
+                "pub_year": "2008",
+                "citation": "Festival znanosti, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Podloge za preliminarnu analizu solarne elektrane Jelina Draga 850 kW",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "POSSIBILITY OF USING RIGID SAIL (WING) FOR ADDITIONAL SHIP PROPULSION",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of smaller wind turbines in power production on the shore and on islands",
+                "pub_year": "2008",
+                "citation": "Nepoznat skup, 40-48, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Base for preliminary analysis of solar power plant jelina Draga 850 kW",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sail drive in present ship transportation",
+                "pub_year": "2007",
+                "citation": "Festival znanosti, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive airfoils for wind turbines",
+                "pub_year": "2007",
+                "citation": "Festival znanosti, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Podloge za preliminarnu analizu i idejni projekt za vjetroelektranu Kame\u0161nica",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Base for preliminary analysis and project for Kame\u0161nica wind farm",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Podloge za idejni projekt vjetroelektrane Podkom",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Base for project of windfarm Podkom",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind power perspectives in Croatia",
+                "pub_year": "2005",
+                "citation": "Festival znanosti, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna procjena mogu\u0107nosti postavljanja 11 vjetroparkova u Republici Hrvatskoj",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prilozi za idejne projekte za 11 vjetroparkova u Republici Hrvatskoj",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminary estimation of the posibilities of 11 windpark siting in the Republic of Croatia",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution for preliminary design for 11 wind parks in the Republic of Croatia",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Efficiency Improvement and Airfoil Selection",
+                "pub_year": "2004",
+                "citation": "Fakultet elektrotehnike strojarstva i brodogradnje u Splitu, Sveu\u010dili\u0161te u \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Idejni projekti za 13 vjetroparkova u Republici Hrvatskoj",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminary design for 13 windparks in the Republic of Croatia",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and implementation of a small wind-photovoltaic hybrid system",
+                "pub_year": "2002",
+                "citation": "Energy and the environment 2002, 261-266, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental impact of wind turbine as a source of sound and measurements",
+                "pub_year": "2002",
+                "citation": "Energy and the environment 2002, 189-197, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Opskrba energijom iz obnovljivih izvora GSM repetitorske postaje VIPNET-Blato (Spivnik)",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Opskrba energijom iz obnovljivih izvora bazne postaje VIPNET-GSM na Kor\u010duli",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:J-pR_7NvFogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy supply from renewable sources of telecommunication base station VIPNET-GSM Kor\u010dula",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy supply from renewable sources of GSM repeater station VIPNET-Blato (Spivnik)",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind evaluation expertise for a windfarm sites on the Pelje\u0161ac Peninsula: Orebi\u0107-Bila Plo\u010da and Ston-Kuvija",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental impact of wind turbine as a sound source",
+                "pub_year": "2000",
+                "citation": "Energy and the Environment, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Possibilities of Wind Power Plants Application in Croatia",
+                "pub_year": "2000",
+                "citation": "Bura-\u010dasopis Energetske sekcije Zelene akcije 1 (1), 42-43, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy output estimation of wind turbines at potential island and coastal sites of Croatia",
+                "pub_year": "1999",
+                "citation": "EWEC-CONFERENCE-, 1153-1156, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mogu\u0107nosti proizvodnje elektri\u010dne energije iz energije vjetra u Republici Hrvatskoj VJETRA U REPUBLICI HRVATSKOJ",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza theni\u010dkog potencijala vjetra na obali i otocima Hrvatske-prilozi za nacionalni program PROHES (ENWIND)",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ENWIND-wind energy application program-preliminary results and future activities",
+                "pub_year": "1998",
+                "citation": "Energetski Institut, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Possibilities of power production from wind energy in the Republic of Croatia",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "technical windpotential analysis on the Croatian shore and islands",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Makrolokacije za vjetroelektrane u pet \u017eupanija Republike Hrvatske",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Macrolocations for windpower ststions in five counties of the Republic of Croatia",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feasibility study on economic operation of wind farms in the electric power system of the Republic of Croatia",
+                "pub_year": "1996",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Example of Using CRO-EOL Expert System for Selecting Wind Turbine Generator System",
+                "pub_year": "1996",
+                "citation": "Energija i okoli\u0161, 151-158, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izbor optimalne vjetroturbine pomo\u0107u ekspertnog sustava",
+                "pub_year": "1995",
+                "citation": "Fakultet strojarstva i brodogradnje, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Wind Turbine Choosing by Expert System",
+                "pub_year": "1995",
+                "citation": "Fakultet strojarstva i brodogradnje, Sveu\u010dili\u0161te u Zagrebu, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Teh Influence Parameters and Optimal Wind Turbine Generator Choosing with use of the Expert System",
+                "pub_year": "1994",
+                "citation": "Energija i za\u0161tita okoli\u0161a, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Inference Engine of the Expert System for Optimal Wind Turbine Generator System",
+                "pub_year": "1993",
+                "citation": "1993. ISES Solar World Congress, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Airfoils Adapted to Wind Turbine Application",
+                "pub_year": "1993",
+                "citation": "Me\u0111unarodni simpozij o novim tehnologijama, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Standardization in Windpower Stations Field",
+                "pub_year": "1992",
+                "citation": "Energija i za\u0161tita \u010dovjekove okoline, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adjustment of the Wind Turbine to Specific Site",
+                "pub_year": "1992",
+                "citation": "Me\u0111unarodni kongres Energija i za\u0161tita \u010dovjekove okoline, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heat to Work Efficiency of Convective Vortices as Heat Engines",
+                "pub_year": "1975",
+                "citation": "Bulletin American Meteorological Society 56 (5), 530-534, 1975"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LI, Shuaibing Lopes, Nuno Maras, Josip Marasovic, Tea",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simplified model for evaluation of the potential for electric power production by solar chimney power plant",
+                "citation": "Me\u0111unarodni kongres Energija i okoli\u0161 2008: Znanstveni skup o energiji i \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive airfoils for wind turbine blades",
+                "citation": "European Wind Energy Conference and Exhibition, 3450, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DETECTION OF STRUCTURAL DAMAGES IN CRP MATERIALS BASED ON INFRARED IMAGING AND FFT",
+                "citation": "Proceedings of the 29th Danubia-Adria Symposium on Advances in Experimental \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of Expert System in Wind Turbine Applications",
+                "citation": "European Community Wind Energy Conference, 804-807, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of the Wind Energy Technical Potentials on the Coast and Islands of Croatia",
+                "citation": "Energy and the environment, 139-145, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feasibility Study on Economic Operation on Wind Farms in the Electric Power System of the Republic of Croatia",
+                "citation": "European Wind Energy Conference and Exhibition, 79-82, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Possible Contribution by Wind Power plants to the Electric Power system of Croatia",
+                "citation": "Proceedings of Energy and Environment Congress, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Possible Contribution by Wind Power Plants to the Electric System of the Republic of Croatia",
+                "citation": "Energija i za\u0161tita okoli\u0161a, 143-150, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wing sails for hybrid propulsion of the ships",
+                "citation": "International Congress Energy and the Environment Opatija 2014, 339, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concept of wind-assisted ferries for coastal transportation",
+                "citation": "Applied energy, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Adaptive Airfoils on Wind Turbine Working Characteristics",
+                "citation": "Energija i okoli\u0161 2008, 291, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEASIBILITY STUDY OF OFFSHORE AND ONSHORE WIND PLANTS FOR INSTALLATION IN CROATIA ALONG THE ADRIATIC SEA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Kc0LuHwAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

@@ -1,0 +1,1623 @@
+{
+    "name": "Radica Gojmir",
+    "num_citations": 508,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of methods towards reduction of harmful pollutants from diesel engines",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 262, 121105, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:rO6llkc54NcC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17142406124280025501",
+            "cites_id": [
+                "17142406124280025501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Commercial vehicle auxiliary loads powered by PEM fuel cell",
+                "pub_year": "2019",
+                "citation": "International journal of hydrogen energy 44 (20), 10082-10090, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:RGFaLdJalmkC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14456946496567809707",
+            "cites_id": [
+                "14456946496567809707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of efficiencies of a ship power plant operating with waste heat recovery through combined heat and power production",
+                "pub_year": "2015",
+                "citation": "Energies 8 (5), 4273-4299, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1403244519383892924",
+            "cites_id": [
+                "1403244519383892924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HYDRIDE4MOBILITY: an EU HORIZON 2020 project on hydrogen powered fuel cell utility vehicles using metal hydrides in hydrogen storage and refuelling systems",
+                "pub_year": "2021",
+                "citation": "international journal of hydrogen energy 46 (72), 35896-35909, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9829170602328506922",
+            "cites_id": [
+                "9829170602328506922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using pellet fuels for residential heating: A field study on its efficiency and the users\u2019 satisfaction",
+                "pub_year": "2019",
+                "citation": "Energy and Buildings 184, 193-204, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1076866550037910406",
+            "cites_id": [
+                "1076866550037910406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance simulation of marine slow-speed diesel propulsion engine with turbocharger under aggravated conditions",
+                "pub_year": "2009",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 51 (3), 199-212, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=717981005291055955",
+            "cites_id": [
+                "717981005291055955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expert system for diagnosis and optimisation of marine diesel engines",
+                "pub_year": "2008",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 50 (2), 105-116, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481276181602849836",
+            "cites_id": [
+                "15481276181602849836"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling, performance improvement and emission reduction of large two-stroke diesel engine using multi-zone combustion model",
+                "pub_year": "2020",
+                "citation": "Journal of Thermal Analysis and Calorimetry 141, 337-350, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11846003991139690876",
+            "cites_id": [
+                "11846003991139690876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applications of the continuously rotating detonation to combustion engines at the \u0141ukasiewicz-Institute of Aviation",
+                "pub_year": "2022",
+                "citation": "Combustion Engines 61, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:tOudhMTPpwUC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5546023741892927334",
+            "cites_id": [
+                "5546023741892927334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coolant induced variable temperature flow field for improved performance of proton exchange membrane fuel cells",
+                "pub_year": "2019",
+                "citation": "International Journal of Hydrogen Energy 44 (20), 10102-10119, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9823865169096903109",
+            "cites_id": [
+                "9823865169096903109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Engine model for onboard marine engine failure simulation",
+                "pub_year": "2020",
+                "citation": "Journal of Thermal Analysis and Calorimetry 141, 119-130, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5991625128055066287",
+            "cites_id": [
+                "5991625128055066287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control strategy of a fuel-cell power module for electric forklift",
+                "pub_year": "2021",
+                "citation": "International Journal of Hydrogen Energy 46 (72), 35938-35948, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9770175258873016509",
+            "cites_id": [
+                "9770175258873016509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An alternative and hybrid propulsion for merchant ships: current state and perspective",
+                "pub_year": "2021",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 1-33, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:XiSMed-E-HIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16712770281850462645",
+            "cites_id": [
+                "16712770281850462645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental method for marine engine\u2019s emissions analysis",
+                "pub_year": "2016",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 63 (1), 24-31, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:qUcmZB5y_30C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4903810114137254419",
+            "cites_id": [
+                "4903810114137254419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamic analysis of active modular internal combustion engine concept: targeting efficiency increase and carbon dioxide emissions reduction of gasoline engines",
+                "pub_year": "2018",
+                "citation": "International Journal of Energy Research 42 (9), 3017-3029, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:hMod-77fHWUC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4710861335492170950",
+            "cites_id": [
+                "4710861335492170950"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application and analysis of solid oxide fuel cells in ship energy systems",
+                "pub_year": "2018",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 69 (4), 53-68, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:GnPB-g6toBAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8562574036283480069",
+            "cites_id": [
+                "8562574036283480069"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Degradation mechanisms in automotive fuel cell systems",
+                "pub_year": "2017",
+                "citation": "Fuel Cells and Hydrogen Joint Undertaking: Brussels, Belgium, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:blknAaTinKkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10442305677186764685",
+            "cites_id": [
+                "10442305677186764685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Engine working cycle analysis for diagnostic and optimisation purposes",
+                "pub_year": "2009",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 60 (4), 378-387, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7775110626745391671",
+            "cites_id": [
+                "7775110626745391671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Investigation of the Composition of the Flow in and out of a Two-stroke Diesel engine and Air Consumption Ratio",
+                "pub_year": "2017",
+                "citation": "Energies 10 (6), 805, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17020218355600158399",
+            "cites_id": [
+                "17020218355600158399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ekspertni sustav za dijagnostiku stanja i optimiranje rada brodskog Dieselovog motora",
+                "pub_year": "2004",
+                "citation": "doktorska disertacija, Fakultet strojarstva i brodogradnje, Zagreb, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3336606511012863538",
+            "cites_id": [
+                "3336606511012863538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission analysis of diesel vehicles in circumstances of emission regulation system failure: a case study",
+                "pub_year": "2022",
+                "citation": "Journal of Energy Resources Technology 144 (8), 082307, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16930415868554927960",
+            "cites_id": [
+                "16930415868554927960"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of components capacity loss on the performance of a hybrid PV/wind/battery/hydrogen stand-alone energy system",
+                "pub_year": "2023",
+                "citation": "Energy Conversion and Management 291, 117314, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8885954765160378239",
+            "cites_id": [
+                "8885954765160378239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proton-Exchange Membrane Fuel Cell Balance of Plant and Performance Simulation for Vehicle Applications",
+                "pub_year": "2022",
+                "citation": "Energies 15 (21), 8110, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4596976759202669433",
+            "cites_id": [
+                "4596976759202669433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of exhaust gas emission in the marine two-stroke slow-speed diesel engine",
+                "pub_year": "2016",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 67 (3), 17-35, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16307055233932421035",
+            "cites_id": [
+                "16307055233932421035"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency increase in ship's primal energy system using a multistage compression with intercooling",
+                "pub_year": "2016",
+                "citation": "Thermal Science 20 (4), 1399-1406, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:4TOpqqG69KYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12738435172980477013",
+            "cites_id": [
+                "12738435172980477013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of efficiencies of a ship power plant operating with waste heat recovery through combined heat and power production. Energies 2015, 8, 4273\u20134299",
+                "citation": "S, 0"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:8AbLer7MMksC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8227213011109584774",
+            "cites_id": [
+                "8227213011109584774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic overview of newly available technologies in the green maritime sector",
+                "pub_year": "2023",
+                "citation": "Energies 16 (2), 641, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:sSrBHYA8nusC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14939774256903113990",
+            "cites_id": [
+                "14939774256903113990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of marine engine exhaust emissions",
+                "pub_year": "2021",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 1-14, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3255508280110863600",
+            "cites_id": [
+                "3255508280110863600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-Stroke Low Speed Diesel Engine Simulation Model for NOx Analysis",
+                "pub_year": "2017",
+                "citation": "Transactions on Maritime Science 6 (01), 14-23, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:r0BpntZqJG4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16178150593453352494",
+            "cites_id": [
+                "16178150593453352494"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control strategy of Fuel cell-Battery hybrid system for optimizing Lift truck load cycle",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:SP6oXDckpogC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14732097035396154308",
+            "cites_id": [
+                "14732097035396154308"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of exhaust emission from marine diesel engines",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:dshw04ExmUIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11918855038960000434",
+            "cites_id": [
+                "11918855038960000434"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic analysis of PV/wind turbine stand-alone energy system",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3082491834233910300",
+            "cites_id": [
+                "3082491834233910300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and analysis of two stroke low speed diesel engine",
+                "pub_year": "2016",
+                "citation": "XXII. Symposium Sorta, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1223298745542427855",
+            "cites_id": [
+                "1223298745542427855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Densitometric analysis of prf vs. xenograft for sinus augmentation procedures\u20134 years follow-up",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9831145614053271724",
+            "cites_id": [
+                "9831145614053271724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DIJAGNOSTIKA KVAROVA SUSTAVA GORIVA U PORIVNIM BRODSKIM MOTORIMA.",
+                "pub_year": "2011",
+                "citation": "Nase More 58, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6880547251892434492",
+            "cites_id": [
+                "6880547251892434492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EKSPERTNI SUSTAV INTELIGENTNOGA DIZELSKOG MOTORA",
+                "pub_year": "2005",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 52 (1-2), 81-87, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6267563818025952495",
+            "cites_id": [
+                "6267563818025952495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of the Expert Diagnostic System for Marine Diesel Engine Condition.",
+                "pub_year": "2004",
+                "citation": "Databases and Applications, 169-173, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13799451392644174989",
+            "cites_id": [
+                "13799451392644174989"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-Speed Marine Diesel Engine Modeling for NOx Prediction in Exhaust Gases",
+                "pub_year": "2021",
+                "citation": "Energies 14 (15), 4442, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:p2g8aNsByqUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9809131070392929653",
+            "cites_id": [
+                "9809131070392929653"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission of diesel powered vehicle under real operating conditions-impact of emissions control system failure",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:KxtntwgDAa4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9730246744778266382",
+            "cites_id": [
+                "9730246744778266382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increasing engine efficiency at part load with the exhaust valve control: a simplified modelling approach",
+                "pub_year": "2018",
+                "citation": "International Journal of Exergy 26 (1-2), 131-153, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7168236304255075351",
+            "cites_id": [
+                "7168236304255075351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostic methods for automotive fuel cell systems",
+                "pub_year": "2017",
+                "citation": "Technical Report D-1.4, European Commission, Brussels, https://ec. europa \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2722004784821761871",
+            "cites_id": [
+                "2722004784821761871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamic Analysis of Marine Two Stroke Diesel Engine Combustion Process",
+                "pub_year": "2008",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 50 (2), 117-126, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16329158522403258380",
+            "cites_id": [
+                "16329158522403258380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Fluid Dynamics study of the influence of number of channels on the performance of full-scale PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14923470820525933869",
+            "cites_id": [
+                "14923470820525933869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Marine engines running on hydrogen additive in diesel fuel for emission reduction",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:738O_yMBCRsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17999056226265061082",
+            "cites_id": [
+                "17999056226265061082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developments in Marine Hybrid Propulsion",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:WbkHhVStYXYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16500919092551551485",
+            "cites_id": [
+                "16500919092551551485"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Vehicles Emissions Assessment",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5014711465890961719",
+            "cites_id": [
+                "5014711465890961719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of dynamic performance of PEM fuel cell using a segmented single-cell",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3625185290749347059",
+            "cites_id": [
+                "3625185290749347059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SUPERCHARGED ENGINE USING TURBINE STANDALONE EXHAUST GAS RECUPERATION SYSTEM",
+                "pub_year": "2017",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 68 (3), 103-118, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:k_IJM867U9cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16237820913546359188",
+            "cites_id": [
+                "16237820913546359188"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Failure diagnostics of marine engine fuel supply system",
+                "pub_year": "2011",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 58 (1-2), 22-30, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9032239562657751078",
+            "cites_id": [
+                "9032239562657751078"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent Diesel Engine Expert System",
+                "pub_year": "2005",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 52 (1-2), 81-87, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=429477354995086608",
+            "cites_id": [
+                "429477354995086608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diesel engine working cycle research for the purpose of diagnosis with an expert system",
+                "pub_year": "1994",
+                "citation": "Brodogradnja 42 (1), 25-32, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7844236926599980125",
+            "cites_id": [
+                "7844236926599980125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza u\u010dinkovitosti mikrokogeneracijskog sustava",
+                "citation": "FESB Split, 0"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:a0OBvERweLwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8995001884070428300",
+            "cites_id": [
+                "8995001884070428300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Hybrid Ship Machinery System with Proton Exchange Membrane Fuel Cells and Battery Pack",
+                "pub_year": "2024",
+                "citation": "Preprints, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:9Nmd_mFXekcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Air Mass Flow and Pressure Optimization of a PEM Fuel Cell Hybrid System for a Forklift Application",
+                "pub_year": "2023",
+                "citation": "Energies 17 (1), 120, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Vehicle-Specific Power Model for the Estimation of Hybrid Vehicle Emissions",
+                "pub_year": "2023",
+                "citation": "Energies 16 (24), 8094, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pove\u0107anje u\u010dinkovitosti, smanjenje \u0161tetnih emisija i hibridizacija brodskog energetskog sustava",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methods and equipment for analysis and diagnostics of marine engines",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of coolant flow field for maintaining the desired temperature profile along the PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:LPZeul_q3PIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic Overview of Newly Available Technologies in the Green Maritime Sector. Energies 2023, 16, 641",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter Variation Study of Two-Stroke Low-Speed Diesel Engine Using Multi-Zone Combustion Model",
+                "pub_year": "2022",
+                "citation": "Energies 15 (16), 5865, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission and efficiency estimation of hybrid powertrains with continuous Vehicle Specific Power analysis",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proton Exchange Membrane Fuel Cell Flow Field Configuration: Modelling and Experimental Verification",
+                "pub_year": "2022",
+                "citation": "ECS Transactions 108 (7), 143, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of compression ignition engine preheating on its performance under cold start conditions",
+                "pub_year": "2022",
+                "citation": "Combustion Engines 61 (1), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Fluid Dynamics Analysis and Experimental Validation of Propeller Flow",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-zone engine combustion model calibration using genetic algorithms",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and optimization of slow speed two stroke marine Diesel engine using Multi zone combustion model",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD Simulation for the Knock Analysis in the Internal Combustion Engine",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ENGINE MODEL DEVELOPMENT AND CALIBRATION",
+                "pub_year": "2017",
+                "citation": "Book of, 435, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EFCF2015\u2013Bringing Fuel Cells & Hydrogen, as Part of our Energy Future, Closer to Deployment",
+                "pub_year": "2016",
+                "citation": "Fuel Cells 16 (4), 405-405, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu zgrade Vukovarska 141 Makarska",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:z_wVstp3MssC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu poslovnog centra Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenje parametara kvalitete unutarnjeg zraka u centru Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:VLnqNzywnoUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report on indoor air quality measurements in Guliver energija centre",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report on energy efficiency audit for building Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of the Marine Engine Performance with the Purpose of Predicting Parameters",
+                "pub_year": "2014",
+                "citation": "Book of, 437, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Domovinskog rata 117 (Stro\u017eanac)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:XD-gHx7UXLsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Tr\u0161\u0107anska 53",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:j8SEvjWlNXcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu zgrade Hektorovi\u0107eva 51 (Solin)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:NJ774b8OgUMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu gra\u0111evine \u010d. z. 4034/26 Plo\u010de",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:W5xh706n7nkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of catalogue of knowledge, skills and competences for mechanical engineering studies in Croatia",
+                "pub_year": "2014",
+                "citation": "Me\u0111unarodna stru\u010dna konferencija ME4CataLOgue, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy audit report for building \u010d. z. 4034/26 Plo\u010de",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy efficiency audit report for building Hektorovi\u0107eva 51 (Solin)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report on energy efficiency audit for building Tr\u0161\u0107anska 53",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report on energy efficiency audit for building Domovinskog rata 117 (Stro\u017eanac)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade D. \u0160imunovi\u0107a 25",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu upravne zgrade HEP OPS PrP Split",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:_Ybze24A_UAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu aparthotela\" Tamaris\"",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:olpn-zPbct0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report on HEP OPS PrP Split Administration Building Energy Audit",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report on energy efficiency audit for building D. \u0160imunovi\u0107a 25",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report on Apart-hotel\" Tamaris\" Energy Audit",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostics of the marine engine cooling system",
+                "pub_year": "2013",
+                "citation": "Ukorak s vremenom: glasilo...: \u010dasopis Udruge pomorskih strojara Split 48, 42, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Failure analyse of lubrication system on marine enigne",
+                "pub_year": "2012",
+                "citation": "Ukorak s vremenom 46, 44-52, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of engines life cost to control and improve yachts management and reliability",
+                "pub_year": "2011",
+                "citation": "WIT Transactions on Ecology and the Environment 148, 603-610, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of marine engines for fulfilling IMO emission regulations for yachts",
+                "pub_year": "2011",
+                "citation": "WIT Transactions on Ecology and the Environment 148, 611-621, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DIJAGNOSTIKA KVAROVA SUSTAVA GORIVA U PORIVNIM BRODSKIM MOTORIMA/Failure Diagnostics of Marine Engine Fuel Supply System",
+                "pub_year": "2011",
+                "citation": "Nase More 58 (1/2), 22, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission measurment procedures for imo certification of MAN B&W two stroke engines",
+                "pub_year": "2010",
+                "citation": "Znanstveni skup o energiji i za\u0161titi okoli\u0161a (22; 2010); Energija i klima \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza radnog ciklusa dizelskog motora u svrhu dijagnosticiranja i optimiziranja rada motora",
+                "pub_year": "2009",
+                "citation": "Brodogradnja 60 (4), 378-387, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developmet of Marine Engines to Fulfil IMO Emission Regilations",
+                "pub_year": "2008",
+                "citation": "Me\u0111unarodni kongres Energija i okoli\u0161, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent Diesel Engine Fuel Injection Expert System Developed for the Education of Marine Engineers",
+                "pub_year": "2005",
+                "citation": "9th International Conference on Traffic Science ICTS 2005, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Comparison of Engine Parameters Obtained by Different Methods for Analysing of Diesel Engine Working Cycles",
+                "pub_year": "2005",
+                "citation": "Proceedings of the 7th International Conference and Exhibition IAT'05 \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expert System for Diagnostics of Marine Diesel Engines",
+                "pub_year": "2004",
+                "citation": "Fakultet strojarstva i brodogradnje, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of the expert system for marine diesel engine condition",
+                "pub_year": "2004",
+                "citation": "The IASTED International Conference on WEB-BASED EDUCATION,~ WBE 2004~, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution to the research of influential parameters concerning the efficiency of marine diesel engine turbochargers",
+                "pub_year": "1999",
+                "citation": "Na\u0161e more: znanstveni \u010dasopis za more i pomorstvo 463 (3-4), 102, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DIESEL ENGINE WORKING CYCLE RESEARCH FOR THE PURPOSE OF DIAGNOSIS",
+                "pub_year": "1994",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of diesel engine diagnostic model based on static and dynamic parameters",
+                "pub_year": "1991",
+                "citation": "ETAN u pomorstvu, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diesel engine diagnostic simulation model based on parameters trends",
+                "pub_year": "1991",
+                "citation": "ETAN u Pomorstvu, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internal combustion engine process modelling for diagnosis by expert system",
+                "pub_year": "1990",
+                "citation": "ETAN u pomorstvu, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expert system for off-line diagnosis of marine diesel engines",
+                "pub_year": "1990",
+                "citation": "ETAN u pomorstvu, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Marine diesel engine expert systems-development and application concept",
+                "pub_year": "1989",
+                "citation": "ETAN u pomorstvu, 1989"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supervision algorithm of marine diesel engine test bed process",
+                "pub_year": "1989",
+                "citation": "Etan u pomorstvu, 1989"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integral microcomputer system concept for testing engine units on test bed",
+                "pub_year": "1988",
+                "citation": "Etan u pomorstvu, 1988"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diesel engine parametric system identification for testing purpose",
+                "pub_year": "1988",
+                "citation": "Etan u pomorstvu, 1988"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Energy Management of a Fuel Cell/Battery Hybrid System for a Forklift Application",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Method for Marine Engine\u2019s Emissions Analysis Eksperimentalne metode analize emisija brodskog stroja",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ISTRA\u017dIVANJE NOVOG KONCEPTA AKTIVNOG MODULARNOG MOTORA S UNUTARNJIM IZGARANJEM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zbirni sadr\u017eaj",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hour by Hour Simulation of Solar Hydrogen Energy System in Conjunction with Renewable Energy Sources",
+                "citation": "5th EUROPEAN PEFC AND H2 FORUM 2015, Chapter 12 page 31, 0"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inductance at Low Frequencies in Electrochemical Impedance Spectroscopy of PEM Fuel Cells",
+                "citation": "5th European PEFC & H2 Forum 2015, 54, 0"
+            },
+            "filled": false,
+            "author_pub_id": "dQNZ2nQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

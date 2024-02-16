@@ -1,0 +1,1402 @@
+{
+    "name": "L\u00f6rincz Josip",
+    "num_citations": 1151,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurements and modelling of base station power consumption under real traffic loads",
+                "pub_year": "2012",
+                "citation": "Sensors 12 (4), 4281-4310, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 221,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11584572959214323781",
+            "cites_id": [
+                "11584572959214323781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Greener, energy-efficient and sustainable networks: State-of-the-art and new trends",
+                "pub_year": "2019",
+                "citation": "Sensors 19 (22), 4864, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:35N4QoGY0k4C",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8170611359504435760",
+            "cites_id": [
+                "8170611359504435760"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Physical layer analysis of emerging IEEE 802.11 n WLAN standard",
+                "pub_year": "2006",
+                "citation": "2006 8th International Conference Advanced Communication Technology 1, 6 pp.-194, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17300561508613053200",
+            "cites_id": [
+                "17300561508613053200"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimized network management for energy savings of wireless access networks",
+                "pub_year": "2011",
+                "citation": "Computer Networks 55 (3), 514-540, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 66,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16067423288516547483",
+            "cites_id": [
+                "16067423288516547483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy savings in wireless access networks through optimized network management",
+                "pub_year": "2010",
+                "citation": "IEEE 5th International Symposium on Wireless Pervasive Computing 2010, 449-454, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5488196073237386695",
+            "cites_id": [
+                "5488196073237386695"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Is green networking beneficial in terms of device lifetime?",
+                "pub_year": "2015",
+                "citation": "IEEE Communications Magazine 53 (5), 232-240, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4876000653309160800",
+            "cites_id": [
+                "4876000653309160800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Comprehensive Overview of TCP Congestion Control in 5G Networks: Research Challenges and Future Perspectives",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (13), 1-41, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3221869798552824763",
+            "cites_id": [
+                "3221869798552824763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Renewable energy sources for power supply of base station sites",
+                "pub_year": "2013",
+                "citation": "International Journal of Business Data Communications and Networking (IJBDCN \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12000599578231251337",
+            "cites_id": [
+                "12000599578231251337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of service rates and base station switching granularity on energy consumption of cellular networks",
+                "pub_year": "2012",
+                "citation": "EURASIP Journal on Wireless Communications and Networking 2012, 1-24, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7195750269549205079",
+            "cites_id": [
+                "7195750269549205079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy-efficiency analyses of heterogeneous macro and micro base station sites",
+                "pub_year": "2014",
+                "citation": "Computers & Electrical Engineering 40 (2), 330-349, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:5nxA0vEk-isC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4977604156189861181",
+            "cites_id": [
+                "4977604156189861181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "What is the best spatial distribution to model base station density? A deep dive into two European mobile networks",
+                "pub_year": "2016",
+                "citation": "IEEE Access 4, 1434-1443, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9318737199064637501,10112897850456138963",
+            "cites_id": [
+                "9318737199064637501",
+                "10112897850456138963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic algorithms for optimization of energy consumption in wireless access networks",
+                "pub_year": "2011",
+                "citation": "KSII Transactions on Internet and Information Systems (TIIS) 5 (4), 626-648, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16524311645354462841",
+            "cites_id": [
+                "16524311645354462841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic allocation of power delivery paths in consolidated data centers based on adaptive UPS switching",
+                "pub_year": "2018",
+                "citation": "Computer Networks 144, 254-270, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:GnPB-g6toBAC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11224818523972259324",
+            "cites_id": [
+                "11224818523972259324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On interdependence among transmit and consumed power of macro base station technologies",
+                "pub_year": "2014",
+                "citation": "Computer communications 50, 10-28, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1398141190229256958",
+            "cites_id": [
+                "1398141190229256958"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic approach for optimized energy savings in wireless access networks",
+                "pub_year": "2010",
+                "citation": "SoftCOM 2010, 18th International Conference on Software, Telecommunications \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4204293615658423438",
+            "cites_id": [
+                "4204293615658423438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analyses of renewable and fuel power supply systems for different base station sites",
+                "pub_year": "2014",
+                "citation": "Energies 7 (12), 7816-7846, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:aqlVkmm33-oC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10654258887631223345",
+            "cites_id": [
+                "10654258887631223345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of the noise uncertainty impact on energy detection with different OFDM system designs",
+                "pub_year": "2019",
+                "citation": "Computer Communications 148, 185-207, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:lSLTfruPkqcC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8189337104165127654",
+            "cites_id": [
+                "8189337104165127654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Throughput comparison of AODV-UU and DSR-UU protocol implementations in multi-hop static environments",
+                "pub_year": "2007",
+                "citation": "2007 9th International Conference on Telecommunications, 195-202, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12477013493884417834",
+            "cites_id": [
+                "12477013493884417834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithm for evaluating energy detection spectrum sensing performance of cognitive radio MIMO-OFDM systems",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (20), 6881, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:p2g8aNsByqUC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14848442558475324853",
+            "cites_id": [
+                "14848442558475324853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A measurement study of short-time cell outages in mobile cellular networks",
+                "pub_year": "2016",
+                "citation": "Computer Communications 79, 92-102, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4195163535097817191",
+            "cites_id": [
+                "4195163535097817191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Survey on the Energy Detection of OFDM Signals with Dynamic Threshold Adaptation: Open Issues and Future Challenges",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (9), 1-41, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:KxtntwgDAa4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2299586984023070381",
+            "cites_id": [
+                "2299586984023070381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aerial imagery based on commercial flights as remote sensing platform",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (6), 1658, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:rO6llkc54NcC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8336585907406901616",
+            "cites_id": [
+                "8336585907406901616"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and Analysis of Data and Coverage Energy Efficiency for Different Demographic Areas in 5G Networks",
+                "pub_year": "2021",
+                "citation": "IEEE Systems Journal, 1-12, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:dshw04ExmUIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8588890047992762181",
+            "cites_id": [
+                "8588890047992762181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increasing device lifetime in backbone networks with sleep modes",
+                "pub_year": "2013",
+                "citation": "2013 21st International Conference on Software, Telecommunications and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5003285695975932440",
+            "cites_id": [
+                "5003285695975932440"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive beamforming structure with STBC for IEEE 802.11 n WLAN systems",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:qjMakFHDy7sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16695512458468470761",
+            "cites_id": [
+                "16695512458468470761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blockchain Enabled Anonymous Privacy-Preserving Authentication Scheme for Internet of Health Things",
+                "pub_year": "2022",
+                "citation": "Sensors 23 (1), 240, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:vRqMK49ujn8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17709766431863155306",
+            "cites_id": [
+                "17709766431863155306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bit per Joule and area energy-efficiency of heterogeneous macro base station sites",
+                "pub_year": "2012",
+                "citation": "SoftCOM 2012, 20th International Conference on Software, Telecommunications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3771359287149493971",
+            "cites_id": [
+                "3771359287149493971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advances in Improving Energy Efficiency of Fiber\u2013Wireless Access Networks: A Comprehensive Overview",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (4), 2239, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18216402971429736259",
+            "cites_id": [
+                "18216402971429736259"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How Trend of Increasing Data Volume Affects the Energy Efficiency of 5G Networks",
+                "pub_year": "2021",
+                "citation": "Sensors 22 (1), 1-18, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:WbkHhVStYXYC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7480868222678759344",
+            "cites_id": [
+                "7480868222678759344"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel latency estimation algorithm of motor evoked potential signals",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 193356-193374, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3355219622309381464",
+            "cites_id": [
+                "3355219622309381464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Misdetection probability analyses of ofdm signals in energy detection cognitive radio systems",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3187964064329244661",
+            "cites_id": [
+                "3187964064329244661"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of energy-efficient techniques on a device lifetime",
+                "pub_year": "2014",
+                "citation": "2014 IEEE Online Conference on Green Communications (OnlineGreenComm), 1-6, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:4DMP91E08xMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1405120950330854359",
+            "cites_id": [
+                "1405120950330854359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the Impact of Detection Threshold Adjustments and Noise Uncertainty on Energy Detection Performance in MIMO-OFDM Cognitive Radio Systems",
+                "pub_year": "2021",
+                "citation": "Sensors 22 (2), 1-29, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:738O_yMBCRsC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15172154942534368648",
+            "cites_id": [
+                "15172154942534368648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimizing data center uninterruptable power supply overload by server power capping",
+                "pub_year": "2019",
+                "citation": "IEEE Communications Letters 23 (8), 1342-1346, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4773177480612535490",
+            "cites_id": [
+                "4773177480612535490"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analyses of energy detection based on square-law combining in MIMO-OFDM cognitive radio networks",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (22), 7678, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:u9iWguZQMMsC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12312402641129329006",
+            "cites_id": [
+                "12312402641129329006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy consumption optimization of wireless communication networks using mathematical programming methods",
+                "pub_year": "2010",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12856800913290779856",
+            "cites_id": [
+                "12856800913290779856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyses of ping-pong handovers in real 4G telecommunication networks",
+                "pub_year": "2023",
+                "citation": "Computer Networks, 109699 2023 (227), 1-12, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15062684239532275778",
+            "cites_id": [
+                "15062684239532275778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Silk Fibroin-Based Piezoelectric Sensor with Carbon Nanofibers for Wearable Health Monitoring Applications",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (3), 1373, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12281025974321109082",
+            "cites_id": [
+                "12281025974321109082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel real-time unmanned aerial vehicles-based disaster management framework",
+                "pub_year": "2021",
+                "citation": "2021 29th Telecommunications Forum (TELFOR), 1-4, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:XiSMed-E-HIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13525613634537183456",
+            "cites_id": [
+                "13525613634537183456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Architecture of SQL databases for WLAN access control and accounting",
+                "pub_year": "2007",
+                "citation": "2007 15th International Conference on Software, Telecommunications and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=83326523702042376",
+            "cites_id": [
+                "83326523702042376"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reducing Data Center Power Losses through UPS Serial Consolidation",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17157190334328451156",
+            "cites_id": [
+                "17157190334328451156"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling the impact of power state transitions on the lifetime of cellular networks",
+                "pub_year": "2015",
+                "citation": "2015 IEEE 82nd Vehicular Technology Conference (VTC2015-Fall), 1-5, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15548465091066931946",
+            "cites_id": [
+                "15548465091066931946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy consumption analysis of real metro-optical network",
+                "pub_year": "2015",
+                "citation": "2015 38th International Convention on Information and Communication \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:TQgYirikUcIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1749614767851258047",
+            "cites_id": [
+                "1749614767851258047"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Artificial Neural Network Autoencoder for Insider Cyber Security Threat Detection",
+                "pub_year": "2023",
+                "citation": "Future Internet 15 (12), 373, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:8AbLer7MMksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10833033025932546904",
+            "cites_id": [
+                "10833033025932546904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operational Characteristics of Square-Law Combining Energy Detector in MIMO-OFDM Cognitive Radio Systems",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (9), 4684, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:tOudhMTPpwUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14632820494859350661",
+            "cites_id": [
+                "14632820494859350661"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive and Resilient Solutions for Energy Savings of Mobile Access Networks",
+                "pub_year": "2014",
+                "citation": "International Journal of Adaptive, Resilient and Autonomic Systems (IJARAS \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5033755906291121585",
+            "cites_id": [
+                "5033755906291121585"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transforming Product Catalogue Relational into Graph Database: a Performance Comparison",
+                "pub_year": "2020",
+                "citation": "The 43rd International Convention on Information, Communication and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12305711159343992711",
+            "cites_id": [
+                "12305711159343992711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The impact of sleep modes on the lifetime of cellular networks",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12593083703313832922",
+            "cites_id": [
+                "12593083703313832922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Defining factors of nautical tourism ports competitiveness in the Republic of Croatia",
+                "pub_year": "2013",
+                "citation": "Book of, 262, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17469792106443829508",
+            "cites_id": [
+                "17469792106443829508"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy-efficient wireless cellular communications through network resource dynamic adaptation",
+                "pub_year": "2013",
+                "citation": "International Journal of Business Data Communications and Networking (IJBDCN \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1283243190074290854",
+            "cites_id": [
+                "1283243190074290854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Traffic Load Influence on Power Consumption of GSM and UMTS Base Stations",
+                "pub_year": "2011",
+                "citation": "Proc. of IEEE International Conference on Software, Telecommunications and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4287484404829882214",
+            "cites_id": [
+                "4287484404829882214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preface to Energy-efficient Communication Networks and Systems",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy-efficient communication networks and systems",
+                "pub_year": "2023",
+                "citation": "\u00a9 2023 by the authors. The book as a whole is distributed by MDPI under the \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 12th Symposium on Green Networking and Computing (SGNC 2021)",
+                "pub_year": "2021",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TCP-based Congestion Control Algorithms",
+                "pub_year": "2021",
+                "citation": "Encyclopedia, MDPI, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Detection in MIMO Cognitive Radio Networks",
+                "pub_year": "2020",
+                "citation": "International Conference on Software, Telecommunications and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyses of User Density Impact on Energy-efficiency Metrics in 5G Networks",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Software, Telecommunications and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2020",
+                "citation": "IEEE Communications Magazine 58 (3), 5-8, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preface to green, energy-efficient and sustainable networks",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Green, Energy-Efficient and Sustainable Networks",
+                "pub_year": "2020",
+                "citation": "MDPI, Basel, Switzerland. \u00a9 2020 by the authors. The book as a whole is \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 10th Symposium on Green Networking and Computing (SGNC 2019)",
+                "pub_year": "2019",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a new algorithm for automatic latency estimation of motor evoked potentials in TMS studies Maja Rogi\u0107 Vidakovi\u01071, Jo\u0161ko \u0160oda2, Ana Jerkovi\u01071, Igor Vujovi\u01072 \u2026",
+                "pub_year": "2019",
+                "citation": "The 11th International Symposium on nTMS in Neurosurgery and Neuromodulation \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 9th Symposium on Green Networking and Computing (SGNC 2018)",
+                "pub_year": "2018",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conference Report/IEEE OnlineGreenComm 2016",
+                "pub_year": "2017",
+                "citation": "IEEE Communications Magazine 55 (1), 6-7, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brodske lokalne ra\u010dunalne mre\u017ee",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:J-pR_7NvFogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 8th Symposium on Green Networking and Computing (SGNC2017)",
+                "pub_year": "2017",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIXTH ANNUAL IEEE ONLINEGREENCOMM 2016 CONFERENCE",
+                "pub_year": "2017",
+                "citation": "IEEE COMMUNICATIONS MAGAZINE 55 (1), 6-7, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 7th Symposium on Green Networking and Computing",
+                "pub_year": "2016",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards sustainable and reliable networks with LIFETEL",
+                "pub_year": "2015",
+                "citation": "2015 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chief Patron",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 6th Symposium on Green Networking and Computing",
+                "pub_year": "2015",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 5th Special session on green networking and computing",
+                "pub_year": "2014",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Second special issue on green networking and computing",
+                "pub_year": "2013",
+                "citation": "International journal of business data communications and networking 9 (3 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lokalne i pristupne mre\u017ee\u2013upute za laboratorijske vje\u017ebe",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:olpn-zPbct0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 4th Special session on green networking and computing",
+                "pub_year": "2013",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local and access networks\u2013instructions for laboratory experiments",
+                "pub_year": "2013",
+                "citation": "FESB-Interna nastavna skripta, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Message from the special session organizers",
+                "pub_year": "2013",
+                "citation": "21st International Conference on Software, Telecommuniccations and Computer \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Arhitekture objekata za smje\u0161taj opreme makro baznih postaja",
+                "pub_year": "2013",
+                "citation": "Skup mladih istra\u017eiva\u010da iz podru\u010dja gra\u0111evinarstva, arhitekture, geodezije i \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mre\u017eni i mobilni operacijski sustavi\u2013upute za laboratorijske vje\u017ebe",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mre\u017eni i mobilni operacijski sustavi",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of the 3rd Special session on green networking and computing",
+                "pub_year": "2012",
+                "citation": "Faculty of electrical engineering, mechanical engineering and naval \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Network and mobile operating systems",
+                "pub_year": "2012",
+                "citation": "FESB-Interna nastavna skripta, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing energy consumption of wireless access networks",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Special session chairs message",
+                "pub_year": "2012",
+                "citation": "20th International Conference on Software, Telecommuniccations and Computer \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Be\u017ei\u010dne komunikacijske mre\u017ee-upute za laboratorijske vje\u017ebe",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of HFR/WLAN network",
+                "pub_year": "2005",
+                "citation": "Proceedings of the 13th International Conference on Software \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In\u017eenjerska grafika i prezentacija-upute za laboratorijske vje\u017ebe",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Engineering graphics and presentation-instructions for laboratory experiments",
+                "pub_year": "2004",
+                "citation": "FESB-interna nastavna skripta, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dodjeljivanje resursa tijekom prekap\u010danja u WLAN mre\u017eama",
+                "pub_year": "2002",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:XiVPGOgt02cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource allocation during handoff procedure in WLAN networks",
+                "pub_year": "2002",
+                "citation": "FESB-Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Daily throughput and energy efficiency analysis of campus WLAN",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ARHITEKTURE LOKALITETA MAKRO BAZNIH POSTAJA MOBILNIH OPERATORA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of the Application Layer in the Business Process Management System",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Workshop Committee",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dragana Krstid Jonghoon Kwon Maria Laura Stefanizzi Marco Leo",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guest editorial preface: First special issue on green networking and computing",
+                "citation": "International Journal of Business Data Communications and Networking (IJBDCN \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of FTP Throughput in Mobile Ad-hoc Networks Running AODV-UU Routing Protocol",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Green technologies in wireless access networks",
+                "citation": "Renewables\u2013new technologies\u2013challenges of the 21st century, 0"
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of the Effective Throughput in 802.11 b WLAN Networks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VoDic\u02c7",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UpXBN6AAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

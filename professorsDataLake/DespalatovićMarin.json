@@ -1,0 +1,667 @@
+{
+    "name": "Despalatovi\u0107 Marin",
+    "num_citations": 213,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power system transient stability assessment using stacked autoencoder and voting ensemble",
+                "pub_year": "2021",
+                "citation": "Energies 14 (11), 3148, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3953481724629447294",
+            "cites_id": [
+                "3953481724629447294"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of induction motor parameters from free acceleration and deceleration tests",
+                "pub_year": "2005",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16952210924182575562",
+            "cites_id": [
+                "16952210924182575562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time power angle determination of salient-pole synchronous machine based on air gap measurements",
+                "pub_year": "2008",
+                "citation": "Electric power systems research 78 (11), 1873-1880, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:UebtZRa9Y70C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10485465843047642930",
+            "cites_id": [
+                "10485465843047642930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of saturated synchronous generator based on steady-state operating data",
+                "pub_year": "2011",
+                "citation": "IEEE Transactions on Industry Applications 48 (1), 62-69, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11713534445431395467",
+            "cites_id": [
+                "11713534445431395467"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Artificial intelligence techniques for power system transient stability assessment",
+                "pub_year": "2022",
+                "citation": "Energies 15 (2), 507, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12877136031228105559",
+            "cites_id": [
+                "12877136031228105559"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Magnetization curve identification of vector-controlled induction motor at low-load conditions",
+                "pub_year": "2012",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:roLk4NBRz8UC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7783752446150201146",
+            "cites_id": [
+                "7783752446150201146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On-line hydrogenerator power angle and synchronous reactances determination based on air gap measurement",
+                "pub_year": "2004",
+                "citation": "IEEE PES Power Systems Conference and Exposition, 2004., 753-758, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11234168053772527435",
+            "cites_id": [
+                "11234168053772527435"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-sinusoidal voltage generator controlled by space vector PWM",
+                "pub_year": "2020",
+                "citation": "Measurement 150, 107088, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1981917147868298892",
+            "cites_id": [
+                "1981917147868298892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of broken rotor bar in squirrel-cage induction machines using stator zero-components",
+                "pub_year": "2010",
+                "citation": "The XIX International Conference on Electrical Machines-ICEM 2010, 1-6, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6653186923459474154",
+            "cites_id": [
+                "6653186923459474154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LCL filter design method for grid-connected PWM-VSC",
+                "pub_year": "2017",
+                "citation": "Journal of Electrical Engineering & Technology 12 (5), 1945-1954, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17867865181154548179",
+            "cites_id": [
+                "17867865181154548179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of rotor resistance and transient inductance of induction motors using frequency selection Criterion",
+                "pub_year": "2012",
+                "citation": "2012 XXth International Conference on Electrical Machines, 980-986, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2770360076825335424",
+            "cites_id": [
+                "2770360076825335424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of dead time on voltage harmonic spectrum of grid-connected PWM-VSC with LCL filter",
+                "pub_year": "2016",
+                "citation": "2016 10th International Conference on Compatibility, Power Electronics and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15744082392694938994",
+            "cites_id": [
+                "15744082392694938994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of synchronous generator saturation model from steady-state operating data",
+                "pub_year": "2010",
+                "citation": "Electric power systems research 80 (11), 1323-1331, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:0EnyYjriUFMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12241265380668389553",
+            "cites_id": [
+                "12241265380668389553"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methodology for Synchronous Hydrogenerator Parameter Identification Based on Monitoring System Measurement",
+                "pub_year": "2007",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1437955075473481888",
+            "cites_id": [
+                "1437955075473481888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Design of PWM Controlled Calibrator of Non-Sinusoidal Voltage Waveforms",
+                "pub_year": "2019",
+                "citation": "Energies 12 (10), 1966, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9066249656792319242",
+            "cites_id": [
+                "9066249656792319242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of Induction Motor Parameters from Free Acceleration Test Measurements",
+                "pub_year": "2002",
+                "citation": "Proc. 10th International Power Electronics and Motion Control Conference \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13050068013022631190",
+            "cites_id": [
+                "13050068013022631190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid Voltage Amplitude and Frequency Real-Time Estimation using Linear Kalman Filter",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17237912197127393342",
+            "cites_id": [
+                "17237912197127393342"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power System Transient Stability Assessment Simulations Dataset-IEEE New England 39-bus test case",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7831693739622540964",
+            "cites_id": [
+                "7831693739622540964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric Machine Vibration Measurements Based on Fiber Optic Sensor Technology-Preliminary Results",
+                "pub_year": "2019",
+                "citation": "2019 2nd International Colloquium on Smart Grid Metrology (SMAGRIMET), 1-6, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7410155671275059639",
+            "cites_id": [
+                "7410155671275059639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of saturation on on-line estimation of synchronous generator parameters",
+                "pub_year": "2009",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:8k81kl-MbHgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14196493962248054113",
+            "cites_id": [
+                "14196493962248054113"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metodologija za identifikaciju parametara sinkronog hidrogeneratora temeljena na mjerenjima u sustavu monitoringa",
+                "pub_year": "2007",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16038722823239272333",
+            "cites_id": [
+                "16038722823239272333"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active power filter for harmonic distortion compensation of induction motors with soft starting",
+                "pub_year": "2005",
+                "citation": "2005 European Conference on Power Electronics and Applications, 8 pp.-P. 8, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16067541608630638139",
+            "cites_id": [
+                "16067541608630638139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IEEE New England 39-bus test case: Dataset for the Transient Stability Assessment",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:-f6ydRqryjwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14525812893977187686",
+            "cites_id": [
+                "14525812893977187686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid-connected and Islanded Control of Energy Storage Converter",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Electrical Drives & Power Electronics (EDPE \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17905063826536128809",
+            "cites_id": [
+                "17905063826536128809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Laboratory Setup for Testing Frequency Estimation Algorithms Implemented on Real-Time Target",
+                "pub_year": "2020",
+                "citation": "2020 3rd International Colloquium on Intelligent Grid Metrology (SMAGRIMET), 1-6, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12837297101350693415",
+            "cites_id": [
+                "12837297101350693415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of synchronous generator armature leakage reactance based on air gap flux density signal",
+                "pub_year": "2007",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3988175519627699495",
+            "cites_id": [
+                "3988175519627699495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Low-Cost Test Platform for Performance Analysis of Phasor Measurement Units",
+                "pub_year": "2024",
+                "citation": "Electronics 13 (2), 245, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-frequency response of a hemispherical grounding electrode",
+                "pub_year": "2024",
+                "citation": "Electric Power Systems Research 226, 109877, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synchrophasor Logger Based on Laboratory Oscilloscope and Raspberry Pi",
+                "pub_year": "2023",
+                "citation": "2023 4th International Conference on Smart Grid Metrology (SMAGRIMET), 1-5, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Artificial Intelligence Techniques for Power System Transient Stability Assessment. Energies 2022, 15, 507",
+                "pub_year": "2022",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LCL Filter Design with Amorphous Core Inductor for 100 kVA Energy Storage Converter",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Electrical Drives & Power Electronics (EDPE \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synchrophasors Determination Based on Interpolated FFT Algorithm",
+                "pub_year": "2020",
+                "citation": "Journal of Energy: Energija 69 (1), 0-0, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of a three-phase voltage calibrator",
+                "pub_year": "2019",
+                "citation": "2019 2nd International Colloquium on Smart Grid Metrology (SMAGRIMET), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of Interpolated FFT Algorithm for Synchrophasors Determination",
+                "pub_year": "2019",
+                "citation": "2019 2nd International Colloquium on Smart Grid Metrology (SMAGRIMET), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The development of a frequency converter for high speed permanent magnet generators in cogeneration plants",
+                "pub_year": "2016",
+                "citation": "Tehni\u010dki glasnik 10 (3-4), 117-123, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj pretvara\u010da frekvencije za visokobrzinske generatore s permanentnim magnetima u kogeneracijskim postrojenjima",
+                "pub_year": "2016",
+                "citation": "Tehni\u010dki glasnik 10 (3-4), 117-123, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odre\u0111ivanje krivulje magnetiziranja vektorski upravljanog asinkronog motora kod malih optere\u0107enja",
+                "pub_year": "2012",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INDUSTRIAL POWER CONVERSION SYSTEMS DEPARTMENT-Electric Machines Committee-Modeling of Saturated Synchronous Generator Based on Steady-State Operating Data",
+                "pub_year": "2012",
+                "citation": "IEEE Transactions on Industry Applications 48 (1), 62, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj zasi\u0107enja na identifikaciju parametara sinkronog generatora u pogonu",
+                "pub_year": "2009",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifikacija parametara sinkronog hidrogeneratora na temelju mjerenja u pogonu",
+                "pub_year": "2009",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odre\u0111ivanje rasipne reaktancije armaturnog namota sinkronog generatora pomo\u0107u signala magnetske indukcije u zra\u010dnom rasporu",
+                "pub_year": "2007",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifikacija parametara asinkronog motora na temelju pokusa zaleta i zaustavljanja",
+                "pub_year": "2005",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring hidrogeneratora, Stanje i razvoj u Hrvatskoj elektroprivredi, Proizvodno podru\u010dje HE Jug",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usporedba struktura i izvedaba predikcijskih regulatora za procese s vi\u0161e ulaza i vi\u0161e izlaza",
+                "pub_year": "2000",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JOURNAL FOR CONTROL, MEASUREMENT, ELECTRONICS, COMPUTING AND COMMUNICATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "60f9CGEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TGDjw0sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Goran Petrovic",
+            "affiliation": "University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AvdFBLIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Goran Maji\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Elecrtical Engineering, Mechanical Engineering and Naval"
+        }
+    ]
+}

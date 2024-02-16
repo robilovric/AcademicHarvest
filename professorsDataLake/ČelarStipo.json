@@ -1,0 +1,808 @@
+{
+    "name": "\u010celar Stipo",
+    "num_citations": 430,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian network model for task effort estimation in agile software development",
+                "pub_year": "2017",
+                "citation": "Journal of systems and software 127, 109-119, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5243915242318287270",
+            "cites_id": [
+                "5243915242318287270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Competences-based comparison and ranking of industrial enterprises using PROMETHEE method",
+                "pub_year": "2015",
+                "citation": "Procedia Engineering 100, 445-449, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:35N4QoGY0k4C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9896661890469619591",
+            "cites_id": [
+                "9896661890469619591"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of method for elicitation, documentation, and validation of software user requirements (MEDoV) in agile software development projects",
+                "pub_year": "2014",
+                "citation": "2014 Sixth international conference on computational intelligence \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5952135367680336462",
+            "cites_id": [
+                "5952135367680336462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\" INDUSTRY 4.0\" IN EUROPE AND EAST ASIA.",
+                "pub_year": "2018",
+                "citation": "Annals of DAAAM & Proceedings 29, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7155356839722972148",
+            "cites_id": [
+                "7155356839722972148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selecting manufacturing partners in push and pull-type smart collaborative networks",
+                "pub_year": "2018",
+                "citation": "Advanced engineering informatics 38, 291-305, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:ldfaerwXgEUC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4069512057223085581",
+            "cites_id": [
+                "4069512057223085581"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of test documents based on handwritten student ID's characteristics",
+                "pub_year": "2015",
+                "citation": "Procedia Engineering 100, 782-790, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:TQgYirikUcIC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15550717799802369685",
+            "cites_id": [
+                "15550717799802369685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "State-of-the-art of messaging for distributed computing systems",
+                "pub_year": "2017",
+                "citation": "International Journal Vallis Aurea 3 (2), 5-18, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:RGFaLdJalmkC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1089902811261462337",
+            "cites_id": [
+                "1089902811261462337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of assembly systems in lean learning factory at the University of Split",
+                "pub_year": "2017",
+                "citation": "Procedia manufacturing 9, 49-56, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:lSLTfruPkqcC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6271103390140763500",
+            "cites_id": [
+                "6271103390140763500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for personal capability assessment in agile teams using personal points",
+                "pub_year": "2014",
+                "citation": "2014 22nd Telecommunications Forum Telfor (TELFOR), 1134-1137, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:-f6ydRqryjwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1942785918480238273",
+            "cites_id": [
+                "1942785918480238273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cloud computing: definition, characteristics, services and models",
+                "pub_year": "2011",
+                "citation": "Annals of DAAAM for 2011 & Proceedings of the 22nd International DAAAM \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14258821867359228708",
+            "cites_id": [
+                "14258821867359228708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for elicitation, documentation and validation of software user requirements (MEDoV)",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Symposium on Computers and Communications (ISCC), 000956-000961, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9886473123539502155",
+            "cites_id": [
+                "9886473123539502155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ROADMAP FOR REQUIREMENTS ENGINEERING PROCESS IMPROVEMENT USING BPM AND UML.",
+                "pub_year": "2011",
+                "citation": "Advances in Production Engineering & Management 6 (3), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14776745546582344831",
+            "cites_id": [
+                "14776745546582344831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stakeholder Analysis: Process Modell",
+                "pub_year": "2010",
+                "citation": "DAAAM International Scientific Book 489, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:4TOpqqG69KYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1111479990930412828",
+            "cites_id": [
+                "1111479990930412828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interrelation between ERP modification and modification scheduling: four SME case studies in Croatia",
+                "pub_year": "2011",
+                "citation": "Strojni\u0161ki vestnik\u2013Journal of Mechanical Engineering 57 (1), 27-30, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10688677952528280743",
+            "cites_id": [
+                "10688677952528280743"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digital learning factory at FESB\u2013University of Split",
+                "pub_year": "2016",
+                "citation": "i biznis konferencija YU INFO 2016, 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:GnPB-g6toBAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12407224569736640460",
+            "cites_id": [
+                "12407224569736640460"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EVOLUTIONARY MEASUREMENT-ESTIMATION METHOD FOR MICRO, SMALL AND MEDIUM-SIZED ENTERPRISES BASED ON ESTIMATION OBJECTS.",
+                "pub_year": "2012",
+                "citation": "Advances in Production Engineering & Management 7 (2), 2012"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:Zph67rFs4hoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=405320154672721822",
+            "cites_id": [
+                "405320154672721822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disk array simulation model development",
+                "pub_year": "2011",
+                "citation": "International journal of simulation modelling 10 (1), 27-37, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14803896649364694064",
+            "cites_id": [
+                "14803896649364694064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "4DSA: 4-dimensional presentation of stakeholder analysis in large software project",
+                "pub_year": "2010",
+                "citation": "21st International DAAAM Symposium, 3-4, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=21236483821885609",
+            "cites_id": [
+                "21236483821885609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SOFTWARE SIZE ESTIMATING METHOD BASED ON MK II FPA 1.3 UNADJUSTED.",
+                "pub_year": "2009",
+                "citation": "Annals of DAAAM & Proceedings, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3926544912505860763",
+            "cites_id": [
+                "3926544912505860763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Project management in IT-projects--a framework for the risk management approach in SW maintenance",
+                "pub_year": "2005",
+                "citation": "Annals of DAAAM & Proceedings, 61-63, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14094842119127079040",
+            "cites_id": [
+                "14094842119127079040"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Einsatz der Computersimulation f\u00fcr die Auslegung und Steuerung von FFS",
+                "pub_year": "1996",
+                "citation": "na, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4183489059371165835",
+            "cites_id": [
+                "4183489059371165835"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vucica. S. & Vucica, D.(1999). Results of quality system application in large information system development",
+                "citation": "Proceedings of the 10th International DAAAM Symposium, Katalinic, B.(Ed.), 85-86, 0"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12263521537230304659",
+            "cites_id": [
+                "12263521537230304659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology literature review as guidelines for improving Croatian Qualification Framework",
+                "pub_year": "2019",
+                "citation": "2019 42nd International Convention on Information and Communication \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1344187012273778247",
+            "cites_id": [
+                "1344187012273778247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling information resources and application using ontological engineering",
+                "pub_year": "2015",
+                "citation": "International Conference on Computer Vision and Image Analysis Applications, 1-6, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13081150521036056096",
+            "cites_id": [
+                "13081150521036056096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology-based knowledge management approach for information system development",
+                "pub_year": "2013",
+                "citation": "2013 21st Telecommunications Forum Telfor (TELFOR), 805-808, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10084109155480349844",
+            "cites_id": [
+                "10084109155480349844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using of Web Objects method in agile web software projects",
+                "pub_year": "2013",
+                "citation": "2013 21st Telecommunications Forum Telfor (TELFOR), 873-876, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18213094125109571816",
+            "cites_id": [
+                "18213094125109571816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disk drive simulation model development",
+                "pub_year": "2010",
+                "citation": "DAAAM International Scientific Book, 535-549, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11385721923851978768",
+            "cites_id": [
+                "11385721923851978768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced Bayesian Network for Task Effort Estimation in Agile Software Development",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (16), 9465, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=871588707129821878",
+            "cites_id": [
+                "871588707129821878"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BIG DATA AND BUSINESS INTELLIGENCE: RESEARCH AND CHALLENGES IN TELECOM INDUSTRY",
+                "pub_year": "2021",
+                "citation": "Annals of DAAAM and Proceedings of the International DAAAM Symposium 32 (1 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:NhqRSupF_l8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1943991725037501857",
+            "cites_id": [
+                "1943991725037501857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Next Generation data flow and storage solution in ALICE experiment",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:M05iB0D1s5AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=675791125997746087",
+            "cites_id": [
+                "675791125997746087"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation-based performance analysis of the ALICE mass storage system",
+                "pub_year": "2016",
+                "citation": "International Journal of Simulation Modelling 15 (1), 70-82, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10164380236927503451",
+            "cites_id": [
+                "10164380236927503451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Project management office (PMO)--from project management to enterprise project management (EPM) culture",
+                "pub_year": "2007",
+                "citation": "Annals of DAAAM & Proceedings, 135-137, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4010786731497469861",
+            "cites_id": [
+                "4010786731497469861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRODUCTIVITY FACTORS IN AGILE SOFTWARE DEVELOPMENT PROJECTS.",
+                "pub_year": "2023",
+                "citation": "Annals of DAAAM & Proceedings 34, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IEEE: Next Generation Data Flow and Storage Solution in ALICE Experiment",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:abG-DnoFyZgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hrvatski model inovativnog pametnog poduze\u0107a",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EUROPEAN SWAPTION BY MONTE CARLO ESTIMATION ON MODERN INTEL ARCHITECTURES.",
+                "pub_year": "2017",
+                "citation": "Annals of DAAAM & Proceedings 28, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Knowledge representation in the ontological engineering using conceptual modeling and graph-based reasoning",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza postoje\u0107eg stanja hrvatskih industrijskih poduze\u0107a",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:dshw04ExmUIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIMULATION OF GRID COMPUTING WORKLOAD MANAGEMENT USING WEIGHTED RANDOM MATCHING",
+                "pub_year": "2011",
+                "citation": "Advances in Production Engineering & Management 6 (1), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SoftPro CubePlayer BI Suite: Poslovni plan",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SoftPro CubePlayer BI Suite: Business plan",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Informacijski sustav lokalne riznice",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ERP solution implementation framework for small and medium enterprises",
+                "pub_year": "2008",
+                "citation": "Annals of DAAAM & Proceedings, 227-229, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration von SAP All-in-One and ENEL-Retail",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Role of PMO Concept in Project Outcome Increasing",
+                "pub_year": "2008",
+                "citation": "DAAAM international scientific book... 7 (1), 197-204, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza usluga podr\u0161ke i odr\u017eavanja financijsko-ra\u010dunovodstvenog informacijskog sustava Ministarstva rada i socijalne skrbi",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of support services and maintenance of financial and accounting Information System of the Ministry of Labour and Social Welfare",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Der Aufbau von Alternativszenarien bei St\u00f6rungen im FFS-Betrieb mittels simulationsbasierter Software",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj Heisenbergova na\u010dela neodredjenosti na filozofiju",
+                "pub_year": "1995",
+                "citation": "Filozofski fakultet Dru\u017ebe Isusove, Zagreb, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TCR - Tiristorski regulirana prigu\u0161nica kao stati\u010dki kompenzator jalove snage",
+                "pub_year": "1992",
+                "citation": "FESB, Sveu\u010dili\u0161te u Splitu, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tentative important dates",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PDF OFF-PRINTS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODEL UPRAVLJANJA INFORMACIJSKOM SIGURNO\u0160\u0106U U TIJELIMA DR\u017dAVNE UPRAVE U REPUBLICI HRVATSKOJ",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aP8h0rMAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Pb_olyAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Linda Vickovi\u0107",
+            "affiliation": "Assistant professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "E6YZWEQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marko Mladineo",
+            "affiliation": "Assistant professor at FESB, University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jdkVWz0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sven Gotovac",
+            "affiliation": "Professor electrical engineering, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_rh4wIIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eugen Mudnic",
+            "affiliation": "University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0ySZE_8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mili Turi\u0107",
+            "affiliation": ""
+        }
+    ]
+}

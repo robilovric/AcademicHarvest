@@ -1,0 +1,274 @@
+{
+    "name": "Krolo Ivan",
+    "num_citations": 27,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Definition and computation of Carson formulas",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17800429136102115397",
+            "cites_id": [
+                "17800429136102115397"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of electric and magnetic field distribution inside a multilayer cylindrical conductor",
+                "pub_year": "2020",
+                "citation": "Progress in Electromagnetics Research M 88, 53-63, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4434681260800629313",
+            "cites_id": [
+                "4434681260800629313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Highly accurate computation of Carson formulas based on exponential approximation",
+                "pub_year": "2018",
+                "citation": "Electric Power Systems Research 162, 134-141, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18008145339598809178",
+            "cites_id": [
+                "18008145339598809178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed-form spectral-domain green's functions for infinitesimal current source in multilayer soil",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 62 (6), 2814-2822, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14260713236895231849",
+            "cites_id": [
+                "14260713236895231849"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Carson formulas using piecewise quadratic approximation",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1288369262475498438",
+            "cites_id": [
+                "1288369262475498438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving time integration scheme for FEM analysis of MTL problems",
+                "pub_year": "2019",
+                "citation": "International Journal of Circuit Theory and Applications 47 (11), 1800-1811, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4722911647604331009",
+            "cites_id": [
+                "4722911647604331009"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency domain grounding grid analysis based on the finite element technique",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1165239663374910609",
+            "cites_id": [
+                "1165239663374910609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrections to \u201cClosed-Form Spectral-Domain Green's Functions for Infinitesimal Current Source in Multilayer Soil\u201d",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 64 (3), 902-902, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15012008875124612857",
+            "cites_id": [
+                "15012008875124612857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Spectral-Domain Green's Functions of the Infinitesimal Current Source in a Planar Multilayer Medium",
+                "pub_year": "2023",
+                "citation": "Progress In Electromagnetics Research B 100, 55-71, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced computation of the field apparent resistivity of the soil for driven-rod electrodes",
+                "pub_year": "2021",
+                "citation": "Electrotechnica & Electronica (E+ E) 56, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of per-unit-length internal impedance of a multilayer cylindrical conductor with possible dielectric layers",
+                "pub_year": "2020",
+                "citation": "Facta Universitatis, Series: Electronics and Energetics 33 (4), 605-616, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neiterativni algoritam za izra\u010dun dopu\u0161tenog napona napajanja za dodir",
+                "pub_year": "2019",
+                "citation": "14. savjetovanje HRO CIGR\u00c9, \u0160ibenik, Hrvatska, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved Algorithm for FEM Analysis of MTL Problems",
+                "pub_year": "2018",
+                "citation": "4th Virtual International Conference on Science, Technology and Management \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Carson formulas using piecewise approximation of kernel function",
+                "pub_year": "2018",
+                "citation": "International Journal for Engineering Modelling 31 (1-2), 15-30, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a magnetic field sensor for acquisition of lightning fields within facilities",
+                "pub_year": "2015",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPUTATION OF THE FIELD APPARENT RESISTIVITY OF THE SOIL FOR DRIVEN-ROD ELECTRODES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ELECTROTECHNICA & ELECTRONICA E+ E",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sT82LYwAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x0tCkogAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Slavko Vujevic",
+            "affiliation": "Professor, University of Split, www.fesb.unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "B5Oje2sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ton\u0107i Modri\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "is9oPN8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dino Lovric",
+            "affiliation": "Researcher, University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cx06qqAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rino Luci\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+        }
+    ]
+}

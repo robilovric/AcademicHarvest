@@ -1,0 +1,194 @@
+{
+    "name": "\u0160imunovi\u0107 Jakov",
+    "num_citations": 36,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic assessment of hydrogen refueling station: A case study in Croatia",
+                "pub_year": "2022",
+                "citation": "International Journal of Hydrogen Energy 47 (57), 24155-24168, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8210051755578256034",
+            "cites_id": [
+                "8210051755578256034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of components capacity loss on the performance of a hybrid PV/wind/battery/hydrogen stand-alone energy system",
+                "pub_year": "2023",
+                "citation": "Energy Conversion and Management 291, 117314, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8885954765160378239",
+            "cites_id": [
+                "8885954765160378239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic overview of newly available technologies in the green maritime sector",
+                "pub_year": "2023",
+                "citation": "Energies 16 (2), 641, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14939774256903113990",
+            "cites_id": [
+                "14939774256903113990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic analysis of PV/wind turbine stand-alone energy system",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3082491834233910300",
+            "cites_id": [
+                "3082491834233910300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of Hydrogen Refueling Stations and Spatial Occupancy Assessment: A Preliminary Results of the Case Study in Croatia",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2640198507912957372",
+            "cites_id": [
+                "2640198507912957372"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj gubitka kapaciteta komponenti na radne parametre samostalnog hibridnog energetskog sustava s obnovljivim izvorima energije",
+                "pub_year": "2023",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of coolant flow field for maintaining the desired temperature profile along the PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza predizvodljivosti punionice za vodik",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stand-alone renewable hydrogen system for power, heat and cooling micro-trigeneration",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stand-alone Energy System Applicable for Islands",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bgl4Wu0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cilw8V8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Frano Barbir",
+            "affiliation": "Professor of Thermodynamics, FESB University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0nuAPVAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Pivac",
+            "affiliation": "Assistant Professor, FESB University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dQNZ2nQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gojmir Radica",
+            "affiliation": "Professor, University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AoXsIi0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "\u017deljko Penga",
+            "affiliation": "Assistant Professor, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ffyc578AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tino Vidovi\u0107",
+            "affiliation": "Research assistant, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Kc0LuHwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Branko Klarin",
+            "affiliation": "UNIST-FESB"
+        }
+    ]
+}

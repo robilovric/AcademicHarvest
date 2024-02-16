@@ -1,0 +1,2111 @@
+{
+    "name": "Papi\u0107 Vladan",
+    "num_citations": 1233,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of sport talents using a web-oriented expert system with a fuzzy module",
+                "pub_year": "2009",
+                "citation": "Expert Systems with Applications 36 (5), 8830-8838, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 107,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=866844959577894668",
+            "cites_id": [
+                "866844959577894668"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive sensing in signal processing: algorithms and transform domain formulations",
+                "pub_year": "2016",
+                "citation": "Mathematical Problems in Engineering 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:sSrBHYA8nusC",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437219370675487347",
+            "cites_id": [
+                "3437219370675487347"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Social robotics in education: State-of-the-art and directions",
+                "pub_year": "2019",
+                "citation": "Advances in Service and Industrial Robotics: Proceedings of the 27th \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:5ugPr518TE4C",
+            "num_citations": 68,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1396501644066359680",
+            "cites_id": [
+                "1396501644066359680"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Player selection procedures in team sports games",
+                "pub_year": "2008",
+                "citation": "Acta Kinesiologica 2 (1), 24-28, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11540075763181177013",
+            "cites_id": [
+                "11540075763181177013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical model for evaluating situational efficiency in top level handball",
+                "pub_year": "2013",
+                "citation": "International Journal of Performance Analysis in Sport 13 (2), 275-293, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:_B80troHkn4C",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16844162393188272709",
+            "cites_id": [
+                "16844162393188272709"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Player number localization and recognition in soccer video using hsv color space and internal contours",
+                "pub_year": "2008",
+                "citation": "International Journal of Electrical and Computer Engineering 2 (7), 1408-1412, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17750950395312735954,7355405683134260474",
+            "cites_id": [
+                "17750950395312735954",
+                "7355405683134260474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative human gait analysis",
+                "pub_year": "2000",
+                "citation": "Simulation Practice and Theory 8 (1-2), 127-139, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15947378292151559964",
+            "cites_id": [
+                "15947378292151559964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multimodel deep learning for person detection in aerial images",
+                "pub_year": "2020",
+                "citation": "Electronics 9 (9), 1459, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:hkOj_22Ku90C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2775882836121489811",
+            "cites_id": [
+                "2775882836121489811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of expert coaches in development of top-level athletes' careers in individual and team sports",
+                "pub_year": "2009",
+                "citation": "Acta Kinesiologica 3 (1), 98-105, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3073928039680353331",
+            "cites_id": [
+                "3073928039680353331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of compressive sensing image reconstruction for search and rescue",
+                "pub_year": "2016",
+                "citation": "IEEE Geoscience and Remote Sensing Letters 13 (11), 1739-1743, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:tOudhMTPpwUC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6075460137776973951",
+            "cites_id": [
+                "6075460137776973951"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of the expert system for sport talents detection.",
+                "pub_year": "2006",
+                "citation": "WSEAS Transactions on Information Science and Applications 3 (9), 1752-1755, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:NhqRSupF_l8C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3180074675845198900",
+            "cites_id": [
+                "3180074675845198900"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "K-means image segmentation on massively parallel GPU architecture",
+                "pub_year": "2012",
+                "citation": "2012 Proceedings of the 35th International Convention MIPRO, 489-494, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:KxtntwgDAa4C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14028153851067774560",
+            "cites_id": [
+                "14028153851067774560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development Management Model of elite athletes in team sports games",
+                "pub_year": "2009",
+                "citation": "Collegium Antropologicum 33 (2), 363-372, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228106877273492975",
+            "cites_id": [
+                "2228106877273492975"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation models of some morphological characteristcs for talent scouting in sport",
+                "pub_year": "2009",
+                "citation": "Collegium antropologicum 33 (1), 105-110, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16764172997365887457",
+            "cites_id": [
+                "16764172997365887457"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kinesiological, anthropological, and methodological aspects of efficacy equation in team sports games",
+                "pub_year": "2009",
+                "citation": "Acta kinesiologica 3 (2), 7-18, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16620422458386962825",
+            "cites_id": [
+                "16620422458386962825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of coach\u2019s leadership behaviour and process of training on performance and competition efficacy in elite sport",
+                "pub_year": "2009",
+                "citation": "Acta kinesiologica 3 (1), 18-25, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6786476661905440380",
+            "cites_id": [
+                "6786476661905440380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gradient compressive sensing for image data reduction in UAV based search and rescue in the wild",
+                "pub_year": "2016",
+                "citation": "Mathematical problems in engineering 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18193934392031896768",
+            "cites_id": [
+                "18193934392031896768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of saliency object detection algorithms for search and rescue operations",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18357032253537555968",
+            "cites_id": [
+                "18357032253537555968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expert system for identification of sport talents: Idea, implementation and results",
+                "pub_year": "2011",
+                "citation": "Expert systems for human, materials and automation, 3-16, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17668154753112513483",
+            "cites_id": [
+                "17668154753112513483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerometer-based gesture classification using principal component analysis",
+                "pub_year": "2011",
+                "citation": "SoftCOM 2011, 19th International Conference on Software, Telecommunications \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:a0OBvERweLwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14490516686121170138",
+            "cites_id": [
+                "14490516686121170138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motion analysis system for identification of 3D human locomotion kinematics data and accuracy testing",
+                "pub_year": "2004",
+                "citation": "Simulation modelling practice and theory 12 (2), 159-170, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16059016695202036375",
+            "cites_id": [
+                "16059016695202036375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerometer based gesture recognition system using distance metric learning for nearest neighbour classification",
+                "pub_year": "2012",
+                "citation": "2012 IEEE International Workshop on Machine Learning for Signal Processing, 1-6, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16449323070543912402",
+            "cites_id": [
+                "16449323070543912402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of anthropological features on ball flight speed in handball",
+                "pub_year": "2012",
+                "citation": "Collegium antropologicum 36 (3), 967-972, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:-f6ydRqryjwC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7556344283011241756",
+            "cites_id": [
+                "7556344283011241756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj nekih motori\u010dkih sposobnosti na brzinu lopte kod udarca u rukometu",
+                "pub_year": "2007",
+                "citation": "Acta Kinesiologica 1 (2), 71-75, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:8k81kl-MbHgC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14817831187622671946",
+            "cites_id": [
+                "14817831187622671946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-stage segmentation of aerial images for search and rescue",
+                "pub_year": "2010",
+                "citation": "Information Technology and Control 39 (2), 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12387728521462687710",
+            "cites_id": [
+                "12387728521462687710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global nonlinear model for efficacy evaluation in team sports",
+                "pub_year": "2009",
+                "citation": "Sport Science 2 (2), 73-80, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:qjMakFHDy7sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8787873809134463493",
+            "cites_id": [
+                "8787873809134463493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-resolution image transmission from UAV to ground station for search and rescue missions planning",
+                "pub_year": "2021",
+                "citation": "Applied sciences 11 (5), 2105, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:35r97b3x0nAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5830688846287327758",
+            "cites_id": [
+                "5830688846287327758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robotics and information technologies in education: four countries from Alpe-Adria-Danube Region survey",
+                "pub_year": "2020",
+                "citation": "International Journal of Technology and Design Education, 1-23, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:UHK10RUVsp4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5737374675906703029",
+            "cites_id": [
+                "5737374675906703029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iris print extracting from reduced and scrambled set of pixels",
+                "pub_year": "2018",
+                "citation": "Second International Balkan Conference on Communications and Networking \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18311349384193446609",
+            "cites_id": [
+                "18311349384193446609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Player number recognition in soccer video using internal contours and temporal redundancy",
+                "pub_year": "2009",
+                "citation": "Proc. of the 10th WSEAS International Conference on Automation & Information \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13936858493415917460",
+            "cites_id": [
+                "13936858493415917460"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating mean shift image segmentation with IFGT on massively parallel GPU",
+                "pub_year": "2013",
+                "citation": "2013 36th International Convention on Information and Communication \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16451383337438336883",
+            "cites_id": [
+                "16451383337438336883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping aerial images from UAV",
+                "pub_year": "2016",
+                "citation": "2016 International Multidisciplinary Conference on Computer and Energy \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:vRqMK49ujn8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6402333180718961148",
+            "cites_id": [
+                "6402333180718961148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A modular system for tracking players in sports games",
+                "pub_year": "2009",
+                "citation": "International Journal of Education and Information Technologies 4 (3), 197-204, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6274447445539881569",
+            "cites_id": [
+                "6274447445539881569"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating robot manipulator end-effector forces using deep learning",
+                "pub_year": "2020",
+                "citation": "2020 43rd International Convention on Information, Communication and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11079271037448949848",
+            "cites_id": [
+                "11079271037448949848"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete model for automatic object detection and localisation on aerial images using convolutional neural networks",
+                "pub_year": "2018",
+                "citation": "Journal of Communications Software and Systems 14 (1), 82-90, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8518461509146451797",
+            "cites_id": [
+                "8518461509146451797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cardiac arrhythmia detection using DCT based compressive sensing and random forest algorithm",
+                "pub_year": "2016",
+                "citation": "2016 International Multidisciplinary Conference on Computer and Energy \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2675495959746528579",
+            "cites_id": [
+                "2675495959746528579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image segmentation based on complexity mining and mean-shift algorithm",
+                "pub_year": "2014",
+                "citation": "2014 IEEE Symposium on Computers and Communications (ISCC), 1-6, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8979731365086532181",
+            "cites_id": [
+                "8979731365086532181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "End-effector force and joint torque estimation of a 7-DoF robotic manipulator using deep learning",
+                "pub_year": "2021",
+                "citation": "Electronics 10 (23), 2963, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:z_wVstp3MssC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6560476318110345161",
+            "cites_id": [
+                "6560476318110345161"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motion-based gesture recognition algorithms for robot manipulation",
+                "pub_year": "2015",
+                "citation": "International Journal of Advanced Robotic Systems 12 (5), 51, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8224565359120611741",
+            "cites_id": [
+                "8224565359120611741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel feature descriptor for gesture classification using smartphone accelerometers",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Symposium on Computers and Communications (ISCC), 000951-000955, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:hC7cP41nSMkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7549207497796150504",
+            "cites_id": [
+                "7549207497796150504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scientific approach to a selection of a game tactics model in team sports",
+                "pub_year": "2008",
+                "citation": "Acta Kinesiologica 2 (2), 16-21, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10076618485644171220",
+            "cites_id": [
+                "10076618485644171220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the Model for Person Detection in Aerial Image Sequences Using the Displacement Vector: A Search and Rescue Scenario",
+                "pub_year": "2022",
+                "citation": "Drones 6 (1), 19, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:XD-gHx7UXLsC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7214781867334959766",
+            "cites_id": [
+                "7214781867334959766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Person classification from aerial imagery using local convolutional neural network features",
+                "pub_year": "2019",
+                "citation": "International Journal of Remote Sensing 40 (24), 9084-9102, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:olpn-zPbct0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8159690716341854487",
+            "cites_id": [
+                "8159690716341854487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hypothetical structure of interaction of factors that determine situation-related effi cacy and actual player and team quality",
+                "pub_year": "2010",
+                "citation": "Acta Kinesiologica 4 (2), 49-56, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18387213937238526981",
+            "cites_id": [
+                "18387213937238526981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-stage segmentation for detection of suspicious objects in aerial and longrange surveillance applications",
+                "pub_year": "2009",
+                "citation": "WSEAS International Conference. Proceedings. Mathematics and Computers in \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:WF5omc3nYNoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=691047628542867811",
+            "cites_id": [
+                "691047628542867811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A procedure for detection of humans from long distance images",
+                "pub_year": "2008",
+                "citation": "2008 50th International Symposium ELMAR 1, 109-112, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:u_35RYKgDlwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1595004246109011050",
+            "cites_id": [
+                "1595004246109011050"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low side-step kinematic characteristics of handball goalkeeper",
+                "pub_year": "2005",
+                "citation": "The second IASTED International Conference on Biomedical Engineering, 662-666, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18280448444093929209",
+            "cites_id": [
+                "18280448444093929209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relationship between match statistics, game outcome and pre-match hormonal state in professional rugby union",
+                "pub_year": "2013",
+                "citation": "International Journal of Performance Analysis in Sport 13 (2), 522-534, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16395425648990355702",
+            "cites_id": [
+                "16395425648990355702"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hypothetical model of factors determining performance and sports achievement in team sports",
+                "pub_year": "2011",
+                "citation": "Fizi\u010dka kultura 65 (2), 16-32, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:0EnyYjriUFMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11441094286689495369",
+            "cites_id": [
+                "11441094286689495369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concepts of Developing Groups in Team Sports",
+                "pub_year": "2008",
+                "citation": "Acta Kinesiologica 2 (2), 74-81, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7892276939703139722",
+            "cites_id": [
+                "7892276939703139722"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constructive education approach: Robot soccer",
+                "pub_year": "2007",
+                "citation": "2007 29th International Conference on Information Technology Interfaces, 425-430, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:738O_yMBCRsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2687037651268201008",
+            "cites_id": [
+                "2687037651268201008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive neural network (ANN) for visual servoing: The mimetic approach",
+                "pub_year": "2007",
+                "citation": "International Journal of Circuits, Systems and Signal Processing 3 (1), 259-265, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:ufrVoPGSRksC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875960907568134299",
+            "cites_id": [
+                "7875960907568134299"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visualization of human motion kinematics in state space",
+                "pub_year": "1999",
+                "citation": "Proceedings of the European Medical and Biological Engineering Conference \u2026, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7532054940420296501",
+            "cites_id": [
+                "7532054940420296501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrating robotics in education and vice versa; shifting from blackboard to keyboard",
+                "pub_year": "2019",
+                "citation": "Int. J. Mech. Control 20 (1), 53-69, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:t6usbXjVLHcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17507448264698091761",
+            "cites_id": [
+                "17507448264698091761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithms for compressive sensing signal reconstruction with applications",
+                "pub_year": "2016",
+                "citation": "Mathematical Problems in Engineering 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=512733900124056912",
+            "cites_id": [
+                "512733900124056912"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "User-dependent gesture recognition on Android handheld devices",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:70eg2SAEIzsC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9113956649576680332",
+            "cites_id": [
+                "9113956649576680332"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of fuzzy clustering methods for segmentation of environmental images, SoftCOM 2008",
+                "pub_year": "2008",
+                "citation": "Proceedings of 2008 International Conference on Software, Telecommunications \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8914076256533610133,8368310465317637966",
+            "cites_id": [
+                "8914076256533610133",
+                "8368310465317637966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Talent\u2013ekspertni sustav za otkrivanje talenata u sportu",
+                "pub_year": "2006",
+                "citation": "Zbornik radova 15, 484-488, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:roLk4NBRz8UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12357695465914118919",
+            "cites_id": [
+                "12357695465914118919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leg abduction kinematic characteristics of handball goalkeeper",
+                "pub_year": "2001",
+                "citation": "6th Annual Congress of the European College of Sport Science, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14920471003784250412",
+            "cites_id": [
+                "14920471003784250412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The development of expert system for identification of human walking system",
+                "pub_year": "1999",
+                "citation": "MODELLING IDENTIFICATION AND CONTROL, 472-474, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:lSLTfruPkqcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6171106198649283314",
+            "cites_id": [
+                "6171106198649283314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive fuzzy mediation for multimodal control of mobile robots in navigation-based tasks",
+                "pub_year": "2019",
+                "citation": "International Journal of Computational Intelligence Systems 12 (2), 1197-1211, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:HE397vMXCloC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1653565746369285067",
+            "cites_id": [
+                "1653565746369285067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying needs of robotic and technological solutions for the classroom",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:bnK-pcrLprsC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7119094423116544366",
+            "cites_id": [
+                "7119094423116544366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparative study of FFT, DCT, and DWT for efficient arrhytmia classification in RP-RF framework",
+                "pub_year": "2018",
+                "citation": "International Journal of E-Health and Medical Communications (IJEHMC) 9 (1 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15087477176236272787",
+            "cites_id": [
+                "15087477176236272787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model for automatic geomapping of aerial images mosaic acquired by UAV",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4726520494070695328",
+            "cites_id": [
+                "4726520494070695328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sport Talent of Pupils in the Split-Dalmatia County.",
+                "pub_year": "2016",
+                "citation": "Croatian Journal Educational/Hrvatski Casopis za Odgoj I Obrazovanje 18 (3), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14286075435239149580,13276122819515838639",
+            "cites_id": [
+                "14286075435239149580",
+                "13276122819515838639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-linear approach in kinesiology should be preferred to the linear\u2013a case of basketball",
+                "pub_year": "2015",
+                "citation": "Collegium antropologicum 39 (Supplement 1), 117-124, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=814926015010426875",
+            "cites_id": [
+                "814926015010426875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feature weighted nearest neighbour classification for accelerometer-based gesture recognition",
+                "pub_year": "2012",
+                "citation": "SoftCOM 2012, 20th International Conference on Software, Telecommunications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:rO6llkc54NcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2735154677670173059",
+            "cites_id": [
+                "2735154677670173059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predavanja iz osnova elektronike",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:FPJr55Dyh1AC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1673412933741492672",
+            "cites_id": [
+                "1673412933741492672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Game theory application for the 7-m throw in handball",
+                "pub_year": "2003",
+                "citation": "8 th Annual Congress European College of sports science, 123, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:mB3voiENLucC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8540432788618333550",
+            "cites_id": [
+                "8540432788618333550"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dislocated Measurements of Human Gait and Central Data Processing",
+                "pub_year": "2001",
+                "citation": "Proceedings of the SoftCOM, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:9Nmd_mFXekcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1775203320116334933",
+            "cites_id": [
+                "1775203320116334933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accuracy improvement in 3D measurement with commercial cameras",
+                "pub_year": "2000",
+                "citation": "ITI 2000. Proceedings of the 22nd International Conference on Information \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:f2IySw72cVMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2037218399234336902",
+            "cites_id": [
+                "2037218399234336902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep semantic image segmentation for UAV-UGV cooperative path planning: A car park use case",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Software, Telecommunications and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:dQ2og3OwTAUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4919700194309382935",
+            "cites_id": [
+                "4919700194309382935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HANDBALL JUMP SHOOT KINEMATICS\u2013DIFFERENCES BETWEEN CROATIAN ELITE AND PROFESSIONAL PLAYERS",
+                "pub_year": "2020",
+                "citation": "9TH INTERNATIONAL SCIENTIFIC CONFERENCE ON KINESIOLOGY, 102, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9703994504191992839",
+            "cites_id": [
+                "9703994504191992839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Features analysis and Fuzzy-SVM classification for tracking players in water polo",
+                "pub_year": "2014",
+                "citation": "WSEAS Trans. Comput. 13, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:ldfaerwXgEUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7416346142325354991",
+            "cites_id": [
+                "7416346142325354991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Features analysis for tracking players in water polo",
+                "pub_year": "2014",
+                "citation": "16th International Conference on Automatic Control, Modelling & Simulation, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:35N4QoGY0k4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8133618847718853516",
+            "cites_id": [
+                "8133618847718853516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Object classification in water sports",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Symposium on Computers and Communications (ISCC), 000839-000844, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1379733059424098766",
+            "cites_id": [
+                "1379733059424098766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for non-photorealistic rendering in pointillist style",
+                "pub_year": "2011",
+                "citation": "Proceedings ELMAR-2011, 111-114, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:_xSYboBqXhAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1654263279170648111",
+            "cites_id": [
+                "1654263279170648111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robot Soccer",
+                "pub_year": "2010",
+                "citation": "BoD\u2013Books on Demand, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:abG-DnoFyZgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15569430127911237055",
+            "cites_id": [
+                "15569430127911237055"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimierung der position des handball torwarts",
+                "pub_year": "2005",
+                "citation": "Laistungssport 35 (4), 50-54, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15435185190843810361",
+            "cites_id": [
+                "15435185190843810361"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concepts of developing Groups in sports games",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12778591709771435778",
+            "cites_id": [
+                "12778591709771435778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Data Collection Parameters on Performance of Neural Network-based Obstacle Avoidance",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:1qzjygNMrQYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16837627794447173359",
+            "cites_id": [
+                "16837627794447173359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LMNN metric learning and fuzzy nearest neighbour classifier for hand gesture recognition",
+                "pub_year": "2015",
+                "citation": "Journal on Multimodal User Interfaces 9, 211-221, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:UxriW0iASnsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5079288463141778536",
+            "cites_id": [
+                "5079288463141778536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hipotetska struktura me\u0111udjelovanja \u010dimbenika koji odre\u0111uju situacijsku u\u010dinkovitost sporta\u0161a i mom\u010dadi",
+                "pub_year": "2010",
+                "citation": "Acta Kinesiologica 4 (2), 57-61, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6586334581476923145",
+            "cites_id": [
+                "6586334581476923145"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robot soccer educational courses",
+                "pub_year": "2010",
+                "citation": "Robot Soccer, 101, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17799859875317114303",
+            "cites_id": [
+                "17799859875317114303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new method for detection of artificial objects and materials from long distance environmental images",
+                "pub_year": "2008",
+                "citation": "International Journal of Electrical and Computer Engineering 2 (7), 1403-1407, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:XiSMed-E-HIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4660317294483029623",
+            "cites_id": [
+                "4660317294483029623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of the positioning of the goalkeeper in team handball",
+                "pub_year": "2005",
+                "citation": "Leistungssport 35 (4.3), 50-55, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:WbkHhVStYXYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2304130960159024057",
+            "cites_id": [
+                "2304130960159024057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Arm abduction-aduction kinematic characteristics of handball goalkeeper",
+                "pub_year": "2004",
+                "citation": "Workshop of signals and systems in human motion, 52-56, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14936842120064688942",
+            "cites_id": [
+                "14936842120064688942"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individual Olive Tree Detection in RGB Images",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:0KyAp5RtaNEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16561712358857593456",
+            "cites_id": [
+                "16561712358857593456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural Network-based End-effector Force Estimation for Mobile Manipulator on Simulated Uneven Surfaces",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:yB1At4FlUx8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4426916421191449970",
+            "cites_id": [
+                "4426916421191449970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Olive Groves Analysis using UAVs",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:VLnqNzywnoUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8567846470544765815",
+            "cites_id": [
+                "8567846470544765815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Swimming pool segmentation in pre-processing for tracking water polo players",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Electrical, Communication, and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11584101861968831281",
+            "cites_id": [
+                "11584101861968831281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposal of a modular system for tracking indoor and outdoor sports",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 9th WSEAS international conference on Simulation \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17124347082500947907",
+            "cites_id": [
+                "17124347082500947907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A procedure for tracing simple curves in image sequences.",
+                "pub_year": "2006",
+                "citation": "WSEAS Transactions on Information Science and Applications 3 (1), 192-198, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:hMod-77fHWUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=436481120602362655",
+            "cites_id": [
+                "436481120602362655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A curve matching algorithm for dynamic image sequences",
+                "pub_year": "2005",
+                "citation": "WSEAS Transactions on Computers 4 (11), 1713-1717, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2103013330470593954",
+            "cites_id": [
+                "2103013330470593954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Normative maps in gait analysis",
+                "citation": "Proceedings of Softcom\u201999, 13-16, 0"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11107908383162402214",
+            "cites_id": [
+                "11107908383162402214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic Facial Palsy Detection\u2014From Mathematical Modeling to Deep Learning",
+                "pub_year": "2023",
+                "citation": "Axioms 12 (12), 1091, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:zLWjf1WUPmwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of Small Fruits in Natural Environment Images",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Software, Telecommunications and Computer \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:EkHepimYqZsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strain Gauge Neural Network-Based Estimation as an Alternative for Force and Torque Sensor Measurements in Robot Manipulators",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (18), 10217, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:ipzZ9siozwsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VanityX: An Agile 3D Rendering Platform Supporting Mixed Reality",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (9), 5468, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:uc_IGeMz5qoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "End-Effector Force and Joint Torque Estimation of a 7-DoF Robotic Manipulator Using Deep Learning. Electronics 2021, 10, 2963",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CudDNN Convolution Algorithms on Nvidia GPU",
+                "pub_year": "2020",
+                "citation": "SoftCOM 2020 PhD Forum, 4, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:W5xh706n7nkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u041e\u0411\u041d\u0410\u0420\u0423\u0416\u0415\u041d\u0418\u0415 \u041c\u0415\u041b\u041a\u0418\u0425 \u041e\u0411\u042a\u0415\u041a\u0422\u041e\u0412 \u0412 \u0420\u0415\u0410\u041b\u042c\u041d\u041e\u041c \u0412\u0420\u0415\u041c\u0415\u041d\u0418 \u041f\u041e \u0418\u0417\u041e\u0411\u0420\u0410\u0416\u0415\u041d\u0418\u042f\u041c \u0411\u041f\u041b\u0410 \u0421 \u041f\u041e\u041c\u041e\u0429\u042c\u042e CNN",
+                "pub_year": "2020",
+                "citation": "\u0422\u0435\u0437\u0438\u0441\u044b \u0434\u043e\u043a\u043b\u0430\u0434\u043e\u0432 2-\u043e\u0439 \u043d\u0430\u0443\u0447\u043d\u043e-\u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0438 \u0443\u0447\u0451\u043d\u044b\u0445 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:7T2F9Uy0os0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u041e\u0411\u041d\u0410\u0420\u0423\u0416\u0415\u041d\u0418\u0415 \u041b\u042e\u0414\u0415\u0419 \u0418 \u041d\u0415\u0411\u041e\u041b\u042c\u0428\u0418\u0425 \u041e\u0411\u042a\u0415\u041a\u0422\u041e\u0412 \u0412 \u0420\u0415\u0410\u041b\u042c\u041d\u041e\u041c \u0412\u0420\u0415\u041c\u0415\u041d\u0418 \u041f\u041e \u0418\u0417\u041e\u0411\u0420\u0410\u0416\u0415\u041d\u0418\u042f\u041c \u0411\u041f\u041b\u0410 \u0421 \u041f\u041e\u041c\u041e\u0429\u042c\u042e CNN",
+                "pub_year": "2020",
+                "citation": "\u0422\u0435\u0437\u0438\u0441\u044b \u0434\u043e\u043a\u043b\u0430\u0434\u043e\u0432 2-\u043e\u0439 \u043d\u0430\u0443\u0447\u043d\u043e-\u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0438 \u0443\u0447\u0451\u043d\u044b\u0445 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:NJ774b8OgUMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ON DETECTION OF SMALL OBJECTS FROM AERIAL IMAGES",
+                "pub_year": "2020",
+                "citation": "\u0422\u0435\u0437\u0438\u0441\u044b \u0434\u043e\u043a\u043b\u0430\u0434\u043e\u0432 2-\u043e\u0439 \u043d\u0430\u0443\u0447\u043d\u043e-\u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0438 \u0443\u0447\u0451\u043d\u044b\u0445 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:kzcrU_BdoSEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spiral Particle Distribution for Template based Tracking",
+                "pub_year": "2019",
+                "citation": "WSEAS Transactions on Computers 18, 122-127, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Science and Technology in Biomedical Engineering: Labacs Case Example",
+                "pub_year": "2014",
+                "citation": "Phys Med Rehabil Int 1 (2), 11, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uvod u ra\u010dunalnu grafiku",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:ML0RJ9NH7IQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "State Analyzer ver. 1.0. 1.",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:ruyezt5ZtCIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of image compression on object detection in natural images segmented with mean shift",
+                "pub_year": "2010",
+                "citation": "Proceedings of the 9th WSEAS international conference on Signal processing \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prijedlog kriterija za financiranje sportskih udruga",
+                "pub_year": "2010",
+                "citation": "Hrvatski znanstveno stru\u010dni skup o menad\u017ementu u turizmu i sportu 1 (1), 269-279, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ekspertni sustav za vrednovanje kinematike ljudskog hoda temeljen na prepoznavanju lika",
+                "pub_year": "2002",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:S16KYo8Pm5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed Gait Measurements",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:hCrLmN-GePgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed Gait",
+                "pub_year": "2002",
+                "citation": "Virtual Reality Technologies for Future Telecommunications Systems, 175, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prepoznavanje karakteristi\u010dnih faza ljudskog hoda pomo\u0107u neuronskih mre\u017ea",
+                "pub_year": "1996",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:ClCfbGk0d_YC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of the Hamming ANN for the Recognition of Gait Phases",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:MLfJN-KU85MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LOW SIDE-STEP KINEMATIC CHARACTERISTICS OF HANDBALL GOALKEEPER Nenad Rogulj Higher Assistant University of Split, Faculty of Natural Sciences, Mathematics and Education",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mojmil Ceci1, Vladan Papi2",
+                "citation": "Hip 50 (60), 70, 0"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tentative important dates",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iliev, Plamen 111",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Face and Nose Detection in Digital Images using Local Binary Patterns",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FACE DETECTION AND TRACKING FOR ACTIVITY RECOGNITION",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MEASUREMENT OF HEAD ROTATION USING TRIANGULAR FACE MODEL",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On hue and saturation of natural and non-natural materials",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "KATEGORIZACIJA SPORTSKIH AKTIVNOSTI U PROSTORU NEKIH MORFOLO\u0160KIH ZNA\u010cAJKI",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mimetic visual servoing with adaptive neural network (ANN)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PICIGIN AS A WATER SPORT: EARLY STUDY",
+                "citation": "ACTA KINESIOLOGICA, 7, 0"
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usporedba metoda za odre\u0111ivanje praga u svrhu segmentiranja igra\u010da",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRILOG POBOLJ\u0160ANJU VALJANOSTI TESTA PRETKLON RAZNO\u017dNO ZA PROCJENU FLEKSIBILNOSTI U \u0160KOLAMA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OmPUlukAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "csm8PccAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nenad Rogulj",
+            "affiliation": "Faculty of Kinesiology University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JbPKpocAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladimir Ple\u0161tina",
+            "affiliation": "University of Split, Faculty of Science, Assistant Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Saq9by0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tea Marasovi\u0107",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "z8akwMMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Music",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NWV4Fp8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stanko Kruzic",
+            "affiliation": "University of Split, unist.hr, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jdkVWz0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sven Gotovac",
+            "affiliation": "Professor electrical engineering, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rKsE5HEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Srdjan Stankovic",
+            "affiliation": "Full Professor, Faculty of Electrical Engineering,  University of Montenegro"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BMaJtv4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hrvoje Turi\u0107",
+            "affiliation": "University of Split, Faculty of Science, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "K3p0rmAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marijana \u010cavala",
+            "affiliation": "University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YNffBCQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Irena Orovic",
+            "affiliation": "Electrical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "H5INUPMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cornel Ioana",
+            "affiliation": "Grenoble INP UGA GIPSA-lab"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_-or5g0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nikola Foreti\u0107, PhD",
+            "affiliation": "Faculty of Kinesiology, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0w4TUZsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matko Saric",
+            "affiliation": "Assistant Professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aivl13oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Igor Jelaska",
+            "affiliation": "Associate Professor, University of Split, Faculty of Kinesiology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4pAM3SUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Damir Vukicevic",
+            "affiliation": "University of Split, Faculty of Science, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JSqHGlQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josko Radic",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ShEktEkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zeljko Marusic",
+            "affiliation": "University of Zagreb"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GYzk-XsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zoran Blazevic",
+            "affiliation": "Full professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bsJBFIQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ante Krolo",
+            "affiliation": "University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WnRSJtwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ana Kuzmanic Skelin",
+            "affiliation": "University of Split, Faculty of electrical engineering, mechanical engineering and naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jONzrXIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Slavomir Stankov",
+            "affiliation": "Full professor, Split, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IyKEz0MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marko Rosic",
+            "affiliation": "University of Split Faculty of Science"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sOuxIYQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marjan Sikora",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rfB83ncAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivica Boljat",
+            "affiliation": "Associate Professor, University of Split, Faculty of Science, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XoqOGt0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "josefina jukic",
+            "affiliation": "sport and exercise science"
+        }
+    ]
+}

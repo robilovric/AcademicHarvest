@@ -1,0 +1,832 @@
+{
+    "name": "Sikora Marjan",
+    "num_citations": 434,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wearable emotion recognition system based on GSR and PPG signals",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 2nd international workshop on multimedia for personal \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2774114341035269997",
+            "cites_id": [
+                "2774114341035269997"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CNN-based method for lung cancer detection in whole slide histopathology images",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17093757616658588584",
+            "cites_id": [
+                "17093757616658588584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Paleo-coastline of the Central Eastern Adriatic Sea, and Paleo-Channels of the Cetina and Neretva rivers during the last glacial maximum",
+                "pub_year": "2014",
+                "citation": "Acta Adriatica 55 (1), 3-18, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8253741478326248047,18197570173538110845",
+            "cites_id": [
+                "8253741478326248047",
+                "18197570173538110845"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Free-field TDOA-AOA sound source localization using three soundfield microphones",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 87749-87761, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:r0BpntZqJG4C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10403430335797382504",
+            "cites_id": [
+                "10403430335797382504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Soundscape of an archaeological site recreated with audio augmented reality",
+                "pub_year": "2018",
+                "citation": "ACM Transactions on Multimedia Computing, Communications, and Applications \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:-f6ydRqryjwC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4277786295145995917",
+            "cites_id": [
+                "4277786295145995917"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cochleogram-based approach for detecting perceived emotions in music",
+                "pub_year": "2020",
+                "citation": "Information Processing & Management 57 (5), 102270, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13338392139265661525",
+            "cites_id": [
+                "13338392139265661525"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust cochlear-model-based speech recognition",
+                "pub_year": "2019",
+                "citation": "Computers 8 (1), 5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1754628175584156412",
+            "cites_id": [
+                "1754628175584156412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beam tracing with refraction",
+                "pub_year": "2012",
+                "citation": "Archives of Acoustics 37 (3), 301-316, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13483893597954505162",
+            "cites_id": [
+                "13483893597954505162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bicycle route planning using multiple criteria GIS analysis",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12741127293021570888",
+            "cites_id": [
+                "12741127293021570888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic performance analysis of anechoic chambers based on ISO 3745 and ISO 26101: standards comparison and performance analysis of the anechoic chamber at the University of Split",
+                "pub_year": "2018",
+                "citation": "Proc. Euronoise, 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:hC7cP41nSMkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4300094038323372957",
+            "cites_id": [
+                "4300094038323372957"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emotion classification using linear predictive features on wavelet-decomposed EEG data",
+                "pub_year": "2017",
+                "citation": "2017 26th IEEE international symposium on robot and human interactive \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9854100277554397305",
+            "cites_id": [
+                "9854100277554397305"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method for speeding up beam-tracing simulation using thread-level parallelization",
+                "pub_year": "2014",
+                "citation": "Engineering with Computers 30, 679-688, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10898300641265732081",
+            "cites_id": [
+                "10898300641265732081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of loudspeaker driver parameters",
+                "pub_year": "2012",
+                "citation": "Proc. AAA 2012, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11240009311777019474",
+            "cites_id": [
+                "11240009311777019474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CODA-computerized auralization",
+                "pub_year": "1996",
+                "citation": "Audio Engineering Society Convention 100, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4597117975394542133",
+            "cites_id": [
+                "4597117975394542133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of project-based learning in GIS course",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17851582843010081345",
+            "cites_id": [
+                "17851582843010081345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beam-tracing method in non homogenous environments",
+                "pub_year": "2005",
+                "citation": "Proceedings of the 2nd congress of Alps-adria acoustic society, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2989635484525612565",
+            "cites_id": [
+                "2989635484525612565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic properties of an old stone atrium used for concerts",
+                "pub_year": "2003",
+                "citation": "Forum Acousticum (FA 2002), Sevilla (Spain), 2003"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1514567757135578999",
+            "cites_id": [
+                "1514567757135578999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A tool for soundscape auralization of ancient archaeological sites",
+                "pub_year": "2016",
+                "citation": "7 th AAAA Congress on Sound and Vibration. Recuperado de https://bib. irb \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:dhFuZR0502QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7505272827205335716",
+            "cites_id": [
+                "7505272827205335716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of refraction as a non-linear transformation on beam tracing simulation of sound propagation",
+                "pub_year": "2010",
+                "citation": "Proceedings of 1st EAA EUROREGIO Congress on Sound and Vibration\u2013Acta \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9419386798004807614",
+            "cites_id": [
+                "9419386798004807614"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer simulation and measurement of the ultrasound field in a bounded plane",
+                "pub_year": "1998",
+                "citation": "IMEKO TC-4 Symposium on Development in Digital Measureing Instrumentation, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12860756763475844958",
+            "cites_id": [
+                "12860756763475844958"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sound field measurement in the bounded plane",
+                "pub_year": "1997",
+                "citation": "Procc. ELMAR, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:4DMP91E08xMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4815422360337499652",
+            "cites_id": [
+                "4815422360337499652"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Neural Networks for Bicycle Route Planning",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (21), 10065, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6459764189134675988",
+            "cites_id": [
+                "6459764189134675988"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithms for simulation of sound and ultrasound propagation in complex dispersive environments",
+                "pub_year": "2004",
+                "citation": "Proceedings. Elmar-2004. 46th International Symposium on Electronics in \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12127147000289172756",
+            "cites_id": [
+                "12127147000289172756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of acoustic simulation and visualization for revitalization of ancient buildings",
+                "pub_year": "2002",
+                "citation": "International Symposium on VIPromCom Video/Image Processing and Multimedia \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1663181613214082193",
+            "cites_id": [
+                "1663181613214082193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201eSimulation of Certain Acoustic Properties of the \u201cKne\u017eev Dvor\u201d in Dubrovnik \u201c",
+                "pub_year": "2001",
+                "citation": "Proceedings ICECOM, 101-104, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3679470476272449533",
+            "cites_id": [
+                "3679470476272449533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cochlea-inspired speech recognition interface",
+                "pub_year": "2019",
+                "citation": "Medical & Biological Engineering & Computing 57, 1393-1403, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5150090572392473082",
+            "cites_id": [
+                "5150090572392473082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Beam/Ray Tracing Simulation Method",
+                "pub_year": "2018",
+                "citation": "Euronoise, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7871751213715963293",
+            "cites_id": [
+                "7871751213715963293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geographic information system of historic core of split",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3007642842228396326",
+            "cites_id": [
+                "3007642842228396326"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emergency services coverage area spatial analysis-a case study of Split and Dalmatia County",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Models and Technologies for Intelligent \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell nuclei segmentation using distance map regression and inverted Huber loss",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic Analysis of Various Purposes Rooms Using Measurements and Simulations",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallelism and Iterative bi-Lanczos Solvers",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beam Division in Acoustic Simulation of Non-Homogenous Environments",
+                "pub_year": "2011",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Postupci simulacije i vizualizacije \u0161irenja vala u nehomogenim sredinama",
+                "pub_year": "2010",
+                "citation": "University of Zagreb. Faculty of Electrical Engineering and Computing \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIMULATION AND VISUALIZATION METHODS FOR WAVE PROPAGATION IN NON\u2010HOMOGENEOUS MEDIA",
+                "pub_year": "2010",
+                "citation": "University of Zagreb, Faculty of Electrical Engineering and Computing, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE SIMULATION OF PROPAGATION OF ULTRASOUND DURING IN-VASIVE AND NONINVASIVE NEUROSURGICAL TREATMENTS",
+                "pub_year": "2002",
+                "citation": "Measurement [dB] 900, 0, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D SIMULATION OF ULTRASOUND PROPAGATION IN HUMAN SCULL",
+                "pub_year": "2001",
+                "citation": "Proceedings ELMAR, 174-178, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THREEDIMENSIONAL SIMULATION OF ULTRASOUND FIELD DISTRIBUTION INSIDE THE SCULL",
+                "pub_year": "2000",
+                "citation": "University of Zagreb Faculty of Electrical Engineering and Computing, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TRODIMENZIONALNA SIMULACIJA RASPODJELE ULTRAZVU\u010cNOG POLJA UNUTAR LUBANJE",
+                "pub_year": "2000",
+                "citation": "University of Zagreb Faculty of Electrical Engineering and Computing, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer simulation of ultrasound propagation in bounded plane",
+                "pub_year": "1998",
+                "citation": "40th International Symposium on Electronics in Marine (ELMAR 1998), 1998"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model zvu\u010dnog polja",
+                "pub_year": "1995",
+                "citation": "University of Zagreb Faculty of Electrical Engineering and Computing, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustics of Roman theatre of Salona.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3rd Congress of the Alps Adria Acoustics Association",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dragana Krstid Jonghoon Kwon Maria Laura Stefanizzi Marco Leo",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "7th AAAA Congress on Sound and Vibration",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MULTITHREADED BEAM-TRACING",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid hatching-shading method for depicting of relief in modern maps",
+                "citation": "Proceedings of 21st International Course & Conference on the Interfaces \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "County Spatial Database of Split-Dalmatia Institute of spatial planning",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201cPORAT\u201d\u2013A COMPUTER SIMULATION OF THE PROPAGATION OF SEA WAVES",
+                "citation": "Proceedings of 16th International Course & Conference on the Interfaces \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE ALGORITHM OF BEAM DIVISION IN BEAM TRACING METHOD FOR NON-HOMOGENOUS ENVIRONMENTS",
+                "citation": "Proceedings of 3rd Congress of Alps Adria Acoustics Association (AAAA 2007 \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "sOuxIYQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vKzF9gIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mladen Russo",
+            "affiliation": "University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4zz-g08AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maja Stella",
+            "affiliation": "University of Split, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JXaLFHQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luka Kraljevi\u0107",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x2GpGnUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivo Mateljan",
+            "affiliation": "Professor of electrical engineering (retired), University of Split, Croatia, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0w4TUZsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matko Saric",
+            "affiliation": "Assistant Professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N_KYVkEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Goran Udovicic",
+            "affiliation": "FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_Uu5K40AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivica Vilibic",
+            "affiliation": "Ru\u0111er Bo\u0161kovi\u0107 Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PmU_E9wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kristian Jambrosic",
+            "affiliation": "Full Professor, University of Zagreb, Faculty of Electrical Engineering and Computing"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7BlWSL8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hrvoje Mihanovi\u0107",
+            "affiliation": "Institute of Oceanography and Fisheries, Split, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ms4bGFgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Branko Blagojevi\u0107",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0M0kHLUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hrvoje Domitrovic",
+            "affiliation": "Profesor elektroakustike Fakulteta elektrotehnike i ra\u010dunarstva Sveu\u010dili\u0161ta u Zagrebu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6IIrQbcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matija Paukovi\u0107",
+            "affiliation": "Assistant, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fp1sgvkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Ba\u0161i\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OmPUlukAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladan Papic",
+            "affiliation": "University of Split  unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Saq9by0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tea Marasovi\u0107",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        }
+    ]
+}

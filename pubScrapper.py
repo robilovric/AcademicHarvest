@@ -1,77 +1,88 @@
 import professorData
-from scholarly import scholarly, ProxyGenerator
-from fp.fp import FreeProxy
+import re
+import requests 
+from scholarly import scholarly, ProxyGenerator  
+# Proxies api-endpoint 
 
-def set_new_proxy():
-    while True:
-        proxy = FreeProxy(rand=True, timeout=1).get()
-        proxy_works = scholarly.use_proxy(http=proxy, https=proxy)
-        if proxy_works:
-            break
-    print(proxy)
-    return proxy    
+pg = ProxyGenerator()
 
-set_new_proxy()
+success = pg.ScraperAPI("3e12031c1432e05dc0a87eb2c8f6bc87")
 
-# pg = ProxyGenerator()
-# success = pg.FreeProxies()
-# scholarly.use_proxy(pg)
+scholarly.use_proxy(pg)
 
-search_query = scholarly.search_author(professorData.professors[97].name)
 
-first_author_result = next(search_query)
-author = scholarly.fill(first_author_result)
 
-coauthors = author.get('coauthors', [])
-if coauthors:
-    professorData.professors[97].co_authors=coauthors
-    for coauthor in coauthors:
-        coauthor_name = coauthor.get('name', 'N/A')
-else:
-    print("No co-authors found.")
-    
-pub = author.get('publication', [])
-publications = author.get('publications', [])
-
-professorData.professors[97].num_citations=author.get("citedby")
-
-if publications:
-    professorData.professors[97].publications=publications
-    for publication in publications:
-        title = publication.get('bib', {}).get('title', 'N/A')
-        year = publication.get('bib', {}).get('pub_year', 'N/A')
-        coAuthors=publication.get('bib', {}).get('author', [])
-else:
-    print("No publications found.")
         
 def get_coauthors_for_publication(title):
-    search_query = scholarly.search_pubs(title)
     
     try:
-        first_publication_result = next(search_query)
-        publication = scholarly.fill(first_publication_result)
+        #search_query = scholarly.search_pubs(title, filled=True)
+        # first_publication_result = next(search_query)
+        # publication = scholarly.fill(first_publication_result)
         
-        title = publication.get('bib', {}).get('title', 'N/A')
-        year = publication.get('bib', {}).get('pub_year', 'N/A')
+        publication = scholarly.search_single_pub(title, filled=True)
+
+        
+        #title = publication.get('bib', {}).get('title', 'N/A')
+        #year = publication.get('bib', {}).get('pub_year', 'N/A')
+        
+        #print(f"Publication Title: {title}")
+        #print(f"Publication Year: {year}")
+        
 
         coauthors = publication.get('bib', {}).get('author', [])
         
-        print(f"Publication Title: {title}")
-        print(f"Publication Year: {year}")
+        print(type(coauthors))
+        coautorString = ''.join(coauthors)
+
+        print("RAW DATA FORMAT\n", coautorString)
         
-        if coauthors:
-            print("Co-authors:")
-            for coauthor in coauthors:
-                print(f"- {coauthor}") # Discuss
-        else:
-            print("No co-authors found.")
+        print("EXTRACTED AUTHORS")
+        formatCoautorList(coautorString)
+
             
     except StopIteration:
         print(f"No results found for the publication '{title}'.")
 
-while True:
-    try:
-        get_coauthors_for_publication('Chromablur: Rendering chromatic eye aberration improves accommodation and realism')
-        break
-    except Exception as e:
-        set_new_proxy() 
+def formatCoautorList(author_string):
+    # Hypothetical character list
+    #author_string = "Papi{\\'c}, Vladan and Rogulj, Nenad and Ple{\\v{s}}tina, Vladimir"    
+
+    author_string = author_string.replace("{\\'c}", "ć").replace("{\\v{s}}" or "{\v{s}}" , "š").replace("{\v{c}}", "č").replace("{\v{z}}", "ž")
+
+    author_list = re.findall(r'(\w+),\s*(\w+)', author_string)
+
+    formatted_author_list = [' '.join(author) for author in author_list]
+    professorData.professors[97].co_authors.append(formatted_author_list)
+
+    print(formatted_author_list)
+
+
+try:
+    prof = professorData.professors[97]
+    search_query = scholarly.search_author(prof.name)
+    first_author_result = next(search_query)
+    author = scholarly.fill(first_author_result)
+    
+    prof.num_citations=author.get("citedby")
+    coauthors = author.get('coauthors', [])
+    if coauthors:
+        prof.co_authors=coauthors
+    else:
+        print("No co-authors found.")
+        prof.hasCoAuthors=False
+    
+    publications = author.get('publications', [])
+    if publications:
+        prof.publications=publications
+    else:
+        print("No publications found.")
+    for pub in professorData.professors[97].publications:
+        title = pub.get('bib', {}).get('title', 'N/A')
+        print(title)
+        get_coauthors_for_publication(title)
+    
+    professorData.professors[97].display_information()
+
+except Exception as e:
+    print(type(e).__name__)

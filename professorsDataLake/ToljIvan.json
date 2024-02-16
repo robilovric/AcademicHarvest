@@ -1,0 +1,972 @@
+{
+    "name": "Tolj Ivan",
+    "num_citations": 1422,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The use of metal hydrides in fuel cell applications",
+                "pub_year": "2017",
+                "citation": "Progress in Natural Science: Materials International 27 (1), 3-20, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 284,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18081408332614824613",
+            "cites_id": [
+                "18081408332614824613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal hydride systems for hydrogen storage and supply for stationary and automotive low temperature PEM fuel cell power modules",
+                "pub_year": "2015",
+                "citation": "international journal of hydrogen energy 40 (35), 11491-11497, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:roLk4NBRz8UC",
+            "num_citations": 122,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6181175507607163012",
+            "cites_id": [
+                "6181175507607163012"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal hydride hydrogen storage and supply systems for electric forklift with low-temperature proton exchange membrane fuel cell power module",
+                "pub_year": "2016",
+                "citation": "international journal of hydrogen energy 41 (31), 13831-13842, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 109,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15062435131825783003",
+            "cites_id": [
+                "15062435131825783003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic analysis of PEM fuel cells role in photovoltaic-based systems for the remote base stations",
+                "pub_year": "2013",
+                "citation": "International journal of hydrogen energy 38 (1), 417-425, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 109,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8604919552439732309",
+            "cites_id": [
+                "8604919552439732309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal hydride hydrogen storage tank for fuel cell utility vehicles",
+                "pub_year": "2020",
+                "citation": "International Journal of Hydrogen Energy 45 (14), 7958-7967, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:hC7cP41nSMkC",
+            "num_citations": 94,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10668891776842585827",
+            "cites_id": [
+                "10668891776842585827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of electric forklift with low-temperature polymer exchange membrane fuel cell power module and metal hydride hydrogen storage extension tank",
+                "pub_year": "2016",
+                "citation": "Journal of power sources 316, 239-250, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12368490021816433748",
+            "cites_id": [
+                "12368490021816433748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell-battery hybrid powered light electric vehicle (golf cart): influence of fuel cell on the driving performance",
+                "pub_year": "2013",
+                "citation": "international journal of hydrogen energy 38 (25), 10630-10639, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10996532263750794184,8755692851073308976",
+            "cites_id": [
+                "10996532263750794184",
+                "8755692851073308976"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection of metal hydrides-based thermal energy storage: Energy storage efficiency and density targets",
+                "pub_year": "2018",
+                "citation": "International Journal of Hydrogen Energy 43 (50), 22568-22583, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8327503969432198255",
+            "cites_id": [
+                "8327503969432198255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining desired level of relative humidity throughout a fuel cell with spatially variable heat removal rates",
+                "pub_year": "2011",
+                "citation": "International journal of hydrogen energy 36 (20), 13105-13113, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15993810917524012916",
+            "cites_id": [
+                "15993810917524012916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal hydride beds-phase change materials: Dual mode thermal energy storage for medium-high temperature industrial waste heat recovery",
+                "pub_year": "2019",
+                "citation": "Energies 12 (20), 3949, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1307323678033039699",
+            "cites_id": [
+                "1307323678033039699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review on management, mechanisms and modelling of thermal processes in PEMFC",
+                "pub_year": "2016",
+                "citation": "Hydrogen and Fuel Cells 1 (1), 1-20, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6834516918606996199",
+            "cites_id": [
+                "6834516918606996199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid energy fuel cell based system for household applications in a Mediterranean climate",
+                "pub_year": "2015",
+                "citation": "Energy Conversion and Management 105, 1037-1045, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18133119990134885026",
+            "cites_id": [
+                "18133119990134885026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HYDRIDE4MOBILITY: an EU HORIZON 2020 project on hydrogen powered fuel cell utility vehicles using metal hydrides in hydrogen storage and refuelling systems",
+                "pub_year": "2021",
+                "citation": "international journal of hydrogen energy 46 (72), 35896-35909, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:J_g5lzvAfSwC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9829170602328506922",
+            "cites_id": [
+                "9829170602328506922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal management of edge-cooled 1 kW portable proton exchange membrane fuel cell stack",
+                "pub_year": "2020",
+                "citation": "Applied Energy 257, 114038, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6029199747384541641",
+            "cites_id": [
+                "6029199747384541641"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational fluid dynamics study of PEM fuel cell performance for isothermal and non-uniform temperature boundary conditions",
+                "pub_year": "2016",
+                "citation": "International Journal of Hydrogen Energy 41 (39), 17585-17594, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1396231010766323096",
+            "cites_id": [
+                "1396231010766323096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen refuelling station with integrated metal hydride compressor: layout features and experience of three-year operation",
+                "pub_year": "2020",
+                "citation": "International Journal of Hydrogen Energy 45 (8), 5415-5429, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1854183538305677182",
+            "cites_id": [
+                "1854183538305677182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201cDistributed hybrid\u201d MH\u2013CGH2 system for hydrogen storage and its supply to LT PEMFC power modules",
+                "pub_year": "2015",
+                "citation": "Journal of Alloys and Compounds 645, S329-S333, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8318750296710808723",
+            "cites_id": [
+                "8318750296710808723"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing heat exchanger with spatially variable surface area for passive cooling of PEM fuel cell",
+                "pub_year": "2013",
+                "citation": "Applied thermal engineering 51 (1-2), 1339-1344, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2694251045967529363",
+            "cites_id": [
+                "2694251045967529363"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental validation of variable temperature flow field concept for proton exchange membrane fuel cells",
+                "pub_year": "2017",
+                "citation": "International Journal of Hydrogen Energy 42 (41), 26084-26093, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:4DMP91E08xMC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11120347994552172419",
+            "cites_id": [
+                "11120347994552172419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a portable polymer electrolyte membrane fuel cell system using metal hydride as the hydrogen storage medium",
+                "pub_year": "2016",
+                "citation": "ECS Transactions 75 (14), 553, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:_kc_bZDykSQC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7344619057025935522",
+            "cites_id": [
+                "7344619057025935522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of combined two-tank latent and metal hydrides-based thermochemical heat storage systems for high-temperature waste heat recovery",
+                "pub_year": "2020",
+                "citation": "Energies 13 (16), 4216, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:ns9cj8rnVeAC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8559158525836488070",
+            "cites_id": [
+                "8559158525836488070"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The impact of active and passive thermal management on the energy storage efficiency of metal hydride pairs based heat storage",
+                "pub_year": "2021",
+                "citation": "Energies 14 (11), 3006, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:RYcK_YlVTxYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7457975232468862829",
+            "cites_id": [
+                "7457975232468862829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control strategy of a fuel-cell power module for electric forklift",
+                "pub_year": "2021",
+                "citation": "International Journal of Hydrogen Energy 46 (72), 35938-35948, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:NaGl4SEjCO4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9770175258873016509",
+            "cites_id": [
+                "9770175258873016509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Investigation of the Composition of the Flow in and out of a Two-stroke Diesel engine and Air Consumption Ratio",
+                "pub_year": "2017",
+                "citation": "Energies 10 (6), 805, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17020218355600158399",
+            "cites_id": [
+                "17020218355600158399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen storage and supply system integrated with fuel cell power pack",
+                "pub_year": "2014",
+                "citation": "Patent ZA2014/08640, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5466704203531991893",
+            "cites_id": [
+                "5466704203531991893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal behavior of an air cooled PEM fuel cell stack",
+                "pub_year": "2008",
+                "citation": "ECS Transactions 16 (2), 535, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14799353182511291389",
+            "cites_id": [
+                "14799353182511291389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proton-Exchange Membrane Fuel Cell Balance of Plant and Performance Simulation for Vehicle Applications",
+                "pub_year": "2022",
+                "citation": "Energies 15 (21), 8110, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:2P1L_qKh6hAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4596976759202669433",
+            "cites_id": [
+                "4596976759202669433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dehydrogenation of metal hydride reactor-phase change materials coupled with light-duty fuel cell vehicles",
+                "pub_year": "2022",
+                "citation": "Energies 15 (9), 2982, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:lSLTfruPkqcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18377373332873183204",
+            "cites_id": [
+                "18377373332873183204"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid wind-power-distillation plant",
+                "pub_year": "2012",
+                "citation": "Thermal Science 16 (1), 251-261, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10937743986548614320",
+            "cites_id": [
+                "10937743986548614320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid wind-power-distillation plant",
+                "pub_year": "2012",
+                "citation": "Thermal Science 16 (1), 251-261, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10937743986548614320",
+            "cites_id": [
+                "10937743986548614320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal hydride hydrogen storage arrangement for use in a fuel cell utility vehicle and method of manufacturing the same",
+                "pub_year": "2023",
+                "citation": "US Patent 11,611,092, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:-f6ydRqryjwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10940690823874904710",
+            "cites_id": [
+                "10940690823874904710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control strategy of Fuel cell-Battery hybrid system for optimizing Lift truck load cycle",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:RGFaLdJalmkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14732097035396154308",
+            "cites_id": [
+                "14732097035396154308"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining desired temperature and relative humidity throughout a fuel cell",
+                "pub_year": "2011",
+                "citation": "ECS Transactions 41 (1), 1879, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10923020314264061805",
+            "cites_id": [
+                "10923020314264061805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal Hydride Hydrogen Storage and Supply Systems for Electric Forklift with LT PEMFC Power Module",
+                "citation": "Proceedings of the 10th Conference on Sustainable Development of Energy \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=849478463604391096",
+            "cites_id": [
+                "849478463604391096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heat discharge performance of metal hydride thermal battery under different heat transfer conditions: Experimental findings",
+                "pub_year": "2023",
+                "citation": "Journal of Energy Storage 72, 108353, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:g5m5HwL7SMYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3595798332049561638",
+            "cites_id": [
+                "3595798332049561638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of dynamic performance of PEM fuel cell using a segmented single-cell",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3625185290749347059",
+            "cites_id": [
+                "3625185290749347059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Air Mass Flow and Pressure Optimization of a PEM Fuel Cell Hybrid System for a Forklift Application",
+                "pub_year": "2023",
+                "citation": "Energies 17 (1), 120, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-objective optimization of a metal hydride reactor coupled with phase change materials for fast hydrogen sorption time",
+                "pub_year": "2023",
+                "citation": "Journal of Energy Storage 71, 108089, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of coolant flow field for maintaining the desired temperature profile along the PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel Cell Power Pack with Integrated Metal Hydride Hydrogen Storage for Powering Electric Forklift",
+                "pub_year": "2022",
+                "citation": "Recent Advances in Renewable Energy Systems: Select Proceedings of ICOME \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proton Exchange Membrane Fuel Cell Flow Field Configuration: Modelling and Experimental Verification",
+                "pub_year": "2022",
+                "citation": "ECS Transactions 108 (7), 143, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dehydrogenation of Metal Hydride Reactor-Phase Change Materials Coupled with Light-Duty Fuel Cell Vehicles. Energies 2022, 15, 2982",
+                "pub_year": "2022",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Impact of Active and Passive Thermal Management on the Energy Storage Efficiency of Metal Hydride Pairs Based Heat Storage. Energies 2021, 14, 3006",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gorivni \u010dlanci danas i op\u0107a znanost o pretvorbama energije",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:abG-DnoFyZgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VarrTreat-Thermal Control of Varroa",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EFCF2015\u2013Bringing Fuel Cells & Hydrogen, as Part of our Energy Future, Closer to Deployment",
+                "pub_year": "2016",
+                "citation": "Fuel Cells 16 (4), 405-405, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izbor temperaturnog polja u cilju pobolj\u0161anja radnih zna\u010dajki membranskog gorivnog \u010dlanka",
+                "pub_year": "2012",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temperature field selection in order to improve membrane fuel cell performance",
+                "pub_year": "2012",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative humidity influence on membrane fuel cell performance",
+                "pub_year": "2012",
+                "citation": "3. Dan elektrokemije, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing heat exchanger with variable surface area for passive cooling of PEM fuel cell",
+                "pub_year": "2012",
+                "citation": "Fuel Cells 2012 Science & Technology A Grove Fuel Cell Event, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining Desired Level of Relative Humidity throughout a Fuel Cell with Spatially Variable Heat Transfer Rates",
+                "pub_year": "2010",
+                "citation": "ECS Meeting Abstracts, 723, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LS regulacija rada crpke",
+                "pub_year": "2005",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LS pump regulation",
+                "pub_year": "2005",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Energy Management of a Fuel Cell/Battery Hybrid System for a Forklift Application",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell power module for electric forklift with integrated metal hydride hydrogen storage system",
+                "citation": "MH 7, 14.8, 0"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance simulation of combined two-tank latent and thermochemical heat storage systems for high temperature waste heat recovery",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and testing of the fuel cell power module for 3-ton electric forklift",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SDEWES2014. 0441 Metal Hydride Hydrogen Storage and Supply Systems for Electric Forklift with LT PEMFC Power Module",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Role of Fuel Cells in Energy Independent Buildings",
+                "citation": "Abstract Proceedings 2007 Fuel Cell Seminar and Exposition, 283-283, 0"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and Modeling of PEM Fuel Cell Stack Thermal Behavior During Variable Power Operation",
+                "citation": "Proceedings of the 2nd European Fuel Cell Technology and Applications \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview on HySA Systems' Hydrogen and Fuel Cell Vehicle Prototypes",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XnuRgY8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zVHEIUcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mykhaylo Lototskyy",
+            "affiliation": "University of the Western Cape"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cilw8V8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Frano Barbir",
+            "affiliation": "Professor of Thermodynamics, FESB University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tNepQAIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sivakumar Pasupathi",
+            "affiliation": "HySA Systems, University of the Western Cape"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "q9y11uAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bruno G. Pollet",
+            "affiliation": "Professor of Chemistry, Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q3TJLGwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Serge Nyallang Nyamsi",
+            "affiliation": "Postdoc, University of Western Cape"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dQNZ2nQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gojmir Radica",
+            "affiliation": "Professor, University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sci4SeAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Volodymyr Yartys, Prof. Dr.",
+            "affiliation": "Professor of mater.sci. and hydrogen technol., Inst. for Energy Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1nh1ygcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "B. Satya Sekhar",
+            "affiliation": "IIT Jammu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WMOGHQsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Agis Papadopoulos",
+            "affiliation": "Professor, Aristotle University of Thessaloniki"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BtHI3X8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sandro Ni\u017eeti\u0107",
+            "affiliation": "University of Split, FESB, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zcUHjeEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ting-Chu Jao",
+            "affiliation": "De Nora Permelec Ltd"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Kc0LuHwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Branko Klarin",
+            "affiliation": "UNIST-FESB"
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "name": "Betti Tihomir",
+    "num_citations": 103,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "General theoretical considerations on nanowire solar cell designs",
+                "pub_year": "2009",
+                "citation": "physica status solidi (a) 206 (1), 173-178, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=264370862907771948",
+            "cites_id": [
+                "264370862907771948"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design considerations of the multi-resonant converter as a constant current source for electrolyser utilisation",
+                "pub_year": "2019",
+                "citation": "International Journal of Electrical Power & Energy Systems 111, 237-247, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2216215718557496080",
+            "cites_id": [
+                "2216215718557496080"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison of models for estimating solar radiation from sunshine duration in Croatia",
+                "pub_year": "2020",
+                "citation": "International Journal of Photoenergy 2020, 1-14, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2528055851994398655",
+            "cites_id": [
+                "2528055851994398655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nano Si Superlattices for the Next Generation Solar Cells",
+                "pub_year": "2009",
+                "citation": "Journal of Nanoscience and Nanotechnology 9 (6), 3853-3857, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3923519350750720363",
+            "cites_id": [
+                "3923519350750720363"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling a nanowire grid for light-sensing applications",
+                "pub_year": "2012",
+                "citation": "Journal of Physics D: Applied Physics 45 (21), 215103, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15293726305076973234",
+            "cites_id": [
+                "15293726305076973234"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel dynamic model of a photovoltaic module",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14378952956072415110",
+            "cites_id": [
+                "14378952956072415110"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new approach to comparing photovoltaic simulation software",
+                "pub_year": "2023",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 45 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13664095702962660307",
+            "cites_id": [
+                "13664095702962660307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extraction of PV module electrical parameters based on the single diode and double diode model of a PV cell",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7940182424060586476",
+            "cites_id": [
+                "7940182424060586476"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Filter implementation as a means to enhance electromagnetic compatibility in chargers",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Power Point Tracking Algorithms",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determining series resistance of the photovoltaic module",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating the performance of photovoltaic simulation tools: case study of grid-connected 31 kWp photovoltaic system",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resistance fluctuations in GaAs nanowire grids",
+                "pub_year": "2014",
+                "citation": "Journal of Nanomaterials 2014, 79-79, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating series resistance of amorphous silicon solar cells using one diode model with variable diode ideality factor",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hGM-yo4AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

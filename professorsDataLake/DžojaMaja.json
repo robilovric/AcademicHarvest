@@ -1,0 +1,139 @@
+{
+    "name": "D\u017eoja Maja",
+    "num_citations": 21,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling the plastic anisotropy evolution of AA5754-H22 sheet and implementation in predicting cylindrical cup drawing process",
+                "pub_year": "2019",
+                "citation": "European Journal of Mechanics-A/Solids, 103806, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10070186337385422351",
+            "cites_id": [
+                "10070186337385422351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic Formulations of Evolutionary Anisotropic Plasticity Models Based on Non-Associated Flow Rule",
+                "pub_year": "2017",
+                "citation": "Latin American Journal of Solids and Structures 14 (10), 1853-1871, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12488969801691773025",
+            "cites_id": [
+                "12488969801691773025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of accuracy for evolutionary anisotropic plasticity models",
+                "pub_year": "2016",
+                "citation": "Engineering Review: Me\u0111unarodni \u010dasopis namijenjen publiciranju originalnih \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12644705205594437392",
+            "cites_id": [
+                "12644705205594437392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of simple and full approach for non-associated formulation based on Karafillis-Boyce stress function",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter identification for anisotropic Yld2000-2d stress function under non-associated flow rule",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical and numerical simulations of cylindrical cup deep drawing for DC06 sheet sample",
+                "pub_year": "2018",
+                "citation": "CIET 2018, CONTEMPORARY ISSUES IN ECONOMY & TECHNOLOGY, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of full and simple approach under non-associated flow rule for an evolutionary anisotropic model",
+                "pub_year": "2018",
+                "citation": "9th International Congress of Croatian Society of Mechanics, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparisson of material models in predicting in-plane anisotropy of aluminum alloy 5754-H22 sheet",
+                "pub_year": "2017",
+                "citation": "Osmi susret Hrvatskog dru\u0161tva za mehaniku, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element nonlinear analysis of four-node quadrilateral element using updated Lagrangian formulation",
+                "pub_year": "2016",
+                "citation": "Sedmi susret Hrvatskog dru\u0161tva za mehaniku, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic formulation for evolutionary anisotropic plasticity model for sheet metals",
+                "pub_year": "2015",
+                "citation": "8th International Congress of Croatian Society of Mechanics, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UX798DsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

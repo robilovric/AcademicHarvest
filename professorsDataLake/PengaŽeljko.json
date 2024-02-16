@@ -1,0 +1,871 @@
+{
+    "name": "Penga \u017deljko",
+    "num_citations": 367,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and experimental analysis of liquid water distribution in PEM fuel cells",
+                "pub_year": "2019",
+                "citation": "Energy Conversion and Management 189, 167-183, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=209228097934185057",
+            "cites_id": [
+                "209228097934185057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution to the research of an alternative energy concept for carbon free electricity production: Concept of solar power plant with short diffuser",
+                "pub_year": "2017",
+                "citation": "Energy Conversion and Management 148, 533-553, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:UebtZRa9Y70C",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11365705738883784476",
+            "cites_id": [
+                "11365705738883784476"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal management of edge-cooled 1 kW portable proton exchange membrane fuel cell stack",
+                "pub_year": "2020",
+                "citation": "Applied Energy 257, 114038, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6029199747384541641",
+            "cites_id": [
+                "6029199747384541641"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A segmented fuel cell unit with functionally graded distributions of platinum loading and operating temperature",
+                "pub_year": "2021",
+                "citation": "Chemical Engineering Journal 406, 126889, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3008116794353654172",
+            "cites_id": [
+                "3008116794353654172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar plant with short diffuser concept: Further improvement of numerical model by included influence of guide vane topology on shape and stability of gravitational vortex",
+                "pub_year": "2019",
+                "citation": "Journal of cleaner production 212, 353-361, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10012581074853455763",
+            "cites_id": [
+                "10012581074853455763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational fluid dynamics study of PEM fuel cell performance for isothermal and non-uniform temperature boundary conditions",
+                "pub_year": "2016",
+                "citation": "International Journal of Hydrogen Energy 41 (39), 17585-17594, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1396231010766323096",
+            "cites_id": [
+                "1396231010766323096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel flow field with controllable pressure gradient to enhance mass transport and water removal of PEM fuel cells",
+                "pub_year": "2020",
+                "citation": "AIChE Journal 66 (6), e16957, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6740543695641619826",
+            "cites_id": [
+                "6740543695641619826"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental validation of variable temperature flow field concept for proton exchange membrane fuel cells",
+                "pub_year": "2017",
+                "citation": "International Journal of Hydrogen Energy 42 (41), 26084-26093, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11120347994552172419",
+            "cites_id": [
+                "11120347994552172419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coolant induced variable temperature flow field for improved performance of proton exchange membrane fuel cells",
+                "pub_year": "2019",
+                "citation": "International Journal of Hydrogen Energy 44 (20), 10102-10119, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9823865169096903109",
+            "cites_id": [
+                "9823865169096903109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time capable transient model of liquid water dynamics in proton exchange membrane Fuel Cells",
+                "pub_year": "2022",
+                "citation": "Journal of Power Sources 541, 231598, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082173206815938319",
+            "cites_id": [
+                "6082173206815938319"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis and experimental validation of heat transfer during solidification of phase change material in a large domain",
+                "pub_year": "2020",
+                "citation": "Journal of Energy Storage 30, 101543, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:5nxA0vEk-isC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17790062452316595716",
+            "cites_id": [
+                "17790062452316595716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement of proton\u2010exchange membrane fuel cell performance through a novel flow field design with auxiliary channels and a hole array",
+                "pub_year": "2022",
+                "citation": "AIChE Journal 68 (2), e17461, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14974640439610843079",
+            "cites_id": [
+                "14974640439610843079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Degradation mechanisms in automotive fuel cell systems",
+                "pub_year": "2017",
+                "citation": "Fuel Cells and Hydrogen Joint Undertaking: Brussels, Belgium, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10442305677186764685",
+            "cites_id": [
+                "10442305677186764685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining baffles and secondary porous layers for performance enhancement of proton exchange membrane fuel cells",
+                "pub_year": "2021",
+                "citation": "Energies 14 (12), 3675, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10033794483117643648",
+            "cites_id": [
+                "10033794483117643648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvement of under\u2010the\u2010rib oxygen concentration and water removal in proton exchange membrane fuel cells through three\u2010dimensional metal printed novel flow fields",
+                "pub_year": "2022",
+                "citation": "AIChE Journal 68 (9), e17758, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13821719117055056022",
+            "cites_id": [
+                "13821719117055056022"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic overview of newly available technologies in the green maritime sector",
+                "pub_year": "2023",
+                "citation": "Energies 16 (2), 641, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14939774256903113990",
+            "cites_id": [
+                "14939774256903113990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation-assisted determination of the start-up time of a polymer electrolyte fuel cell",
+                "pub_year": "2021",
+                "citation": "Energies 14 (23), 7929, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4725927368430813824",
+            "cites_id": [
+                "4725927368430813824"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zeolite NaX Mass and Propeller Agitator Speed Impact on Copper Ions Sorption",
+                "pub_year": "2023",
+                "citation": "Processes 11 (1), 264, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3934335576133793693",
+            "cites_id": [
+                "3934335576133793693"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Tortuosity Engineered Dual-Microporous Layer Electrode Including Graphene Aerogel Enabling Largely Improved Direct Methanol Fuel Cell Performance with High-Concentration Fuel",
+                "pub_year": "2022",
+                "citation": "Energies 15 (24), 9388, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:4DMP91E08xMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13420646235062904037",
+            "cites_id": [
+                "13420646235062904037"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of turbine impeller blade inclination on the batch sorption process",
+                "pub_year": "2022",
+                "citation": "Results in Engineering 16, 100554, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11806532042173419573",
+            "cites_id": [
+                "11806532042173419573"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational fluid dynamics analysis of water spray cooling for photovoltaic panels",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8430801097929544858",
+            "cites_id": [
+                "8430801097929544858"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Fluid Dynamics study of the influence of number of channels on the performance of full-scale PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14923470820525933869",
+            "cites_id": [
+                "14923470820525933869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connection of Hydrodynamics and Nucleation Kinetics in Dual\u2010Impeller Crystallizers",
+                "pub_year": "2021",
+                "citation": "Chemical Engineering & Technology 44 (6), 1033-1042, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8439704617111142792",
+            "cites_id": [
+                "8439704617111142792"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of dynamic performance of PEM fuel cell using a segmented single-cell",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3625185290749347059",
+            "cites_id": [
+                "3625185290749347059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Hybrid Ship Machinery System with Proton Exchange Membrane Fuel Cells and Battery Pack",
+                "pub_year": "2024",
+                "citation": "Preprints, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of coolant flow field for maintaining the desired temperature profile along the PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Upscaling along-the-channel model to full-scale flow field for impoved performance of PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic Overview of Newly Available Technologies in the Green Maritime Sector. Energies 2023, 16, 641",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of the Hydrogen Mass Fraction Distribution in a Polymer Electrolyte Fuel Cell through Experimentally Validated Simulation",
+                "pub_year": "2022",
+                "citation": "Electrochemical Society Meeting Abstracts 241, 1646-1646, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proton Exchange Membrane Fuel Cell Flow Field Configuration: Modelling and Experimental Verification",
+                "pub_year": "2022",
+                "citation": "ECS Transactions 108 (7), 143, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining Baffles and Secondary Porous Layers for Performance Enhancement of Proton Exchange Membrane Fuel Cells. Energies 2021, 14, 3675",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Fluid Dynamics Analysis and Experimental Validation of Propeller Flow",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local Temperature Estimation in PEM Fuel Cell",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational fluid dynamics analysis and design exploration of water-cooled photovoltaics subjected to various operating conditions",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmented Fuel Cell for Verification of Variable Temperature Flow Field Concept",
+                "pub_year": "2017",
+                "citation": "Electrochemical Society Meeting Abstracts 232, 1459-1459, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmented PEM fuel cell for verification of the variable temperature flow field concept",
+                "pub_year": "2017",
+                "citation": "Book of Abstracts, 58, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water Balance in Non-Humidified PEM Fuel Cell with Different Membrane Thicknesses",
+                "pub_year": "2016",
+                "citation": "Electrochemical Society Meeting Abstracts 230, 2559-2559, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Istra\u017eivanje i razvoj plutaju\u0107ih ledenih platformi",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Simulation of Fan Flow",
+                "pub_year": "2015",
+                "citation": "8th International Conference of the Croatian Society of Mechanics, ICCSM 2015, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numeri\u010dka analiza strujanja, optimizacija i tehnologija izrade kola ventilatora od kompozitnog materijala",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking the process at PEM fuel cell cathode in hx diagram",
+                "citation": "Interklima 2017 24th International Symposium on Heating, Refirgerating and \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WATER AND HEAT MANAGEMENT FOR IMPROVED PERFORMANCE OF PROTON EXCHANGE MEMBRANE FUEL CELLS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variable temperature flow field for proton exchange membrane fuel cells",
+                "citation": "Proceedings World Hydrogen Energy Conference, WHEC 2016, 518, 0"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPUTATIONAL FLUID DYNAMICS MODEL OF HIGH PERFORMANCE PROTON EXCHANGE MEMBRANE FUEL CELL WITHOUT EXTERNAL HUMIDIFICATION",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking the processes at PEM fuel cell anode and cathode in hx diagram",
+                "citation": "IEEES-9 Book of Abstracts, 223, 0"
+            },
+            "filled": false,
+            "author_pub_id": "AoXsIi0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cilw8V8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Frano Barbir",
+            "affiliation": "Professor of Thermodynamics, FESB University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BtHI3X8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sandro Ni\u017eeti\u0107",
+            "affiliation": "University of Split, FESB, Croatia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dQNZ2nQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gojmir Radica",
+            "affiliation": "Professor, University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mua8iv0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lei Xing (PhD, MIChemE)",
+            "affiliation": "Department of Chemical and Process Engineering - University of Surrey"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XnuRgY8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Tolj",
+            "affiliation": "FESB, University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uDq2lToAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Qian Xu",
+            "affiliation": "Professor, Jiangsu University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OzHs_ZIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Huaneng Su (\u82cf\u534e\u80fd)",
+            "affiliation": "Jiangsu University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Fs4cBdUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Muslum Arici",
+            "affiliation": "Kocaeli University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0nuAPVAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Pivac",
+            "affiliation": "Assistant Professor, FESB University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5d4opqcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jin Xuan",
+            "affiliation": "Professor, University of Surrey"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "acZm-jMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Viktor Hacker",
+            "affiliation": "Graz University of Technology, Chemical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SuQgJvYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luka Mihanovi\u0107",
+            "affiliation": "voditelj studija Vojno pomorstvo, sveu\u010dili\u0161ta u Splitu i Hrvatskog vojnog u\u010dili\u0161ta"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DAWJHDMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mi\u0161o Jur\u010devi\u0107",
+            "affiliation": "University of Split  Faculty of Electrical Engineering, Mechanical Engineering and Naval \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ffyc578AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tino Vidovi\u0107",
+            "affiliation": "Research assistant, Faculty of Electrical Engineering, Mechanical Engineering and Naval \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VmxfOGEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sandra Svilovi\u0107",
+            "affiliation": "Kemijsko-tehnolo\u0161ki fakultet, University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RET9afAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anita Ba\u0161i\u0107",
+            "affiliation": "PhD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3jTs3x8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Merit Bodner",
+            "affiliation": "Graz University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mIqmGGsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nenad Kuzmanic",
+            "affiliation": "Sveu\u010dili\u0161te u Splitu, Kemijsko-tehnolo\u0161ki fakultet"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bgl4Wu0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jakov \u0160imunovi\u0107",
+            "affiliation": "FESB, Sveu\u010dili\u0161te u Splitu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wbak6wgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andra\u017e Kravos",
+            "affiliation": "PostDoc and PhD teaching assistant, University of Ljubljana, FME, LICeM, Slovenia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Kc0LuHwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Branko Klarin",
+            "affiliation": "UNIST-FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "L4hYPFAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ambro\u017e Kregar",
+            "affiliation": "Laboratory for Internal Combustion Engines and Electromobility, Faculty of Mechanical \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jTOLgmwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tomaz Katrasnik",
+            "affiliation": "Full Professor of Mechanical Engineering, University of Ljubljana"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "n2Lm7foAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Chao Chen",
+            "affiliation": "University of Cambridge"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Qox2e0oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mario Nikola Mu\u017eek",
+            "affiliation": "Sveu\u010dili\u0161te u Splitu, Kemijsko-tehnolo\u0161ki fakultet"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AFOBYjcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonija Ka\u0107uni\u0107 \u010celan",
+            "affiliation": "University of Split, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ek5l2-cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marija \u0106osi\u0107",
+            "affiliation": "assoc. prof., Faculty of Chemistry and Technology, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-SpePqYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petar Bosnic",
+            "affiliation": "PhD Research Fellow at University of South-Eastern Norway"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mMq2-9UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maro Jeli\u0107",
+            "affiliation": "University of Dubrovnik, Marine department"
+        }
+    ]
+}

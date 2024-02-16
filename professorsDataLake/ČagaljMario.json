@@ -1,0 +1,803 @@
+{
+    "name": "\u010cagalj Mario",
+    "num_citations": 3649,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimum-energy broadcast in all-wireless networks: NP-completeness and distribution issues",
+                "pub_year": "2002",
+                "citation": "Proceedings of the 8th annual international conference on Mobile computing \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 686,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3318738521635035261",
+            "cites_id": [
+                "3318738521635035261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On selfish behavior in CSMA/CA networks",
+                "pub_year": "2005",
+                "citation": "Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 434,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12768392909065057092",
+            "cites_id": [
+                "12768392909065057092"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jamming-resistant key establishment using uncoordinated frequency hopping",
+                "pub_year": "2008",
+                "citation": "2008 IEEE Symposium on Security and Privacy (sp 2008), 64-78, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:qUcmZB5y_30C",
+            "num_citations": 371,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9586658544305933490",
+            "cites_id": [
+                "9586658544305933490"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wormhole-based antijamming techniques in sensor networks",
+                "pub_year": "2006",
+                "citation": "IEEE transactions on Mobile Computing 6 (1), 100-114, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 306,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13000533218980989029",
+            "cites_id": [
+                "13000533218980989029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Key agreement in peer-to-peer wireless networks",
+                "pub_year": "2006",
+                "citation": "Proceedings of the IEEE 94 (2), 467-478, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 263,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=568435914732580305",
+            "cites_id": [
+                "568435914732580305"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Securing localization with hidden and mobile base stations",
+                "pub_year": "2006",
+                "citation": "25th IEEE International Conference on Computer Communications, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 225,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2165837895958848086",
+            "cites_id": [
+                "2165837895958848086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-cooperative multi-radio channel allocation in wireless networks",
+                "pub_year": "2007",
+                "citation": "IEEE INFOCOM 2007-26th IEEE International Conference on Computer \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 223,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12317578458464363862",
+            "cites_id": [
+                "12317578458464363862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Secure location verification with hidden and mobile base stations",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on Mobile Computing 7 (4), 470-483, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 177,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6532263701888043537",
+            "cites_id": [
+                "6532263701888043537"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrity regions: authentication through presence in wireless networks",
+                "pub_year": "2006",
+                "citation": "Proceedings of the 5th ACM workshop on Wireless security, 1-10, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:HDshCWvjkbEC",
+            "num_citations": 92,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6314267674379130407",
+            "cites_id": [
+                "6314267674379130407"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient MAC in cognitive radio systems: A game-theoretic approach",
+                "pub_year": "2009",
+                "citation": "IEEE Transactions on wireless Communications 8 (4), 1984-1995, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:TFP_iSt0sucC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16204844360373529442",
+            "cites_id": [
+                "16204844360373529442"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On cheating in CSMA/CA ad hoc networks",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=72129075548894419",
+            "cites_id": [
+                "72129075548894419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Secnav: secure broadcast localization and time synchronization in wireless networks",
+                "pub_year": "2007",
+                "citation": "Proceedings of the 13th annual ACM international conference on Mobile \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3886038196394564856",
+            "cites_id": [
+                "3886038196394564856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SSSL: shoulder surfing safe login",
+                "pub_year": "2010",
+                "citation": "Journal of Communications Software and Systems 6 (2), 65-73, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5800053909557688703",
+            "cites_id": [
+                "5800053909557688703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrity codes: Message integrity protection and authentication over insecure channels",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on Dependable and Secure Computing 5 (4), 208-223, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=384204962967875483",
+            "cites_id": [
+                "384204962967875483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy-efficient broadcasting in all-wireless networks",
+                "pub_year": "2005",
+                "citation": "Wireless Networks 11, 177-188, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6726000659954842818",
+            "cites_id": [
+                "6726000659954842818"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrity (I) codes: Message integrity protection and authentication over insecure channels",
+                "pub_year": "2006",
+                "citation": "2006 IEEE Symposium on Security and Privacy (S&P'06), 15 pp.-294, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14451450104881881794",
+            "cites_id": [
+                "14451450104881881794"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shoulder-Surfing Safe Login in a Partially Observable Attacker Model: (Short Paper)",
+                "pub_year": "2010",
+                "citation": "Financial Cryptography and Data Security: 14th International Conference, FC \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7461380332147499452,16896981709395030598",
+            "cites_id": [
+                "7461380332147499452",
+                "16896981709395030598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Secure initialization of multiple constrained wireless devices for an unaided user",
+                "pub_year": "2012",
+                "citation": "IEEE transactions on mobile computing 11 (02), 337-351, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8335031175121342025",
+            "cites_id": [
+                "8335031175121342025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Breaking undercover: Exploiting design flaws and nonuniform human behavior",
+                "pub_year": "2011",
+                "citation": "Proceedings of the Seventh Symposium on Usable Privacy and Security, 1-15, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:dhFuZR0502QC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8694506831410549704",
+            "cites_id": [
+                "8694506831410549704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Border games in cellular networks",
+                "pub_year": "2007",
+                "citation": "IEEE INFOCOM 2007-26th IEEE International Conference on Computer \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5884928852571295687",
+            "cites_id": [
+                "5884928852571295687"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Timing attacks on cognitive authentication schemes",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Information Forensics and Security 10 (3), 584-596, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2226942976073603767",
+            "cites_id": [
+                "2226942976073603767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Capacity in LoRaWAN networks: Challenges and opportunities",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7033013535194390066",
+            "cites_id": [
+                "7033013535194390066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-radio channel allocation in competitive wireless networks",
+                "pub_year": "2006",
+                "citation": "26th IEEE International Conference on Distributed Computing Systems \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4613162883927070214",
+            "cites_id": [
+                "4613162883927070214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting low-cost gas sensor readings from transients using long short-term memory neural networks",
+                "pub_year": "2020",
+                "citation": "IEEE Internet of Things Journal 7 (9), 8451-8461, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:Se3iqnhoufwC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4750407878930239998",
+            "cites_id": [
+                "4750407878930239998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LIRA: A new key deployment scheme for Wireless Body Area Networks",
+                "pub_year": "2013",
+                "citation": "2013 21st International Conference on Software, Telecommunications and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6088019899508132803",
+            "cites_id": [
+                "6088019899508132803"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards reliable IoT: Testing lora communication",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1969808095295684663",
+            "cites_id": [
+                "1969808095295684663"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flashing displays: user\u2010friendly solution for bootstrapping secure associations between multiple constrained wireless devices",
+                "pub_year": "2016",
+                "citation": "Security and Communication Networks 9 (10), 1050-1071, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8078590779966743465",
+            "cites_id": [
+                "8078590779966743465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LISA: Visible light based initialization and SMS based authentication of constrained IoT devices",
+                "pub_year": "2019",
+                "citation": "Future Generation Computer Systems 97, 105-118, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10384510072407724803",
+            "cites_id": [
+                "10384510072407724803"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blinkcomm: Initialization of iot devices using visible light communication",
+                "pub_year": "2018",
+                "citation": "Wireless Communications and Mobile Computing 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1233980658340316498",
+            "cites_id": [
+                "1233980658340316498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Location privacy and changes in wifi probe request based connection protocols usage through years",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=503982275010182450",
+            "cites_id": [
+                "503982275010182450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SSID oracle attack on undisclosed Wi-Fi preferred network lists",
+                "pub_year": "2018",
+                "citation": "Wireless Communications and Mobile Computing 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3649941849927231244",
+            "cites_id": [
+                "3649941849927231244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fortune cookies and smartphones: Weakly unrelayable channels to counter relay attacks",
+                "pub_year": "2015",
+                "citation": "Pervasive and Mobile Computing 20, 64-81, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1828158574228755857",
+            "cites_id": [
+                "1828158574228755857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multichannel protocols for user-friendly and scalable initialization of sensor networks",
+                "pub_year": "2009",
+                "citation": "Security and Privacy in Communication Networks: 5th International ICST \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4860054514803581409",
+            "cites_id": [
+                "4860054514803581409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Key agreement over a radio link",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:0EnyYjriUFMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5436576455159916022",
+            "cites_id": [
+                "5436576455159916022"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyses of ping-pong handovers in real 4G telecommunication networks",
+                "pub_year": "2023",
+                "citation": "Computer Networks 227, 109699, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15062684239532275778",
+            "cites_id": [
+                "15062684239532275778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the usability of secure association of wireless devices based on distance bounding",
+                "pub_year": "2009",
+                "citation": "Cryptology and Network Security: 8th International Conference, CANS 2009 \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=606659117054000826",
+            "cites_id": [
+                "606659117054000826"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "eMoorings: Distributed low power wide area system to control moorings",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2717638164043111422",
+            "cites_id": [
+                "2717638164043111422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small coalitions: Lightweight collaboration for efficient p2p downloads",
+                "pub_year": "2009",
+                "citation": "2009 Eighth IEEE International Symposium on Network Computing and \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12977742058886868863",
+            "cites_id": [
+                "12977742058886868863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic monitoring frequency for energy-efficient data collection in Internet of Things",
+                "pub_year": "2022",
+                "citation": "Journal of Computational Science 64, 101842, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17979278165125304896",
+            "cites_id": [
+                "17979278165125304896"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards linking social media profiles with user\u2019s WiFi preferred network list",
+                "pub_year": "2020",
+                "citation": "Ad Hoc Networks 107, 102244, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6138004013805173458",
+            "cites_id": [
+                "6138004013805173458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thwarting selfish and malicious behavior in wireless networks",
+                "pub_year": "2006",
+                "citation": "EPFL, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:4DMP91E08xMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7267326725026264904",
+            "cites_id": [
+                "7267326725026264904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On wpa2-enterprise privacy in high education and science",
+                "pub_year": "2020",
+                "citation": "Security and Communication Networks 2020, 1-11, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9034684467865196814",
+            "cites_id": [
+                "9034684467865196814"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hands-on exercises: Ieee 802.11 b standard",
+                "pub_year": "2004",
+                "citation": "Laboratory for computer Communications and Applications (EPFL-I&C-LCA), 2004"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9180616558496826041",
+            "cites_id": [
+                "9180616558496826041"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cloud-inclusive Aerial Imagery based on Commercial Flights as Remote Sensing Platform",
+                "pub_year": "2023",
+                "citation": "Journal of Communications Software and Systems 19 (4), 264-277, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lost in data: recognizing type of time series sensor data using signal pattern classification",
+                "pub_year": "2023",
+                "citation": "International Journal of Data Science and Analytics, 1-12, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing Decision Tree Attack on CAS Scheme",
+                "pub_year": "2016",
+                "citation": "Advances in Electrical and Computer Engineering 16 (2), 69-75, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small is Beautiful: The Power of Small Coalitions in Peer-to-Peer File Sharing Networks",
+                "pub_year": "2007",
+                "citation": "Technical report 566, 1-9, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-cooperative Multi-radio Channel Allocation in Wireless Networks (Extended Version)",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hands-on exercises: IEEE 802.11 b standard",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LCA-EPFL",
+                "pub_year": "2002",
+                "citation": "MOBICOM...: Proceedings of the... Annual International Conference on Mobile \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wireless Sensor Networks: Communication Mechanisms for Power-Aware Data Dissemination",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small Coalitions in Cognitive Radio Networks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y3F7cwIAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

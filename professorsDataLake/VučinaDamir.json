@@ -1,0 +1,1482 @@
+{
+    "name": "Vu\u010dina Damir",
+    "num_citations": 597,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical models for robust shape optimization of wind turbine blades",
+                "pub_year": "2016",
+                "citation": "Renewable Energy 87, 849-862, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:yD5IFk8b50cC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16981111958626900606",
+            "cites_id": [
+                "16981111958626900606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An application of graph theory and nonlinear programming to the kinematic synthesis of mechanisms",
+                "pub_year": "1991",
+                "citation": "Mechanism and machine theory 26 (6), 553-563, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:iH-uZ7U-co4C",
+            "num_citations": 57,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9379065997998577903",
+            "cites_id": [
+                "9379065997998577903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concept of flexible vertical-axis wind turbine with numerical simulation and shape optimization",
+                "pub_year": "2019",
+                "citation": "Energy 167, 841-852, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:uWQEDVKXjbEC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15231661327269052504",
+            "cites_id": [
+                "15231661327269052504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical workflow for 3D shape optimization and synthesis of vertical-axis wind turbines for specified operating regimes",
+                "pub_year": "2018",
+                "citation": "Renewable energy 115, 113-127, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:a0OBvERweLwC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16655433528595581767",
+            "cites_id": [
+                "16655433528595581767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational analysis of Savonius wind turbine modifications including novel scooplet-based design attained via smart numerical optimization",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 262, 121310, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:tS2w5q8j5-wC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17064446252936498068",
+            "cites_id": [
+                "17064446252936498068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global optimization of Savonius-type vertical axis wind turbine with multiple circular-arc blades using validated 3D CFD model",
+                "pub_year": "2022",
+                "citation": "Energy 241, 122841, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7159564427627454249",
+            "cites_id": [
+                "7159564427627454249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient shape parameterization method for multidisciplinary global optimization and application to integrated ship hull shape optimization workflow",
+                "pub_year": "2016",
+                "citation": "Computer-aided design 80, 61-75, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:f2IySw72cVMC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6681042842895234415",
+            "cites_id": [
+                "6681042842895234415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational procedure for optimum shape design based on chained Bezier surfaces parameterization",
+                "pub_year": "2012",
+                "citation": "Engineering Applications of Artificial Intelligence 25 (3), 648-667, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:bEWYMUwI8FkC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6849456213333789649",
+            "cites_id": [
+                "6849456213333789649"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D shape optimization of fan vanes for multiple operating regimes subject to efficiency and noise-related excellence criteria and constraints",
+                "pub_year": "2016",
+                "citation": "Engineering Applications of Computational Fluid Mechanics 10 (1), 209-227, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:D03iK_w7-QYC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11847458181268059659",
+            "cites_id": [
+                "11847458181268059659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of the added mass of the cantilever beam partially submerged in water",
+                "pub_year": "2011",
+                "citation": "Technical Gazette 18 (4), 589-594, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5127072151974622177",
+            "cites_id": [
+                "5127072151974622177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-regime shape optimization of fan vanes for energy conversion efficiency using CFD, 3D optical scanning and parameterization",
+                "pub_year": "2014",
+                "citation": "Engineering Applications of Computational Fluid Mechanics 8 (3), 407-421, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:lSLTfruPkqcC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2939483293428286721",
+            "cites_id": [
+                "2939483293428286721"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NPV-based decision support in multi-objective design using evolutionary algorithms",
+                "pub_year": "2010",
+                "citation": "Engineering Applications of Artificial Intelligence 23 (1), 48-60, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5649500119981297530",
+            "cites_id": [
+                "5649500119981297530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metode in\u017eenjerske numeri\u010dke optimizacije",
+                "pub_year": "2005",
+                "citation": "FESB, Split, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14735535827993469345",
+            "cites_id": [
+                "14735535827993469345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust optimization of Savonius-type wind turbine deflector blades considering wind direction sensitivity and production material decrease",
+                "pub_year": "2022",
+                "citation": "Renewable Energy 192, 150-163, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:J-pR_7NvFogC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5255596417973367255",
+            "cites_id": [
+                "5255596417973367255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D shape acquisition and integral compact representation using optical scanning and enhanced shape parameterization",
+                "pub_year": "2014",
+                "citation": "Advanced Engineering Informatics 28 (2), 111-126, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:-f6ydRqryjwC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14616217504868863413",
+            "cites_id": [
+                "14616217504868863413"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A compact parameterization for shape optimization of aerofoils",
+                "pub_year": "2008",
+                "citation": "Proceedings of the World Congress on Engineering 1, 111-116, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:TFP_iSt0sucC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16889922301131976311",
+            "cites_id": [
+                "16889922301131976311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive re-parameterization based on arbitrary scalar fields for shape optimization and surface fitting",
+                "pub_year": "2018",
+                "citation": "Engineering Applications of Artificial Intelligence 67, 39-51, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=239487522565706749",
+            "cites_id": [
+                "239487522565706749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow formulation FE metal-forming analysis with boundary friction via a penalty function",
+                "pub_year": "1996",
+                "citation": "Journal of materials processing technology 59 (3), 272-277, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6636036649026567025",
+            "cites_id": [
+                "6636036649026567025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel projection of open geometry into rectangular domain for 3D shape parameterization",
+                "pub_year": "2018",
+                "citation": "Integrated Computer-Aided Engineering 25 (1), 1-14, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:P5F9QuxV20EC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=142002136320945937",
+            "cites_id": [
+                "142002136320945937"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superimposed RBF and B-spline parametric surface for reverse engineering applications",
+                "pub_year": "2020",
+                "citation": "Integrated Computer-Aided Engineering 27 (1), 17-35, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:tOudhMTPpwUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3875122883768354098",
+            "cites_id": [
+                "3875122883768354098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced 3D parameterization for integrated shape synthesis by fitting parameter values to point sets",
+                "pub_year": "2017",
+                "citation": "Integrated Computer-Aided Engineering 24 (3), 241-260, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:b0M2c_1WBrUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4411715367203306861",
+            "cites_id": [
+                "4411715367203306861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Test-field for evaluation of laboratory craters using a Crater Shape-based interpolation crater detection algorithm and comparison with Martian and Lunar impact craters",
+                "pub_year": "2012",
+                "citation": "Planetary and Space Science 71 (1), 106-118, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11617472615905104643",
+            "cites_id": [
+                "11617472615905104643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse shape synthesis of the hydropump volute using stereo-photogrammetry, parameterization, and geometric modeling",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:NMxIlDl6LWMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2727072686275181101",
+            "cites_id": [
+                "2727072686275181101"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of 3D shape deviation using feature recognition operating on parameterization control points",
+                "pub_year": "2014",
+                "citation": "Computers in industry 65 (6), 1018-1031, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:RYcK_YlVTxYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2710933067671156481",
+            "cites_id": [
+                "2710933067671156481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image binarization method for markers tracking in extreme light conditions",
+                "pub_year": "2022",
+                "citation": "Integrated Computer-Aided Engineering 29 (2), 175-188, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:1qzjygNMrQYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151918911952017325",
+            "cites_id": [
+                "15151918911952017325"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of 3D tool wear in machining by successive stereophotogrammetry and point cloud processing",
+                "pub_year": "2013",
+                "citation": "Tehni\u010dki Vjesnik\u2013Technical Gazette 20 (3), 449-458, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4059985964490464010",
+            "cites_id": [
+                "4059985964490464010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An implementation of structural change detection procedure based on experimental and numerical model correlation",
+                "pub_year": "2012",
+                "citation": "Journal of sound and vibration 331 (13), 3068-3082, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:hMod-77fHWUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13684245133446550827",
+            "cites_id": [
+                "13684245133446550827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow formulation FE metal forming analysis with boundary friction via penalty function",
+                "pub_year": "1997",
+                "citation": "PROCEEDINGS OF INTERNATIONAL ALUMINIUM EXTRUSION TECHNOLOGY SEMINAR 1, 69-72, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:kRWSkSYxWN8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18108685397857072345",
+            "cites_id": [
+                "18108685397857072345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupled evolutionary shape optimization and reverse engineering in product design and virtual prototyping",
+                "pub_year": "2009",
+                "citation": "constraints 3, 4, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15448514740474784549,7173831185103661140",
+            "cites_id": [
+                "15448514740474784549",
+                "7173831185103661140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary topology optimization using parameterized B-spline surface",
+                "pub_year": "2016",
+                "citation": "VII European Congress on Computational Methods in Applied Sciences and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:pyW8ca7W8N0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2023272591068673456",
+            "cites_id": [
+                "2023272591068673456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model update with the observer/Kalman filter and genetic algorithm approach",
+                "pub_year": "2012",
+                "citation": "Transactions of FAMENA 36 (2), 9-22, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453645268597367501",
+            "cites_id": [
+                "16453645268597367501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ad-hoc cluster and workflow for parallel implementation of initial-stage evolutionary optimum design",
+                "pub_year": "2012",
+                "citation": "Structural and Multidisciplinary Optimization 45, 197-222, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18269822542598860793",
+            "cites_id": [
+                "18269822542598860793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPARISON OF GENETIC AND BEES ALGORITHMS IN THE FINITE ELEMENT MODEL UPDATE.",
+                "pub_year": "2011",
+                "citation": "Transactions of FAMENA 35 (1), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:isC4tDSrTZIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3327677680347834223",
+            "cites_id": [
+                "3327677680347834223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced reverse engineering using genetic-algorithms-based experimental parallel workflow for optimum design",
+                "pub_year": "2011",
+                "citation": "Applications of Evolutionary Computation: EvoApplications 2011: EvoCOMNET \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:5nxA0vEk-isC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4751277703891492742",
+            "cites_id": [
+                "4751277703891492742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse engineering with shape optimization using workflow-based computation and distributed computing",
+                "pub_year": "2009",
+                "citation": "Proceedings of the World Congress on Engineering 1, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:JV2RwH3_ST0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6555538183067807897",
+            "cites_id": [
+                "6555538183067807897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metode in\u017eenjerske numeri\u010dke optimizacije: s primjerima primjene u programskom jeziku C i MATLAB",
+                "pub_year": "2005",
+                "citation": "Split, Fakultet elektrotehnike, strojarstva i brodogradnje, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:ye4kPcJQO24C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10904573967737714721",
+            "cites_id": [
+                "10904573967737714721"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM simulation of plastic flow with boundary friction and strain history",
+                "pub_year": "1992",
+                "citation": "NUMIFORM 92, Proc. 4th Int. Conf. on Num. Methods in Ind. Form. Sophia \u2026, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10515558971131060692",
+            "cites_id": [
+                "10515558971131060692"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel re-parameterization for shape optimization and comparison with knot-based gradient fitting method",
+                "pub_year": "2018",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 336, 304-332, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:dshw04ExmUIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13825951681617585538",
+            "cites_id": [
+                "13825951681617585538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiobjective design optimization with aggregate fitness function based on total lifecycle cost.",
+                "pub_year": "2006",
+                "citation": "WSEAS Transactions on Systems 5 (7), 1617-1624, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17417472342122765692",
+            "cites_id": [
+                "17417472342122765692"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design optimization with GA fitness functions based on total lifecycle value or cost",
+                "pub_year": "2006",
+                "citation": "Proceedings of the 7th WSEAS International Conference on Evolutionary \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1620050849526020806",
+            "cites_id": [
+                "1620050849526020806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic Properties of Structures and Advanced Algorithms for Validation",
+                "pub_year": "2006",
+                "citation": "5th International Congress of Croatian Society of Mechanics, Split, Croatia, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5268359964879615725",
+            "cites_id": [
+                "5268359964879615725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active vibration control of electro-mechanical system with step excitation and electromagnetic actuator",
+                "citation": "Procs. Int\u2019l Symp. Coupled Methods in Numerical Dynamics, Split, Croatia \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6298878493066946418",
+            "cites_id": [
+                "6298878493066946418"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and Experimental Evaluation of High-Efficiency Savonius Type Wind Turbine at Low Reynolds Number",
+                "pub_year": "2022",
+                "citation": "Proceedings of the 8th World Congress on Mechanical, Chemical, and Material \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:5ugPr518TE4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4220977698947117946",
+            "cites_id": [
+                "4220977698947117946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduction of Shape Variables in B-Spline Based Optimization by Implementation of Analytical Shapes",
+                "pub_year": "2019",
+                "citation": "EngOpt 2018 Proceedings of the 6th International Conference on Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:SP6oXDckpogC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17305687520298353852",
+            "cites_id": [
+                "17305687520298353852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach for reduction of the volume loss in the rigid-plastic FEM using two-step updating procedure",
+                "pub_year": "2011",
+                "citation": "International journal of mechanical sciences 53 (10), 839-845, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:dhFuZR0502QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10967904902351541632",
+            "cites_id": [
+                "10967904902351541632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Test-field for evaluation of laboratory craters using interpolation-based crater detection algorithm and comparison with Martian impact craters",
+                "pub_year": "2011",
+                "citation": "42nd Annual Lunar and Planetary Science Conference, 1453, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:blknAaTinKkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9669571381890104198",
+            "cites_id": [
+                "9669571381890104198"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse engineering of musical instrument by combining stereo imaging, 3D reconstruction, CAD primitives and parametrization",
+                "pub_year": "2011",
+                "citation": "Annals of DAAAM for 2011 & Proceedings of the 22nd International DAAAM \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:GnPB-g6toBAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6939223301544684834",
+            "cites_id": [
+                "6939223301544684834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D topography of laboratory craters and their comparison with Martian impact craters",
+                "pub_year": "2010",
+                "citation": "38th COSPAR Scientific Assembly 38, 9, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:M3NEmzRMIkIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7085968445658107106",
+            "cites_id": [
+                "7085968445658107106"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for evaluation of laboratory craters using crater detection algorithm for digital topography data",
+                "pub_year": "2010",
+                "citation": "38th COSPAR Scientific Assembly 38, 9, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:maZDTaKrznsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14929010600756864746",
+            "cites_id": [
+                "14929010600756864746"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupled evolutionary shape optimization and reverse engineering in rapid product design and prototyping",
+                "pub_year": "2009",
+                "citation": "constraints 3, 4, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7173831185103661140",
+            "cites_id": [
+                "7173831185103661140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPARISON OF RIGID-PLASTIC FINITE ELEMENT METHODS FOR BULK METAL FORMING PROCESSES.",
+                "pub_year": "2007",
+                "citation": "Transactions of FAMENA 31 (2), 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10488498768883928380",
+            "cites_id": [
+                "10488498768883928380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow Formulation Finite Element Simulation of Forming of Strain Hardening Materials",
+                "pub_year": "1992",
+                "citation": "Computational Plasticity: Fundamentals and Applications. I, 1185-1195, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12137705591032148444",
+            "cites_id": [
+                "12137705591032148444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence and Remeshing Criteria for Fitting Method Based on Iterative Reparameterization via Plane-Stress Model",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust evolutionary shape optimization for ergonomic excellence based on contact pressure distribution",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Biomechanics and Biomedical Engineering 23 (13), 945-958, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Models for Prediction of Energy Performance and Noise Emissions of Building Roof Fan",
+                "pub_year": "2018",
+                "citation": "The Role of Exergy in Energy and the Environment, 809-822, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Representation of Large 3D Point Clouds for Shape Optimization",
+                "pub_year": "2017",
+                "citation": "Operations Research Proceedings 2015: Selected Papers of the International \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PARAMETERIZATION OF COMPLEX CULTURAL HERITAGE SHAPES FOR ONLINE VIEWING AND INTERACTIVE PRESENTATION AND PROCESSING",
+                "pub_year": "2016",
+                "citation": "8th International congress on archaeology, computer graphics, cultural \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procjena trodimenzijskog tro\u0161enja alata u obradi odvajanjem \u010destica uporabom stereo-fotogrametrije i obrade oblaka to\u010daka",
+                "pub_year": "2013",
+                "citation": "Tehni\u010dki vjesnik 20 (3), 449-458, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Vibration Testing and Nondestructive Testing",
+                "pub_year": "2012",
+                "citation": "HDKBR INFO Magazin 2 (3), 23-29, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shape Optimization for Ergonomy and Comfort Based on Minimum Contact Stress Variance",
+                "pub_year": "2012",
+                "citation": "8th European Solid Mechanics Conference, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eksperimentalno istra\u017eivanje dodane mase na gredi djelomi\u010dno uronjenoj u vodu",
+                "pub_year": "2011",
+                "citation": "Tehni\u010dki vjesnik 18 (4), 589-594, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technical and technological cost effectiveness analysis for establishment of a printing house",
+                "pub_year": "2010",
+                "citation": "Tehni\u010dki vjesnik 17 (2), 241-250, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehni\u010dko-tehnolo\u0161ka analiza isplativosti osnivanja tiskarske ku\u0107e",
+                "pub_year": "2010",
+                "citation": "Tehni\u010dki vjesnik 17 (2), 241-250, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TEHNI\u010cKO\u2013TEHNOLO\u0160KA ANALIZA ISPLATIVOSTI PROIZVODNJE DRVENOG NAMJE\u0160TAJA ZA OPREMANJE JAHTA, JEDRILICA I KATAMARANA",
+                "pub_year": "2010",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 57 (1-2), 32-44, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technical and Technological Cost Effectiveness, Analysis of the Wood Furniture Production for Equipment the Yachts, Sailboats and Catamarans",
+                "pub_year": "2010",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 57 (1-2), 32-44, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plenary lecture 7: developing a custom cluster workflow for shape optimization with finite element analysis",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 9th WSEAS international conference on Simulation \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developing a custom cluster workflow for shape optimization with finite element analysis",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 9th WSEAS international conference on Simulation \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Modal Analysis and Structural Changes",
+                "pub_year": "2009",
+                "citation": "Book of Abstracts, 109, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Workflow-based Evolutionary Shape Synthesis and Optimization",
+                "pub_year": "2009",
+                "citation": "6th International Congress of the Croatian Society of Mechanics, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual mass measurement of cantilever beam partially submerged in fluid",
+                "pub_year": "2009",
+                "citation": "International Symposium on Coupled Methods in Numerical Dynamics, 303-312, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IDENTIFICATION AND VALIDATION OF A LINEAR ELASTIC DYNAMIC SYSTEM MODEL IN WORKSHOP ENVIRONMENT.",
+                "pub_year": "2008",
+                "citation": "Transactions of FAMENA 32 (2), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reducirana globalna parametrizacija za optimizacijo oblike",
+                "pub_year": "2008",
+                "citation": "Univerza v Mariboru, Fakulteta za strojni\u0161tvo, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of frequency response functions from the operational data",
+                "pub_year": "2008",
+                "citation": "Drugi susret Hrvatskog dru\u0161tva za mehaniku, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced global parametrization for shape optimization",
+                "pub_year": "2008",
+                "citation": "SLOVENSKO DRU\u0160TVO ZA MEHANIKO SRE\u010cANJE KUHLJEVI DNEVI 2008, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of computers in engineering analysis",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike strojarstva i brodogradnje, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluacija tehnologijskih projekata-priru\u010dnik i programska aplikacija za analizu projekata",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shape Optimization of Multilayer Sandwich Plates with Corrugated Cores",
+                "pub_year": "2006",
+                "citation": "6^ th European Solid Mechanics Conference, ESMC 2006, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technology centres as an instrument of regional development support",
+                "pub_year": "2006",
+                "citation": "Sustavsko mi\u0161ljenje i proces integracije Hrvatske u Europsku uniju, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODEL VALIDATION PROCEDURE AND DAMAGE DETECTION ALGORITHM BASED ON DYNAMIC PROPERTIES OF STRUCTURES",
+                "pub_year": "2006",
+                "citation": "The 17th INTERNATIONAL DAAAM SYMPOSIUM\" Intelligent Manufacturing \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of metal sandwich plates with corrugated core",
+                "pub_year": "2005",
+                "citation": "International Journal for Engineering Modelling 18 (1-2), 23-32, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:XiVPGOgt02cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization Model for Aluminum Sandvich Plates with Corrugated Core",
+                "pub_year": "2005",
+                "citation": "Eurogen 2005: Evolutionary and Deterministic Methods for Design \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Teorija mehanizama",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:SdhP9T11ey4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposed generic optimization model for metal sandvich plates during extrusion of thin walled solid sections",
+                "pub_year": "2004",
+                "citation": "Advanced Technologies for Developing Countries ATDC'04, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theory of mechanisms",
+                "pub_year": "2004",
+                "citation": "VN, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow Formulation Finite Element Metal Forming Analysis with Friction via Penalty Function",
+                "pub_year": "1996",
+                "citation": "ET 96: 6th International Aluminum Extrusion Technology Seminar, Profiles of \u2026, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow Formulation FE Analysis with Penalized Boundary Friction",
+                "pub_year": "1995",
+                "citation": "7th International Conference on Mechanical Behaviour of Materials, ICM ESIS, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow formulation viscoplastic FE analysis with boundary friction",
+                "pub_year": "1993",
+                "citation": "International journal for engineering modelling 6 (1-4), 13-19, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trends in metal forming research",
+                "pub_year": "1992",
+                "citation": "Suvremeni trendovi proizvodnog strojarstva, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OPERATIONAL CHARACTERISTICS OF THE AXIAL WIND TURBINE",
+                "pub_year": "1990",
+                "citation": "STROJARSTVO 32 (4), 253-256, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural and Dimensional Synthesis of Mechanisms Using Graph Theory and Nonlinear",
+                "pub_year": "1990",
+                "citation": "International Conference on Engineering Design ICED 90, 1803-1810, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image binarization method for the detection of markers in bad lighting conditions",
+                "citation": "Programme 7 Invited Talks 11 Data-enhanced Reduced-order Modeling for \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IDENTIFICATION METHODS AND OPTIMIZATION TECHNIQUES IN MODEL UPDATE AND RELIABLE DESIGN OF VIBRATION CONTROL",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary Numerical Workflow for Shape Optimization in Design for Additive Manufacturing",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Locking-free space curved beam element based on mixed displacement/strain formulation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:xtRiw3GOFMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODELLING AND SIMULATION OF THE ACTIVE VIBRATION CONTROL BY MEANS OF PI REGULATED ELECTRO-DYNAMIC ACTUATOR AND BOND GRAPH APPROACH",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling of cold metal forming processes",
+                "citation": "37. me\u0111unarodni godi\u0161nji skup Korema, 103-106, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TOPOLO\u0160KO OPTIMIRANJE PARAMETRIZIRANOM LEVEL SET FUNKCIJOM I EVOLUCIJSKOM METODOM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary Design Optimization with Total Value based Excellence Criteria",
+                "citation": "EURO XXII Prague Book of Abstracts, 254, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An assessment of the reliability of the inverse procedures in the structural change detection based on the residual force approach",
+                "citation": "IV European Congress on Computational Mechanics (ECCM IV): Solids \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stress and Strain Analysis of Weld Pocket Dies During Extrusion of Thin Walled Solid Sections",
+                "citation": "na, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Instrumentalizacija ru\u010dno upravljane hidrauli\u010dke pre\u0161e",
+                "citation": "37. me\u0111unarodni godi\u0161nji skup Korema, 175-178, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prediction of Stresses and Strains within Weld Pocket Dies during Extrusion of Rectangular Sections",
+                "citation": "3rd DAAAM, Advanced technologies for Developing Countries, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic analysis of structures partially submerged in water",
+                "citation": "Advanced Ship Design for Pollution Prevention, 71, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prediction of Stresses and Strains within Weld Pocket Dies during Extrusion of Rectangular Sections",
+                "citation": "3rd DAAAM, Advanced technologies for Developing Countries, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Workflow-Based Shape Optimization of Airfoils and Blades using Chained Bezier Curves",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain methods and observer approach for modal parameter identification",
+                "citation": "7. International Congress of Croatian Society of Mechanics, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje, simulacija i optimiranje procesa deformiranja",
+                "citation": "3. Simpozij o novim tehnologijama, SONT, 24, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cFjZD80AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

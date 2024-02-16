@@ -1,0 +1,486 @@
+{
+    "name": "Ljubenkov Boris",
+    "num_citations": 88,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation methods in shipbuilding process design",
+                "pub_year": "2008",
+                "citation": "STROJNISKI VESTNIK 54 (2), 131, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:aqlVkmm33-oC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16032537033432278208",
+            "cites_id": [
+                "16032537033432278208"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global ship hull description using single RBF",
+                "pub_year": "2015",
+                "citation": "16th International Congress of the International Maritime Association of the \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13415189974772520365",
+            "cites_id": [
+                "13415189974772520365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental research of the duplex stainless steel welds in shipbuilding",
+                "pub_year": "2014",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 65 (2), 73-85, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:ufrVoPGSRksC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5565879282598767334",
+            "cites_id": [
+                "5565879282598767334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study into resonant phenomena in the catamaran ferry propulsion system",
+                "pub_year": "2012",
+                "citation": "Transactions of FAMENA 36 (1), 35-44, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6981322281697461634",
+            "cites_id": [
+                "6981322281697461634"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TSHD ship opening simulation by discrete element method",
+                "pub_year": "2020",
+                "citation": "Applied ocean research 94, 102001, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:TQgYirikUcIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1300836962609013448",
+            "cites_id": [
+                "1300836962609013448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dimensions and Shape Control of the Sub-assembled Sections using Digital Photogrammetry",
+                "pub_year": "2008",
+                "citation": "Schiffbauforschung, Rostok University 47, 68-83, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9996034463176975402",
+            "cites_id": [
+                "9996034463176975402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DIMENSIONAL AND SHAPE CONTROL IN SHIPBUILDING USING PHOTOGRAMMETRIC TECHNIQUE.",
+                "pub_year": "2009",
+                "citation": "Transactions of FAMENA 33 (3), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17131012739667673574",
+            "cites_id": [
+                "17131012739667673574"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modificirana fotogrametrijska metoda u gradnji broda",
+                "pub_year": "2006",
+                "citation": "University of Zagreb. Faculty of Mechanical Engineering and Naval Architecture, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:5nxA0vEk-isC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11093957784616578948",
+            "cites_id": [
+                "11093957784616578948"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of Photogrammetry in Shape and Dimensional Control in Shipbuilding",
+                "pub_year": "2005",
+                "citation": "Brodogradnja, god 53, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14267981457709151429",
+            "cites_id": [
+                "14267981457709151429"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for reconstruction of gajeta hull form using photogrammetric measurement method",
+                "pub_year": "2022",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 73 (2), 139-151, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:k_IJM867U9cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10644298382964991350",
+            "cites_id": [
+                "10644298382964991350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mehani\u010dka svojstva nehr\u0111aju\u0107eg \u010delika pri niskim temperaturama",
+                "pub_year": "2010",
+                "citation": "Sorta 2010: zbornik radova XIX. simpozija Teorija i praksa brodogradnje, in \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:qUcmZB5y_30C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=263015721302261009",
+            "cites_id": [
+                "263015721302261009"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of the world merchant shipbuilding",
+                "pub_year": "2009",
+                "citation": "Brodogradnja 60 (1), 44-50, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2358769699957542934",
+            "cites_id": [
+                "2358769699957542934"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photogrammetry in the Shipbuilding Production Process",
+                "pub_year": "2005",
+                "citation": "The Eleventh Congress of the International Maritime Association of the \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16916330970335467976",
+            "cites_id": [
+                "16916330970335467976"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmented Reality for an Efficient Inspection of Outfitting Process in Shipbuilding",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:TFP_iSt0sucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11265196522777097831",
+            "cites_id": [
+                "11265196522777097831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian finite difference method for violent fluid\u2013structure interaction",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 32nd Symposium on Naval Hydrodynamics, M. Abdel-Maksoud \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:isC4tDSrTZIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15463795874483286929",
+            "cites_id": [
+                "15463795874483286929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zna\u010daj eksperimentalne mehanike u brodogradnji",
+                "pub_year": "2012",
+                "citation": "Sorta 2012: zbornik radova XX. simpozija Teorija i praksa brodogradnje, in \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=856384768281288876",
+            "cites_id": [
+                "856384768281288876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural Analysis in Shipbuilding Production Process",
+                "pub_year": "2012",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 63 (4), 336-341, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16301518225134274560",
+            "cites_id": [
+                "16301518225134274560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strength and reliability of ships \u2018as-built\u2019",
+                "pub_year": "2012",
+                "citation": "International Conference on Offshore Mechanics and Arctic Engineering 44892 \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3831531131557437675",
+            "cites_id": [
+                "3831531131557437675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characteristics of the shipbuilding stainless steel at sub-zero temperatures",
+                "pub_year": "2011",
+                "citation": "Sustainable Maritime Transportation and Exploitation of Sea Resources, 379, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7829414227494743491",
+            "cites_id": [
+                "7829414227494743491"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurements for reliability of ship production and operation interaction",
+                "pub_year": "2010",
+                "citation": "Advanced Ship Design for Pollution Prevention-Proceedings of the \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13338009706858722547",
+            "cites_id": [
+                "13338009706858722547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of propulsion system torsional vibration resonance of a catamaran vessel in service",
+                "pub_year": "2010",
+                "citation": "Proceedings of International Workshop on Advanced Ship Design for Pollution \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9453965043471536151",
+            "cites_id": [
+                "9453965043471536151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of the ship hull assembly sub-process",
+                "pub_year": "2022",
+                "citation": "ST-OPEN 3, 1-22, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prema smanjenju neizvjesnosti prora\u010duna strukturne pouzdanosti grani\u010dne \u010dvrsto\u0107e brodskog trupa",
+                "pub_year": "2016",
+                "citation": "Zbornik radova 22. simpozija Teorija i praksa brodogradnje, in memoriam prof \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conceptual design of shipyard for seagoing ships on the river Danube",
+                "pub_year": "2014",
+                "citation": "Developments in Maritime Transportation and Exploitation of Sea Resources \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Korozijska otpornost zavarenih spojeva od dupleks nehr\u0111aju\u0107ih \u010delika",
+                "pub_year": "2012",
+                "citation": "EUROJOIN 8/Ko\u017euh, Zoran (ur.).-Zagreb: Hrvatsko dru\u0161tvo za tehniku \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of hull deflections for reliable propulsion system alignment using digital photogrammetry",
+                "pub_year": "2010",
+                "citation": "Proceedings of International Conference on Innovative Technologies IN-TECH \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Answer the author of the article\" Overview of Naval commercial ships in the world\" from the number 1/09 shipbuilding magazine.",
+                "pub_year": "2009",
+                "citation": "BRODOGRADNJA 60 (2), 220-220, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SHIPBUILDING CLUSTER IN SISA\u010cKO-MOSLAVA\u010cKA REGION.",
+                "pub_year": "2009",
+                "citation": "Brodogradnja 60 (1), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSIS OF A SHIPYARD WORKSHOP TECHNOLOGICAL PROCESS.",
+                "pub_year": "2009",
+                "citation": "Brodogradnja 60 (1), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulacija upravljanja procesom gradnje samopodizne platforme",
+                "pub_year": "2002",
+                "citation": "Sveu\u010dili\u0161te u Zagrebu, Fakultet strojarstva i brodogradnje, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of Flexible Automated Process in the Grillage Assembly",
+                "pub_year": "2001",
+                "citation": "BRODOGRADNJA 49 (3), 295-299, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Naziv kolegija METODE I SUSTAVI BRODOGRA\u0110EVNOG PROCESA",
+                "pub_year": "1997",
+                "citation": "Journal of Ship Production 13 (2), 1997"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Konceptualni projekt brodogradili\u0161ta na Dunavu",
+                "citation": "Sorta 2010: zbornik radova XIX. simpozija Teorija i praksa brodogradnje, in \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "QqJImqoAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

@@ -1,0 +1,511 @@
+{
+    "name": "Cvitani\u0107 Vedrana",
+    "num_citations": 194,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A finite element formulation based on non-associated plasticity for sheet metal forming",
+                "pub_year": "2008",
+                "citation": "International Journal of Plasticity 24 (4), 646-687, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 148,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13582430402671814105",
+            "cites_id": [
+                "13582430402671814105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling the plastic anisotropy evolution of AA5754-H22 sheet and implementation in predicting cylindrical cup drawing process",
+                "pub_year": "2019",
+                "citation": "European Journal of Mechanics-A/Solids 77, 103806, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10070186337385422351",
+            "cites_id": [
+                "10070186337385422351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling of propulsion shaft line and basic procedure of shafting alignment calculation",
+                "pub_year": "2008",
+                "citation": "Brodogradnja / Shipbuilding 59 (3), 223-227, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8704432553124534453",
+            "cites_id": [
+                "8704432553124534453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic formulations of evolutionary anisotropic plasticity models based on non-associated flow rule",
+                "pub_year": "2017",
+                "citation": "Latin American Journal of Solids and Structures 14, 1853-1871, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12488969801691773025",
+            "cites_id": [
+                "12488969801691773025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shafting alignment calculation and validation criteria",
+                "pub_year": "2006",
+                "citation": "5th International Congress of Croatian Society of Mechanics, 179-180, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11094615733604771126",
+            "cites_id": [
+                "11094615733604771126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analysis of non-associated plasticity formulations in deep drawing simulations",
+                "pub_year": "2007",
+                "citation": "Transactions of FAMENA 31 (2), 11-26, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15225725388921317646",
+            "cites_id": [
+                "15225725388921317646"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of accuracy for evolutionary anisotropic plasticity models",
+                "pub_year": "2016",
+                "citation": "Engineering Review: Me\u0111unarodni \u010dasopis namijenjen publiciranju originalnih \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12644705205594437392",
+            "cites_id": [
+                "12644705205594437392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of orthotropic constitutive models in predicting square cup deep drawing process of AA2090-T3 sheet",
+                "pub_year": "2014",
+                "citation": "4th International Conference Mechanical Technologies and Structural \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3662849690149523081",
+            "cites_id": [
+                "3662849690149523081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic analysis of multibody systems using constraint elimination methods",
+                "pub_year": "2003",
+                "citation": "4th International Congress of Croatian Society of Mechanics, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16296263661856528390",
+            "cites_id": [
+                "16296263661856528390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach for reduction of the volume loss in the rigid-plastic FEM using two-step updating procedure",
+                "pub_year": "2011",
+                "citation": "International journal of mechanical sciences 53 (10), 839-845, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10967904902351541632",
+            "cites_id": [
+                "10967904902351541632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of rigid-plastic finite element methods for bulk metal forming processes",
+                "pub_year": "2007",
+                "citation": "Transactions of FAMENA 31 (2), 27-40, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10488498768883928380",
+            "cites_id": [
+                "10488498768883928380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Verification of Crankshaft Design and Fatigue Strength for in-line and v-type Marine Diesel Engines",
+                "pub_year": "2007",
+                "citation": "Strojarstvo : \u010dasopis za teoriju i praksu u strojarstvu 49 (4), 317-331, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2018433226670442959",
+            "cites_id": [
+                "2018433226670442959"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Effect of the Tension-Compression Ratio on Forming of Isotropic Materials",
+                "pub_year": "2022",
+                "citation": "Key Engineering Materials 926, 1108-1121, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of simple and full approach for non-associated formulation based on Karafillis-Boyce stress function",
+                "pub_year": "2020",
+                "citation": "5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter identification for anisotropic Yld2000-2d stress function under non-associated flow rule",
+                "pub_year": "2019",
+                "citation": "4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modification of initial blank shape for earing minimization in cylindrical cup deep drawing of EDD steel sheet",
+                "pub_year": "2019",
+                "citation": "6. kongres Dani in\u017eenjera strojarstva Strojarske tehnologije - imperativ \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of full and simple approach under non-associated flow rule for an evolutionary anisotropic model",
+                "pub_year": "2018",
+                "citation": "9th International Congress of Croatian Society of Mechanics, 1-16, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical and numerical simulations of cylindrical cup deep drawing for DC06 sheet sample",
+                "pub_year": "2018",
+                "citation": "CIET 2018, CONTEMPORARY ISSUES IN ECONOMY & TECHNOLOGY, 527-536, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zip Line Structural Analysis",
+                "pub_year": "2018",
+                "citation": "CIET 2018, CONTEMPORARY ISSUES IN ECONOMY & TECHNOLOGY, 537-547, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usporedba modela materijala u opisu ravninske anizotropije lima Al5754-H22",
+                "pub_year": "2017",
+                "citation": "8. susret Hrvatskog dru\u0161tva za mehaniku, 107-112, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic formulation for evolutionary anisotropic plasticity model for sheet metals",
+                "pub_year": "2015",
+                "citation": "8th International Congress of Croatian Society of Mechanics, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analysis of evolutionary anisotropic constitutive model based on Karafillis-Boyce stress function",
+                "pub_year": "2015",
+                "citation": "5th International Conference Mechanical Technologies and Structural \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of constitutive and process parameters on the cylindrical cup deep drawing predictions for AA2090-T3 sheet",
+                "pub_year": "2013",
+                "citation": "3rd International Conference on Mechanical Technologies and Structural \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulations of S-rail forming for 6111-T4 sheet based on Hill stress function",
+                "pub_year": "2012",
+                "citation": "7th International Congress of Croatian Society of Mechanics, 181, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulations of cup drawing for aluminium sheets based on asymmetric non-quadratic yield function and non-associated flow rule",
+                "pub_year": "2011",
+                "citation": "Aluminium two thousand, 7th world congress, From Bologna to the Future, 25-38, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Earing predictions for Al2008-T4 sheet",
+                "pub_year": "2011",
+                "citation": "Aluminium and its alloys 3, 73-77, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic formulation of constitutive model based on non-associated flow rule and its application to aluminium alloy sheets",
+                "pub_year": "2007",
+                "citation": "Aluminium Two Thousand. 6th International Congress, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anizotropni elasto-plasti\u010dni model aluminijskih legura temeljen na nepridru\u017eenom pravilu te\u010denja",
+                "pub_year": "2006",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anizotropni elasto-plasti\u010dni model aluminijskih legura temeljen na nepridru\u017eenom pravilu te\u010denja, doktorska disertacija",
+                "pub_year": "2006",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of the friction parameters using MATLAB interpolation surfaces",
+                "pub_year": "2006",
+                "citation": "5th International Congress of Croatian Society of Mechanics, 87-88, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of non-associated flow rule for sheet metal forming",
+                "pub_year": "2006",
+                "citation": "5th International Congress of Croatian Society of Mechanics, 147-148, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Element Analysis of Cylinder Upsetting Problem using Elasto-plastic Material Model",
+                "pub_year": "2005",
+                "citation": "5th International Conference on Industrial Tools ICIT 2005, 349-352, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPLICATION OF NATURAL FACTOR METHOD IN STRUCTURAL ANALYSIS OF MARINE STRUCTURES",
+                "pub_year": "2000",
+                "citation": "14th International Scientific and Professional Congress THEORY AND PRACTICE \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Deformation Elasto-plastic updated Lagrangian-Hencky Formulation",
+                "pub_year": "2000",
+                "citation": "3rd International Congress of Croatian Society of Mechanics, 153-161, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Obnovljeni Lagrange-Hencky model velikih elasto-plasti\u010dnih deformacija",
+                "pub_year": "2000",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Obnovljeni Lagrange-Hencky model velikih elasto-plasti\u010dnih deformacija, magistarski rad",
+                "pub_year": "2000",
+                "citation": "Gra\u0111evinski fakultet, Sveu\u010dili\u0161te u Splitu, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A natural approach to plasticity problems",
+                "pub_year": "1999",
+                "citation": "2nd ESAFORM Conference on Material Forming, 589-592, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model pouzdanosti potpornih stupova brodske palube",
+                "pub_year": "1998",
+                "citation": "Gra\u0111evinski fakultet Sveu\u010dili\u0161ta u Splitu, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "B1OVmGkAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

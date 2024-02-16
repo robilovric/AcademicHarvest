@@ -1,0 +1,355 @@
+{
+    "name": "Pir\u0161i\u0107 Ton\u0107i",
+    "num_citations": 16,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermographic analysis of stress distribution in welded joints",
+                "pub_year": "2010",
+                "citation": "EPJ web of conferences 6, 07004, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10695077874092595453",
+            "cites_id": [
+                "10695077874092595453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FESB Report No. 01/99",
+                "pub_year": "1999",
+                "citation": "Split, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10844637252442204906",
+            "cites_id": [
+                "10844637252442204906"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VRATILO",
+                "pub_year": "2004",
+                "citation": "Split, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18067914533322823307",
+            "cites_id": [
+                "18067914533322823307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimentally based method for fatigue life prediction of aluminium welded joints",
+                "pub_year": "1999",
+                "citation": "Proceedings of 7th International Fatigue Conference, 1309-1314, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14981735985250374290",
+            "cites_id": [
+                "14981735985250374290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ru\u010dna dizalica",
+                "pub_year": "2002",
+                "citation": "Uputstvo za prora\u010dun, Split, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2596461986102108459",
+            "cites_id": [
+                "2596461986102108459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FATIGUE DAMAGE AND REPAIR OF 250 kN PORTAL CRANE IN SHIPYARD",
+                "pub_year": "2001",
+                "citation": "ICF10, Honolulu, Hawaii\u20142001, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645567057282278658",
+            "cites_id": [
+                "17645567057282278658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Engineering drawing",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehni\u010dko crtanje",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AutoCAD in mechanical engineering",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AutoCAD u strojarstvu",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transport u industriji",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kotrljaju\u0107i le\u017eaji",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vratilo: Uputstvo za prora\u010dun",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FATIGUE DAMAGES AND REPAIR OF A CEMENT MILL GEAR WHEEL",
+                "pub_year": "2003",
+                "citation": "Proceedings of the 4th International Congress of Croatian Society of Mechanics, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RU\u010cNA DIZALICA, uputstvo za prora\u010dun",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue Failures in Industry-Case Studies",
+                "pub_year": "2002",
+                "citation": "DS 30: Proceedings of DESIGN 2002, the 7th International Design Conference \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehni\u010dka dokumentacija za sanaciju konstrukcije okretne portalne dizalice nosivosti 250 kN",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procjena vijeka trajanja aluminijskih zavarenih spojeva izlo\u017eenih spektru optere\u0107enja",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Analysis of Surface Crack Growth",
+                "pub_year": "1998",
+                "citation": "Proceedings of the 5. International Design Conference, 675-680, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental and Numerical Analysis of Bending Stress Field in Welded Joints",
+                "pub_year": "1998",
+                "citation": "15. Danubia-Adria Syimposium on Experimental Methods in Solid Mechanics \u2026, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vijek trajanja zavarenih spojeva izra\u0111enih iz slitine AlMg4.5Mn",
+                "pub_year": "1998",
+                "citation": "Zbornik radova Me\u0111unarodnog savjetovanja Zavarivanje u pomorstvu, 449-454, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvement of fatigue strength properties of aluminum alloy components by manufacturing processes",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Estimation of Durability Life Under Variable Spectra of Loading",
+                "pub_year": "1997",
+                "citation": "\u00d6sterreichische Ingenieur- und Architekten-Zeitschrift 142, 417-419, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue Life Prediction of Welded Joint by Simulation of Surface Crack Growth",
+                "pub_year": "1997",
+                "citation": "Proceedings of 2. Congress of Croatian Society of Mechanics, 237-242, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue crack growth in AlCuMg2 alloy subjected to spectrum of loading",
+                "pub_year": "1997",
+                "citation": "Materialove in\u017einerstvo : Materials engineering 4, 25-30, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue crack growth in AlCuMg2 alloy subjected to spectrum of loading",
+                "pub_year": "1996",
+                "citation": "13th DANUBIA-ADRIA Symposium on experimental methods in solid mechanics, 102-103, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Projekt ure\u0111aja za separaciju otpadne boje iz vode",
+                "pub_year": "1988",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VLZd65IAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

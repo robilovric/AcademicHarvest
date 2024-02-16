@@ -1,0 +1,123 @@
+{
+    "name": "Vidovi\u0107 Tino",
+    "num_citations": 9,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proton-Exchange Membrane Fuel Cell Balance of Plant and Performance Simulation for Vehicle Applications",
+                "pub_year": "2022",
+                "citation": "Energies 15 (21), 8110, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4596976759202669433",
+            "cites_id": [
+                "4596976759202669433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic overview of newly available technologies in the green maritime sector",
+                "pub_year": "2023",
+                "citation": "Energies 16 (2), 641, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14939774256903113990",
+            "cites_id": [
+                "14939774256903113990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Hybrid Ship Machinery System with Proton Exchange Membrane Fuel Cells and Battery Pack",
+                "pub_year": "2024",
+                "citation": "Preprints, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Vehicle-Specific Power Model for the Estimation of Hybrid Vehicle Emissions",
+                "pub_year": "2023",
+                "citation": "Energies 16 (24), 8094, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methods and equipment for analysis and diagnostics of marine engines",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of coolant flow field for maintaining the desired temperature profile along the PEM fuel cell",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter Variation Study of Two-Stroke Low-Speed Diesel Engine Using Multi-Zone Combustion Model",
+                "pub_year": "2022",
+                "citation": "Energies 15 (16), 5865, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission and efficiency estimation of hybrid powertrains with continuous Vehicle Specific Power analysis",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj modela dizelskog motora za primjenu u simulaciji brodskih energetskih sustava",
+                "pub_year": "2021",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ffyc578AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

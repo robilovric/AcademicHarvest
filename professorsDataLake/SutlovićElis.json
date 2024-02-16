@@ -1,0 +1,623 @@
+{
+    "name": "Sutlovi\u0107 Elis",
+    "num_citations": 80,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical analysis of particles of conductor clashing",
+                "pub_year": "2014",
+                "citation": "2014 IEEE International Energy Conference (ENERGYCON), 638-643, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6338741948501194587",
+            "cites_id": [
+                "6338741948501194587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Steady state analysis and modeling of the gas compressor station using the electrical analogy",
+                "pub_year": "2019",
+                "citation": "Energy 166, 307-317, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:eflP2zaiRacC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13784506813647325104",
+            "cites_id": [
+                "13784506813647325104"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The electrical analogy model of the gas pressure reducing and metering station",
+                "pub_year": "2020",
+                "citation": "Energy 198, 117342, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:1qzjygNMrQYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4722949781528285689",
+            "cites_id": [
+                "4722949781528285689"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of conductor clashing experiments",
+                "pub_year": "2019",
+                "citation": "Electrical Engineering 101 (2), 467-476, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10491674763376680065",
+            "cites_id": [
+                "10491674763376680065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A general model of optimal energy storage operation in the market conditions",
+                "pub_year": "2022",
+                "citation": "Electric Power Systems Research 209, 107957, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13633785396176696858",
+            "cites_id": [
+                "13633785396176696858"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Critical diameter of particles produced in overhead line conductor clashing",
+                "pub_year": "2017",
+                "citation": "Applied Thermal Engineering 114, 713-718, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:LPZeul_q3PIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13818667198442974760",
+            "cites_id": [
+                "13818667198442974760"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characteristics of basin inflows a statistical analysis for long-term/mid-term hydrothermal scheduling",
+                "pub_year": "2014",
+                "citation": "Thermal Science 18 (3), 799-809, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5198606804965139188",
+            "cites_id": [
+                "5198606804965139188"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlation and regression of wholesale electricity market daily prices in Europe",
+                "pub_year": "2008",
+                "citation": "International Review of Electrical Engineering-IREE 3 (4), 699-708, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15726321945439375497",
+            "cites_id": [
+                "15726321945439375497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determining currents of cable sheaths during unbalanced loads by means of current load factor",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1401835706118751962",
+            "cites_id": [
+                "1401835706118751962"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of earthing conductors on current reduction factor of a distribution cable laid in high resistivity soil",
+                "pub_year": "2001",
+                "citation": "2001 IEEE Porto Power Tech Proceedings (Cat. No. 01EX502) 4, 3 pp. vol. 4, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15597460592110539958",
+            "cites_id": [
+                "15597460592110539958"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Steady state analysis and modeling of the gas metering and pressure reduction station using the electrical analogy",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4583847090257785049",
+            "cites_id": [
+                "4583847090257785049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Aluminum and Copper Particle Critical Diameter Produced in Overhead Line Conductor Clashing",
+                "pub_year": "2018",
+                "citation": "The Role of Exergy in Energy and the Environment, 13-25, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16737611455245192518",
+            "cites_id": [
+                "16737611455245192518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method for the long-term scheduling of hydrothermal power system with multiple user reservoirs",
+                "pub_year": "2007",
+                "citation": "Thermal Science 11 (3), 75-83, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18092858489812006352",
+            "cites_id": [
+                "18092858489812006352"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statisti\u010dka analiza funkcije vjerojatnosti prirodnih dotoka",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:a0OBvERweLwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15264726121335000604",
+            "cites_id": [
+                "15264726121335000604"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulacija dotoka autoregresivnim modelom prvog reda",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:yD5IFk8b50cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9537276113539164124",
+            "cites_id": [
+                "9537276113539164124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of the Electricity Market Prices on Energy Storage Operation during the COVID-19 Pandemic",
+                "pub_year": "2023",
+                "citation": "International Journal of Energy and Power Engineering 17 (1), 11-16, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:N5tVd3kTz84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Unique Electrical Model for the Steady-State Analysis of a Multi-Energy System",
+                "pub_year": "2021",
+                "citation": "Energies 14 (18), 5753, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:WqliGbK-hY8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expected Future Conditions for Secure Power Operation with Large Scale of RES Integration",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elektri\u010dna postrojenja, upute za laboratorijske vje\u017ebe",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:epqYDVWIO7EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izra\u010dun uzemljiva\u010dkih u\u010dinaka golih vodi\u010da polo\u017eenih uzdu\u017e vi\u0161estrukih podzemnih kabelskih vodova kori\u0161tenjem analiti\u010dkih jednad\u017ebi",
+                "pub_year": "2010",
+                "citation": "Tehni\u010dki vjesnik 17 (3), 299-305, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of grounding effects of bare conductors laid alongside underground multi-cable power lines by using analytical equations",
+                "pub_year": "2010",
+                "citation": "Tehnicki Vjesnik 17 (3), 299-305, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized Equations for Fault Voltages and Currents in Neutral Conductors of Underground Multi-Cable Power Lines with Earthing Wires Laid Alongside",
+                "pub_year": "2010",
+                "citation": "International Review of Electrical Engineering 5 (4), 2010"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BAZA PODATAKA RELEJNE ZA\u0160TITE",
+                "pub_year": "2007",
+                "citation": "Journal of Energy: Energija 56 (5), 618-633, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RELAY PROTECTION DATABASE",
+                "pub_year": "2007",
+                "citation": "Journal of Energy-Energija 56 (5), 618-633, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Koncepcija modela vo\u0111enja i optimiranja rada HES-a Like i Gacke",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:JQOojiI6XY0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method for the long-term scheduling of power system with multiple user reservoirs",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:uWiczbcajpAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Koncepcija modela vo\u0111enja i optimiranja rada HES-a Cetine",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:zLWjf1WUPmwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimiranje vi\u0161enamjenskog kori\u0161tenja sezonskih akumulacijskih bazena u elektroenergetskom sustavu sa znatnim udjelom hidroenergije",
+                "pub_year": "2001",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:uLbwQdceFCQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The impact of flywheel torque of refurbished generator units on the limit switching time in Croatian power system",
+                "pub_year": "1999",
+                "citation": "PowerTech Budapest 99. Abstract Records.(Cat. No. 99EX376), 72, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regional energy planning on the base of household consumption analysis in the county",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ispitivanje mre\u017ee 10 (20) kV na Miljeva\u010dkom platou izme\u0111u TS 35/10 kV Kalun i TS 30/10 kV Lozovac radi priklju\u010dka mHE Ro\u0161ki Slap",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:35r97b3x0nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energetski razvitak \u017dupanije splitsko-dalmatinske: energetska bilanca i predvi\u0111anje energetskih potreba do 2020. godine.",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:W5xh706n7nkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Household Energy Consumption Database Based on Regional Energy Planning; Energetska baza podataka kucanstava po konceptu regionalnog planiranja energetskog sektora",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Household Energy Consumption Database Based on Regional Energy Planning",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izbor tipa i presjeka kabela 110 kV u gradskoj mre\u017ei Splita",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:URolC5Kub84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energetski razvitak \u017eupanije Splitsko-dalmatinske-Energetska baza podataka",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:9Nmd_mFXekcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza struja kratkog spoja u RHE Velebit",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:tzM49s52ZIMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak termoelektrane na lokaciji Dalj i Turski bok na prijenosnu mre\u017eu Hrvatske elektroprivrede",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:Fu2w8maKXqMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj parametara revitaliziranih agregata 1 i 2 u HE Zakucac na prijelaznu stabilnost elektroenergetskog sustava (Prethodno priopcenje)",
+                "pub_year": "1997",
+                "citation": "ENERGIJA-ZAGREB- 46, 229-242, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza i odre\u0111ivanje parametara revitaliziranih agregata 1 i 2 HE Zaku\u010dac i revitaliziranih agregata HE Peru\u010da s obzirom na zahtjeve elektroenergetskog sustava",
+                "pub_year": "1996",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:vDijr-p_gm4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj broja uklju\u010denih generatora u vjetroelektrani Stupi\u0161\u0107e na naponske prilike u 10 kV mre\u017ei otoka Visa-Zaklju\u010dna razmatranja",
+                "pub_year": "1996",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:dQ2og3OwTAUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scientific Professional Journal of Energy, Electricity, Power Systems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scientific Professional Journal Of Energy, Electricity, Power Systems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical analysis of conductor clashing particles in low-voltage distribution network",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Korelacijska analiza dotoka",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Korelacijska analiza dotoka u akumulacijske bazene",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CURRENT REDUCTION FACTOR OF A COMPOUND CABLE LINE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RkbtgxEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

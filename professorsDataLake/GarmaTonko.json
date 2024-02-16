@@ -1,0 +1,925 @@
+{
+    "name": "Garma Tonko",
+    "num_citations": 553,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurements and modelling of base station power consumption under real traffic loads",
+                "pub_year": "2012",
+                "citation": "Sensors 12 (4), 4281-4310, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 221,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11584572959214323781",
+            "cites_id": [
+                "11584572959214323781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "P-doping mechanisms in catalyst-free gallium arsenide nanowires",
+                "pub_year": "2010",
+                "citation": "Nano letters 10 (5), 1734-1740, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:dhFuZR0502QC",
+            "num_citations": 146,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11321067819739475223",
+            "cites_id": [
+                "11321067819739475223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Light-emitting electrochemical cells of single crystal hybrid halide perovskite with vertically aligned carbon nanotubes contacts",
+                "pub_year": "2019",
+                "citation": "Acs Photonics 6 (4), 967-975, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11096615344212513385",
+            "cites_id": [
+                "11096615344212513385"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kilogram\u2010Scale Crystallogenesis of Halide Perovskites for Gamma\u2010Rays Dose Rate Measurements",
+                "pub_year": "2021",
+                "citation": "Advanced Science 8 (2), 2001882, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:a0OBvERweLwC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12894379239577029502,13168447860090144566",
+            "cites_id": [
+                "12894379239577029502",
+                "13168447860090144566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatially resolved Raman spectroscopy on indium-catalyzed core\u2013shell germanium nanowires: size effects",
+                "pub_year": "2010",
+                "citation": "Nanotechnology 21 (10), 105703, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6641158865351281410",
+            "cites_id": [
+                "6641158865351281410"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of thermo-electrical model of photovoltaic panel under hot-spot conditions with experimental validation",
+                "pub_year": "2021",
+                "citation": "Energy 230, 120785, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:f2IySw72cVMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10776672828697835239",
+            "cites_id": [
+                "10776672828697835239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurements and estimation of the extremely low frequency magnetic field of the overhead power lines",
+                "pub_year": "2013",
+                "citation": "Elektronika ir Elektrotechnika 19 (7), 33-36, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:4DMP91E08xMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15830140993196683443",
+            "cites_id": [
+                "15830140993196683443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A micron\u2010sized nanoporous multifunction sensing device",
+                "pub_year": "2009",
+                "citation": "physica status solidi (a) 206 (3), 435-441, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5548972279043269419",
+            "cites_id": [
+                "5548972279043269419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impulse impedance of the horizontal grounding electrode: comparison of the theoretical antenna model approach and experimental analysis",
+                "pub_year": "2017",
+                "citation": "Journal of Electromagnetic Waves and Applications 31 (8), 769-780, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:TQgYirikUcIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14145796894966342954",
+            "cites_id": [
+                "14145796894966342954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An active metamaterial cell concept for nonreciprocal vibroacoustic transmission",
+                "pub_year": "2023",
+                "citation": "Mechanical Systems and Signal Processing 186, 109829, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:abG-DnoFyZgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16278232025569984007",
+            "cites_id": [
+                "16278232025569984007"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling a nanowire grid for light-sensing applications",
+                "pub_year": "2012",
+                "citation": "Journal of Physics D: Applied Physics 45 (21), 215103, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15293726305076973234",
+            "cites_id": [
+                "15293726305076973234"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impulse impedance of the horizontal grounding electrode: Experimental analysis versus full-wave computational model",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7027095349770304588",
+            "cites_id": [
+                "7027095349770304588"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of the antenna model and experimental analysis of an impulse impedance of the horizontal grounding electrode",
+                "pub_year": "2015",
+                "citation": "Electric Power Systems Research 125, 159-163, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11686605906543653129",
+            "cites_id": [
+                "11686605906543653129"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Electrical Yield on Temperature Drop of the PhotovoltaicPanel: Numerical and Experimental Findings",
+                "pub_year": "2020",
+                "citation": "Journal of Sustainable Development of Energy, Water and Environment Systems \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7057333183280200496",
+            "cites_id": [
+                "7057333183280200496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semiconductor nanowires and their field-effect devices",
+                "pub_year": "2011",
+                "citation": "Technische Universit\u00e4t M\u00fcnchen, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5558098350924844907",
+            "cites_id": [
+                "5558098350924844907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach to thermal modeling of power cables installed in ducts",
+                "pub_year": "2023",
+                "citation": "Electric Power Systems Research 214, 108916, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=835688772603201338",
+            "cites_id": [
+                "835688772603201338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Suppression of the atmospheric over-voltages in grounding neutral conductor low-voltage grids",
+                "pub_year": "2017",
+                "citation": "CIRED-Open Access Proceedings Journal 2017 (1), 1496-1499, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8330169260963178962",
+            "cites_id": [
+                "8330169260963178962"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement and modeling of the propagation of the Ripple Control Signal through the distribution network",
+                "pub_year": "2014",
+                "citation": "International Journal of Electrical Power & Energy Systems 63, 674-680, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7945263187932825591",
+            "cites_id": [
+                "7945263187932825591"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory setup for developing inteligent system in the electrical-equipment-related infra red inspection",
+                "pub_year": "2012",
+                "citation": "Proceedings ELMAR-2012, 27-30, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5739819901470376774",
+            "cites_id": [
+                "5739819901470376774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical Safety Factor in Lightning Performance Analysis of Overhead Distribution Lines",
+                "pub_year": "2022",
+                "citation": "Energies 15 (21), 8248, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13416127719944215679",
+            "cites_id": [
+                "13416127719944215679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental prediction of shaded solar cells hot-spots",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:aqlVkmm33-oC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9914102444899354268",
+            "cites_id": [
+                "9914102444899354268"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wake-on-a-Schedule: Energy-aware Communication in Wi-Fi Networks",
+                "pub_year": "2014",
+                "citation": "Advances in Electrical and Computer Engineering 14 (1), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5931624957977040755",
+            "cites_id": [
+                "5931624957977040755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insulation Verification Using Low Voltage and High Current Sensitivity",
+                "pub_year": "2012",
+                "citation": "Engineering Review: Me\u0111unarodni \u010dasopis namijenjen publiciranju originalnih \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1810680679481390376",
+            "cites_id": [
+                "1810680679481390376"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Atmospheric Overvoltages Suppression: In Situ and Analytical Validation",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 65 (2), 486-495, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vertically Aligned Carbon Nanotubes as Electrodes in Perovskite Single Crystal Light Emitting Electrochemical Cells",
+                "pub_year": "2020",
+                "citation": "Proceedings of Online Meetup-Beyond Lead Halide Perovskites: Syntheses and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flicker spreading in a transmission network",
+                "pub_year": "2020",
+                "citation": "Journal of Energy: Energija 69 (1), 0-0, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flicker spreading in a transmission network",
+                "pub_year": "2019",
+                "citation": "2019 2nd International Colloquium on Smart Grid Metrology (SMAGRIMET), 1-6, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu zgrade Vukovarska 141 Makarska",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o mjerenju koncentracije i kakvo\u0107e pra\u0161ine u zgradi Vukovarska 141 Makarska",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu gra\u0111evine: poslovna zgrada Vodoprivreda dd Split",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu poslovnog centra Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:SdhP9T11ey4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade \u0110akova\u010dka 7",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:PELIpwtuRlgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenje parametara kvalitete unutarnjeg zraka u centru Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:_B80troHkn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o reviziji energetskog pregleda zgrade Sveucilisne knj\u017enice u Splitu",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:t6usbXjVLHcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o mjerenju snage u TS Guliver energija 10/0, 4 kV/kV i mjerenju potro\u0161nje el. energije sustava za pripremu PTV centra Guliver energija",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu zgrade Op\u0107ine Podstrana",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Domovinskog rata 117 (Stro\u017eanac)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:eq2jaN3J8jMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju razine parcijalnih izbijanja na trasi TS Su\u0107idar16-RTS Su\u0107idar",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Tr\u0161\u0107anska 53",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Trondheimska 4a, 4b, 4c i 4d.",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nalaz termovizijskih mjerenja u pogonu tvornice Omial Novi doo",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:olpn-zPbct0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju u\u010dinkovitosti kompenzacije jalove snage u poslovnom prostoru Trondheimska 4A",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o termografskom ispitivanju zgrade DV\" Cvr\u010dak\" Ka\u0161tela",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:5ugPr518TE4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o provedenom energetskom pregledu gra\u0111evine-stambena zgrada AB \u0160imi\u0107a 11",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:J-pR_7NvFogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu zgrade Hektorovi\u0107eva 51 (Solin)",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161taj o energetskom pregledu gra\u0111evine \u010d. z. 4034/26 Plo\u010de",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju otpora izolacije i dielektri\u010dne \u010dvrsto\u0107e ure\u0111aja za transkranijalnu stimulaciju",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju kabliranja LAN instalacije u laboratoriju Sveu\u010dili\u0161nog odjela za stru\u010dne studije",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade u Ulici Dinka \u0160imunovi\u0107a 15",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nalaz termovizijskih mjerenja TS VE Jelinak 12/110 kV/kV",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade u Ulici Joke Kne\u017eevi\u0107a 1, Omi\u0161",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o mjerenju radne i jalove snage zajedni\u010dkih tro\u0161ila (liftovi i rasvjeta) u stambenoj zgradi Tr\u0161\u0107anska 53",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Dobrilina 7",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade D. \u0160imunovi\u0107a 25",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenje zna\u010dajki kvalitete elektri\u010dne energije u TS Vrh Su\u0107idra-18",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenje zna\u010dajki kvalitete elektri\u010dne energije u TS Kri\u017eine-5",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu upravne zgrade HEP OPS PrP Split",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu upravne zgrade\" Brodomerkur\"",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju razine parcijalnih izbijanja na trasi RTS Su\u0107idar\u2013TS G\u0161c1\u2013TS G\u0161c2\u2013TS Smrde\u010dac 5\u2013TS Smrde\u010dac 8",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu aparthotela\" Tamaris\"",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Termografski pregled TS Omial Novi",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju zna\u010dajki kvalitete elektri\u010dne energije u TS Smrde\u010dac-4",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:dshw04ExmUIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o energetskom pregledu stambene zgrade Vukovarska 113",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju geoelektri\u010dkih zna\u010dajki tla na lokaciji TS 110/10 (20) kV Poli\u010dnik",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:1qzjygNMrQYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o termografskom ispitivanju HE Peru\u010da",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvje\u0161\u0107e o ispitivanju geoelektri\u010dkih zna\u010dajki tla na lokaciji TS 110/10 (20) kV Zadar istok",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustical system monitoring in complex acoustic environments",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "107 A Review of Machine Learning Applications in Electricity Market Studies Saeed Mohammadi, Mohammad Reza Hesamadeh, Ali Vafamehr, Farzad Ferdowsi.......................... 15 \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CHAIRING COMMITTEE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2-giNBYAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

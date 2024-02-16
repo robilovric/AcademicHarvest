@@ -1,0 +1,156 @@
+{
+    "name": "Maji\u0107 Goran",
+    "num_citations": 70,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability analysis of three-phase PWM converter with LCL filter by means of nonlinear model",
+                "pub_year": "2010",
+                "citation": "Automatika 51 (3), 221-232, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6033492258919791292,3797062334096381302",
+            "cites_id": [
+                "6033492258919791292",
+                "3797062334096381302"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-sinusoidal voltage generator controlled by space vector PWM",
+                "pub_year": "2020",
+                "citation": "Measurement 150, 107088, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1981917147868298892",
+            "cites_id": [
+                "1981917147868298892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LCL Filter Design Method for Grid-Connected PWM-VSC",
+                "pub_year": "2017",
+                "citation": "Journal of Electrical Engineering & Technology 12 (5), 1945-1954, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17867865181154548179",
+            "cites_id": [
+                "17867865181154548179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of rotor resistance and transient inductance of induction motors using frequency selection Criterion",
+                "pub_year": "2012",
+                "citation": "2012 XXth International Conference on Electrical Machines, 980-986, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2770360076825335424",
+            "cites_id": [
+                "2770360076825335424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of dead time on voltage harmonic spectrum of grid-connected PWM-VSC with LCL filter",
+                "pub_year": "2016",
+                "citation": "2016 10th International Conference on Compatibility, Power Electronics and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15744082392694938994",
+            "cites_id": [
+                "15744082392694938994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Design of PWM Controlled Calibrator of Non-Sinusoidal Voltage Waveforms",
+                "pub_year": "2019",
+                "citation": "Energies 12 (10), 1966, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9066249656792319242",
+            "cites_id": [
+                "9066249656792319242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid-connected and Islanded Control of Energy Storage Converter",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Electrical Drives & Power Electronics (EDPE \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17905063826536128809",
+            "cites_id": [
+                "17905063826536128809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LCL Filter Design with Amorphous Core Inductor for 100 kVA Energy Storage Converter",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Electrical Drives & Power Electronics (EDPE \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The development of a frequency converter for high speed permanent magnet generators in cogeneration plants",
+                "pub_year": "2016",
+                "citation": "Tehni\u010dki glasnik 10 (3-4), 117-123, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimiranje trofaznog PWM usmjeriva\u010da s LCL filtrom s ura\u010dunatim nelinearnostima",
+                "pub_year": "2014",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "AvdFBLIAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

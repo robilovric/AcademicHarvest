@@ -1,0 +1,174 @@
+{
+    "name": "Kristi\u0107 Ante",
+    "num_citations": 41,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BPC\u2013A binary priority countdown protocol",
+                "pub_year": "2013",
+                "citation": "Ad Hoc Networks 11 (3), 747-764, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17222115705968303993",
+            "cites_id": [
+                "17222115705968303993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heterogeneous Wi-Fi and VLC (RF-optical) wireless access architecture",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12125464598552198544",
+            "cites_id": [
+                "12125464598552198544"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical model of simplified Constrained Priority Countdown Freezing protocol",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Symposium on Computers and Communications (ISCC), 000729-000734, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17822183562744692151",
+            "cites_id": [
+                "17822183562744692151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Modeling of Self-Adapting MAC (SaMAC) Protocol with Inconstant Contention Loss Probabilities",
+                "pub_year": "2018",
+                "citation": "Wireless Communications and Mobile Computing 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10646362677438542624",
+            "cites_id": [
+                "10646362677438542624"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved mathematical model of simplified Constrained Priority Countdown Freezing protocol",
+                "pub_year": "2013",
+                "citation": "2013 21st International Conference on Software, Telecommunications and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15560690498131513693",
+            "cites_id": [
+                "15560690498131513693"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Collision rate adaptive binary priority countdown protocol",
+                "pub_year": "2012",
+                "citation": "SoftCOM 2012, 20th International Conference on Software, Telecommunications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6527423612590036785",
+            "cites_id": [
+                "6527423612590036785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Devices using self-adapting medium access control protocol",
+                "pub_year": "2018",
+                "citation": "US Patent 10,165,597, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3561787354178249581",
+            "cites_id": [
+                "3561787354178249581"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contention Overhead\u2014Adaptive Binary Priority Countdown protocol",
+                "pub_year": "2013",
+                "citation": "2013 21st International Conference on Software, Telecommunications and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16427371306972288479",
+            "cites_id": [
+                "16427371306972288479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WTFC to tcp flow control proxy",
+                "pub_year": "2012",
+                "citation": "Proc. ACCESS 2012, InfoWare 2012, 7-13, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2776030199545049582",
+            "cites_id": [
+                "2776030199545049582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical model of constrained priority countdown freezing protocol",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UNAPRIJE\u0110ENI MODELI I ALGORITMI ZA UPRAVLJANJE PARAMETRIMA PRISTUPA KOD MRE\u017dA S NADMETANJEM ZA MEDIJ",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Zm85ehsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

@@ -1,0 +1,2067 @@
+{
+    "name": "Vujevi\u0107 Slavko",
+    "num_citations": 723,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the estimation of Heidler function parameters for reproduction of various standardized and recorded lightning current waveshapes",
+                "pub_year": "2013",
+                "citation": "International Transactions on Electrical Energy Systems 23 (2), 290-300, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:8k81kl-MbHgC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10527115084408637125",
+            "cites_id": [
+                "10527115084408637125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accuracy of approximate formulas for internal impedance of tubular cylindrical conductors for large parameters",
+                "pub_year": "2011",
+                "citation": "Progress in Electromagnetics Research M 16, 171-184, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10198772678746870991",
+            "cites_id": [
+                "10198772678746870991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exponential approximation of the Heidler function for the reproduction of lightning current waveshapes",
+                "pub_year": "2010",
+                "citation": "Electric Power Systems Research 80 (10), 1293-1298, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17244713550747419390",
+            "cites_id": [
+                "17244713550747419390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D computation of the power lines magnetic field",
+                "pub_year": "2015",
+                "citation": "Progress In Electromagnetics Research M 41, 1-9, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9188976808240312153",
+            "cites_id": [
+                "9188976808240312153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel algorithm for internal impedance computation of solid and tubular cylindrical conductors",
+                "pub_year": "2009",
+                "citation": "International Review of Electrical Engineering 4 (6), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8717639095268023986",
+            "cites_id": [
+                "8717639095268023986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potential distribution for a harmonic current point source in horizontally stratified multilayer medium",
+                "pub_year": "2008",
+                "citation": "COMPEL-The international journal for computation and mathematics in \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:RGFaLdJalmkC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=365793399636835950",
+            "cites_id": [
+                "365793399636835950"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of earthing grids buried in horizontally stratified multilayer earth",
+                "pub_year": "1998",
+                "citation": "International Journal for Numerical Methods in Engineering 41 (7), 1297-1319, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9199462999161240109",
+            "cites_id": [
+                "9199462999161240109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-accurate numerical computation of internal impedance of cylindrical conductors for complex arguments of arbitrary magnitude",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 56 (6), 1431-1438, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:yD5IFk8b50cC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3120208542931922086",
+            "cites_id": [
+                "3120208542931922086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of methods for grounding grid analysis",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009-17th International Conference on Software, Telecommunications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7131717809010967375",
+            "cites_id": [
+                "7131717809010967375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grounding grid analysis: Historical background and classification of methods",
+                "pub_year": "2009",
+                "citation": "INTERNATIONAL REVIEW OF ELECTRICAL ENGINEERING-IREE 4 (4), 670-683, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12747794259351584606",
+            "cites_id": [
+                "12747794259351584606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Earthing grid parameters with conductor surrounded by an additional substance",
+                "pub_year": "2000",
+                "citation": "IEE Proceedings-Generation, Transmission and Distribution 147 (1), 57-61, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3410412143675035088",
+            "cites_id": [
+                "3410412143675035088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potential of earthing grid in heterogeneous soil",
+                "pub_year": "1991",
+                "citation": "International Journal for Numerical Methods in Engineering 31 (4), 677-688, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1453470304701915542",
+            "cites_id": [
+                "1453470304701915542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Least squares estimation of Heidler function parameters",
+                "pub_year": "2011",
+                "citation": "European Transactions on Electrical Power 21 (1), 329-344, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6110138031646162348",
+            "cites_id": [
+                "6110138031646162348"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-harmonic analysis of grounding system in horizontally stratified multilayer medium",
+                "pub_year": "2012",
+                "citation": "Electric Power Systems Research 83 (1), 28-34, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17623109626291950324",
+            "cites_id": [
+                "17623109626291950324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of 2D algorithms for the computation of power line electric and magnetic fields",
+                "pub_year": "2011",
+                "citation": "European Transactions on Electrical Power 21 (1), 505-521, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:qjMakFHDy7sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8969252343077460240",
+            "cites_id": [
+                "8969252343077460240"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D computation of the overhead power lines electric field",
+                "pub_year": "2017",
+                "citation": "Progress in Electromagnetics Research M 53, 17-28, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:tOudhMTPpwUC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4427246875809927905",
+            "cites_id": [
+                "4427246875809927905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical model of lightning stroke development",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ldfaerwXgEUC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4982880310890521083",
+            "cites_id": [
+                "4982880310890521083"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical modelling of the earthing grid",
+                "pub_year": "1992",
+                "citation": "International Conference on Computational Methods in Engineering 1, 896-874, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9516355156836717633",
+            "cites_id": [
+                "9516355156836717633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inverse continuous numerical Fourier transform for transient analysis of electromagnetic phenomena",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 57 (5), 1149-1154, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:_xSYboBqXhAC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1849815763660958872",
+            "cites_id": [
+                "1849815763660958872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of different metal oxide surge arrester models",
+                "pub_year": "2011",
+                "citation": "Int. J. Emerg. Sci 4, 545-554, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:5nxA0vEk-isC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12653205760970571703",
+            "cites_id": [
+                "12653205760970571703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate computation of internal impedance of two-layer cylindrical conductors for arguments of arbitrary magnitude",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 60 (2), 347-353, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:sSrBHYA8nusC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17967026796151876907",
+            "cites_id": [
+                "17967026796151876907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2D computation and measurement of electric and magnetic fields of overhead electric power lines",
+                "pub_year": "2011",
+                "citation": "Proceedings of the Joint INDS'11 & ISTET'11, 1-6, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8806551903475412554",
+            "cites_id": [
+                "8806551903475412554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-harmonic current distribution on conductor grid in horizontally stratified multilayer medium",
+                "pub_year": "2011",
+                "citation": "Progress In Electromagnetics Research B 31, 67-87, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15838432302304900792",
+            "cites_id": [
+                "15838432302304900792"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the numerical computation of cylindrical conductor internal impedance for complex arguments of large magnitude",
+                "pub_year": "2016",
+                "citation": "Facta Universitatis, Series: Electronics and Energetics 30 (1), 81-91, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9307369152425530014",
+            "cites_id": [
+                "9307369152425530014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interfacing harmonic electromagnetic models of grounding systems with the EMTP-ATP software package",
+                "pub_year": "2014",
+                "citation": "Renewable energy 68, 163-170, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12740007820929009392",
+            "cites_id": [
+                "12740007820929009392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of the overhead power line electromagnetic field",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:70eg2SAEIzsC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10067209698882726672",
+            "cites_id": [
+                "10067209698882726672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of the electric field in the vicinity of overhead power line towers",
+                "pub_year": "2016",
+                "citation": "Electric Power Systems Research 135, 68-76, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:738O_yMBCRsC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16875734174418491768",
+            "cites_id": [
+                "16875734174418491768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A surface charge simulation method based on advanced numerical integration",
+                "pub_year": "2015",
+                "citation": "Advances in engineering software 86, 20-28, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14420900907524007600",
+            "cites_id": [
+                "14420900907524007600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izrada pravila i mjera sigurnosti za osiguranje mjesta rada na elektroenergetskim vodovima",
+                "pub_year": "2013",
+                "citation": "Sveu\u010dili\u0161te u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=431377604585121391",
+            "cites_id": [
+                "431377604585121391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid model for analysis of ground fault current distribution",
+                "pub_year": "2012",
+                "citation": "International Review of Electrical Engineering 7 (2), 2012"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=67489092024766066",
+            "cites_id": [
+                "67489092024766066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of the power line electric and magnetic fields",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 17th Telecommunications forum TELFOR, 875-878, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362906021861556718",
+            "cites_id": [
+                "7362906021861556718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A combined analysis of earthing grids in karstic soil",
+                "pub_year": "1994",
+                "citation": "Ph. D. Thesis, Faculty of Electrical Engineering, Mechanical Engineering and \u2026, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3228824666408685851",
+            "cites_id": [
+                "3228824666408685851"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Least squares estimation of double-exponential function parameters",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 11th International Conference on Applied Electromagnetics \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17877654563428661496",
+            "cites_id": [
+                "17877654563428661496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Definition and computation of cylindrical conductor internal impedance for large parameters",
+                "pub_year": "2010",
+                "citation": "2010 Conference Proceedings ICECom, 20th International Conference on Applied \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:lSLTfruPkqcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6513814892273144721",
+            "cites_id": [
+                "6513814892273144721"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic assessment of external LPS of structures",
+                "pub_year": "2008",
+                "citation": "29th International Conference on Lightning Protection, Sweden, Uppsala, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11978088754488919400",
+            "cites_id": [
+                "11978088754488919400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TLM Model for the Lightning Transient Analysis of the GSM Base Station",
+                "pub_year": "2005",
+                "citation": "University of Split, Faculty of Electrical Engineering, Mechanical \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:Zph67rFs4hoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1057857299707084502",
+            "cites_id": [
+                "1057857299707084502"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient use of exponential approximation of the kernel function in interpretation of resistivity sounding data",
+                "pub_year": "1992",
+                "citation": "International Journal for Engineering Modelling 5 (1-2), 1992"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:Se3iqnhoufwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8174183817382960275",
+            "cites_id": [
+                "8174183817382960275"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Definition and computation of Carson formulas",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:geHnlv5EZngC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17800429136102115397",
+            "cites_id": [
+                "17800429136102115397"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-Harmonic Modelling of Two-Winding Transformers Using the Finite Element Technique",
+                "pub_year": "2013",
+                "citation": "International Review on Modelling and Simulations (IREMOS) 6 (6  Part B \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:u_35RYKgDlwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=937399826803803536",
+            "cites_id": [
+                "937399826803803536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monte Carlo based efficiency assessment of lightning protection system \u201c",
+                "pub_year": "2008",
+                "citation": "International Review of Electrical Engineering (IREE) 3 (2), 225-232, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1561107652211274033",
+            "cites_id": [
+                "1561107652211274033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-harmonic analysis of earthing grids",
+                "pub_year": "2003",
+                "citation": "WIT Transactions on Engineering Sciences 41, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15412117382200398485",
+            "cites_id": [
+                "15412117382200398485"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct and iterative automatic interpretation of resistivity sounding data",
+                "pub_year": "1992",
+                "citation": "International Journal for Engineering Modelling 5 (3-4), 83-90, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13053959190851164140",
+            "cites_id": [
+                "13053959190851164140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of electric and magnetic field distribution inside a multilayer cylindrical conductor",
+                "pub_year": "2020",
+                "citation": "Progress in Electromagnetics Research M 88, 53-63, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:1qzjygNMrQYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4434681260800629313",
+            "cites_id": [
+                "4434681260800629313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Highly accurate computation of Carson formulas based on exponential approximation",
+                "pub_year": "2018",
+                "citation": "Electric Power Systems Research 162, 134-141, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18008145339598809178",
+            "cites_id": [
+                "18008145339598809178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On continuous numerical Fourier transform for transient analysis of lightning current related phenomena",
+                "pub_year": "2015",
+                "citation": "Electric power systems research 119, 364-369, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:a0OBvERweLwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10310951107759709602",
+            "cites_id": [
+                "10310951107759709602"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self and mutual ground impedances of cylindrical metal plates buried in homogeneous earth",
+                "pub_year": "2015",
+                "citation": "International Journal of Numerical Modelling: Electronic Networks, Devices \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1279490542594399925",
+            "cites_id": [
+                "1279490542594399925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internal impedance of two-layer cylindrical conductors",
+                "pub_year": "2014",
+                "citation": "International Review of Electrical Engineering (IREE) 9 (1), 235-243, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1393575202245457638",
+            "cites_id": [
+                "1393575202245457638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometrical approximation of the overhead power line conductors",
+                "pub_year": "2014",
+                "citation": "International Review on Modelling and Simulations 7 (1), 76-82, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17192479684999210784",
+            "cites_id": [
+                "17192479684999210784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The difference between voltage and potential difference",
+                "pub_year": "2011",
+                "citation": "Proceedings of the Joint INDS'11 & ISTET'11, 1-7, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:M05iB0D1s5AC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=268321128792707648",
+            "cites_id": [
+                "268321128792707648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of potential distribution for a point current source in horizontally stratified multilayer earth",
+                "pub_year": "1995",
+                "citation": "International Journal for Engineering Modelling 8 (1-2), 1995"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:35N4QoGY0k4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938862938015094888",
+            "cites_id": [
+                "15938862938015094888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid algorithm for computation of rectangular conductor internal impedance",
+                "pub_year": "2012",
+                "citation": "Tehni\u010dki vjesnik 19 (2), 341-346, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2212451239443940423",
+            "cites_id": [
+                "2212451239443940423"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ground impedance of cylindrical metal plate buried in homogeneous earth",
+                "pub_year": "2011",
+                "citation": "Proceedings of the Joint INDS'11 & ISTET'11, 1-7, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7896751058816016963",
+            "cites_id": [
+                "7896751058816016963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accuracy of the Inverse Fast Fourier Transform algorithm in grounding grid transient analysis",
+                "pub_year": "2010",
+                "citation": "2010 Conference Proceedings ICECom, 20th International Conference on Applied \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5694060989527858289",
+            "cites_id": [
+                "5694060989527858289"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An EMTP extension for computing Earthing system transient step and touch voltages",
+                "pub_year": "2010",
+                "citation": "Journal of Energy: Energija 59 (1-4), 0-0, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=732319198530720896",
+            "cites_id": [
+                "732319198530720896"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical approximation of the lightning current function",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009-17th International Conference on Software, Telecommunications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10310762769019926126",
+            "cites_id": [
+                "10310762769019926126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing the mutual impedances between segments of earthing system conductors",
+                "pub_year": "2005",
+                "citation": "WIT Transactions on Modelling and Simulation 41, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:roLk4NBRz8UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11455373762633438331",
+            "cites_id": [
+                "11455373762633438331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical analysis and interpretation of resistivity sounding data in earthing grid design",
+                "pub_year": "1999",
+                "citation": "Mathematics and computers in simulation 50 (1-4), 339-349, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=33503974588022411",
+            "cites_id": [
+                "33503974588022411"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed-form spectral-domain green's functions for infinitesimal current source in multilayer soil",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 62 (6), 2814-2822, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:J-pR_7NvFogC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14260713236895231849",
+            "cites_id": [
+                "14260713236895231849"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of conductive passive parts on the magnetic flux density produced by overhead power lines",
+                "pub_year": "2019",
+                "citation": "Facta Universitatis, Series: Electronics and Energetics 32 (4), 555-569, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6463881600223677725",
+            "cites_id": [
+                "6463881600223677725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Carson formulas using piecewise quadratic approximation",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:LPZeul_q3PIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1288369262475498438",
+            "cites_id": [
+                "1288369262475498438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmentation of overhead power line conductors for 3D electric and magnetic field computation",
+                "pub_year": "2011",
+                "citation": "10th International Conference on Applied Electromagnetics\u2013PES, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:dhFuZR0502QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5560437462912803815",
+            "cites_id": [
+                "5560437462912803815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elektromagnetsko oklapanje i uzemljenje",
+                "pub_year": "2005",
+                "citation": "Elektro 9 (6), 2005"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:r0BpntZqJG4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17555660365647537736",
+            "cites_id": [
+                "17555660365647537736"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency domain grounding grid analysis based on the finite element technique",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1165239663374910609",
+            "cites_id": [
+                "1165239663374910609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of attenuation effect of grid-like spatial shields used in lightning protection of buildings",
+                "pub_year": "2018",
+                "citation": "Progress In Electromagnetics Research M 69, 137-149, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4395227992851921288",
+            "cites_id": [
+                "4395227992851921288"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing the electromagnetic field of the system of arbitrarily positioned conductors in horizontally stratified multilayer medium",
+                "pub_year": "2015",
+                "citation": "International Journal of Numerical Modelling: Electronic Networks, Devices \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10193855415351722993",
+            "cites_id": [
+                "10193855415351722993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed-image-method-based transient electromagnetic model of grounding system in horizontally stratified multilayer medium",
+                "pub_year": "2015",
+                "citation": "Progress In Electromagnetics Research M 44, 1-12, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:p2g8aNsByqUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12532899116247967995",
+            "cites_id": [
+                "12532899116247967995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Problemi u elektroenergetskom napajanju Tunela Sveti Rok",
+                "pub_year": "2008",
+                "citation": "Zbornik radova Prvog savjetovanja Hrvatskog ogranka Me\u0111unarodne \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9472853449895640153",
+            "cites_id": [
+                "9472853449895640153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-harmonic and transient linear circuit analysis using finite element technique",
+                "pub_year": "2008",
+                "citation": "International Review on Modelling and Simulations (IREMOS) 1 (2), 275-280, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14974466353869465506",
+            "cites_id": [
+                "14974466353869465506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dangerous voltages due to direct lightning strike into the communication tower",
+                "pub_year": "2007",
+                "citation": "Journal of Communications Software and Systems 3 (1), 44-51, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498540020633542694",
+            "cites_id": [
+                "12498540020633542694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2D BEM analysis of power cables thermal field",
+                "pub_year": "2006",
+                "citation": "International Journal for Engineering Modelling 19 (1-4), 87-94, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17008936448714599657",
+            "cites_id": [
+                "17008936448714599657"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EMTP modelling of direct lightning strikes to the GSM base station tower",
+                "pub_year": "2005",
+                "citation": "13th International Conference on Software Telecommunications and Computer \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=262088456465915761",
+            "cites_id": [
+                "262088456465915761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the dynamic characteristics of grounding electrodes using the finite element technique",
+                "pub_year": "2003",
+                "citation": "11th International Conference on Software Telecommunications and Computer \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8775278264761306722",
+            "cites_id": [
+                "8775278264761306722"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lightning transient response of GSM base station Earthing grid",
+                "pub_year": "2001",
+                "citation": "International Conference on Software Telecommunications and Computer \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3844883959886157733",
+            "cites_id": [
+                "3844883959886157733"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kombinirani postupak prora\u010duna uzemljiva\u010da u kr\u0161evitom tlu",
+                "pub_year": "1994",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118847843331192662",
+            "cites_id": [
+                "11118847843331192662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical calculation of earthing electrical field in rocky ground",
+                "pub_year": "1987",
+                "citation": "Master's Thesis, Faculty of Electrical Engineering, University of Zagreb, 1987"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:abG-DnoFyZgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7300149683435653724",
+            "cites_id": [
+                "7300149683435653724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj ekspertnog sustava za optimizaciju elektroenergetskog sustava Hrvatskih autocesta",
+                "citation": "Zbornik 18, 16-20, 0"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9461482266063575553",
+            "cites_id": [
+                "9461482266063575553"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj dodatnog materijala u kanalu na parametre uzemljiva\u010da",
+                "citation": "\u010cetvrto savjetovanje HK CIGRE, 151-160, 0"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15339553190513293765",
+            "cites_id": [
+                "15339553190513293765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing of the Resulting Current Reduction Factor for Multi-Cable Connection",
+                "citation": "The 11th International DAAAM Symposium, 419-420, 0"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14763592808501956722",
+            "cites_id": [
+                "14763592808501956722"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrections to \u201cClosed-Form Spectral-Domain Green's Functions for Infinitesimal Current Source in Multilayer Soil\u201d",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 64 (3), 902-902, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:1yQoGdGgb4wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15012008875124612857",
+            "cites_id": [
+                "15012008875124612857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-iterative algorithm for computation of the prospective permissible touch voltage according to EN 50522",
+                "pub_year": "2019",
+                "citation": "Electric Power Systems Research 167, 222-229, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8996011280388967005",
+            "cites_id": [
+                "8996011280388967005"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency assessment of the external lightning protection system",
+                "pub_year": "2009",
+                "citation": "9th International Conference on Applied Electromagnetics, Serbia, Ni\u0161, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:maZDTaKrznsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12222982391772644711",
+            "cites_id": [
+                "12222982391772644711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Spectral-Domain Green's Functions of the Infinitesimal Current Source in a Planar Multilayer Medium",
+                "pub_year": "2023",
+                "citation": "Progress In Electromagnetics Research B 100, 55-71, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced computation of the field apparent resistivity of the soil for driven-rod electrodes",
+                "pub_year": "2021",
+                "citation": "Electrotechnica & Electronica (E+ E) 56, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ZuybSZzF8UAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of per-unit-length internal impedance of a multilayer cylindrical conductor with possible dielectric layers",
+                "pub_year": "2020",
+                "citation": "Facta universitatis-series: Electronics and Energetics 33 (4), 605-616, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:LjlpjdlvIbIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Carson formulas using piecewise approximation of kernel function",
+                "pub_year": "2018",
+                "citation": "International Journal for Engineering Modelling 31 (1-2), 15-30, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrigendum to \u201cOn continuous numerical Fourier transform for transient analysis of lightning current related phenomena\u201d[Electr. Power Syst. Res. 119 (2015) 364\u2013369]",
+                "pub_year": "2016",
+                "citation": "Electric Power Systems Research 100 (140), 527, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and Simulations",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hibridni algoritam za prora\u010dun unutarnje impedancije pravokutnog vodi\u010da",
+                "pub_year": "2012",
+                "citation": "Tehni\u010dki vjesnik 19 (2), 341-346, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Istine i zablude o zracenju trafostanica i elektroenergetskih vodova",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel Algorithm for Internal Impedance Computation of Solid and Tubular Cylindrical Conductors (vol 4, pg 1418, 2009)",
+                "pub_year": "2010",
+                "citation": "INTERNATIONAL REVIEW OF ELECTRICAL ENGINEERING-IREE 5 (1), 346-346, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of an expert system for optimization of the electric power system of Croatian motorways",
+                "pub_year": "2009",
+                "citation": "18. me\u0111unarodni Elektroin\u017eenjerski simpozij EIS 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Renewable energy sources of Croatian motorways",
+                "pub_year": "2009",
+                "citation": "18. me\u0111unarodni Elektroin\u017eenjerski simpozij EIS 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of overvoltage protection efficiency of low-voltage overhead power lines with self-supporting cable bunch",
+                "pub_year": "2009",
+                "citation": "Deveto savjetovanje HRO CIGRE, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Questionable superiority of alternative air terminals",
+                "pub_year": "2009",
+                "citation": "Nau\u010dno-stru\u010dni Simpozijum Infoteh-Jahorina 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chief designer, project coordinator or knowledge engineer in planning and designing substations and installations in traffic",
+                "pub_year": "2009",
+                "citation": "19. me\u0111unarodni simpozij Planiranje i Projektiranje (P&P 2009), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A necessity for a modification of the Technical rules for the lightning protection of structures",
+                "pub_year": "2009",
+                "citation": "18. me\u0111unarodni Elektroin\u017eenjerski simpozij EIS 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rationalization and application of renewable energy sources in legislation of designing",
+                "pub_year": "2009",
+                "citation": "19. me\u0111unarodni simpozij Planiranje i Projektiranje (P&P 2009), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and Simulations",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ye4kPcJQO24C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ODRE\u0110IVANJE ME\u0110USOBNOG OTPORA UZEMLJENJA BLISKIH UZEMLJIVA\u010cA",
+                "pub_year": "2008",
+                "citation": "Journal of Energy: Energija 57 (4), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numeri\u010dki prora\u010dun uzemljiva\u010dkog sustava i provjera uvjeta bezopasnosti u CS Bu\u0161ko Blato",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:9Nmd_mFXekcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DETERMINATION OF THE MUTUAL GROUND RESISTANCE OF ADJACENT GROUNDING GRIDS",
+                "pub_year": "2008",
+                "citation": "Journal of Energy-Energija 57 (4), 440-451, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Problems associated with power supply of Sveti Rok Tunnel",
+                "pub_year": "2008",
+                "citation": "Prvo savjetovanje Hrvatskog ogranka Me\u0111unarodne elektrodistribucijske \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical computation and dangerous voltages verification of the earthing system for the Pump Station Bu\u0161ko Blato",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Croatian Motorways electrical networks on distributive networks",
+                "pub_year": "2008",
+                "citation": "16. me\u0111unarodni Elektroin\u017eenjerski simpozij (Dani Josipa Lon\u010dara) EIS 2008, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Licence (certificate of qualification) for inspection and maintenance according to projects of special systems",
+                "pub_year": "2008",
+                "citation": "17. simpozij Planiranje i projektiranje (P&P 2008), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Journal of Energy",
+                "pub_year": "2007",
+                "citation": "ENERGIJA 18, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ENERGIJA",
+                "pub_year": "2007",
+                "citation": "The International Symposium was organized by the Croatian CIGRE 18, 21st, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient algorithm for interpretation of resistivity sounding data",
+                "pub_year": "2007",
+                "citation": "International Conference On Applied Electromagnetics (PES 2007), (O5-7) 1-4, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM matrix formulation in 2D eddy current analysis",
+                "pub_year": "2007",
+                "citation": "Przegl\u0105d Elektrotechniczny 83 (6), 39-43, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contemporary illusions about efficiency of non-conventional air terminals",
+                "pub_year": "2006",
+                "citation": "Elektrotehni\u010dke instalacije 1 (4-5), 60, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A critical review of active lightning protection ait terminals effectiveness",
+                "pub_year": "2006",
+                "citation": "12. Me\u0111unarodni simpozij\" Elektri\u010dne instalacije\" Dani Josipa Lon\u010dara, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "To\u010dniji izra\u010dun napona dodira i napona koraka",
+                "pub_year": "2006",
+                "citation": "12. me\u0111unarodni simpozij ELEKTRI\u010cNE INSTALACIJE Dani Josipa Lon\u010dara, (S-15) 1-6, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of electromagnetic transients on transmission lines using the finite element method",
+                "pub_year": "2005",
+                "citation": "XIII International Symposium on Theoretical Electrical Engineering ISTET'05 \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiconductor transmission lines modeling using the finite element technique",
+                "pub_year": "2004",
+                "citation": "12th International Conference on Software, Telecommunications and Computer \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM analysis of overvoltage protection device including grounding electrodes",
+                "pub_year": "2002",
+                "citation": "International conference on software, telecommunications and computer \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formiranje strujne petlje pri ispitivanju opasnog utjecaja",
+                "pub_year": "2001",
+                "citation": "Peto savjetovanje Hrvatskog komiteta CIGRE, (R36-01) 1-8, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incomplete version of the program package EarthCAD",
+                "pub_year": "2001",
+                "citation": "Peto savjetovanje Hrvatskog komiteta CIGRE, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novi algoritam za eksponencijalnu aproksimaciju Sommerfeldovih integrala",
+                "pub_year": "2000",
+                "citation": "Tre\u0107i seminar iz elektromagnetske kompatibilnosti i telekomunikacija, 9-13, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Thevenin equivalent approach for touch voltage and step voltage",
+                "pub_year": "2000",
+                "citation": "Inteligent Manufacturing & Automation: Man-Machine-Nature, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new algorithm for exponential approximation of Sommerfeld integrals",
+                "pub_year": "2000",
+                "citation": "Intelligent Manufacturing & Automation: Man-Machine-Nature, 485-486, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CAD uzemljiva\u010da elektri\u010dnog postrojenja",
+                "pub_year": "1997",
+                "citation": "Tre\u0107e savjetovanje hrvatskog komiteta CIGRE, 137-146, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numeri\u010dki postupci prora\u010duna uzemljiva\u010da visokonaponskih elektri\u010dnih postrojenja i numeri\u010dki postupci prora\u010duna elektri\u010dnog sastava tla",
+                "pub_year": "1993",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of insulator field using finite and infinite elements",
+                "pub_year": "1990",
+                "citation": "The Third International Symposium of Applied Electrostatics, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polje potencijala uzemljiva\u010da u kr\u0161evitom tlu",
+                "pub_year": "1989",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Software basis of earthing",
+                "pub_year": "1989",
+                "citation": "Elektrotehnika ELTHB2 32 (3-4), 123-134, 1989"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modern earthing grid design",
+                "pub_year": "1988",
+                "citation": "XI. savjetovanje o prijenosu elektri\u010dne energije u SFRJ, 1988"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numeri\u010dki prora\u010dun elektri\u010dnog polja uzemljiva\u010da u kra\u0161kom tlu",
+                "pub_year": "1987",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of potential grounding field in heterogeneous ground",
+                "pub_year": "1986",
+                "citation": "Elektrotehnika ELTHB2 29 (1-2), 23-33, 1986"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of grounding system by finite element method",
+                "pub_year": "1982",
+                "citation": "IV. znanstveni skup Prora\u010dunavanje i projektiranje pomo\u0107u ra\u010dunala, 1982"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numeri\u010dki prora\u010dun stati\u010dkog polja",
+                "pub_year": "1981",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 1981"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:fEOibwPWpKIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical computation of static field",
+                "pub_year": "1981",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 1981"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ELECTROTECHNICA & ELECTRONICA E+ E",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:N5tVd3kTz84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPUTATION OF THE FIELD APPARENT RESISTIVITY OF THE SOIL FOR DRIVEN-ROD ELECTRODES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accuracy of the IFFT algorithm in grounding grid transient analysis",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2D BEM ANALYSIS OF POTENTIAL LAPLACE PROBLEMS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FORWARD AND INVERSE CONTINUOUS NUMERICAL FOURIER TRANSFORM FOR TRANSIENT ANALYSIS OF ELECTROMAGNETIC PHENOMENA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TECHNICAL PROGRAM: SYMPOSIUMS & SPECIAL SESSION",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-dimensional BEM for analysis of potential Laplace problems",
+                "citation": "International journal for engineering modelling 15 (1-4), 45-50, 0"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linear Circuit Analysis Using Finite Element Technique",
+                "citation": "Proceedings of the XIII International Symposium on Theoretical Electrical \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalar electric potential in the air due to a direct current point source buried in the earth",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UPITNA SUPERIORNOST AKTIVNIH GROMOBRANSKIH HVATALJKI QUESTIONABLE SUPERIORITY OF ALTERNATIVE AIR TERMINALS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "x0tCkogAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "is9oPN8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dino Lovric",
+            "affiliation": "Researcher, University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TPzhZnwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petar Sarajcev",
+            "affiliation": "University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "B5Oje2sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ton\u0107i Modri\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M1VXEPcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vedran Boras",
+            "affiliation": "Full Professor, University of Split, Faculty of Science,unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cx06qqAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rino Luci\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VkAqhbIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dinko Vukadinovi\u0107",
+            "affiliation": "University of Split, Faculty of Electrical Engineering Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1TV3Sw8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mateo Ba\u0161i\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        }
+    ]
+}

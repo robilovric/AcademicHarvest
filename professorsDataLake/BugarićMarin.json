@@ -1,0 +1,492 @@
+{
+    "name": "Bugari\u0107 Marin",
+    "num_citations": 204,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced automatic wildfire surveillance and monitoring network",
+                "pub_year": "2010",
+                "citation": "VI International Conference on Forest Fire Research, 15-18, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17759999395828422559",
+            "cites_id": [
+                "17759999395828422559"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Timing attacks on cognitive authentication schemes",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Information Forensics and Security 10 (3), 584-596, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2226942976073603767",
+            "cites_id": [
+                "2226942976073603767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive estimation of visual smoke detection parameters based on spatial data and fire risk index",
+                "pub_year": "2014",
+                "citation": "Computer vision and image understanding 118, 184-196, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=798162038648617902",
+            "cites_id": [
+                "798162038648617902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping chlorophyll-a concentrations in the Ka\u0161tela Bay and Bra\u010d Channel using ridge regression and Sentinel-2 satellite images",
+                "pub_year": "2021",
+                "citation": "Electronics 10 (23), 3004, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13671032800160379722",
+            "cites_id": [
+                "13671032800160379722"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vision based wildfire and natural risk observers",
+                "pub_year": "2012",
+                "citation": "2012 3rd International Conference on Image Processing Theory, Tools and \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12408306055775787995",
+            "cites_id": [
+                "12408306055775787995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration of forest fire video monitoring system and geographic information system",
+                "pub_year": "2009",
+                "citation": "2009 International Symposium ELMAR, 49-52, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16034766014551991686",
+            "cites_id": [
+                "16034766014551991686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an integrated approach to wildfire risk assessment: when, where, what and how may the landscapes burn",
+                "pub_year": "2023",
+                "citation": "Fire 6 (5), 215, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16037626765084738955",
+            "cites_id": [
+                "16037626765084738955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semantic Conceptual Framework for Environmental Monitoring and Surveillance\u2014A Case Study on Forest Fire Video Monitoring and Surveillance",
+                "pub_year": "2022",
+                "citation": "Electronics 11 (2), 275, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:4TOpqqG69KYC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11806798842835031050",
+            "cites_id": [
+                "11806798842835031050"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fortune cookies and smartphones: Weakly unrelayable channels to counter relay attacks",
+                "pub_year": "2015",
+                "citation": "Pervasive and Mobile Computing 20, 64-81, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1828158574228755857",
+            "cites_id": [
+                "1828158574228755857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer vision based measurement of wildfire smoke dynamics",
+                "pub_year": "2015",
+                "citation": "Advances in Electrical and Computer Engineering 15 (1), 55-63, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16215308922236276527",
+            "cites_id": [
+                "16215308922236276527"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web GIS technologies in advanced cloud computing based wildfire monitoring system",
+                "pub_year": "2011",
+                "citation": "Computing 9, 13, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13271717871132182913",
+            "cites_id": [
+                "13271717871132182913"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic adjustement of detection parameters in forest fire video monitoring system",
+                "pub_year": "2009",
+                "citation": "MIPRO, May, 270-275, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11877323985654952807",
+            "cites_id": [
+                "11877323985654952807"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AdriaFirePropagator and AdriaFireRisk: User friendly Web based wildfire propagation and wildfire risk prediction software",
+                "pub_year": "2018",
+                "citation": "Imprensa da Universidade de Coimbra, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14651406652970697718",
+            "cites_id": [
+                "14651406652970697718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active IR system for projectile detection and tracking",
+                "pub_year": "2017",
+                "citation": "Advances in Electrical and Computer Engineering 17 (4), 125-130, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16082703629867805175",
+            "cites_id": [
+                "16082703629867805175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical evaluation of site-specific wildfire risk index calculation for Adriatic regions",
+                "pub_year": "2014",
+                "citation": "Imprensa da Universidade de Coimbra, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2523309987549004833",
+            "cites_id": [
+                "2523309987549004833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protupo\u017earni nadzorni sustav unaprije\u0111en geografskim informacijskim sustavom i na njemu utemeljenoj pro\u0161irenoj stvarnosti (Wildfire Surveillance Systems Enhanced by Geographic \u2026",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11357659860556024283",
+            "cites_id": [
+                "11357659860556024283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel Moisture Content in Croatian Wildfire Spread Simulator AdriaFirePropagator",
+                "pub_year": "2022",
+                "citation": "Advances in Forest Fire Research, 216-221, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:dhFuZR0502QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7535661657813389990",
+            "cites_id": [
+                "7535661657813389990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On wpa2-enterprise privacy in high education and science",
+                "pub_year": "2020",
+                "citation": "Security and Communication Networks 2020, 1-11, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9034684467865196814",
+            "cites_id": [
+                "9034684467865196814"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Site-Specific Wildfire Risk Index in Croatian Wildfire Monitoring and Surveillance System",
+                "pub_year": "2022",
+                "citation": "Environmental Sciences Proceedings 17 (1), 34, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8024871609596603349",
+            "cites_id": [
+                "8024871609596603349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New generation of automatic ground based wildfire surveillance systems",
+                "pub_year": "2014",
+                "citation": "Parte: http://hdl. handle. net/10316.2/34013, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7732795870896854337",
+            "cites_id": [
+                "7732795870896854337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmented reality based segmentation of outdoor landscape images",
+                "pub_year": "2013",
+                "citation": "2013 8th International Symposium on Image and Signal Processing and Analysis \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14130438125804124285",
+            "cites_id": [
+                "14130438125804124285"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of fuzzy logic to determine the quality of urban wastewater in Split, Croatia.",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7061834392431574766",
+            "cites_id": [
+                "7061834392431574766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prepoznavanje dima i vatre temeljeno na analizi digitalne slike",
+                "pub_year": "2007",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5305882402045306676",
+            "cites_id": [
+                "5305882402045306676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dead Fuel Moisture Content in Wildfire Propagation Potential Estimation for Split-Dalmatia County",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multichannel data from temporal and contextual information for early wildfire detection",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Stereo Approach to Wildfire Smoke Detection: The Improvement of the Existing Methods by Adding a New Dimension",
+                "pub_year": "2018",
+                "citation": "Computing and Informatics 37 (2), 476-508, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IPA Adriatic Holistic Forest Fire Protection Project: the year after",
+                "pub_year": "2018",
+                "citation": "Imprensa da Universidade de Coimbra, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing Decision Tree Attack on CAS Scheme",
+                "pub_year": "2016",
+                "citation": "Advances in Electrical and Computer Engineering 16 (2), 69-75, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "xriWnMQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V-v16W8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Darko Stipanicev",
+            "affiliation": "University of Split, Faculty of Elecrtical Engineering, Mechanical Engineering and Naval Arhitecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QxhAZBQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ljiljana \u0160eri\u0107",
+            "affiliation": "University of Split, FESB, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zgG31WcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Toni Jakovcevic",
+            "affiliation": "University of Split, www.unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V3NxDscAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Toni Perkovi\u0107",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rfgWlCIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maja Stula",
+            "affiliation": "Professor, FESB, University of Split unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OGDtCJ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Maras",
+            "affiliation": "University of Split, FESB unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2DNYP3EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shujun Li (\u674e\u6811\u94a7)",
+            "affiliation": "Professor of Cyber Security, School of Computing, University of Kent"
+        }
+    ]
+}

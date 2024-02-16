@@ -1,0 +1,455 @@
+{
+    "name": "Kuzmani\u0107 Skelin Ana",
+    "num_citations": 276,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design, development and testing of a low-cost sEMG system and its use in recording muscle activity in human gait",
+                "pub_year": "2014",
+                "citation": "Sensors 14 (5), 8235-8258, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 83,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15156617144901966786",
+            "cites_id": [
+                "15156617144901966786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hand shape classification using DTW and LCSS as similarity measures for vision-based gesture recognition system",
+                "pub_year": "2007",
+                "citation": "EUROCON, 2007. The International Conference on &# 34; Computer as a Tool \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16245148163593841825",
+            "cites_id": [
+                "16245148163593841825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast two-step histogram-based image segmentation",
+                "pub_year": "2011",
+                "citation": "Image Processing, IET 5 (1), 63-72, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12674740681608775512",
+            "cites_id": [
+                "12674740681608775512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laser spot tracking based on modified circular Hough transform and motion pattern analysis",
+                "pub_year": "2014",
+                "citation": "Sensors 14 (11), 20112-20133, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=627459498052163093",
+            "cites_id": [
+                "627459498052163093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Denoising of surface EMG signals: a comparision of wavelet and classical digital filtering procedures",
+                "pub_year": "2004",
+                "citation": "Technology and Health Care 12 (2), 130-135, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:WF5omc3nYNoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18347875742838448270",
+            "cites_id": [
+                "18347875742838448270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical Evaluation of the Effect of Optimization and Regularization Techniques on the Generalization Performance of Deep Convolutional Neural Network",
+                "pub_year": "2020",
+                "citation": "Applied Sciences 10 (21), 7817, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:ufrVoPGSRksC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11340338736098142600",
+            "cites_id": [
+                "11340338736098142600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Development of a Bayesian Network Framework with Model Validation for Maritime Accident Risk Factor Assessment",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (22), 10866, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:4TOpqqG69KYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13297007657412019032",
+            "cites_id": [
+                "13297007657412019032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial sensor measurement of head-cervical range of motion in transverse plane",
+                "pub_year": "2007",
+                "citation": "3rd WSEAS International Conference on REMOTE SENSING, REMOTE'07, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949433060213029597",
+            "cites_id": [
+                "6949433060213029597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmented Reality Based Sensor Data Visualization for Plant Growth Monitoring",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6245451258150741612",
+            "cites_id": [
+                "6245451258150741612"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmented Reality for an Efficient Inspection of Outfitting Process in Shipbuilding",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11265196522777097831",
+            "cites_id": [
+                "11265196522777097831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of kinematics and kinetics of human gait",
+                "pub_year": "2002",
+                "citation": "2nd European Medical&Biological Engineering Conference EMBEC'02, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3683466055149491918",
+            "cites_id": [
+                "3683466055149491918"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weight of Evidence Approach to Maritime Accident Risk Assessment Based on Bayesian Network Classifier",
+                "pub_year": "2021",
+                "citation": "Transactions on Maritime Science - ToMS 10 (2), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1521380474735077174",
+            "cites_id": [
+                "1521380474735077174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visual Peoplemeter: A Vision-based Television Audience Measurement System",
+                "pub_year": "2014",
+                "citation": "Advances in Electrical and Computer Engineering 14 (4), 73-80, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6371706986471549988",
+            "cites_id": [
+                "6371706986471549988"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Label Confusion Tensor",
+                "pub_year": "2024",
+                "citation": "IEEE Access, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of at-risk Students in Virtual Learning Environment",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Software, Telecommunications and Computer \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Development of a Cost-Effective Imaging Device Based on Thermographic Technology",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (10), 4582, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Steganography App Based on Local Colour Statistics",
+                "pub_year": "2023",
+                "citation": "SpliTech 2023 Proceedings - 8th International Conference on Smart and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving understanding of deep learning models for image classification through visual analytics",
+                "pub_year": "2019",
+                "citation": "Workshop on Information and Communication Technologies; 27th International \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image-based 3D Reconstruction: Exploring Workflow with Open-source Software",
+                "pub_year": "2018",
+                "citation": "Workshop on Information and Communication Technologies; SoftCOM 2018, 26th \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How to achieve usefull \u201crapid 3D\u201d digital elevation model for search and rescue mission strategy planning",
+                "pub_year": "2018",
+                "citation": "AS4Enviro2018 - 6th Conference for Unmanned Aerial Systems for Environmental \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Development of a Low Cost Hen Egg Incubator",
+                "pub_year": "2016",
+                "citation": "Proceedings of SpliTech Split, Croatia, July 13\u201315, 2016 International \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual CulTourist \u2013 development of Croatian virtual cultural heritage and virtual tourism based on 3D modelling and game engine technologies",
+                "pub_year": "2016",
+                "citation": "The 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Semi-Automatic Procedure for Texturing of Large Laser Scanning Point Clouds",
+                "pub_year": "2015",
+                "citation": "4th Croatian Computer Vision Workshop (CCVW 2015), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-tech life accompanying devices: how meaningfully are they used?",
+                "pub_year": "2014",
+                "citation": "Applications of Information Systems in Engineering and Bioscience, www.wseas \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Science and Technology in Biomedical Engineering: Labacs Case Example",
+                "pub_year": "2014",
+                "citation": "Phys Med Rehabil Int 1 (2), 11, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Face Detection and Tracking For Activity Recognition",
+                "pub_year": "2010",
+                "citation": "Seventh IASTED International Conference on Biomedical Engineering, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Object Recognition Techniques in Behavioral Analysis",
+                "pub_year": "2010",
+                "citation": "Proceedings of the 7th IASTED International Conference 680 (197), 329, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of head rotation using triangular face model",
+                "pub_year": "2010",
+                "citation": "Seventh IASTED International Conference on Biomedical Engineering, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial Sensor based Identification of Human Movements.",
+                "pub_year": "2009",
+                "citation": "BIODEVICES, 300-303, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Color cues in Human Motion Analysis",
+                "pub_year": "2009",
+                "citation": "4th European Conference of the International Federation for Medical and \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial Sensor Based Identification of Human Movements",
+                "pub_year": "2009",
+                "citation": "International Conference on Biomedical Electronics and Devices, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory for Identification of Human Movement With LaBACS Software Support",
+                "pub_year": "2003",
+                "citation": "International Congress on Computational Bioengineering, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of vertical component of ground reaction force during sit to stand movement: Direct Dynamics Approach",
+                "pub_year": "2002",
+                "citation": "11th International Electrotechnical and Computer Science Conference ERK 2002, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "WnRSJtwAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

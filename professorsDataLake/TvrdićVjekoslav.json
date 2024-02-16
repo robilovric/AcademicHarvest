@@ -1,0 +1,139 @@
+{
+    "name": "Tvrdi\u0107 Vjekoslav",
+    "num_citations": 12,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regenerative hydraulic shock absorber for vehicle applications: prototype design",
+                "pub_year": "2020",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 1-25, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11191291540782066757",
+            "cites_id": [
+                "11191291540782066757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydraulic hybrid vehicle configurations and comparison with hybrid electric vehicle",
+                "pub_year": "2018",
+                "citation": "Contemporary Issues In Economy & Technology-CIET 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13576509718381880558",
+            "cites_id": [
+                "13576509718381880558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Feasibility of Independently Controllable Transmissions",
+                "pub_year": "2017",
+                "citation": "Energies 10 (11), 1835, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4179973934506546739",
+            "cites_id": [
+                "4179973934506546739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regenerative hydraulic SUSPENSION: Numerical model and Evaluation of Energy Harvesting Potential using bond graphs",
+                "pub_year": "2022",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 44 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7209627863510975064",
+            "cites_id": [
+                "7209627863510975064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel approach to energy management strategy for hybrid electric vehicles",
+                "pub_year": "2021",
+                "citation": "SAE International Journal of Commercial Vehicles 14 (02-14-02-0010), 129-145, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9187550518629063046",
+            "cites_id": [
+                "9187550518629063046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A concept of the novel regenerative hydraulic suspension: The prototype description",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14329214035947410575",
+            "cites_id": [
+                "14329214035947410575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Transmission for Optimizing Input Machine Operation",
+                "pub_year": "2019",
+                "citation": "SAE International Journal of Alternative Powertrains 8 (2), 119-132, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model of a hydraulic hybrid vehicle with regenerative suspensions",
+                "pub_year": "2018",
+                "citation": "Proceedings of IASTEM international conference Milan, Italy, 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trodimenzionalno \u0161irenje pukotine u korijenu zuba zup\u010danika",
+                "pub_year": "2016",
+                "citation": "Sedmi susret Hrvatskog dru\u0161tva za mehaniku, Split - Hrvatska, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "76HAQmgAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

@@ -1,0 +1,1481 @@
+{
+    "name": "Cvetkovi\u0107 Mario",
+    "num_citations": 552,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Full wave model versus transmission line representation of Tesla's wave propagation: 155th anniversary of birth of Nikola Tesla",
+                "pub_year": "2011",
+                "citation": "SoftCOM 2011, 19th International Conference on Software, Telecommunications \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:IsPWOBWtZBwC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6284955601121056711",
+            "cites_id": [
+                "6284955601121056711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of transcranial magnetic stimulation based on the surface integral equation formulation",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Biomedical Engineering 62 (6), 1535-1545, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:JTqpx9DYBaYC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17266400890797084400",
+            "cites_id": [
+                "17266400890797084400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FETD computation of the temperature distribution induced into a human eye by a pulsed laser",
+                "pub_year": "2011",
+                "citation": "Progress In Electromagnetics Research 120, 403-421, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:YsrPvlHIBpEC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=348023894448467886",
+            "cites_id": [
+                "348023894448467886"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal modelling of the human eye exposed to laser radiation",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:raTqNPD5sRQC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5363669970581999367",
+            "cites_id": [
+                "5363669970581999367"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the use of conformal models and methods in dosimetry for nonuniform field exposure",
+                "pub_year": "2017",
+                "citation": "IEEE transactions on electromagnetic compatibility 60 (2), 328-337, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:qe6vwMD2xtsC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9378868178412095093",
+            "cites_id": [
+                "9378868178412095093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The electromagnetic-thermal dosimetry for the homogeneous human brain model",
+                "pub_year": "2016",
+                "citation": "Engineering analysis with boundary elements 63, 61-73, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:eO3_k5sD8BwC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9293403530597636699",
+            "cites_id": [
+                "9293403530597636699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human Interaction with Electromagnetic Fields: Computational Models in Dosimetry",
+                "pub_year": "2019",
+                "citation": "Academic Press, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:L_l9e5I586QC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8981030231387406819",
+            "cites_id": [
+                "8981030231387406819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient integral equation based dosimetry model of the human brain",
+                "pub_year": "2014",
+                "citation": "2014 International Symposium on Electromagnetic Compatibility, 375-380, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:wvYxNZNCP7wC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16215533703493899548",
+            "cites_id": [
+                "16215533703493899548"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple finite element model of heat transfer in the human eye",
+                "pub_year": "2006",
+                "citation": "2006 International Conference on Software in Telecommunications and Computer \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:WAzi4Gm8nLoC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9145398975943275424",
+            "cites_id": [
+                "9145398975943275424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic collocation applications in computational electromagnetics",
+                "pub_year": "2018",
+                "citation": "Mathematical Problems in Engineering 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:1tZ8xJnm2c8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14438157963732475572",
+            "cites_id": [
+                "14438157963732475572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study on the use of compound and extracted models in the high frequency electromagnetic exposure assessment",
+                "pub_year": "2017",
+                "citation": "Mathematical Problems in Engineering 2017, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:zdjWy_NXXwUC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15643678559280936113",
+            "cites_id": [
+                "15643678559280936113"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On some integral approaches in electromagnetic dosimetry",
+                "pub_year": "2016",
+                "citation": "Proceedings of the BioEM 2016, 289-296, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:Xl6nMSl579sC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4313451367423608818",
+            "cites_id": [
+                "4313451367423608818"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-deterministic thermal dosimetry below 6 GHz for 5G mobile communication systems",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 63 (5), 1667-1679, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:RuPIJ_LgqDgC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7946350597320963433",
+            "cites_id": [
+                "7946350597320963433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcranial magnetic stimulation induced fields in different brain models",
+                "pub_year": "2016",
+                "citation": "Journal of Electromagnetic Waves and Applications 30 (14), 1820-1835, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:silx2ntsSuwC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4311457978217846472",
+            "cites_id": [
+                "4311457978217846472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic dosimetry of a three compartment head model",
+                "pub_year": "2020",
+                "citation": "Engineering Analysis with Boundary Elements 117, 332-345, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:z6xuaG2dYH0C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13320351202909141082",
+            "cites_id": [
+                "13320351202909141082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic-thermal analysis for human exposure to high frequency (HF) Radiation",
+                "pub_year": "2017",
+                "citation": "International Journal of Design & Nature and Ecodynamics 12 (1), 55-67, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:k_7cPK9k7w8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4740405695623371921",
+            "cites_id": [
+                "4740405695623371921"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-deterministic boundary element modelling of transcranial electric stimulation using a three layer head model",
+                "pub_year": "2021",
+                "citation": "Engineering Analysis with Boundary Elements 123, 70-83, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:zwpXiJ37cpgC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3299975671579771042",
+            "cites_id": [
+                "3299975671579771042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic modelling of nanofluids using the fast Boundary-Domain Integral Method",
+                "pub_year": "2019",
+                "citation": "Engineering Analysis with Boundary Elements 107, 185-197, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:MIg0yeAD4ggC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14344693526219765892",
+            "cites_id": [
+                "14344693526219765892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the incident power density calculation in GHz frequency range: a case of Hertz dipole",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:tHtfpZlB6tUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1662706312855764016",
+            "cites_id": [
+                "1662706312855764016"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On some applications of stochastic collocation method in computational electromagnetics: Applications in ground penetrating radar, bioelectromagnetics, grounding systems and \u2026",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:UmS_249rOGwC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16033236580624703846",
+            "cites_id": [
+                "16033236580624703846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D FEM temperature distribution analysis of the human eye exposed to laser radiation",
+                "pub_year": "2010",
+                "citation": "WIT Transactions on Engineering Sciences 68, 303-312, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:kF1pexMAQbMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18070079115261218451",
+            "cites_id": [
+                "18070079115261218451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic sensitivity in homogeneous electromagnetic-thermal dosimetry model of human brain",
+                "pub_year": "2016",
+                "citation": "The Applied Computational Electromagnetics Society Journal (ACES), 644-652, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:69ZgNCALVd0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10648481147975253501",
+            "cites_id": [
+                "10648481147975253501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic-thermal dosimetry comparison of the homogeneous adult and child brain models based on the SIE approach",
+                "pub_year": "2015",
+                "citation": "Journal of Electromagnetic Waves and Applications 29 (17), 2365-2379, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:DkZNVXde3BIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6906808239900556410",
+            "cites_id": [
+                "6906808239900556410"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal modelling of the human eye exposed to infrared radiation of 1064 nm Nd: YAG and 2090 nm Ho: YAG lasers",
+                "pub_year": "2009",
+                "citation": "Environ. Health Risk 14, 221-231, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:rbm3iO8VlycC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3637653543427634590",
+            "cites_id": [
+                "3637653543427634590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty quantification and sensitivity analysis of transcranial electric stimulation for 9-subdomain human head model",
+                "pub_year": "2022",
+                "citation": "Engineering Analysis with Boundary Elements 135, 1-11, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:RtRctb2lSbAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17705007092004709468",
+            "cites_id": [
+                "17705007092004709468"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the edge element boundary element method/finite element method coupling for time harmonic electromagnetic scattering problems",
+                "pub_year": "2021",
+                "citation": "International Journal for Numerical Methods in Engineering 122 (14), 3613-3652, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:-uzm3Y7AvW0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16434677638000384425",
+            "cites_id": [
+                "16434677638000384425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the computation of singular integrals over triangular surfaces in R3",
+                "pub_year": "2019",
+                "citation": "Boundary Elements and Other Mesh Reduction Methods XLI 122, 95, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:eAlLMO4JVmQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4114072478144191879",
+            "cites_id": [
+                "4114072478144191879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Absorbed Power Density (Sab) at the Surface of Flat Lossy Medium in GHz Frequency Range : A case of Hertz dipole",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:NxmKEeNBbOMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17147145849316405365",
+            "cites_id": [
+                "17147145849316405365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integral equation formulations and related numerical solution methods in some biomedical applications of electromagnetic fields: Transcranial magnetic stimulation (TMS), Nerve \u2026",
+                "pub_year": "2020",
+                "citation": "Data Analytics in Medicine: Concepts, Methodologies, Tools, and Applications \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:27LrP4qxOz0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16926411763669169334",
+            "cites_id": [
+                "16926411763669169334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic collocation method applied to transcranial magnetic stimulation analysis",
+                "pub_year": "2016",
+                "citation": "Proceedings of the he joint annual meeting of the bioelectromagnetics \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:QsaTk4IG4EwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18429396558728639208",
+            "cites_id": [
+                "18429396558728639208"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple Transmission Line Representation of Tesla Coil and Tesla\u2019s Wave Propagation Concept",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:DrR-2ekChdkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16936286566199572500",
+            "cites_id": [
+                "16936286566199572500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach to thermal modeling of power cables installed in ducts",
+                "pub_year": "2023",
+                "citation": "Electric Power Systems Research 214, 108916, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:SxCCDk4iOpsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=835688772603201338",
+            "cites_id": [
+                "835688772603201338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Applicability of Numerical Quadrature for Double Surface Integrals at 5G Frequencies",
+                "pub_year": "2022",
+                "citation": "Journal of Communications Software and Systems 18 (1), 42-53, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:YB4bud6kWLwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14317821836904393551",
+            "cites_id": [
+                "14317821836904393551"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boundary integral methods in bioelectromagnetics and biomedical applications of electromagnetic fields",
+                "pub_year": "2019",
+                "citation": "WIT Transactions on Engineering Sciences 122, 85-94, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:hSRAE-fF4OAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12158720027178437851",
+            "cites_id": [
+                "12158720027178437851"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic thermal dosimetry for the three compartment head model",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:RJOyoaXV5v8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12228226047197794141",
+            "cites_id": [
+                "12228226047197794141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical comparison of compound and extracted eye models for high frequency dosimetry",
+                "pub_year": "2018",
+                "citation": "International Journal for Engineering Modelling 31 (1-2), 1-13, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:eGYfIraVYiQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6826179059056897620",
+            "cites_id": [
+                "6826179059056897620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface equivalence principle and surface integral equation (SIE) revisited for bioelectromagnetics application",
+                "pub_year": "2018",
+                "citation": "Boundary Elements and Other Mesh Reduction Methods, 227, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:qwy9JoKyICEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6195144309692035112",
+            "cites_id": [
+                "6195144309692035112"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of a three-compartment head model subjected to variation of input parameters",
+                "pub_year": "2018",
+                "citation": "BIOEM2018, Portoroz, Slovenia, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:2ywjKiB__4kC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15539508130587789342",
+            "cites_id": [
+                "15539508130587789342"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integral equation models in some biomedical applications of electromagnetic fields: Transcranial magnetic stimulation (TMS), nerve fiber stimulation",
+                "pub_year": "2016",
+                "citation": "2016 International Multidisciplinary Conference on Computer and Energy \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:aIdbFUkbNIkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17346410737125692255",
+            "cites_id": [
+                "17346410737125692255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic sensitivity in thermal dosimetry for the homogeneous human brain model",
+                "pub_year": "2016",
+                "citation": "BIOEM2018, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:LXmCCkuhhTsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6626538460310533392",
+            "cites_id": [
+                "6626538460310533392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of a TMS induced fields in homogeneous adult and child brain models using the surface integral equation approach",
+                "pub_year": "2015",
+                "citation": "2015 International Conference on Electromagnetics in Advanced Applications \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:65Yg0jNCQDAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7533287714318041717",
+            "cites_id": [
+                "7533287714318041717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unit cube test for double surface integrals in frequency domain integral equation formulations",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:s9ia6_kGH2AC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9164180592577021703",
+            "cites_id": [
+                "9164180592577021703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-deterministic boundary integral method for transcranial electric stimulation: a cylindrical head representation",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:__bU50VfleQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10557911042459093839",
+            "cites_id": [
+                "10557911042459093839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid FEM/BEM for human heads exposed to high frequency electromagnetic radiation",
+                "pub_year": "2018",
+                "citation": "WIT Transactions on The Built Environment 174, 369-378, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:2v_ZtQDX9iAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5216149163514173400",
+            "cites_id": [
+                "5216149163514173400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temperature increase in the extracted and compound eye models",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:g5Ck-dwhA_QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3825157528996892541",
+            "cites_id": [
+                "3825157528996892541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministic-stochastic boundary element modeling of the brain and eye exposed to high-frequency radiation",
+                "pub_year": "2017",
+                "citation": "International Journal of Computational Methods and Experimental Measurements \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:CYCckWUYoCcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2267531318792207280",
+            "cites_id": [
+                "2267531318792207280"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some computational aspects of calculation of integrals arising within the framework of Method of Moments-application to bioelectromagnetics",
+                "pub_year": "2016",
+                "citation": "2016 22nd International Conference on Applied Electromagnetics and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:sA9dB-pw3HoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8544885713931043340",
+            "cites_id": [
+                "8544885713931043340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integral equation based dosimetry model of the human brain: Frequency dependence of the results",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:PkcyUWeTMh0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2351558453420790030",
+            "cites_id": [
+                "2351558453420790030"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the Temperature Distribution to the Human Eye Exposed to Laser Radiation",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:BrOSOlqYqPUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5279298037069145940",
+            "cites_id": [
+                "5279298037069145940"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of GSM base station electrical field and calculation of temperature increase inside human body due to exposure",
+                "pub_year": "2005",
+                "citation": "SoftCOM, Split, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:5bg8sr1QxYwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5536688010214112524",
+            "cites_id": [
+                "5536688010214112524"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministic\u2013stochastic modeling of transcranial magnetic stimulation featuring the use of method of moments and stochastic collocation",
+                "pub_year": "2023",
+                "citation": "Engineering Analysis with Boundary Elements 150, 662-671, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:BJrgspguQaEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13391501448728805433",
+            "cites_id": [
+                "13391501448728805433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study on the Suitability of Numerical Integration at 5G Frequencies Using Unit Cube Test",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Software, Telecommunications and Computer \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:G1UMdFYMoxkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16764912853644543691",
+            "cites_id": [
+                "16764912853644543691"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the use of compound and extracted models in thermal dosimetry assessment",
+                "pub_year": "2020",
+                "citation": "Mathematical Problems in Engineering 2020, 1-18, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:-yGd096yOn8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15929802825995405409",
+            "cites_id": [
+                "15929802825995405409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic dosimetry based on EFIE formulation and RWG basis function",
+                "pub_year": "2019",
+                "citation": "Boundary Elements and other Mesh Reduction Methods XLI 122, 143, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:isU91gLudPYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5880528468857523964",
+            "cites_id": [
+                "5880528468857523964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental prediction of shaded solar cells hot-spots",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:8Xgff_V0N9gC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9914102444899354268",
+            "cites_id": [
+                "9914102444899354268"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of numerical electric field and SAR results in compound and extracted eye models",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:Xz60mAmATU4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13219993413852177431",
+            "cites_id": [
+                "13219993413852177431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A procedure for assessment of maximal electromagnetic field values from urban power substation",
+                "pub_year": "2008",
+                "citation": "International Journal of Energy 2, 75-84, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:kzcSZmkxUKAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16076420942855539091",
+            "cites_id": [
+                "16076420942855539091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyis of Tesla\u2019s Transmitter using Wire Antenna Theory",
+                "pub_year": "2006",
+                "citation": "Proc. Int. Symposium: Nikola Tesla/The Scientist out of Time, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:EPG8bYD4jVwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9663875371172930211",
+            "cites_id": [
+                "9663875371172930211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSIS OF PLANAR SKIN MODEL EXPOSED TO DIPOLE ANTENNA RADIATION FEATURING THE USE OF THE MOM-MOM APPROACH",
+                "pub_year": "2023",
+                "citation": "WIT Transactions on Engineering Sciences 135, 13-24, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:YTuZlYwrTOUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Filtering of Electric Field in Human Head Models Exposed to High-Frequency EMF",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Software, Telecommunications and Computer \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:t-hv7AR41mYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Use of Planar Skin Models in High Frequency Dosimetry Assessment",
+                "pub_year": "2023",
+                "citation": "2023 XXXVth General Assembly and Scientific Symposium of the International \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:BmWJbWwHJAwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Magnetotherapy Device Induced Fields in Simplified Human Body Model",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:hGdtkIFZdKAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ON THE APPLICATION OF HYBRID BEM/FEM FOR INHOMOGENEOUS ELECTROMAGNETIC SCATTERING FROM SMALL MARITIME TARGETS",
+                "pub_year": "2021",
+                "citation": "WIT Transactions on Engineering Sciences 131, 131-143, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:8dzOF9BpDQoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COUPLED BOUNDARY ELEMENT: STOCHASTIC COLLOCATION APPROACH FOR THE UNCERTAINTY ESTIMATION OF SIMULATIONS OF TRANSCRANIAL ELECTRIC STIMULATION",
+                "pub_year": "2021",
+                "citation": "Boundary Elements and other Mesh Reduction Methods XLIV 131, 145, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:Zh0EY9V9P6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recovery of a vandalized canvas painting Our Lady of the Rosary from Vrlika (Croatia)",
+                "pub_year": "2020",
+                "citation": "Ge-conservacion 18, 247-257, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:ZqE1mSdD_DYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recuperaci\u00f3n de un lienzo destrozado de Nuestra Se\u00f1ora del Rosario de Vrlika (Croacia)",
+                "pub_year": "2020",
+                "citation": "Ge-conservaci\u00f3n, 247-257, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:JP7YXuLIOvAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Some Multiphysics Models for ElectromagneticThermal-Hydrodynamics (ETHD) Analysis",
+                "pub_year": "2019",
+                "citation": "2019 23rd International Conference on Applied Electromagnetics and \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:D_tqNUsBuKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COUPLING OF THE FAST BOUNDARY-DOMAIN INTEGRAL METHOD WITH THE STOCHASTIC COLLOCATION METHOD FOR FLUID FLOW SIMULATIONS",
+                "pub_year": "2019",
+                "citation": "WIT Transactions on Engineering Sciences 126, 237-241, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:-6RzNnnwWf8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic Boundary-Domain Integral Method for heat transfer simulations",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:SAZ1SQo2q1kC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Various Applications of Stochastic Collocation in Computational Electromagnetics",
+                "pub_year": "2019",
+                "citation": "Uncertainty Modeling for Engineering Applications, 135-155, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:C33y2ycGS3YC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Electromagnetic\u2013Thermal Dosimetry Model of the Human Brain",
+                "pub_year": "2016",
+                "citation": "Engineering Mathematics I: Electromagnetics, Fluid Mechanics, Material \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:DyXnQzXoVgIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of electromagnetic polarization in homogeneous electromagnetic-thermal dosimetry model of human brain",
+                "pub_year": "2015",
+                "citation": "2015 23rd International Conference on Software, Telecommunications and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:jSAVyFp_754C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methods of health risk assessment for human exposure to high frequency electromagnetic fields",
+                "pub_year": "2015",
+                "citation": "WIT Transactions on The Built Environment 151, 3-13, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:An6A6Jpfc1oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Analysis Methods for the Time Domain and Frequency Domain Response of a Buried Objects",
+                "pub_year": "2014",
+                "citation": "EGU General Assembly Conference Abstracts, 5274, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:UuEBAcK4md4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metoda elektromagnetsko-toplinske dozimetrije ljudskog mozga izlo\u017eenog poljima visokih frekvencija",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:OzeSX8-yOCQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for Electromagnetic Thermal Dosimetry of the Human Brain Exposed to High Frequency Fields",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:SGW5VrABaM0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of Human Eye Exposed to Laser Radiation",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:SnGPuo6Feq8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tesla's Resonant Transformer",
+                "pub_year": "2006",
+                "citation": "Elektrotehni\u010dke instalacije 2, 34, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:QUX0mv85b1cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nikola Tesla-Scientist Out of Time",
+                "pub_year": "2006",
+                "citation": "Nikola Tesla-Scientist Out of Time, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:2l5NCbZemmgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic hypersensitivity sindrom",
+                "pub_year": "2005",
+                "citation": "Me\u0111unarodni seminar Izlo\u017eenost ljudi elektromagnetskom zra\u010denju (1: 2005), 2005"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:mWEH9CqjF64C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of health effects due to RF radiation",
+                "pub_year": "2005",
+                "citation": "Me\u0111unarodni seminar Izlo\u017eenost ljudi elektromagnetskom zra\u010denju\"(1; 2005), 2005"
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:pS0ncopqnHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ala, Guido",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:mel-f30kHHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic-Thermal Analysis for Human Exposure to High Frequency (HF) Radiation Electromagnetic-Thermal Analysis for Human Exposure to High Frequency (HF) Radiation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:unp9ATQDT5gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic-determinsitic Approach to the Brain and Eye Dosimetry",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:A8cqit5AE6sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Maximal Electromagnetic Field Values Based on the Discrete Measured Data Set",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:Hck25ST_3aIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced Electromagnetic-Thermal Dosimetry Methods For The Human Exposure To High Frequency Electromagnetic Fields",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:HJSXoJQnj-YC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling Tesla\u2019s Radio System as a Transmission Line",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:TlpoogIpr_IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metode modeliranja TMS-a",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "znV5GuIAAAAJ:rTD5ala9j4wC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ywncz00AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dragan Poljak",
+            "affiliation": "University of Split unist.hr Faculty of Electrical Engineering, Mechanical Engineering and \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SpB6-2UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hrvoje Dodig",
+            "affiliation": "University of Split, Faculty of Maritime Studies"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "U74qBXMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Khalil EL KHAMLICHI DRISSI, H-index=20",
+            "affiliation": "Professeur of Electrical Engineering Department, Polytech Clermont Ferrand"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6lUck8AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Silvestar Sesnic",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zSV81YwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Akimasa Hirata",
+            "affiliation": "Director & Professor, Nagoya Institute of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GYzk-XsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zoran Blazevic",
+            "affiliation": "Full professor, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9SQUXTkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "S\u00e9bastien LALLECHERE",
+            "affiliation": "Research Engineer EMC & lightning"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d0R5TXwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jure Ravnik",
+            "affiliation": "University of Maribor, Slovenia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "u5SRjOwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jens Haueisen",
+            "affiliation": "Full Professor and chair of the Institute of Biomedical Engineering and Informatics, TU \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ChHIWMcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maja Rogic Vidakovi\u0107",
+            "affiliation": "University of Split School of Medicine unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_kaid_UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ilkka Laakso",
+            "affiliation": "Associate Professor, Aalto University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cz1haZUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre Bonnet",
+            "affiliation": "Professor, Institut Pascal, clermont universit\u00e9"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jSpGpgcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vicko Doric",
+            "affiliation": "Assosiate Professor, Department of Electronics and Computing, University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bj0eo2kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oriano Bottauscio",
+            "affiliation": "Istituto Nazionale di Ricerca Metrologica"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LfvPzLcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Craig Warren",
+            "affiliation": "Assistant Professor, Northumbria University; University of Edinburgh"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0GKjYwQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonios Giannopoulos",
+            "affiliation": "Professor, School of Engineering, The University of Edinburgh"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BzQRBL4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sylvain Reboux",
+            "affiliation": "ZMT, Zurich MedTech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fW9e_UEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Esra Neufeld",
+            "affiliation": "IT'IS Foundation for Research on Information Technologies in Society"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GKQnv50AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "fumie costen",
+            "affiliation": "Lecturer, University of Manchester"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5lR26vEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivana Zulim",
+            "affiliation": "University of Split unist.hr, Faculty of Elecrtical Engineering, Mechanical Engineering and \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Va9FU9IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zoran Dogas",
+            "affiliation": "Full Professor, Department of Neuroscience, University of Split School of Medicine unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2-giNBYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tonko Garma",
+            "affiliation": "Associate Professor of Electrical Engineering, University of Split (FESB, Power Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5os0jDYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Katarina Vukojevic",
+            "affiliation": "University of Split School of Medicine; University of Mostar, Sveu\u010dili\u0161te u Mostaru"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SQp__JgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Petar \u0160oli\u0107",
+            "affiliation": "University of Split, FESB unist.hr"
+        }
+    ]
+}

@@ -1,0 +1,410 @@
+{
+    "name": "\u010catipovi\u0107 Nik\u0161a",
+    "num_citations": 66,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of steel preheat temperature and molten casting alloy AlSi9Cu3 (Fe) impact speed on wear of X38CrMoV5-1 steel in high pressure die casting conditions",
+                "pub_year": "2019",
+                "citation": "Wear 424, 15-22, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1448002055736456230",
+            "cites_id": [
+                "1448002055736456230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effects of molybdenum and manganese on the mechanical properties of austempered ductile iron",
+                "pub_year": "2018",
+                "citation": "Tehni\u010dki vjesnik 25 (2), 635-642, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1531325830726159734",
+            "cites_id": [
+                "1531325830726159734"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of austempering temperature and salt bath agitation on microstructure and mechanical properties of austempered ductile iron",
+                "pub_year": "2018",
+                "citation": "Kovove Mater 56, 137-144, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1675456591823879933",
+            "cites_id": [
+                "1675456591823879933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of austempering treatment parameters on properties of ductile iron EN-GJS-400",
+                "pub_year": "2015",
+                "citation": "Zbornik radova= Proceedings, Hrvatsko dru\u0161tvo za strojarske tehnologije, MTSM, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9749096865804177786",
+            "cites_id": [
+                "9749096865804177786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj izotermi\u010dke temperature i vremena dr\u017eanja na mikrostrukturu i tvrdo\u0107u izotermi\u010dkog \u017eilavog lijeva",
+                "pub_year": "2015",
+                "citation": "Zbornik radova= Proceedings, Hrvatsko dru\u0161tvo za strojarske tehnologije, MTSM, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18396653308810118546",
+            "cites_id": [
+                "18396653308810118546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of copper and heat treatment on microstructure of austempered ductile iron",
+                "pub_year": "2021",
+                "citation": "Transactions of the Indian Institute of Metals 74, 1455-1468, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8569916712077631264",
+            "cites_id": [
+                "8569916712077631264"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of the salt bath agitation and austempering temperature on the microstructure of austempered ductile iron",
+                "pub_year": "2017",
+                "citation": "Preprints, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11921192785018579033",
+            "cites_id": [
+                "11921192785018579033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High pressure die casting mould repair technologies",
+                "pub_year": "2017",
+                "citation": "International conference \u201cMechanical Technologies and Structural Materials 7 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3588475574580319531",
+            "cites_id": [
+                "3588475574580319531"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface wear of steel X38CrMoV5-1 in conditions of die casting",
+                "pub_year": "2016",
+                "citation": "International Conference Mechanical Technologies and Structural Materials, 41-45, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13072208297100969976",
+            "cites_id": [
+                "13072208297100969976"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tribological wear mechanisms of molds for high pressure die casting",
+                "pub_year": "2016",
+                "citation": "Metalurgija 55 (2), 249-252, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16593452089667583999",
+            "cites_id": [
+                "16593452089667583999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Different corrosion behaviour of CuNi10Fe1Mn alloy condenser tubes in seawater",
+                "pub_year": "2019",
+                "citation": "Mechanical Technologies and Structural Materials 2019 Conference proceedings \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9583277764026208838",
+            "cites_id": [
+                "9583277764026208838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influenza della Temperatura sulla Microstruttura della Ghisa Duttile Austemperata",
+                "pub_year": "2018",
+                "citation": "Tecniche Nuove. Fonderia Pressofusione: Milano, Italy 2, 30-33, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3127708390781346374",
+            "cites_id": [
+                "3127708390781346374"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj bakra i toplinske obrade na svojstva izotermi\u010dki pobolj\u0161anog \u017eilavog lijeva",
+                "pub_year": "2019",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18047945743561962533",
+            "cites_id": [
+                "18047945743561962533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of a Novel Double Tempering Process on the Microstructure and Mechanical Properties of Cu-Alloyed Austempered Ductile Iron with Possible Nano (Micro)-Characterization \u2026",
+                "pub_year": "2023",
+                "citation": "Crystals 13 (9), 1359, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CORROSION BEHAVIOUR OF ANNEALED 42CrMo4 STEEL",
+                "pub_year": "2023",
+                "citation": "Materials and Technology 57 (2), 111\u2013117-111\u2013117, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BENEFICIAL EFFECT OF CU CONTENT AND AUSTEMPERING PARAMETERS ON THE HARDNESS AND CORROSION PROPERTIES OF AUSTEMPERED DUCTILE IRON (ADI)",
+                "pub_year": "2022",
+                "citation": "Facta Universitatis, Series: Mechanical Engineering, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Simulation and Analysis of Die Casting Mould Wear",
+                "pub_year": "2018",
+                "citation": "Fracture, Fatigue and Wear, 621-627, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temperature inflence on microsturcture of austempered ductile iron",
+                "pub_year": "2018",
+                "citation": "Fonderia (Milano) 2, 30, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of copper content on corrosion behavior of ductile iron and austempered ductile iron",
+                "pub_year": "2018",
+                "citation": "Conference Proceedings Mechanical Technologies and Structural Materials, 199-204, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj bakra i parametara toplinske obrade na mehani\u010dka svojstva izotermi\u010dki pobolj\u0161anog \u017eilavog lijeva.",
+                "pub_year": "2016",
+                "citation": "6th International Conference Mechanical Technologies and Structural \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INFLUENCE OF ISOTHERMAL TEMPERATURE AND HOLDING TIME ON MICROSTRUCTURE AND HARDNESS OF ASTEMPERED DUCTILE IRON",
+                "pub_year": "2015",
+                "citation": "5th International Conference Mechanical Technologies and Structural \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of Copper and Heat Treatment on Toughness of Austempered Ductile Iron",
+                "citation": "Available at SSRN 4070206, 0"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface wear of steel X38CrMoV5-1 in conditions of die",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALIZA UTJECAJA PARAMETARA IZOTERMI\u010cKE OBRADE NA SVOJSTVA \u017dILAVOG LIJEVA EN-GJS-400",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal fatigue of H11 steel in high pressure die casting conditions",
+                "citation": "Proceedings of the 19th International Colloquium on Mechanical Fatigue of \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WEAR MECHANISMS OF MOLD FOR HIGH PRESSURE DIE CASTING IN LTH METAL CAST MANUFACTURING PLANT",
+                "citation": "4th International Conference\" Mechanical Technology and Structural Materials \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wear mechanisms of mold for high pressure die casting",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cold and hot forging die wear",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposed design for sign gantry according to EN 12767 norm",
+                "citation": "Energy 50 (70), 100, 0"
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "KVALIFIKACIJSKI DOKTORSKI ISPIT",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "gyqQ0PMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

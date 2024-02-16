@@ -1,0 +1,546 @@
+{
+    "name": "Kili\u0107 Tomislav",
+    "num_citations": 136,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of soil thermal properties by spherical probe",
+                "pub_year": "2005",
+                "citation": "IEEE transactions on instrumentation and measurement 54 (3), 1219-1226, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7717635651429901590",
+            "cites_id": [
+                "7717635651429901590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensorless speed detection of squirrel-cage induction machines using stator neutral point voltage harmonics",
+                "pub_year": "2009",
+                "citation": "Mechanical systems and signal processing 23 (3), 931-939, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17098884354537729791",
+            "cites_id": [
+                "17098884354537729791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and implementation of predictive filtering system for current reference generation of active power filter",
+                "pub_year": "2007",
+                "citation": "International Journal of Electrical Power & Energy Systems 29 (2), 106-112, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11892491489980489392",
+            "cites_id": [
+                "11892491489980489392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remanent flux measurement and optimal energization instant dertermination of power transformer",
+                "pub_year": "2003",
+                "citation": "XVII IMEKO World Congress Metrology in the 3rd Millennium, 22-27, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10408496242960148570",
+            "cites_id": [
+                "10408496242960148570"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurements and estimation of the extremely low frequency magnetic field of the overhead power lines",
+                "pub_year": "2013",
+                "citation": "Elektronika ir Elektrotechnika 19 (7), 33-36, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15830140993196683443",
+            "cites_id": [
+                "15830140993196683443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smanjenje udarnih struja uklopa trofaznog energetskog transformatora",
+                "pub_year": "2008",
+                "citation": "Journal of Energy: Energija 57 (3), 350-367, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8918932905863863438",
+            "cites_id": [
+                "8918932905863863438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ring-core flux-gate magnetometer with microprocessor",
+                "pub_year": "1999",
+                "citation": "Measurement 25 (1), 47-51, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7459359836122998421",
+            "cites_id": [
+                "7459359836122998421"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Italian-Croatian Remote Laboratory distributed on geographical network",
+                "pub_year": "2006",
+                "citation": "2006 International Conference on Software in Telecommunications and Computer \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:4DMP91E08xMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10231509456135054122",
+            "cites_id": [
+                "10231509456135054122"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sheath loss factors taking into account the proximity effect for a cable line in a touching flat formation",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Power Delivery 30 (3), 1363-1371, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10853000543027092149",
+            "cites_id": [
+                "10853000543027092149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studying electrical engineering and information technology at the University of Split, Croatia",
+                "pub_year": "2007",
+                "citation": "International Journal of Electrical Engineering Education 44 (2), 175-183, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15275686855214080873",
+            "cites_id": [
+                "15275686855214080873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach to thermal modeling of power cables installed in ducts",
+                "pub_year": "2023",
+                "citation": "Electric Power Systems Research 214, 108916, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=835688772603201338",
+            "cites_id": [
+                "835688772603201338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three-Phase Shunt Active Power Filter Using IGBT Based Voltage Source Inverter",
+                "pub_year": "2002",
+                "citation": "Cavtat & Dubrovnik, Croatia: EPE-PEMC, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12674392682681158175,11148074104556188821",
+            "cites_id": [
+                "12674392682681158175",
+                "11148074104556188821"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active power filter for harmonic distortion compensation of induction motors with soft starting",
+                "pub_year": "2005",
+                "citation": "2005 European Conference on Power Electronics and Applications, 8 pp.-P. 8, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16067541608630638139",
+            "cites_id": [
+                "16067541608630638139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Paralelni Aktivni Energetski Filtar S Prediktivnim Odr\u0111ivanjem Referentne Struje",
+                "pub_year": "2005",
+                "citation": "Automatika 3, 125-134, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10435804253084043971",
+            "cites_id": [
+                "10435804253084043971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Paralelni aktivni energetski filtar s prediktivnim odre\u0111ivanjem referentne struje\u2013eksperimentalni sustav",
+                "pub_year": "2004",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14169529676028049747",
+            "cites_id": [
+                "14169529676028049747"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PREDICTIVE STRUCTURE FOR CURRENT REFERENCE GENERATIONOFACTIVE POWER FILTER",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12132922384817205194",
+            "cites_id": [
+                "12132922384817205194"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three-phase active power filter with predictive structure for reference current determination",
+                "pub_year": "2001",
+                "citation": "Doctoral dissertation, Faculty of Electrical Engineering and Machine \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9817998290367567587",
+            "cites_id": [
+                "9817998290367567587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REDUCTION OF THE INRUSH CURRENT OF THREE-PHASE POWER TRANSFORMERS",
+                "pub_year": "2008",
+                "citation": "Journal of Energy: Energija 57 (3), 350-367, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=424569716994890158",
+            "cites_id": [
+                "424569716994890158"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developing New Electrical and Information Engineering Related Curricula to Respond to the Actual Global Challenges:: The Renewable Energy Curriculum.",
+                "pub_year": "2015",
+                "citation": "EAEEIE Annual Conference on Innovation in Electrical and Information \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developing new electrical and information engineering related curricula to respond to the actual global challenges: the renewable energy curriculum",
+                "pub_year": "2015",
+                "citation": "26th EAEEIE Annual Conference on Innovation in Education for Electrical and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pedeseta obljetnica utemeljenja Fakulteta elektrotehnike, strojarstva i brodogradnje Sveu\u010dili\u0161ta u Splitu",
+                "pub_year": "2011",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 53 (4), 242-242, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "50th Anniversary of Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture, University of Split",
+                "pub_year": "2011",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 53 (4), 242-242, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Word from the Dean of FESB",
+                "pub_year": "2010",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rije\u010d dekana FESB-a",
+                "pub_year": "2010",
+                "citation": "Automatika 51 (3), 219-220, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerenje zna\u010dajki uzemljiva\u010dkog sustava HE Zaku\u010dac",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Karakteristike uzemljiva\u010dkog sustava HE Peru\u010da 2007",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Karakteristike uzemljiva\u010dkog sustava HE Kraljevac",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel Active Power Filter with Predictive Structure for Reference Current Determination\u2013Experimental System",
+                "pub_year": "2004",
+                "citation": "Automatika: \u010dasopis za automatiku, mjerenje, elektroniku, ra\u010dunarstvo i \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utjecaj magnetskih polja elektroenergetskih postrojenja na okoli\u0161 u zoni\" Podi\"-Dugopolje",
+                "pub_year": "2003",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elektri\u010dna mjerenja-upute za laboratorijske vje\u017ebe",
+                "pub_year": "2003",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Karakteristike uzemljiva\u010dkog sustava HE Peru\u010da",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Otpor uzemljenja i naponi dodira i koraka u TS 35/10 kV Vrgorac",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Otpor uzemljenja i naponi dodira i koraka u TS 35/10 kV Imotski",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trofazni aktivni energetski filtar s prediktivnim odre\u0111ivanjem referentne struje",
+                "pub_year": "2001",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protokol o ispitivanju geotermi\u010dkih i geoelektri\u010dkih zna\u010dajki tla na trasi 110 kV mre\u017ee Splita",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ispitivanje mre\u017ee 10 (20) kV na Miljeva\u010dkom platou izme\u0111u TS 35/10 kV Kalun i TS 30/10 kV Lozovac radi priklju\u010dka mHE Ro\u0161ki Slap",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mjerno ra\u010dunarski sustav EM-1",
+                "pub_year": "1991",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CHAIRING COMMITTEE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INTERNATIONAL JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING SYSTEMS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CMwf7ukAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

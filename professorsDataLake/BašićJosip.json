@@ -1,0 +1,697 @@
+{
+    "name": "Ba\u0161i\u0107 Josip",
+    "num_citations": 259,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A class of renormalised meshless Laplacians for boundary value problems",
+                "pub_year": "2018",
+                "citation": "Journal of Computational Physics 354, 269-287, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:Se3iqnhoufwC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16254448724986559055",
+            "cites_id": [
+                "16254448724986559055"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian finite-difference method for predicting green water loadings",
+                "pub_year": "2020",
+                "citation": "Ocean engineering 209, 107533, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6898036986535773391",
+            "cites_id": [
+                "6898036986535773391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Total resistance prediction of an intact and damaged tanker with flooded tanks in calm water",
+                "pub_year": "2017",
+                "citation": "Ocean Engineering 130, 83-91, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4971364810284251110",
+            "cites_id": [
+                "4971364810284251110"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of water entry and exit of a circular cylinder using the ISPH method",
+                "pub_year": "2014",
+                "citation": "Transactions of FAMENA 38 (1), 45-62, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9002105035596054802",
+            "cites_id": [
+                "9002105035596054802"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Lagrangian differencing dynamics method for granular flow modeling",
+                "pub_year": "2021",
+                "citation": "Computers and Geotechnics 137, 104297, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:IWHjjKOFINEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11484423775771051558",
+            "cites_id": [
+                "11484423775771051558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical and Numerical Computation of Added Mass in Ship Vibration Analysis",
+                "pub_year": "2013",
+                "citation": "Shipbuilding (Brodogradnja) 64 (2), 1-11, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8337353218431336296",
+            "cites_id": [
+                "8337353218431336296"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of numerical parameters in the finite-volume method on the Wigley hull resistance",
+                "pub_year": "2019",
+                "citation": "Proceedings of the Institution of Mechanical Engineers, Part M: Journal of \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:5nxA0vEk-isC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11813047158207472817",
+            "cites_id": [
+                "11813047158207472817"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian differencing dynamics for incompressible flows",
+                "pub_year": "2022",
+                "citation": "Journal of Computational Physics 462, 111198, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4196569806993756223",
+            "cites_id": [
+                "4196569806993756223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved estimation of ship wave-making resistance",
+                "pub_year": "2020",
+                "citation": "Ocean Engineering 200, 107079, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:aqlVkmm33-oC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949415730523977008",
+            "cites_id": [
+                "6949415730523977008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical Solution of Basic Ship Hydrostatics Integrals Using Polynomial Radial Basis Functions",
+                "pub_year": "2015",
+                "citation": "Shipbuilding (Brodogradnja) 66 (3), 15-37, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8362342285494242700",
+            "cites_id": [
+                "8362342285494242700"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of CFD simulation parameters in prediction of ventilated flow on a surface-piercing hydrofoil",
+                "pub_year": "2021",
+                "citation": "Ship Technology Research 68 (1), 1-13, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6410854114971976123",
+            "cites_id": [
+                "6410854114971976123"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A lagrangian finite difference method for sloshing: Simulations and comparison with experiments",
+                "pub_year": "2019",
+                "citation": "ISOPE International Ocean and Polar Engineering Conference, ISOPE-I-19-387, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16500204966088330060",
+            "cites_id": [
+                "16500204966088330060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian Differencing Dynamics for Time-Independent Non-Newtonian Materials",
+                "pub_year": "2021",
+                "citation": "Materials 14 (20), 6210, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:HDshCWvjkbEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9108449402922085190,9193876749887592841",
+            "cites_id": [
+                "9108449402922085190",
+                "9193876749887592841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulating hydroelastic slamming by coupled Lagrangian-FDM and FEM",
+                "pub_year": "2020",
+                "citation": "HSMV 2020: Proceedings of the 12th Symposium on High Speed Marine Vehicles 5 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14051217695972166463",
+            "cites_id": [
+                "14051217695972166463"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mesh Sensitivity Analysis for the Numerical Simulation of a Damaged Ship Model",
+                "pub_year": "2017",
+                "citation": "ISOPE International Ocean and Polar Engineering Conference, ISOPE-I-17-624, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2320702606584867403",
+            "cites_id": [
+                "2320702606584867403"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TSHD ship opening simulation by discrete element method",
+                "pub_year": "2020",
+                "citation": "Applied ocean research 94, 102001, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1300836962609013448",
+            "cites_id": [
+                "1300836962609013448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD Analysis of Surface-Piercing Hydrofoil Ventilation Inception",
+                "pub_year": "2016",
+                "citation": "The 22nd Symposium on Theory and Practice of Shipbuilding, 153-162, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9584848999753746545",
+            "cites_id": [
+                "9584848999753746545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for reconstruction of gajeta hull form using photogrammetric measurement method",
+                "pub_year": "2022",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 73 (2), 139-151, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10644298382964991350",
+            "cites_id": [
+                "10644298382964991350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boundary condition enforcement for renormalised weakly compressible meshless Lagrangian methods",
+                "pub_year": "2021",
+                "citation": "Engineering Analysis with Boundary Elements 130, 332-351, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:qUcmZB5y_30C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14765006792810090262",
+            "cites_id": [
+                "14765006792810090262"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Prediction of Ship Wave-Making Resistance by Revised Michell's Integral",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 23rd Symposium on the Theory and Practice of Shipbuilding \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:maZDTaKrznsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9420087087622248053",
+            "cites_id": [
+                "9420087087622248053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling of non-Newtonian meshless flow with structural solvers",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10206013318078912026",
+            "cites_id": [
+                "10206013318078912026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of numerical model for green water loading by coupling the mesh based flow models with the meshless models",
+                "pub_year": "2019",
+                "citation": "University of Zagreb. Faculty of Mechanical Engineering and Naval Architecture, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7755374420039805600",
+            "cites_id": [
+                "7755374420039805600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian finite difference method for violent fluid\u2013structure interaction",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 32nd Symposium on Naval Hydrodynamics, M. Abdel-Maksoud \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:TQgYirikUcIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15463795874483286929",
+            "cites_id": [
+                "15463795874483286929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of d\u2019Alembert\u2019s paradox in panel methods by tangency correction",
+                "pub_year": "2017",
+                "citation": "Engineering Analysis with Boundary Elements 85, 136-141, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:roLk4NBRz8UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13486603184735668919",
+            "cites_id": [
+                "13486603184735668919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Renormalised Lagrangian method for water entry impact simulation",
+                "pub_year": "2017",
+                "citation": "11th Symposium on High Speed Marine Vehicles, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11216779092056714536",
+            "cites_id": [
+                "11216779092056714536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Split TSHD hydrostatic particulars calculation for cargo discharge phase using polynomial RBF",
+                "pub_year": "2017",
+                "citation": "Journal of Marine Science and Application 16, 137-158, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10194210471377136805",
+            "cites_id": [
+                "10194210471377136805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD analysis of surface-piercing hydrofoil ventilation inception",
+                "pub_year": "2016",
+                "citation": "XXII Theory and Practice of Shipbuilding, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=276305458791254791",
+            "cites_id": [
+                "276305458791254791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian Differencing Dynamics for microgravity sloshing",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:-f6ydRqryjwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2513128291471248201",
+            "cites_id": [
+                "2513128291471248201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insight into Hydrodynamic Damping of a Segmented Barge Using Numerical Free-Decay Tests",
+                "pub_year": "2023",
+                "citation": "Journal of Marine Science and Engineering 11 (3), 581, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:r0BpntZqJG4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10994711977217197150",
+            "cites_id": [
+                "10994711977217197150"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Turbulent History of Fluid Mechanics",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6752310139723469703",
+            "cites_id": [
+                "6752310139723469703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic performance of an autonomous underwater vehicle with a swivel tail",
+                "pub_year": "2015",
+                "citation": "16th International Congress of the International Maritime Association of the \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5997341787765823546",
+            "cites_id": [
+                "5997341787765823546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metoda hidrodinamike izgla\u0111enih \u010destica za dinami\u010dku simulaciju nestla\u010divog strujanja",
+                "pub_year": "2012",
+                "citation": "University of Zagreb, Faculty of mechanical engineering and naval architecture, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10319350432867318190",
+            "cites_id": [
+                "10319350432867318190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fluid Structure Interaction Using Modal Superposition and Lagrangian CFD",
+                "pub_year": "2024",
+                "citation": "Journal of Marine Science and Engineering 12 (2), 318, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Approach for Simulating Planing Using Lagrangian CFD",
+                "pub_year": "2023",
+                "citation": "HSMV 2023, 33-40, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strong formulations of the generalised Navier-Stokes momentum equation",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2210.15724, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallelism and Iterative bi-Lanczos Solvers",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Analysis of the Ventilated Flow on a Rudder",
+                "pub_year": "2019",
+                "citation": "ISOPE International Ocean and Polar Engineering Conference, ISOPE-I-19-392, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete Element Method Simulation of a Split Hopper Dredger Discharging Process",
+                "pub_year": "2017",
+                "citation": "Computational Methods in Marine Engineering VII, 848-861, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Split TSHD Hydrostatic Particulars Calculation during Cargo Discharge Procedure using Polynomial RBFs",
+                "pub_year": "2017",
+                "citation": "Journal of Marine Science and Application, 23, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resistance and propulsion Hydrodynamic performance of an autonomous underwater vehicle with a swivel tail",
+                "pub_year": "2015",
+                "citation": "Towards Green Marine Technology and Transport, 23-30, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An integrated remotely controlled oceanographic measuring station",
+                "pub_year": "2015",
+                "citation": "2015 38th International Convention on Information and Communication \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Idejni projekt brzog broda s hibridnim pogonom",
+                "pub_year": "2013",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 60 (5-6), S91-96, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Idejni projekt brzog broda s hibridnim pogonom/Concept Design of a Fast Craft With Hybrid Propulsion",
+                "pub_year": "2013",
+                "citation": "Nase More 60 (suppl 5/6), 91, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiti\u010dki i numeri\u010dki prora\u010dun dodatne mase kod analize vibracije broda",
+                "pub_year": "2013",
+                "citation": "Brodogradnja: \u010dasopis brodogradnje i brodogra\u0111evne industrije 64 (2), 1-11, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incompressible smoothed particle hydrodynamics for dynamic flow simulation",
+                "pub_year": "2012",
+                "citation": "University of Zagreb, Faculty of mechanical engineering and naval architecture, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validacija CFD procedure za procjenu otpora RoPax broda",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Citation: Dario Ban, Josip Ba? i?,? or? e Dobrota. Split TSHD Hydrostatic Particulars Calculation for Cargo Discharge Phase using Polynomial RBF [J]. Journal of Marine Science \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "fp1sgvkAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

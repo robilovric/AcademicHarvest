@@ -1,0 +1,1831 @@
+{
+    "name": "Jakus Damir",
+    "num_citations": 537,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Day-ahead scheduling and real-time economic MPC of CHP unit in microgrid with smart buildings",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Smart Grid 10 (2), 1992-2001, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:isC4tDSrTZIC",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11722081405580796791",
+            "cites_id": [
+                "11722081405580796791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal reconfiguration of distribution networks using hybrid heuristic-genetic algorithm",
+                "pub_year": "2020",
+                "citation": "Energies 13 (7), 1544, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:ldfaerwXgEUC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481733495342888993",
+            "cites_id": [
+                "15481733495342888993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distribucija elektri\u010dne energije",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:mB3voiENLucC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4333226174549742437",
+            "cites_id": [
+                "4333226174549742437"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of aggregate wind farm short-term production variations",
+                "pub_year": "2010",
+                "citation": "Renewable Energy 35 (11), 2602-2609, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15806893025994904818",
+            "cites_id": [
+                "15806893025994904818"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The impact of wind power plants on slow voltage variations in distribution networks",
+                "pub_year": "2011",
+                "citation": "Electric power systems research 81 (2), 589-598, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5953538313455779580",
+            "cites_id": [
+                "5953538313455779580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating future balancing power requirements in wind\u2013PV power system",
+                "pub_year": "2016",
+                "citation": "Renewable Energy 99, 369-378, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=228195646357232809",
+            "cites_id": [
+                "228195646357232809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal distribution network reconfiguration through integration of cycle-break and genetic algorithms",
+                "pub_year": "2018",
+                "citation": "Energies 11 (5), 1278, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:blknAaTinKkC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6078918852106520742",
+            "cites_id": [
+                "6078918852106520742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal scheduling of power transformers preventive maintenance with Bayesian statistical learning and influence diagrams",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 258, 120850, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:2P1L_qKh6hAC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16093026882500077014",
+            "cites_id": [
+                "16093026882500077014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage control in MV distribution networks through coordinated control of tap changers and renewable energy sources",
+                "pub_year": "2015",
+                "citation": "2015 IEEE Eindhoven PowerTech, 1-6, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:dhFuZR0502QC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17531726005659498554",
+            "cites_id": [
+                "17531726005659498554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximization of distribution network hosting capacity through optimal grid reconfiguration and distributed generation capacity allocation/control",
+                "pub_year": "2020",
+                "citation": "Energies 13 (20), 5315, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:HE397vMXCloC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=909330482252951487",
+            "cites_id": [
+                "909330482252951487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for estimating backflashover rates on HV transmission lines based on EMTP-ATP and curve of limiting parameters",
+                "pub_year": "2016",
+                "citation": "International Journal of Electrical Power & Energy Systems 78, 127-137, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:qUcmZB5y_30C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7174554002328256457",
+            "cites_id": [
+                "7174554002328256457"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust nonlinear economic MPC based management of a multi energy microgrid",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Energy Conversion 36 (2), 1528-1536, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Mojj43d5GZwC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17416111656649043734",
+            "cites_id": [
+                "17416111656649043734"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pv power forecast error simulation model",
+                "pub_year": "2015",
+                "citation": "2015 12th International Conference on the European Energy Market (EEM), 1-5, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=877106893629641244",
+            "cites_id": [
+                "877106893629641244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of transformer health index using bayesian statistical models",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:hMod-77fHWUC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11329036247836538793",
+            "cites_id": [
+                "11329036247836538793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind power forecast error simulation model",
+                "pub_year": "2015",
+                "citation": "International Journal of Electrical and Computer Engineering 9 (2), 138-143, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2788475803648392242",
+            "cites_id": [
+                "2788475803648392242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of genetic algorithm in designing high-voltage open-air substation lightning protection system",
+                "pub_year": "2018",
+                "citation": "Journal of Electrostatics 93, 43-51, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:maZDTaKrznsC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7943880009337790163",
+            "cites_id": [
+                "7943880009337790163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monte\u2013Carlo analysis of wind farm lightning-surge transients aided by LINET lightning-detection network data",
+                "pub_year": "2016",
+                "citation": "Renewable energy 99, 501-513, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17330461637809003905",
+            "cites_id": [
+                "17330461637809003905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind power plant as ancillary service provider",
+                "pub_year": "2011",
+                "citation": "2011 8th International Conference on the European Energy Market (EEM), 562-567, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3496660683135334328",
+            "cites_id": [
+                "3496660683135334328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gaussian process regression modeling of wind turbines lightning incidence with LLS information",
+                "pub_year": "2020",
+                "citation": "Renewable Energy 146, 1221-1231, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:NaGl4SEjCO4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=580969478567469763",
+            "cites_id": [
+                "580969478567469763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distribution network reconfiguration using hybrid heuristic\u2014genetic algorithm",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:bEWYMUwI8FkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10974230862073535465",
+            "cites_id": [
+                "10974230862073535465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithm for optimal wind power plant capacity allocation in areas with limited transmission capacity",
+                "pub_year": "2014",
+                "citation": "International Transactions on Electrical Energy Systems 24 (10), 1505-1520, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2791257231347335191",
+            "cites_id": [
+                "2791257231347335191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimising the transformer substation topology in order to minimise annual energy losses",
+                "pub_year": "2018",
+                "citation": "IET Generation, Transmission & Distribution 12 (6), 1323-1330, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:TFP_iSt0sucC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14513561194302375743",
+            "cites_id": [
+                "14513561194302375743"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal reconfiguration of distribution network using cycle-break/genetic algorithm",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Manchester PowerTech, 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:r0BpntZqJG4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2002347075068716811",
+            "cites_id": [
+                "2002347075068716811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual storage-based model for estimation of economic benefits of electric vehicles in renewable portfolios",
+                "pub_year": "2020",
+                "citation": "Energies 13 (9), 2315, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:M05iB0D1s5AC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18372761841681593641",
+            "cites_id": [
+                "18372761841681593641"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-market scheduling of battery storages within renewable portfolios",
+                "pub_year": "2018",
+                "citation": "2018 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:O3NaXMp0MMsC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17740039846278594395",
+            "cites_id": [
+                "17740039846278594395"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transformer insulation coordination using volt\u2013time curve and limit\u2013state surface formulation",
+                "pub_year": "2017",
+                "citation": "International Journal of Electrical Power & Energy Systems 90, 256-266, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6171660726465777909",
+            "cites_id": [
+                "6171660726465777909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wide & Deep Machine Learning Model for Transformer Health Analysis",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:J_g5lzvAfSwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1908476308142627043",
+            "cites_id": [
+                "1908476308142627043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximization of Expected Wind Power Plant Profit Through Optimal Offers on the Day-Ahead Market",
+                "pub_year": "2018",
+                "citation": "2018 15th International Conference on the European Energy Market (EEM), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:HDshCWvjkbEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1984185557970830233",
+            "cites_id": [
+                "1984185557970830233"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak velikih fotonaponskih elektrana na distribucijsku mre\u017eu",
+                "pub_year": "2010",
+                "citation": "Hrvatski ogranak me\u0111unarodne elektrodistribucijske konferencije 2 (8), 1-6, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10503331315206445276",
+            "cites_id": [
+                "10503331315206445276"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of annual active energy losses in a distribution network with a connected wind power plant",
+                "pub_year": "2007",
+                "citation": "Journal of Energy: Energija 56 (6), 676-699, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4187742863273047849",
+            "cites_id": [
+                "4187742863273047849"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust model for EV driven grid impact estimation",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Smart Systems and Technologies (SST), 231-235, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:eMMeJKvmdy0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=846521663458436888",
+            "cites_id": [
+                "846521663458436888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ensemble learning with time-series clustering for aggregated short-term load forecasting",
+                "pub_year": "2020",
+                "citation": "2020 IEEE 20th Mediterranean Electrotechnical Conference (MELECON), 553-558, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:t6usbXjVLHcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4422772173946958277",
+            "cites_id": [
+                "4422772173946958277"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximizing distribution network hosting capacity through optimal network reconfiguration",
+                "pub_year": "2019",
+                "citation": "2019 16th International Conference on the European Energy Market (EEM), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:70eg2SAEIzsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15100220546733508981",
+            "cites_id": [
+                "15100220546733508981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Introducing novel risk-based indicator for determining transmission line tower's backflashover performance",
+                "pub_year": "2018",
+                "citation": "Electric Power Systems Research 160, 337-347, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:M3NEmzRMIkIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10958296365665221708",
+            "cites_id": [
+                "10958296365665221708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of Gaussian copulas in describing station impinging lightning overvoltages",
+                "pub_year": "2016",
+                "citation": "2016 IEEE Electrical Insulation Conference (EIC), 317-320, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12235385825133938927",
+            "cites_id": [
+                "12235385825133938927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlation and autocorrelation characteristics of Croatian wind resource and method of synthetic wind data simulation",
+                "pub_year": "2013",
+                "citation": "EWEA 2013 Conference proceedings, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13309096083686602575",
+            "cites_id": [
+                "13309096083686602575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connection of large photovoltaic power plants to the distribution network",
+                "pub_year": "2010",
+                "citation": "SECOND CONSULTATION OF THE CROATIAN FOUNDATION OF THE \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17053074652979787598",
+            "cites_id": [
+                "17053074652979787598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201ePriklju\u010dak velikih fotonaponskih elektrana na distribucijsku mre\u017eu \u201c, 2. savjetovanje CIRED-a",
+                "pub_year": "2010",
+                "citation": "Umag, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:g5m5HwL7SMYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15000369278357640485",
+            "cites_id": [
+                "15000369278357640485"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prora\u010dun godi\u0161njih gubitaka radne energije u distribucijskoj mre\u017ei s priklju\u010denom vjetroelektranom",
+                "pub_year": "2007",
+                "citation": "Journal of Energy: Energija 56 (6), 676-699, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17074133221273855072",
+            "cites_id": [
+                "17074133221273855072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehni\u010dki i komercijalni gubici distribucijske mre\u017ee",
+                "citation": "HO CIRED, SO5\u201311 4 (10), 0"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:0KyAp5RtaNEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5734219233009710262",
+            "cites_id": [
+                "5734219233009710262"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model for optimal transition towards a fully electric public transportation system",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:WA5NYHcadZ8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2508748444610376248",
+            "cites_id": [
+                "2508748444610376248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Genetic Algorithms in Designing Substation Lightning Shielding",
+                "pub_year": "2018",
+                "citation": "25th International Lightning Detection Conference, Ft. Lauderdale, FL, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:k_IJM867U9cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7883004957277241678",
+            "cites_id": [
+                "7883004957277241678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Indicator of Transmission Line Towers Backflashover Performance",
+                "pub_year": "2017",
+                "citation": "International Conference on Power System Transients (IPST2017), 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8239786252271903076",
+            "cites_id": [
+                "8239786252271903076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy and reserve co-optimization in power system with wind and PV power",
+                "pub_year": "2015",
+                "citation": "2015 12th International Conference on the European Energy Market (EEM), 1-5, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7262330785492554462",
+            "cites_id": [
+                "7262330785492554462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Electric Vehicle Parking Lot Energy Supply Based on Mixed-Integer Linear Programming",
+                "pub_year": "2023",
+                "citation": "Energies 16 (23), 7793, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric Vehicle Charging Station Power Supply Optimization with V2X Capabilities Based on Mixed-Integer Linear Programming",
+                "pub_year": "2023",
+                "citation": "Sustainability 15 (22), 16073, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modification and testing of the microinverter development kit for the purpose of connecting the battery system",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:_B80troHkn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient integration of electric vehicles through optimal coordinated charging and reactive power support",
+                "pub_year": "2023",
+                "citation": "IET Digital Library, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:PELIpwtuRlgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active Distribution Network Voltage Profile Optimization Using Mixed Integer Linear Programming",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Smart Systems and Technologies (SST), 73-79, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Y5dfb0dijaUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odabir optimalnog kapaciteta i analiza isplativosti ulaganja u baterijsko skladi\u0161te u sklopu VE Vrataru\u0161a",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:i2xiXl-TujoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija predizvedivosti izgradnje elektrolizatora unutar podru\u010dja Rafinerije nafte Rijeka",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:xtoqd-5pKcoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj distribucijske mre\u017ee Elektrodalmacije Split, terenskih jedinica Sinj, Imotski, Vrgorac, Makarska, Plo\u010de, Metkovi\u0107, Bra\u010d, Hvar i Vis te otoka \u0160olte za razdoblje narednih \u2026",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:VaXvl8Fpj5cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hidrogelovi za biomedicinske primjene",
+                "pub_year": "2019",
+                "citation": "University of Zagreb. Faculty of Chemical Engineering and Technology, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:kzcrU_BdoSEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced energy meter with load control based on ESP8266 module and MQTT protocol",
+                "pub_year": "2019",
+                "citation": "AIM, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Scheduling of Distributed Generation and Flexible Storage in Smart Buildings",
+                "pub_year": "2018",
+                "citation": "2018 15th International Conference on the European Energy Market (EEM), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prora\u010dun mogu\u0107e proizvodnje hidroelektrana",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:PoWvk5oyLR8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija razvoja distribucijske mre\u017ee za razdoblje narednih 20 godina za distribucijsku mre\u017eu Elektrodalmacije Split, pogona u sjedi\u0161tu (bez \u0160olte), pogon Trogir i Omi\u0161",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:kz9GbA2Ns4gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical Description of Counterpoise Effective Length Based On Regressive Formulas",
+                "pub_year": "2015",
+                "citation": "International Journal of Electrical and Computer Engineering 9 (2), 155-161, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehni\u010dko-okoli\u0161na dubinska analiza vjetroelektrane Lukovac",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:EYYDruWGBe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energetsko-ekonomska analiza izgradnje MHE Peru\u010da-novelacija",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:zLWjf1WUPmwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija razvoja distribucijske mre\u017ee za razdoblje narednih 20 godina za distribucijsko podru\u010dje Elektre Zadar",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:9Nmd_mFXekcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metoda za generiranje koreliranih uzoraka brzina vjetra/proizvodnje vjetroelektrana",
+                "pub_year": "2013",
+                "citation": "11. savjetovanje HRO CIGR\u00c9, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind power plant capacity allocation in areas with limited transmission capacity",
+                "pub_year": "2013",
+                "citation": "Eurocon 2013, 862-867, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj distribucijske mre\u017ee Elektrojug Dubrovnik u razdoblju 2011-2031. godine",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:p__nRnzSRKYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza mogu\u0107nosti priklju\u010dka vjetroelektrane ZD2P i ZD3P na elektroenergetsku mre\u017eu",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:uWiczbcajpAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja priklju\u010denja vjetroelektrane ST3-1/2 Visoka Zelovo na prijenosnu mre\u017eu",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza mogu\u0107nosti priklju\u010dka vjetroelektrane \u010cu\u0107in na elektroenergetsku mre\u017eu",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:2KloaMYe4IUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza mogu\u0107nosti priklju\u010dka vjetroelektrane Otri\u0107 na elektroenergetsku mre\u017eu",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:5awf1xo2G04C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza me\u0111uovisnosti i perzistentnosti vremenskih nizova brzina vjetra s razli\u010ditih lokacija u hrvatskoj",
+                "pub_year": "2013",
+                "citation": "11. savjetovanje HRO CIGR\u00c9, 1-11, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza mogu\u0107nosti integracije vjetroelektrana u postoje\u0107u prijenosnu mre\u017eu analizom karakteristi\u010dnih pogonskih stanja",
+                "pub_year": "2013",
+                "citation": "11. savjetovanje HRO CIGR\u00c9, 1-10, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integracija vjetroelektrana u uvjetima ograni\u010denog kapaciteta prijenosne mre\u017ee",
+                "pub_year": "2012",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Dip1O2bNi0gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind power integration considering limited transmission capacity",
+                "pub_year": "2012",
+                "citation": "FESB, Sveu\u010dili\u0161te u Splitu, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Podloge za izradu Mre\u017enih pravila prijenosnog sustava",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Ug5p-4gJ2f0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza mogu\u0107nosti priklju\u010dka vjetroelektrane ST3-1/2 (Visoka-Zelovo) na elektroenergetsku mre\u017eu",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:S16KYo8Pm5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ulazak u pogon TS 220/110/35/20 (10) kV Plat i priklju\u010dnih vodova",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:BUYA1_V_uYcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja priklju\u010denja vjetroelektrane Lukovac na prijenosnu mre\u017eu",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:AvfA0Oy_GE0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja priklju\u010denja vjetroelektrane ST1-1 Vo\u0161tane i vjetroelektrane ST1-2 Kamensko na prijenosnu mre\u017eu",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:j8SEvjWlNXcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja priklju\u010denja vjetroelektrane Ogorje na prijenosnu mre\u017eu",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:-_dYPAW6P2MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza mogu\u0107nosti priklju\u010dka VE Orljak na elektroenergetsku mre\u017eu",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:tKAzc9rXhukC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Koncepcija i varijantna rje\u0161enja TS 110/x kV Zamo\u0161\u0107e",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:epqYDVWIO7EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat utjecaja VE Crno brdo na elektroenergetsku mre\u017eu",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza mogu\u0107nosti ugradnje prigu\u0161nice za izjedna\u010davanje tokova snaga na DV 110 kV Meterize-Vrboran",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:JQOojiI6XY0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MCMC simulation of wind speed time series",
+                "pub_year": "2010",
+                "citation": "6th PhD Se Wind Energ, 218, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza opravdanosti izgradnje vjetroelektrane Mikanovci i priklju\u010dka na elektroenergetsku mre\u017eu s tehno-ekonomskim podacima i podacima prostornog ure\u0111enja",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:foquWX3nUaYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prora\u010dun struja kratkog spoja vjetroelektrane Jelinak",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:WZBGuue-350C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dodatna razrada varijanti priklju\u010dka vjetroelektrana na elektroenergetsku mre\u017eu za lokacije tvrtke EHN doo u Splitsko-dalmatinskoj \u017eupaniji",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:kuK5TVdYjLIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat o pomo\u0107nim uslugama u EES-u",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:TIZ-Mc8IlK0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid connection options and risks for WF Bradarica kosa and WF Kocinje brdo",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:tYavs44e6CUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja priklju\u010denja vjetroelektrane Jelinak na prijenosnu mre\u017eu",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:g3aElNc5_aQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza priklju\u010dka VE Ljuba\u010d na elektroenergetsku mre\u017eu",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:L7CI7m0gUJcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja vjetroelektrane Visoka na elektroenergetsku mre\u017eu",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:vbGhcppDl1QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja pove\u0107anja priklju\u010dne snage HE Zaku\u010dac na postoje\u0107em priklju\u010dku",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:4MWp96NkSFoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja vjetroelektrane Kozjak na elektroenergetsku mre\u017eu",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Z5m8FVwuT1cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja priklju\u010denja VE Glun\u010da na elektroenergetsku mre\u017eu",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:evX43VCCuoAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj srednjenaponske mre\u017ee za razdoblje narednih 20 godina za distribucijsko podru\u010dje Elektra \u0160ibenik",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:_Ybze24A_UAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza priklju\u010dka VE \u010cemernica na elektroenergetsku mre\u017eu",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:uLbwQdceFCQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MCMC simulation of wind speed time series",
+                "pub_year": "2010",
+                "citation": "6th PhD Seminar on Wind Energy in Europe, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehni\u010dke i ekonomske pretpostavke za visoku razinu integracije obnovljivih izvora energije u elektroenergetski sustav Hrvatske",
+                "pub_year": "2010",
+                "citation": "9. simpozij o sustavu vo\u0111enja EES-a-HRO CIGRE, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALIZA NAPONSKOG PROFILA U MRE\u017dI 30 KV NAKON PRIKLJU\u010cENJA VE ORLICE",
+                "pub_year": "2010",
+                "citation": "2.(8.) savjetovanje Cired, 1-12, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimalno tehni\u010dko rje\u0161enje priklju\u010denja solarne elektrane Stankovci na distribucijsku mre\u017eu",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:ruyezt5ZtCIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Idejno rje\u0161enje priklju\u010dka na elektroenergetsku mre\u017eu solarne elektrane Stankovci",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:q3CdL3IzO_QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza mogu\u0107nosti priklju\u010dka VE KPA na elektroenergetsku mre\u017eu",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:dQ2og3OwTAUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja na elektroenergetsku mre\u017eu VE Ponikve",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:HbR8gkJAVGIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja vjetroelektrane Jelinak na elektroenergetsku mre\u017eu",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:e_rmSamDkqQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza opravdanosti izgradnje vjetroelektrane Orlovac 1 i priklju\u010dka na elektroenergetsku mre\u017eu s tehno-ekonomskim podacima i podacima prostornog ure\u0111enja",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:oNZyr7d5Mn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza priklju\u010dka na elektroenergetsku mre\u017eu: \u010cemernica, Visoka, Opor i Perun",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:LI9QrySNdTsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izbor lokacije TS 400/110 kV na Zadarskom podru\u010dju",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:tuHXwOkdijsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza opravdanosti izgradnje vjetroelektrane Bra\u010devi\u0107i i priklju\u010dka na elektroenergetsku mre\u017eu s tehno-ekonomskim podacima i podacima prostornog ure\u0111enja",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:b1wdh0AR-JQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osnovna koncepcija razvoja prijenosne mre\u017ee ju\u017ene Dalmacije",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:gsN89kCJA0AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pregled i osnovni pokazatelji projekata vjetroelektrana tvrtke EHN doo",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:KUbvn5osdkgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza opravdanosti izgradnje vjetroelektrane Stra\u017ebenica i priklju\u010dka na elektroenergetsku mre\u017eu s tehno-ekonomskim podacima i podacima prostornog ure\u0111enja",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:vDijr-p_gm4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Varijante i etapnost izgradnje prijenosne mre\u017ee priklju\u010denjem sva \u010detiri agregata HE Zaku\u010dac na mre\u017eu 220 kV",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:ipzZ9siozwsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procjena portfelja vjetroelektrana za HEP OIE doo",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:tzM49s52ZIMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza opravdanosti izgradnje vjetroelektrane Pli\u0107 i priklju\u010dka na elektroenergetsku mre\u017eu s tehno-ekonomskim podacima i podacima prostornog ure\u0111enja",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:VL0QpB8kHFEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza mre\u017ee 110 kV na podru\u010dju Bilice-Podi-Trogir u svrhu optimalnog rje\u0161enja uvoda vodova 110 kV u TS Podi i TS Trogir",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:ye4kPcJQO24C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminarna analiza opravdanosti izgradnje vjetroelektrane i priklju\u010dka na elektroenergetsku mre\u017eu s tehno-ekonomskim podacima i podacima prostornog ure\u0111enja za 6 vjetroelektrana",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:WqliGbK-hY8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odabir trase i topologije kabelske mre\u017ee 110 kV grada Dubrovnika",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration of wind energy into Croatian power system",
+                "pub_year": "2008",
+                "citation": "Simpozij o sustavu vo\u0111enja elektroenergetskog sistema (8; 2008), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prora\u010dun struja kratkog spoja u CS Bu\u0161ko Blato",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:-FonjvnnhkoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj elektroenergetskog sustava Omi\u0161-Makarska-Plo\u010de",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:M7yex6snE4oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimalno vo\u0111enje proizvodnje hidroelektrana JP Elektroprivreda HZ Herceg Bosne Mostar",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:MLfJN-KU85MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja na elektroenergetsku mre\u017eu VE Crno brdo",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:ILKRHgRFtOwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja na elektroenergetsku mre\u017eu VE Vrbnik",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:nrtMV_XWKgEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osnove elektroenergetike",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:z_wVstp3MssC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja na elektroenergetsku mre\u017eu VE Glun\u010da",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:VLnqNzywnoUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elektri\u010dne mre\u017ee",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:_Re3VWB3Y0AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja na elektroenergetsku mre\u017eu VE Svilaja",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:7T2F9Uy0os0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Priklju\u010dak i analiza utjecaja na elektroenergetsku mre\u017eu VE Oton",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ISPLATIVOST IZGRADNJE MALIH HIDROELEKTRANA",
+                "pub_year": "2006",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energetsko-ekonomska analiza izgradnje male hidroelektrane Peru\u0107a",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:SpbeaW3--B0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small HPP Peru\u0107a fesibility study",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2023 19th International Conference on the European Energy Market (EEM)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ala, Guido",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "1. The Management System of the Polish Electricity Exchange from the Viewpoint of the Control and Systems Theory Tch\u00f3rzewski, Jerzy Rudolf 2. Impact of Climate Changes on the \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LI, Shuaibing Lopes, Nuno Maras, Josip Marasovic, Tea",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fang, Nan 197 Farella, Elisabetta 59 Ferri, Giuseppe 131 Franchina, Vittorio 235",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iliev, Plamen 111",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VOLTAGE PROFILE ANALYSIS IN 30 KV NETWORK AFTER CONNECTION OF WIND POWER PLANT",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hI_uqj0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

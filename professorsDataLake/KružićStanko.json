@@ -1,0 +1,387 @@
+{
+    "name": "Kru\u017ei\u0107 Stanko",
+    "num_citations": 81,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robotics and information technologies in education: four countries from Alpe-Adria-Danube Region survey",
+                "pub_year": "2020",
+                "citation": "International Journal of Technology and Design Education, 1-23, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:k_IJM867U9cC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5737374675906703029",
+            "cites_id": [
+                "5737374675906703029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecting underwater sea litter using deep neural networks: an initial study",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:M3NEmzRMIkIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18034835363750503672",
+            "cites_id": [
+                "18034835363750503672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating Robot Manipulator End-effector Forces using Deep Learning",
+                "pub_year": "2020",
+                "citation": "2020 43rd International Convention on Information, Communication and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:maZDTaKrznsC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11079271037448949848",
+            "cites_id": [
+                "11079271037448949848"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete model for automatic object detection and localisation on aerial images using convolutional neural networks",
+                "pub_year": "2018",
+                "citation": "Journal of Communications Software and Systems 14 (1), 82-90, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8518461509146451797",
+            "cites_id": [
+                "8518461509146451797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "End-effector force and joint torque estimation of a 7-DoF robotic manipulator using deep learning",
+                "pub_year": "2021",
+                "citation": "Electronics 10 (23), 2963, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:GnPB-g6toBAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6560476318110345161,2307268094261745651",
+            "cites_id": [
+                "6560476318110345161",
+                "2307268094261745651"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Human-Computer Interface Elements on Performance of Teleoperated Mobile Robot",
+                "pub_year": "2017",
+                "citation": "Mipro 2017-Computers in Technical Systems, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10367497366950481425",
+            "cites_id": [
+                "10367497366950481425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crash course learning: an automated approach to simulation-driven LiDAR-basedtraining of neural networks for obstacle avoidance in mobile robotics",
+                "pub_year": "2020",
+                "citation": "Turkish Journal of Electrical Engineering and Computer Sciences 28 (2), 1107 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:iH-uZ7U-co4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18181793814635174666",
+            "cites_id": [
+                "18181793814635174666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive fuzzy mediation for multimodal control of mobile robots in navigation-based tasks",
+                "pub_year": "2019",
+                "citation": "International Journal of Computational Intelligence Systems 12 (2), 1197-1211, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:r0BpntZqJG4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1653565746369285067",
+            "cites_id": [
+                "1653565746369285067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying needs of robotic and technological solutions for the classroom",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7119094423116544366",
+            "cites_id": [
+                "7119094423116544366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model for automatic geomapping of aerial images mosaic acquired by UAV",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4726520494070695328",
+            "cites_id": [
+                "4726520494070695328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep semantic image segmentation for UAV-UGV cooperative path planning: A car park use case",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Software, Telecommunications and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:isC4tDSrTZIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4919700194309382935",
+            "cites_id": [
+                "4919700194309382935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Data Collection Parameters on Performance of Neural Network-based Obstacle Avoidance",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16837627794447173359",
+            "cites_id": [
+                "16837627794447173359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural Network-based End-effector Force Estimation for Mobile Manipulator on Simulated Uneven Surfaces",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:NaGl4SEjCO4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4426916421191449970",
+            "cites_id": [
+                "4426916421191449970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strain Gauge Neural Network-Based Estimation as an Alternative for Force and Torque Sensor Measurements in Robot Manipulators",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (18), 10217, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Artificial intelligence-based methods for interaction force estimation and mediated navigation of a robot manipulator on a mobile base",
+                "pub_year": "2022",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quadcopter Altitude Control Methods for Communication Relay Systems",
+                "pub_year": "2017",
+                "citation": "Recent Advances in Communications and Networking Technology (Formerly Recent \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Map Building Using Autonomous Mobile Service Robots with Deep Neural Networks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Face and Nose Detection in Digital Images using Local Binary Patterns",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NWV4Fp8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "z8akwMMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Music",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OmPUlukAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladan Papic",
+            "affiliation": "University of Split  unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "C2P1GHUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivo Stancic",
+            "affiliation": "University of Split, unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LqmDICIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roman Kamnik",
+            "affiliation": "University of Ljubljana, Faculty of Electrical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uRKDVLcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mirjana Bonkovic",
+            "affiliation": "University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jdkVWz0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sven Gotovac",
+            "affiliation": "Professor electrical engineering, University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KlwP_5QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dunja Bo\u017ei\u0107-\u0160tuli\u0107",
+            "affiliation": "Sveu\u010dili\u0161te u Splitu/ University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ltCOPzkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Franti\u0161ek Ducho\u0148",
+            "affiliation": "Professor, Slovak University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qIO5_F4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christoph Pomrehn",
+            "affiliation": "Institut of Visual Computing, Hochschule Bonn-Rhein-Sieg University of Applied Science"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mftFU5oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ahmad Drak",
+            "affiliation": "Masters of Autonomous Systems ,  Hochschule Bonn Rhein Sieg, Germany"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sAjOxN8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rainer Herpers",
+            "affiliation": "Hochschule Bonn-Rhein-Sieg, Professor of Computer Science, Director of the Institute of Visual"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8rMGKg0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mirela Kundid Vasi\u0107",
+            "affiliation": "University of Mostar"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AfYjPJIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maximilian Johenneken",
+            "affiliation": "Research Asociate"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GzqcLccAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Snezhana Kostova",
+            "affiliation": "Assos. Prof. , Institute of Robotics-BAS"
+        }
+    ]
+}

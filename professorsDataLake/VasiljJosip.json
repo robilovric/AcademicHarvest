@@ -1,0 +1,797 @@
+{
+    "name": "Vasilj Josip",
+    "num_citations": 387,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Day-ahead scheduling and real-time economic MPC of CHP unit in microgrid with smart buildings",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Smart Grid 10 (2), 1992-2001, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:qUcmZB5y_30C",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11722081405580796791",
+            "cites_id": [
+                "11722081405580796791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal reconfiguration of distribution networks using hybrid heuristic-genetic algorithm",
+                "pub_year": "2020",
+                "citation": "Energies 13 (7), 1544, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:maZDTaKrznsC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481733495342888993",
+            "cites_id": [
+                "15481733495342888993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating future balancing power requirements in wind\u2013PV power system",
+                "pub_year": "2016",
+                "citation": "Renewable Energy 99, 369-378, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=228195646357232809",
+            "cites_id": [
+                "228195646357232809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal distribution network reconfiguration through integration of cycle-break and genetic algorithms",
+                "pub_year": "2018",
+                "citation": "Energies 11 (5), 1278, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:HDshCWvjkbEC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6078918852106520742",
+            "cites_id": [
+                "6078918852106520742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal scheduling of power transformers preventive maintenance with Bayesian statistical learning and influence diagrams",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 258, 120850, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:k_IJM867U9cC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16093026882500077014",
+            "cites_id": [
+                "16093026882500077014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage control in MV distribution networks through coordinated control of tap changers and renewable energy sources",
+                "pub_year": "2015",
+                "citation": "2015 IEEE Eindhoven PowerTech, 1-6, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:Zph67rFs4hoC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17531726005659498554",
+            "cites_id": [
+                "17531726005659498554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for estimating backflashover rates on HV transmission lines based on EMTP-ATP and curve of limiting parameters",
+                "pub_year": "2016",
+                "citation": "International Journal of Electrical Power & Energy Systems 78, 127-137, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7174554002328256457",
+            "cites_id": [
+                "7174554002328256457"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monte Carlo analysis of wind farm surge arresters risk of failure due to lightning surges",
+                "pub_year": "2013",
+                "citation": "Renewable Energy 57, 626-634, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980094689010427355",
+            "cites_id": [
+                "6980094689010427355"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of current-limiting air-core series reactor for transient recovery voltage studies",
+                "pub_year": "2014",
+                "citation": "Electric power systems research 117, 185-191, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11110876899500476369",
+            "cites_id": [
+                "11110876899500476369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust nonlinear economic MPC based management of a multi energy microgrid",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Energy Conversion 36 (2), 1528-1536, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17416111656649043734",
+            "cites_id": [
+                "17416111656649043734"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pv power forecast error simulation model",
+                "pub_year": "2015",
+                "citation": "2015 12th International Conference on the European Energy Market (EEM), 1-5, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=877106893629641244",
+            "cites_id": [
+                "877106893629641244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of transformer health index using bayesian statistical models",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:TQgYirikUcIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11329036247836538793",
+            "cites_id": [
+                "11329036247836538793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind power forecast error simulation model",
+                "pub_year": "2015",
+                "citation": "International Journal of Electrical and Computer Engineering 9 (2), 138-143, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2788475803648392242",
+            "cites_id": [
+                "2788475803648392242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of genetic algorithm in designing high-voltage open-air substation lightning protection system",
+                "pub_year": "2018",
+                "citation": "Journal of Electrostatics 93, 43-51, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7943880009337790163",
+            "cites_id": [
+                "7943880009337790163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monte\u2013Carlo analysis of wind farm lightning-surge transients aided by LINET lightning-detection network data",
+                "pub_year": "2016",
+                "citation": "Renewable energy 99, 501-513, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17330461637809003905",
+            "cites_id": [
+                "17330461637809003905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distribution network reconfiguration using hybrid heuristic\u2014genetic algorithm",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10974230862073535465",
+            "cites_id": [
+                "10974230862073535465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithm for optimal wind power plant capacity allocation in areas with limited transmission capacity",
+                "pub_year": "2014",
+                "citation": "International Transactions on Electrical Energy Systems 24 (10), 1505-1520, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2791257231347335191",
+            "cites_id": [
+                "2791257231347335191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimising the transformer substation topology in order to minimise annual energy losses",
+                "pub_year": "2018",
+                "citation": "IET Generation, Transmission & Distribution 12 (6), 1323-1330, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:IWHjjKOFINEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14513561194302375743",
+            "cites_id": [
+                "14513561194302375743"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal reconfiguration of distribution network using cycle-break/genetic algorithm",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Manchester PowerTech, 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2002347075068716811",
+            "cites_id": [
+                "2002347075068716811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual storage-based model for estimation of economic benefits of electric vehicles in renewable portfolios",
+                "pub_year": "2020",
+                "citation": "Energies 13 (9), 2315, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18372761841681593641",
+            "cites_id": [
+                "18372761841681593641"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-market scheduling of battery storages within renewable portfolios",
+                "pub_year": "2018",
+                "citation": "2018 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17740039846278594395",
+            "cites_id": [
+                "17740039846278594395"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximization of Expected Wind Power Plant Profit Through Optimal Offers on the Day-Ahead Market",
+                "pub_year": "2018",
+                "citation": "2018 15th International Conference on the European Energy Market (EEM), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1984185557970830233",
+            "cites_id": [
+                "1984185557970830233"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating BFOR on HV transmission lines using EMTP and curve of limiting parameters",
+                "pub_year": "2015",
+                "citation": "International Conference on Power System Transients, 15-18, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8011672297054418620",
+            "cites_id": [
+                "8011672297054418620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust model for EV driven grid impact estimation",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Smart Systems and Technologies (SST), 231-235, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=846521663458436888",
+            "cites_id": [
+                "846521663458436888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ensemble learning with time-series clustering for aggregated short-term load forecasting",
+                "pub_year": "2020",
+                "citation": "2020 IEEE 20th Mediterranean Electrotechnical Conference (MELECON), 553-558, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4422772173946958277",
+            "cites_id": [
+                "4422772173946958277"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximizing distribution network hosting capacity through optimal network reconfiguration",
+                "pub_year": "2019",
+                "citation": "2019 16th International Conference on the European Energy Market (EEM), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:isC4tDSrTZIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15100220546733508981",
+            "cites_id": [
+                "15100220546733508981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Introducing novel risk-based indicator for determining transmission line tower's backflashover performance",
+                "pub_year": "2018",
+                "citation": "Electric Power Systems Research 160, 337-347, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10958296365665221708",
+            "cites_id": [
+                "10958296365665221708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of Gaussian copulas in describing station impinging lightning overvoltages",
+                "pub_year": "2016",
+                "citation": "2016 IEEE Electrical Insulation Conference (EIC), 317-320, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12235385825133938927",
+            "cites_id": [
+                "12235385825133938927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlation and autocorrelation characteristics of Croatian wind resource and method of synthetic wind data simulation",
+                "pub_year": "2013",
+                "citation": "EWEA 2013 Conference proceedings, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13309096083686602575",
+            "cites_id": [
+                "13309096083686602575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model for optimal transition towards a fully electric public transportation system",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2508748444610376248",
+            "cites_id": [
+                "2508748444610376248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Genetic Algorithms in Designing Substation Lightning Shielding",
+                "pub_year": "2018",
+                "citation": "25th International Lightning Detection Conference, Ft. Lauderdale, FL, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:-f6ydRqryjwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7883004957277241678",
+            "cites_id": [
+                "7883004957277241678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Indicator of Transmission Line Towers Backflashover Performance",
+                "pub_year": "2017",
+                "citation": "International Conference on Power System Transients (IPST2017), 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8239786252271903076",
+            "cites_id": [
+                "8239786252271903076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy and reserve co-optimization in power system with wind and PV power",
+                "pub_year": "2015",
+                "citation": "2015 12th International Conference on the European Energy Market (EEM), 1-5, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7262330785492554462",
+            "cites_id": [
+                "7262330785492554462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Electric Vehicle Parking Lot Energy Supply Based on Mixed-Integer Linear Programming",
+                "pub_year": "2023",
+                "citation": "Energies 16 (23), 7793, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric Vehicle Charging Station Power Supply Optimization with V2X Capabilities Based on Mixed-Integer Linear Programming",
+                "pub_year": "2023",
+                "citation": "Sustainability 15 (22), 16073, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modification and testing of the microinverter development kit for the purpose of connecting the battery system",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient integration of electric vehicles through optimal coordinated charging and reactive power support",
+                "pub_year": "2023",
+                "citation": "IET Digital Library, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active Distribution Network Voltage Profile Optimization Using Mixed Integer Linear Programming",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Smart Systems and Technologies (SST), 73-79, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Odabir optimalnog kapaciteta i analiza isplativosti ulaganja u baterijsko skladi\u0161te u sklopu VE Vrataru\u0161a",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija predizvedivosti izgradnje elektrolizatora unutar podru\u010dja Rafinerije nafte Rijeka",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:738O_yMBCRsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj distribucijske mre\u017ee Elektrodalmacije Split, terenskih jedinica Sinj, Imotski, Vrgorac, Makarska, Plo\u010de, Metkovi\u0107, Bra\u010d, Hvar i Vis te otoka \u0160olte za razdoblje narednih \u2026",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced energy meter with load control based on ESP8266 module and MQTT protocol",
+                "pub_year": "2019",
+                "citation": "AIM, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Scheduling of Distributed Generation and Flexible Storage in Smart Buildings",
+                "pub_year": "2018",
+                "citation": "2018 15th International Conference on the European Energy Market (EEM), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Valuation of contract between power supplier and electric vehicle owner",
+                "pub_year": "2017",
+                "citation": "2017 14th International Conference on the European Energy Market (EEM), 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prora\u010dun mogu\u0107e proizvodnje hidroelektrana",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical Description of Counterpoise Effective Length Based On Regressive Formulas",
+                "pub_year": "2015",
+                "citation": "International Journal of Electrical and Computer Engineering 9 (2), 155-161, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind power plant capacity allocation in areas with limited transmission capacity",
+                "pub_year": "2013",
+                "citation": "Eurocon 2013, 862-867, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ulazak u pogon TS 220/110/35/20 (10) kV Plat i priklju\u010dnih vodova",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Podloge za izradu Mre\u017enih pravila prijenosnog sustava",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Koncepcija i varijantna rje\u0161enja TS 110/x kV Zamo\u0161\u0107e",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza mogu\u0107nosti ugradnje prigu\u0161nice za izjedna\u010davanje tokova snaga na DV 110 kV Meterize-Vrboran",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elaborat optimalnog tehni\u010dkog rje\u0161enja pove\u0107anja priklju\u010dne snage HE Zaku\u010dac na postoje\u0107em priklju\u010dku",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:p2g8aNsByqUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj srednjenaponske mre\u017ee za razdoblje narednih 20 godina za distribucijsko podru\u010dje Elektra \u0160ibenik",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "1. The Management System of the Polish Electricity Exchange from the Viewpoint of the Control and Systems Theory Tch\u00f3rzewski, Jerzy Rudolf 2. Impact of Climate Changes on the \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VOLTAGE PROFILE ANALYSIS IN 30 KV NETWORK AFTER CONNECTION OF WIND POWER PLANT",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dtR52rYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

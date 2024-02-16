@@ -1,0 +1,687 @@
+{
+    "name": "Ban Dario",
+    "num_citations": 165,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A class of renormalised meshless Laplacians for boundary value problems",
+                "pub_year": "2018",
+                "citation": "Journal of Computational Physics 354, 269-287, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:4DMP91E08xMC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16254448724986559055",
+            "cites_id": [
+                "16254448724986559055"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian finite-difference method for predicting green water loadings",
+                "pub_year": "2020",
+                "citation": "Ocean engineering 209, 107533, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:qUcmZB5y_30C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6898036986535773391",
+            "cites_id": [
+                "6898036986535773391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian differencing dynamics for incompressible flows",
+                "pub_year": "2022",
+                "citation": "Journal of Computational Physics 462, 111198, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:r0BpntZqJG4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4196569806993756223",
+            "cites_id": [
+                "4196569806993756223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical solution of basic ship hydrostatics integrals using polynomial radial basis functions",
+                "pub_year": "2015",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 66 (3), 15-37, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8362342285494242700",
+            "cites_id": [
+                "8362342285494242700"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global ship hull description using single RBF",
+                "pub_year": "2015",
+                "citation": "16th International Congress of the International Maritime Association of the \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:UebtZRa9Y70C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13415189974772520365",
+            "cites_id": [
+                "13415189974772520365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical solution of global 2D description of ship geometry with discontinuities using composition of polynomial radial basis functions",
+                "pub_year": "2014",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 65 (2), 1-22, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9208480878018486694",
+            "cites_id": [
+                "9208480878018486694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Comparison of hull resistances of a mono-hull and a SWATH craft",
+                "pub_year": "2013",
+                "citation": "International Journal of Engineering, Science and Innovative Technology 2 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11896548271248763340",
+            "cites_id": [
+                "11896548271248763340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ship geometry description using global 2D RBF interpolation",
+                "pub_year": "2010",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 61 (3), 233-242, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2452219285688260388",
+            "cites_id": [
+                "2452219285688260388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An introduction of future fuels on working ship for GHGs reduction: Trailing suction hopper dredger case study",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production 405, 137008, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6944872918884061613",
+            "cites_id": [
+                "6944872918884061613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Peen-forming-the possibility of technology transfer from aircraft industry to the production of high-speed ships",
+                "pub_year": "2008",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 59 (1), 35-43, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14199149917887029683",
+            "cites_id": [
+                "14199149917887029683"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of Influential Parameters on Shot-peening of Aluminum Alloys",
+                "pub_year": "2008",
+                "citation": "2th International Research/Expert Conference Trends in the Development of \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4259794606739909125",
+            "cites_id": [
+                "4259794606739909125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TSHD ship opening simulation by discrete element method",
+                "pub_year": "2020",
+                "citation": "Applied ocean research 94, 102001, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1300836962609013448",
+            "cites_id": [
+                "1300836962609013448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Prediction of Ship Wave-Making Resistance by Revised Michell's Integral",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 23rd Symposium on the Theory and Practice of Shipbuilding \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:blknAaTinKkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9420087087622248053",
+            "cites_id": [
+                "9420087087622248053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201cDRUZHBA ADRIA\u201d PROJECT\u2013MANAGING BALLAST WATER PROBLEMS",
+                "pub_year": "2007",
+                "citation": "NA\u0160E MORE: znanstveni \u010dasopis za more i pomorstvo 54 (5-6), 227-232, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2313382896839454232",
+            "cites_id": [
+                "2313382896839454232"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian finite difference method for violent fluid\u2013structure interaction",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 32nd Symposium on Naval Hydrodynamics, M. Abdel-Maksoud \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15463795874483286929",
+            "cites_id": [
+                "15463795874483286929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of d\u2019Alembert\u2019s paradox in panel methods by tangency correction",
+                "pub_year": "2017",
+                "citation": "Engineering Analysis with Boundary Elements 85, 136-141, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13486603184735668919",
+            "cites_id": [
+                "13486603184735668919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Split TSHD hydrostatic particulars calculation for cargo discharge phase using polynomial RBF",
+                "pub_year": "2017",
+                "citation": "Journal of Marine Science and Application 16, 137-158, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10194210471377136805",
+            "cites_id": [
+                "10194210471377136805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Renormalised Lagrangian method for water entry impact simulation",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 11th Symposium on High Speed Marine Vehicles, Naples \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11216779092056714536",
+            "cites_id": [
+                "11216779092056714536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maritime component reliability assessment and maintenance using bayesian framework and generic data",
+                "pub_year": "2010",
+                "citation": "Adv. Sh. Des. Pollut. Prev, 181-188, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9459885636076449816",
+            "cites_id": [
+                "9459885636076449816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technologically improved strength of critical structural elements of high-speed ships",
+                "pub_year": "2007",
+                "citation": "11th International Research/Expert Conference \u201cTrends in the Development of \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5668777143776758613",
+            "cites_id": [
+                "5668777143776758613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Re-examination of centre of buoyancy curve and its evolute for rectangular cross section, Part 1: Swallowtail discontinuity bounds",
+                "pub_year": "2023",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 74 (2), 1-19, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6197834054811743222",
+            "cites_id": [
+                "6197834054811743222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fractures on a drillship derrick, evaluation and improvement",
+                "pub_year": "2020",
+                "citation": "Engineering Failure Analysis 118, 104792, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:TQgYirikUcIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=128058743648060184",
+            "cites_id": [
+                "128058743648060184"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiti\u010dko opisivanje brodske geometrije globalnom interpolacijom radijalnim osnovnim funkcijama",
+                "pub_year": "2012",
+                "citation": "University of Rijeka. Faculty of Engineering, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:lSLTfruPkqcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14085677382507491570",
+            "cites_id": [
+                "14085677382507491570"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aspects of a reliable determination of wind-generated loading spectra",
+                "pub_year": "2011",
+                "citation": "13th International Conference on Wind Engineering (ICWE13), Amsterdam, CD \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=387195244610671466",
+            "cites_id": [
+                "387195244610671466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE SHOT-PEENING PROCESS CONTROL IN THE HIGH-SPEED VESSELS PRODUCTION.",
+                "pub_year": "2009",
+                "citation": "Brodogradnja 60 (1), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8975859685377553380",
+            "cites_id": [
+                "8975859685377553380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Re-examination of centre of buoyancy curve and its evolute for rectangular cross section, Part 2: Using quadratic functions",
+                "pub_year": "2023",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 74 (3), 17-45, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Directional Wind Spectrum Description using Bivariate L1 Norm RBFs",
+                "pub_year": "2023",
+                "citation": "International Journal for Engineering Modelling 36 (1), 99-114, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete element method simulation of a split hopper dredger discharging process",
+                "pub_year": "2017",
+                "citation": "MARINE VII: proceedings of the VII International Conference on Computational \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic Instability of High Speed Crafts",
+                "pub_year": "2016",
+                "citation": "The 22nd Symposium on Theory and Practice of Shipbuilding, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated active learning in Naval architecture studies",
+                "pub_year": "2014",
+                "citation": "Proceedings of 21st Symposium on Theory and Practice of Shipbuilding, 565, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical Ship Geometry Description using RBF Global Interpolation",
+                "pub_year": "2012",
+                "citation": "Tehni\u010dki fakultet, Sveu\u010dili\u0161te u Rijeci, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ship Geometry Modelling Using Radial Basis Functions Interpolation",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISIO",
+                "pub_year": "2008",
+                "citation": "FESB, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The possibility of using peen-forming process in the new generation vessels prodution",
+                "pub_year": "2008",
+                "citation": "Shot-peening Conference, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shot-peening control process in the production of high-speed crafts",
+                "pub_year": "2008",
+                "citation": "XVIII. Simpozij teorija i praksa brodogradnje, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\" DRUZHBA ADRIA\" PROJECT-MANAGING BALLAST WATER PROBLEMS/\" Druzhba Adria\" projekt-problemi postupanja s balastnim vodama",
+                "pub_year": "2007",
+                "citation": "Nase More 54 (5/6), 228, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADRIA- MANAGING BALLAST WATER PROBLEMS",
+                "pub_year": "2007",
+                "citation": "Nase More 54, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvement of the fatigue properties of aluminum alloys for use in modern shipbuilding",
+                "pub_year": "2007",
+                "citation": "Second Conference on Marine Technology, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NEURAL NETWORKS APPLICATION IN MULTI-CRITERIAL CONCEPTUAL DESIGN OF RO-RO SHIPS",
+                "pub_year": "2000",
+                "citation": "Fakultet strojarstva i brodogradnje, Sveu\u010dili\u0161te u Zagrebu, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primjena neuralnih mre\u017ea u vi\u0161ekriterijskom konceptualnom projektiranju Ro-Ro brodova",
+                "pub_year": "2000",
+                "citation": "Sveu\u010dili\u0161te u Zagrebu, Fakultet strojarstva i brodogradnje, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MOWING TOWARDS A SAFER BULK CARRIERS",
+                "pub_year": "1998",
+                "citation": "XIII SIMPOZIJA TEORIJA I PRAKSA BRODOGRADNJE, In memoriam Prof. Leopold Sorta, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adriatic Blue-Green Oil Tanker Class",
+                "citation": "SORTA 2022, 57, 0"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Citation: Dario Ban, Josip Ba? i?,? or? e Dobrota. Split TSHD Hydrostatic Particulars Calculation for Cargo Discharge Phase using Polynomial RBF [J]. Journal of Marine Science \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Split TSHD Hydrostatic Particulars Calculation during Cargo Discharge Procedure using Polynomial RBFs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced Ship Design for Pollution Prevention",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced Ship Design for Pollution Prevention",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Verification of Number of Cycles for Fatique Life Estimation of Wind-Sensitive Structures",
+                "citation": "7th ICCSM, 233, 0"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploitation of floating objects in coastal cities",
+                "citation": "International Maritime Scientific Conference, 201, 0"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RELIABLE MODEL OF MAXIMUM WIND LOAD AMPLITUDE",
+                "citation": "30th Danubia Adria-Symposium on Advances in Experimental Mechanics, 246, 0"
+            },
+            "filled": false,
+            "author_pub_id": "9SaZqyEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

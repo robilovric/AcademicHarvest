@@ -1,0 +1,649 @@
+{
+    "name": "\u0160unjerga Antonio",
+    "num_citations": 288,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The laser lightning rod project",
+                "pub_year": "2021",
+                "citation": "The European Physical Journal Applied Physics 93 (1), 10504, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1444831867956881984",
+            "cites_id": [
+                "1444831867956881984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laser-guided lightning",
+                "pub_year": "2023",
+                "citation": "Nature Photonics 17 (3), 231-235, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:4TOpqqG69KYC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12827761614721140380",
+            "cites_id": [
+                "12827761614721140380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple-station measurements of a return-stroke electric field from rocket-triggered lightning at distances of 68\u2013126 km",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 61 (2), 440-448, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4717259245618259521",
+            "cites_id": [
+                "4717259245618259521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An experimental field study of the grounding system response of tall wind turbines to impulse surges",
+                "pub_year": "2018",
+                "citation": "Electric Power Systems Research 160, 219-225, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1830914353912964240",
+            "cites_id": [
+                "1830914353912964240"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tower and path-dependent voltage effects on the measurement of grounding impedance for lightning studies",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 61 (2), 409-418, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:roLk4NBRz8UC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6136602445099263810",
+            "cites_id": [
+                "6136602445099263810"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Isolated vs. interconnected wind turbine grounding systems: Effect on the harmonic grounding impedance, ground potential rise and step voltage",
+                "pub_year": "2019",
+                "citation": "Electric Power Systems Research 173, 230-239, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5228070431731757696",
+            "cites_id": [
+                "5228070431731757696"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of the grounding resistance of structures located on elevated terrain",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 61 (6), 1891-1895, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460338442439828656",
+            "cites_id": [
+                "14460338442439828656"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meteorological aspects of self\u2010initiated upward lightning at the S\u00e4ntis Tower (Switzerland)",
+                "pub_year": "2019",
+                "citation": "Journal of Geophysical Research: Atmospheres 124 (24), 14162-14183, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16641547378097546032",
+            "cites_id": [
+                "16641547378097546032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LMA observations of upward lightning flashes at the S\u00e4ntis Tower initiated by nearby lightning activity",
+                "pub_year": "2020",
+                "citation": "Electric Power Systems Research 181, 106067, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16647414889522209147",
+            "cites_id": [
+                "16647414889522209147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Importance of taking into account the soil stratification in reproducing the late-time features of distant fields radiated by lightning",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 61 (3), 935-944, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5213331191653298322",
+            "cites_id": [
+                "5213331191653298322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the lightning production of convective cells",
+                "pub_year": "2019",
+                "citation": "Atmospheric Measurement Techniques 12 (10), 5573-5591, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:0EnyYjriUFMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8353075591948223034",
+            "cites_id": [
+                "8353075591948223034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polarimetric radar characteristics of lightning initiation and propagating channels",
+                "pub_year": "2019",
+                "citation": "Atmospheric Measurement Techniques 12 (5), 2881-2911, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9816021349093061150",
+            "cites_id": [
+                "9816021349093061150"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the initiation of upward negative lightning by nearby lightning activity: An analytical approach",
+                "pub_year": "2021",
+                "citation": "Journal of Geophysical Research: Atmospheres 126 (5), e2020JD034043, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5750724994671593973",
+            "cites_id": [
+                "5750724994671593973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grounding resistance of a hemispheric electrode located on the top of a finite-height, cone-shaped mountain",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 62 (5), 1889-1892, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10215771091702362675",
+            "cites_id": [
+                "10215771091702362675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient impedance of interconnected wind turbine grounding systems",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10098434245372387476",
+            "cites_id": [
+                "10098434245372387476"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the impact of meteorological conditions on the initiation of upward lightning flashes from tall structures",
+                "pub_year": "2018",
+                "citation": "2018 34th International Conference on Lightning Protection (ICLP), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9642477775202863834",
+            "cites_id": [
+                "9642477775202863834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bidirectional recoil leaders in upward lightning flashes observed at the S\u00e4ntis Tower",
+                "pub_year": "2021",
+                "citation": "Journal of Geophysical Research: Atmospheres 126 (18), e2021JD035238, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:aqlVkmm33-oC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15107591349180379205",
+            "cites_id": [
+                "15107591349180379205"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LMA observation of upward bipolar lightning flash at the S\u00e4ntis Tower",
+                "pub_year": "2019",
+                "citation": "2019 International Symposium on Lightning Protection (XV SIPDA), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:UebtZRa9Y70C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6947205298568648756",
+            "cites_id": [
+                "6947205298568648756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the influence of an elevated terrain on the grounding resistance of a vertical rod",
+                "pub_year": "2019",
+                "citation": "2019 IEEE International Conference on Environment and Electrical Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:8k81kl-MbHgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8771785066346724159",
+            "cites_id": [
+                "8771785066346724159"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the classification of self-triggered versus othertriggered lightning flashes",
+                "pub_year": "2018",
+                "citation": "2018 34th International Conference on Lightning Protection (ICLP), 1-5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3550546178518180916",
+            "cites_id": [
+                "3550546178518180916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On wind turbine impedance analysis via different approaches",
+                "pub_year": "2017",
+                "citation": "2017 25th International Conference on Software, Telecommunications and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12034991294329995710",
+            "cites_id": [
+                "12034991294329995710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "S\u00e4ntis Lightning Research Facility instrumentation",
+                "pub_year": "2021",
+                "citation": "Joint 35th International Conference on Lightning Protection (ICLP) and 16th \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4015813476320167257",
+            "cites_id": [
+                "4015813476320167257"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduction of a Cone-Shaped Terrain Grounding Resistance by Remote Grounding",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Software, Telecommunications and Computer \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11327533922376929085",
+            "cites_id": [
+                "11327533922376929085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analysis of the distribution of inter-flash time intervals in the area of the S\u00e4ntis Tower",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2049593015893396534",
+            "cites_id": [
+                "2049593015893396534"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lorentz force from a current-carrying wire on a charge in motion under the assumption of neutrality in the symmetrical frame of reference",
+                "pub_year": "2018",
+                "citation": "Journal of Modern Physics, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6857340434278877484",
+            "cites_id": [
+                "6857340434278877484"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LMA Campaign for the Observation of Upward Lightning at the S\u00e4ntis Tower During Summer 2017: Preliminary Results",
+                "pub_year": "2018",
+                "citation": "XVI International Conference on Atmospheric Electricity, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11525933392267719",
+            "cites_id": [
+                "11525933392267719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mountaintop Gamma Ray Observations of Three Terrestrial Gamma\u2010Ray Flashes at the S\u00e4ntis Tower, Switzerland With Coincident Radio Waveforms",
+                "pub_year": "2024",
+                "citation": "Journal of Geophysical Research: Atmospheres 129 (2), e2023JD039761, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-frequency response of a hemispherical grounding electrode",
+                "pub_year": "2024",
+                "citation": "Electric Power Systems Research 226, 109877, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct Observations of X-Rays Produced by Upward Positive Lightning",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2310.04958, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laser-guided lightning using kHz filamentation at 1030 nm",
+                "pub_year": "2023",
+                "citation": "Conference on Lasers and Electro-Optics/Europe (CLEO/Europe 2023) and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synchrophasor Logger Based on Laboratory Oscilloscope and Raspberry Pi",
+                "pub_year": "2023",
+                "citation": "2023 4th International Conference on Smart Grid Metrology (SMAGRIMET), 1-5, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "X-rays associated with the stepping of upward negative leaders at the S\u00e4ntis Tower: Preliminary results",
+                "pub_year": "2022",
+                "citation": "EGU General Assembly Conference Abstracts, EGU22-11214, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of lightning electromagnetic field propagation over mountainous terrain using simultaneous records of current and its electric field at 380-km distance",
+                "pub_year": "2022",
+                "citation": "Proceedings of Global EM 2022, Global Electromagnetics Conference, 13-17 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "X-rays associated with stepping of the dart leader in upward negative lightning discharges at the S\u00e4ntis Tower: Preliminary results",
+                "pub_year": "2022",
+                "citation": "17th International Conference on Atmopheric Electricity (ICAE), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mountaintop gamma ray observations of two TGFs at the Santis Tower, Switzerland with coincident radio waveforms characteristic of a RREA current pulse.",
+                "pub_year": "2021",
+                "citation": "AGU Fall Meeting Abstracts 2021, AE14A-03, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laser lightning rod and artificial fog dissipation",
+                "pub_year": "2021",
+                "citation": "2021 Conference on Lasers and Electro-Optics Europe & European Quantum \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "X-rays observations at the S\u00e4ntis Tower: Preliminary results",
+                "pub_year": "2021",
+                "citation": "EGU General Assembly Conference Abstracts, EGU21-9586, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lightning to tall structures: Characterization, Modeling and Protection",
+                "pub_year": "2021",
+                "citation": "EPFL, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incidence of Upward Lightning Triggered by Nearby Lightning: A Monte Carlo Simulation",
+                "pub_year": "2021",
+                "citation": "Joint 35th International Conference on Lightning Protection (ICLP) and 16th \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meteorological conditions during self-initiated upward lightning at the S\u00e4ntis tower (Switzerland)",
+                "pub_year": "2019",
+                "citation": "AGU Fall Meeting Abstracts 2019, AE12A-02, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some Optimization Techniques of Lightning Field Calculations",
+                "pub_year": "2019",
+                "citation": "Asian Electromagnetic International Conference ASIAEM, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meteorological conditions during self-initiated upward lightning at the S\u00e4ntis tower (Switzerland)",
+                "pub_year": "2019",
+                "citation": "AGU Fall Meeting, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Does the magnetic field from the leader current influence the fine geometrical structure of the lightning channel?",
+                "pub_year": "2018",
+                "citation": "2018 American Electromagnetics International Symposium AMEREM, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Does the Magnetic Field from the Leader Channel Influence the Fine Geometrical Structure of the Lightning Channel?",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EMC",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q1kp-qAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

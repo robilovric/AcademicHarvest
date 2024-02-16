@@ -1,0 +1,567 @@
+{
+    "name": "Jur\u010devi\u0107 Mi\u0161o",
+    "num_citations": 454,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nano-enhanced phase change materials and fluids in energy applications: A review",
+                "pub_year": "2020",
+                "citation": "Renewable and Sustainable Energy Reviews 129, 109931, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 99,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15062232657464737330",
+            "cites_id": [
+                "15062232657464737330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of phase change materials for thermal regulation of photovoltaic thermal systems: Comprehensive analysis of design approaches",
+                "pub_year": "2021",
+                "citation": "Energy 228, 120546, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 86,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12468051196836981949",
+            "cites_id": [
+                "12468051196836981949"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel and effective passive cooling strategy for photovoltaic panel",
+                "pub_year": "2021",
+                "citation": "Renewable and Sustainable Energy Reviews 145, 111164, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4022413484588828084",
+            "cites_id": [
+                "4022413484588828084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive analysis of preparation strategies for phase change nanocomposites and nanofluids with brief overview of safety equipment",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 274, 122963, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13367122233697236017",
+            "cites_id": [
+                "13367122233697236017"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal constant analysis of phase change nanocomposites and discussion on selection strategies with respect to economic constraints",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 43, 100957, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10001610512394065729",
+            "cites_id": [
+                "10001610512394065729"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic and environmental evaluation of photovoltaic-thermal collector design with pork fat as phase change material",
+                "pub_year": "2022",
+                "citation": "Energy 254, 124284, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:WF5omc3nYNoC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16814747181320321597",
+            "cites_id": [
+                "16814747181320321597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of heat convection for photovoltaic panel towards efficient design of novel hybrid cooling approach with incorporated organic phase change material",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 47, 101497, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15738514521936881515",
+            "cites_id": [
+                "15738514521936881515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of novel hybrid phase change materials",
+                "pub_year": "2021",
+                "citation": "Clean Technologies and Environmental Policy, 1-12, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15609540910527926470",
+            "cites_id": [
+                "15609540910527926470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of nano\u2010enhanced phase change material on thermal performance of building envelope and energy consumption",
+                "pub_year": "2022",
+                "citation": "International Journal of Energy Research 46 (14), 20249-20264, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5969466608055328211",
+            "cites_id": [
+                "5969466608055328211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis and experimental validation of heat transfer during solidification of phase change material in a large domain",
+                "pub_year": "2020",
+                "citation": "Journal of Energy Storage 30, 101543, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17790062452316595716",
+            "cites_id": [
+                "17790062452316595716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Application of Photovoltaic Systems in Sacred Buildings for the Purpose of Electric Power Production: The Case Study of the Cathedral of St. Michael the Archangel in Belgrade",
+                "pub_year": "2020",
+                "citation": "Sustainability 12 (4), 1408, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=567823811772431001",
+            "cites_id": [
+                "567823811772431001"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of thermal properties of pykrete",
+                "pub_year": "2023",
+                "citation": "IOP Conference Series: Earth and Environmental Science 1196 (1), 012055, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2214089919419733499",
+            "cites_id": [
+                "2214089919419733499"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards resilient operation of photovoltaic-thermal collector with incorporated organic phase change material: Numerical and experimental investigation",
+                "pub_year": "2023",
+                "citation": "Sustainable Energy Technologies and Assessments 60, 103465, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Investigation of Thermal Properties of Frozen Tap, Demineralized, and Sea Water",
+                "pub_year": "2023",
+                "citation": "Energies 16 (23), 7745, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photovoltaic-thermal system coupled with ice bank",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mitigation of hot-spot effect via back side cooling techniques: A potential for electrical and thermal performance improvement",
+                "pub_year": "2023",
+                "citation": "Energy and Buildings 288, 113010, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eksperimentalna i numeri\u010dka ispitivanja sustava za suhu filtraciju zraka",
+                "pub_year": "2023",
+                "citation": "12. susret Hrvatskog dru\u0161tva za mehaniku, 115-120, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and experimental investigation of photovoltaic-thermal collector design",
+                "pub_year": "2023",
+                "citation": "6th International Conference on Countermeasures to Urban Heat Islands, 98-104, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photovoltaic-thermal system coupled with ice bank",
+                "pub_year": "2023",
+                "citation": "8th International Conference on Smart and Sustainable Technologies, USB-USB, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal management of novel photovoltaic thermal collector: An experimental investigation",
+                "pub_year": "2022",
+                "citation": "25th Conference on Process Integration for Energy Saving and Pollution \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of vertical axis wind turbine design approaches-An overview",
+                "pub_year": "2022",
+                "citation": "25th Conference on Process Integration for Energy Saving and Pollution \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Floating Ice Platforms: Analysis of Different Methods of Ice Formation",
+                "pub_year": "2022",
+                "citation": "6th International Symposium on Materials for Energy Storage and Conversion, /-/, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase transition investigation of novel organic phase change material: Numerical approach",
+                "pub_year": "2022",
+                "citation": "5th SOUTH EAST EUROPEAN CONFERENCE ON SUSTAINABLE DEVELOPMENT OF ENERGY \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of Thermal Properties of Freezed Tap, Demineralized and Sea Water",
+                "pub_year": "2022",
+                "citation": "25th Conference on Process Integration for Energy Saving and Pollution \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of thermal properties of the hybrid phase change materials",
+                "pub_year": "2021",
+                "citation": "9th Global Conference on Global Warming, str-str, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REINFORCED ICE AS A REPLACEMENT FOR CONVENTIONAL BUILDING MATERIALS: AN OVERVIEW",
+                "pub_year": "2021",
+                "citation": "9th Global Conference on Global Warming, str-str, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design approaches for photovoltaic thermal collectors with incorporated phase change materials",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The drone air-path development",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar power plant with short diffuser concept: An Overview of development",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of nano-enhanced phase change materials: Addition of Graphene into RT28 HC and RT26",
+                "pub_year": "2020",
+                "citation": "23rd Conference on Process Integration. Modelling, and Optimisation for \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of cooling strategies for photovoltaic technologies",
+                "pub_year": "2020",
+                "citation": "4th Sustainable Process Integration Laboratory Scientific Conference: Energy \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational fluid dynamics analysis and design exploration of water-cooled photovoltaics subjected to various operating conditions",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental examination of different passive cooling configurations for photovoltaics with application of phase change materials",
+                "pub_year": "2019",
+                "citation": "11th International Exergy, Energy and Environment Symposium (IEEES-11), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of nanomaterials for upgrade of phase change materials: Preparation and thermal properties",
+                "pub_year": "2019",
+                "citation": "14th Conference on Sustainable Development of Energy, Water and Environment \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Customized location-based optimization of hybrid microgrid system and analysis of possible elements",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart and Hybrid Cooling Techniques for Silicon-Based Photovoltaic Panels: Necessity and Challenges",
+                "pub_year": "2019",
+                "citation": "22nd Conference on Process Integration. Modelling, and Optimisation for \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal Constants Analysis of Graphene/RT28 HC Nanocomposite and Preparation Technique",
+                "pub_year": "2019",
+                "citation": "The 3rd Sustainable Process Integration Laboratory Scientific Conference, /-/, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis and experimental validation of transient heat transfer during solidification/melting inside an insulated tank",
+                "pub_year": "2018",
+                "citation": "8th International Conference: Mechanical Technologies and Structural \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Istra\u017eivanje i razvoj plutaju\u0107ih platformi",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EXPERIMENTAL INVESTIGATION OF PHASE CHANGE MATERIAL: PATH TO CREDIBLE NUMERICAL MODEL",
+                "citation": "VI International Scientific and Technical Conference-MPSU 2023, 0"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Investigation of Thermal Properties of Organic Waste-based Phase Change Material",
+                "citation": "26th Conference on Process Integration for Energy Saving and Pollution Reduction, 0"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An overview of Vertical Axis Wind Turbines regarding types and design",
+                "citation": "International Conference on Engineering Innovations (ENGINN 2022), 0"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Investigation and Design of Smart Cooling System for Photovoltaic Panel",
+                "citation": "24th Conference on Process Integration, Modelling and Optimisation for \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "DAWJHDMAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

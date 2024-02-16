@@ -1,0 +1,399 @@
+{
+    "name": "Matkovi\u0107 Anita",
+    "num_citations": 376,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variant of Jensen\u2019s inequality of Mercer\u2019s type for operators with applications",
+                "pub_year": "2006",
+                "citation": "Linear Algebra and Its Applications 418 (2-3), 551-564, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 168,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11563053083938288399,7707957640067637254",
+            "cites_id": [
+                "11563053083938288399",
+                "7707957640067637254"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variant of Jessen\u2019s inequality and generalized means",
+                "pub_year": "2006",
+                "citation": "J. Inequal. in Pure & Appl. Math 7 (1), 2006"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2978920859027542698",
+            "cites_id": [
+                "2978920859027542698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a Jensen-Mercer operator inequality",
+                "pub_year": "2011",
+                "citation": "Banach Journal of Mathematical Analysis 5 (1), 19-28, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12369777378744122679",
+            "cites_id": [
+                "12369777378744122679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variant of the Jensen\u2013Mercer operator inequality for superquadratic functions",
+                "pub_year": "2010",
+                "citation": "Mathematical and computer modelling 51 (9-10), 1230-1239, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4516155370399300856",
+            "cites_id": [
+                "4516155370399300856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bounds for the normalized Jensen Mercer functional",
+                "pub_year": "2009",
+                "citation": "J. Math. Inequal 3 (4), 529-541, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10123073401664930396",
+            "cites_id": [
+                "10123073401664930396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Refinements of Jensen's inequality of Mercer's type for operator convex functions",
+                "pub_year": "2008",
+                "citation": "MATHEMATICAL INEQUALITIES AND APPLICATIONS 11 (1), 113, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2504349794403502880",
+            "cites_id": [
+                "2504349794403502880"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variant of Jensen\u2019s inequality for convex functions of several variables",
+                "pub_year": "2007",
+                "citation": "J. Math. Inequal 1 (1), 45-51, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6910553835027075547",
+            "cites_id": [
+                "6910553835027075547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a variant of the Jensen-Mercer inequality for operators",
+                "pub_year": "2008",
+                "citation": "Journal of Mathematical Inequalities 2 (3), 299-307, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:qjMakFHDy7sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1949825097109901601",
+            "cites_id": [
+                "1949825097109901601"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Refinements of Jensen-Mercer's inequality for index set functions with applications",
+                "pub_year": "2006",
+                "citation": "Revue d'analyse num\u00e9rique et de th\u00e9orie de l'approximation 35 (1), 71-82, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12096707402710366463",
+            "cites_id": [
+                "12096707402710366463"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a variant of Jensen\u2019s inequality for functions with nondecreasing increments",
+                "pub_year": "2008",
+                "citation": "J. Korean Math. Soc 45 (3), 821-834, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:WF5omc3nYNoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13091170314436073589",
+            "cites_id": [
+                "13091170314436073589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variants of \u010ceby\u0161ev's inequality with applications",
+                "pub_year": "2006",
+                "citation": "Journal of Inequalities and Applications 2006, 1-13, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12447213385992100289",
+            "cites_id": [
+                "12447213385992100289"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Note on generalization of the Jensen\u2013Mercer inequality by Taylor\u2019s polynomial",
+                "pub_year": "2019",
+                "citation": "Mathematical Inequalities and Applications 22 (4), 1379-1384, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:UebtZRa9Y70C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5069647484459874094",
+            "cites_id": [
+                "5069647484459874094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GENERALIZATION OF THE JENSEN\u2013MERCER INEQUALITY BY TAYLOR\u2019S POLYNOMIAL",
+                "pub_year": "2016",
+                "citation": "Mathematical Inequalities & Applications 19 (4), 1387-1398, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8217463213623406759",
+            "cites_id": [
+                "8217463213623406759"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A REFINEMENT OF THE JESSEN\u2013MERCER INEQUALITY AND A GENERALIZATION ON CONVEX HULLS IN Rk",
+                "pub_year": "2015",
+                "citation": "J. Math. Inequal 9 (4), 1093-1114, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:Se3iqnhoufwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8075161365759272577",
+            "cites_id": [
+                "8075161365759272577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalizations of the Jensen\u2013Mercer inequality via Fink\u2019s identity",
+                "pub_year": "2021",
+                "citation": "Mathematics 9 (19), 2406, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12747261541217459612",
+            "cites_id": [
+                "12747261541217459612"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Jensen-Steffensen inequality for generalized convex functions",
+                "pub_year": "2007",
+                "citation": "Periodica Mathematica Hungarica 55 (1), 19-34, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6605377061611194202",
+            "cites_id": [
+                "6605377061611194202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chaotic order among power operator means",
+                "pub_year": "2007",
+                "citation": "INTERNATIONAL JOURNAL OF PURE AND APPLIED MATHEMATICS 34 (3), 397, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14106225864515541373",
+            "cites_id": [
+                "14106225864515541373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a variant of \u010ceby\u0161ev\u2019s inequality of the Mercer type",
+                "pub_year": "2020",
+                "citation": "Journal of Inequalities and Applications 2020 (1), 1-9, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A counterpart to Jensen-Mercer inequality",
+                "pub_year": "2020",
+                "citation": "Adv. Inequal. Appl. 2020, Article ID 6, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jensen-Mercerova nejednakost",
+                "pub_year": "2006",
+                "citation": "Prirodoslovno-matemati\u010dki fakultet, Zagreb, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variant of Jansen's inequality in Hilbert space",
+                "pub_year": "2005",
+                "citation": "Toyama mathematical journal 28, 93-103, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Journal of Mathematical Inequalities",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matematicka teorija racunarstva",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "a0-pr-gAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tNbi8ZMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Pe\u010dari\u0107",
+            "affiliation": "Akademik, Tekstilno-tehnolo\u0161ki fakultet, Sveu\u010dili\u0161te u Zagrebu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IM2BBbgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Peri\u0107",
+            "affiliation": "Full Professor, Faculty of Food Technology and Biotechnology, University of Zagreb"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "EXBRgkkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Milica Klari\u010di\u0107 Bakula",
+            "affiliation": "University of Split, Faculty of Science, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WvVC3UQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wing-Sum Cheung",
+            "affiliation": "University of Hong Kong"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ifYFi0UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Slavica Iveli\u0107 Bradanovi\u0107",
+            "affiliation": "University of Split  Faculty of Civil Engineering, Architecture and Geodesy, Associate Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s10Fa94AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jurica Peri\u0107",
+            "affiliation": "University of Split, Faculty of Science, unist.hr"
+        }
+    ]
+}

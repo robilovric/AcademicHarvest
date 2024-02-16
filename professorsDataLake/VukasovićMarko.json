@@ -1,0 +1,315 @@
+{
+    "name": "Vukasovi\u0107 Marko",
+    "num_citations": 74,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A theory of torsion of thin-walled beams of arbitrary open sections with influence of shear",
+                "pub_year": "2022",
+                "citation": "Mechanics Based Design of Structures and Machines 50 (1), 206-241, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:roLk4NBRz8UC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7762939485996152323",
+            "cites_id": [
+                "7762939485996152323"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending of thin-walled beams of open section with influence of shear\u2014Part II: Application",
+                "pub_year": "2017",
+                "citation": "Thin-Walled Structures 116, 369-386, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16379327507003687433",
+            "cites_id": [
+                "16379327507003687433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytic solution for torsion of thin-walled laminated composite beams of symmetrical open cross sections with influence of shear",
+                "pub_year": "2017",
+                "citation": "Archive of Applied Mechanics 87, 1371-1384, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13639610740313425350",
+            "cites_id": [
+                "13639610740313425350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytic solution for bending of thin-walled laminated composite beams of symmetrical open sections with influence of shear",
+                "pub_year": "2017",
+                "citation": "The Journal of Strain Analysis for Engineering Design 52 (3), 190-203, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15654888255473856741",
+            "cites_id": [
+                "15654888255473856741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short Steel Thin-walled Columns Subjected to Eccentric Axial Loads",
+                "pub_year": "2016",
+                "citation": "Procedia engineering 161, 349-355, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9796874803978588071",
+            "cites_id": [
+                "9796874803978588071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approximate analytic solution for the stresses and displacements of thin-walled orthotropic beams subjected to bending",
+                "pub_year": "2014",
+                "citation": "Proccedings of the 16th European Conference on Composite Materials-ECCM16 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3359189618184378606",
+            "cites_id": [
+                "3359189618184378606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flexural analysis of thin-walled laminated composite beams with arbitrary open sections and shear influence",
+                "pub_year": "2022",
+                "citation": "Mechanics of Advanced Materials and Structures 29 (26), 5041-5058, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:4DMP91E08xMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=891535957851461337",
+            "cites_id": [
+                "891535957851461337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the displacements of container ship hull girder under torsion",
+                "pub_year": "2012",
+                "citation": "The 20th Symposium on Theory and Practice of Shipbuilding (In memoriam prof \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1233055085657500459",
+            "cites_id": [
+                "1233055085657500459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In-plane Displacements of Thin-walled Curved Beams",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14326352771223743574",
+            "cites_id": [
+                "14326352771223743574"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Out-of-plane Static Analysis of Thin-walled Curved H-beams",
+                "pub_year": "2023",
+                "citation": "Transactions of FAMENA 47 (3), 61-78, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14860406885200596212",
+            "cites_id": [
+                "14860406885200596212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approximate analytic solution for the stresses and displacements of thin-walled composite beams with mono-symmetric cross-sections subjected to bending",
+                "pub_year": "2015",
+                "citation": "ICCM20-20th International conference on composite materials, Copenhagen \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14896884029288656855",
+            "cites_id": [
+                "14896884029288656855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Savijanje i uvijanje tankostjenih kompozitnih \u0161tapova otvorenog popre\u010dnog presjeka",
+                "pub_year": "2014",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8387349141529553420",
+            "cites_id": [
+                "8387349141529553420"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New analytic model for torsion with shear influence of thin-walled composite beams with symmetrical open sections",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eccentric compressive load on short pultruded wide flange beam",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending and torsion of thin-walled composite beams with open cross-section",
+                "pub_year": "2014",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulations of S-rail forming for 6111-T4 sheet based on Hill stress function",
+                "pub_year": "2012",
+                "citation": "7th International Congress of Croatian Society of Mechanics, 181-182, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending and torsion of stiffeners with L sections under the plate normal pressure",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza energetskog doprinosa vjetroturbina s lopaticama od prilagodljivih aeroprofila za promjenjive vjetropotencijale",
+                "pub_year": "2008",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stamatiadou, Marina Eirini",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PREGLED TEORIJA SAVIJANJA I UVIJANJA \u0160TAPOVA PUNIH I TANKOSTJENIH PRESJEKA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the application of single Fourier series in the analysis of thin-walled beams",
+                "citation": "Proceedings of the 8th International Congress of Croatian Society of Mechanics, 0"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Analytic Solution For The Stresses And Displacements Of Thin-Walled Cross-Ply Composite Beams Subjected To Bending",
+                "citation": "Proceedings of the 8th International Congress of Croatian Society of \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "DC2xIysAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

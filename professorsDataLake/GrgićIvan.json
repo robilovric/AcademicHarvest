@@ -1,0 +1,445 @@
+{
+    "name": "Grgi\u0107 Ivan",
+    "num_citations": 185,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of electricity production in a grid-tied solar power system with a three-phase quasi-Z-source inverter",
+                "pub_year": "2019",
+                "citation": "Journal of Cleaner Production 221, 656-666, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4976738148626404643",
+            "cites_id": [
+                "4976738148626404643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Speed-sensorless vector control of an induction generator including stray load and iron losses and online parameter tuning",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Energy Conversion 35 (2), 724-732, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:5nxA0vEk-isC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14892982648112148944",
+            "cites_id": [
+                "14892982648112148944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy efficient control of a stand-alone wind energy conversion system with AC current harmonics compensation",
+                "pub_year": "2019",
+                "citation": "Control Engineering Practice 93, 104185, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:Se3iqnhoufwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11366729958992026299",
+            "cites_id": [
+                "11366729958992026299"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hedge-algebra-based phase-locked loop for distorted utility conditions",
+                "pub_year": "2019",
+                "citation": "Journal of Control Science and Engineering 2019, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5291090651966775327",
+            "cites_id": [
+                "5291090651966775327"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Control of a Standalone Wind-Solar-Battery Power System with a Quasi-Z-Source Inverter",
+                "pub_year": "2020",
+                "citation": "2020 9th International Conference on Renewable Energy Research and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15411171275102812678",
+            "cites_id": [
+                "15411171275102812678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculation of semiconductor power losses of a three-phase quasi-Z-source inverter",
+                "pub_year": "2020",
+                "citation": "Electronics 9 (10), 1642, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7230859752302482629",
+            "cites_id": [
+                "7230859752302482629"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compensation of stray load and iron losses in small vector-controlled induction generators",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Energy Conversion 34 (3), 1677-1685, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:0EnyYjriUFMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14804204485792997461",
+            "cites_id": [
+                "14804204485792997461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind turbine-driven self-excited induction generator: a novel dynamic model including stray load and iron losses",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1267780437806254674",
+            "cites_id": [
+                "1267780437806254674"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency boost of a quasi-z-source inverter: A novel shoot-through injection method with dead-time",
+                "pub_year": "2021",
+                "citation": "Energies 14 (14), 4216, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9784378546474330500",
+            "cites_id": [
+                "9784378546474330500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensorless maximum power control of a stand-alone squirrel-cage induction generator driven by a variable-speed wind turbine",
+                "pub_year": "2021",
+                "citation": "Journal of Electrical Engineering & Technology 16, 333-347, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1509630095427019521",
+            "cites_id": [
+                "1509630095427019521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed-duty-cycle control of a quasi-z-source inverter in a battery-assisted photovoltaic system",
+                "pub_year": "2019",
+                "citation": "2019 20th International Symposium on Power Electronics (Ee), 1-6, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8063951604336280836",
+            "cites_id": [
+                "8063951604336280836"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hedge-algebra speed controller\u2013experimental implementation in a sensorless stand-alone WECS",
+                "pub_year": "2020",
+                "citation": "2020 International Symposium on Industrial Electronics and Applications \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2162061547481850149",
+            "cites_id": [
+                "2162061547481850149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Investigation of a Standalone Wind Energy System with a Battery-Assisted Quasi-Z-Source Inverter",
+                "pub_year": "2021",
+                "citation": "Energies 14 (6), 1665, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11918754568963091393",
+            "cites_id": [
+                "11918754568963091393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimized isolated operation of a WECS-powered microgrid with a battery-assisted qZSI",
+                "pub_year": "2020",
+                "citation": "2020 6th International Conference on Electric Power and Energy Conversion \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=445000859381737473",
+            "cites_id": [
+                "445000859381737473"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power losses analysis of a three-phase quasi-Z-source inverter",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:WF5omc3nYNoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9704088389885067149",
+            "cites_id": [
+                "9704088389885067149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Wind-Solar Power System with a Battery-Assisted Quasi-Z-Source Inverter: Optimal Power Generation by Deploying Minimum Sensors",
+                "pub_year": "2023",
+                "citation": "Energies 16 (3), 1488, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:UebtZRa9Y70C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11872539579680214572",
+            "cites_id": [
+                "11872539579680214572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photovoltaic System with a Battery-Assisted Quasi-Z-Source Inverter: Improved Control System Design Based on a Novel Small-Signal Model",
+                "pub_year": "2022",
+                "citation": "Energies 15 (3), 850, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10284920446793841514",
+            "cites_id": [
+                "10284920446793841514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind Energy Conversion System Using Advanced Speed Control and Model-Based Loss Minimization",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Energy Conversion, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8120695022466277545",
+            "cites_id": [
+                "8120695022466277545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detuning induced by stray load and iron losses in small vector-controlled induction motors",
+                "pub_year": "2018",
+                "citation": "2018 International Symposium on Industrial Electronics (INDEL), 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7255274586193378592",
+            "cites_id": [
+                "7255274586193378592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three phase quasi-Z-source inverter controlled by MicroLabBox system",
+                "pub_year": "2018",
+                "citation": "2018 17th International Symposium INFOTEH-JAHORINA (INFOTEH), 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4470707913913927799",
+            "cites_id": [
+                "4470707913913927799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Predictive Current Control of an Induction Motor Considering Iron Core Losses and Saturation",
+                "pub_year": "2023",
+                "citation": "Processes 11 (10), 2917, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11485657305920912748",
+            "cites_id": [
+                "11485657305920912748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-Time Loss Calculation of a Hysteresis Controlled Power Converter",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6750925917408006838",
+            "cites_id": [
+                "6750925917408006838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic model of a self-excited induction generator with fundamental stray load and iron losses",
+                "pub_year": "2018",
+                "citation": "Thermal Science 22 (Suppl. 3), 797-807, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2407684996055690530",
+            "cites_id": [
+                "2407684996055690530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Operation of a Three-Phase Split-Source Inverter with a Saturable Inductor",
+                "pub_year": "2023",
+                "citation": "2023 22nd International Symposium on Power Electronics (Ee) 1, 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regulacijski sustavi s izmjenjiva\u010dem kvazi Z-tipa napajanim iz fotonaponskog izvora s novom pulsno-\u0161irinskom modulacijom",
+                "pub_year": "2022",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semiconductor Losses Calculation of a Quasi-Z-Source Inverter with Dead-Time",
+                "pub_year": "2022",
+                "citation": "International journal of electrical and computer engineering systems 13 (6 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Stray Load and Iron Losses on Vector Control of Small Induction Generators",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Power Flow Control in a Stand-Alone PV System with a Battery-Assisted Quasi-Z-Source Inverter",
+                "citation": "B&H Electrical Engineering 14 (s1), 26-34, 0"
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Oto\u010dni rad trofaznog izmjenjiva\u010da kvazi Z-tipa s regulacijom napona tro\u0161ila",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GHJxIBoAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

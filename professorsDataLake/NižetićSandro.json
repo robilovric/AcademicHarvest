@@ -1,0 +1,3562 @@
+{
+    "name": "Ni\u017eeti\u0107 Sandro",
+    "num_citations": 9025,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internet of Things (IoT): Opportunities, issues and challenges towards a smart and sustainable future",
+                "pub_year": "2020",
+                "citation": "Journal of cleaner production 274, 122877, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:0KyAp5RtaNEC",
+            "num_citations": 521,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17855337401248228466",
+            "cites_id": [
+                "17855337401248228466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water spray cooling technique applied on a photovoltaic panel: The performance response",
+                "pub_year": "2016",
+                "citation": "Energy conversion and management 108, 287-296, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:aqlVkmm33-oC",
+            "num_citations": 462,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14972841054687412452",
+            "cites_id": [
+                "14972841054687412452"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart technologies for promotion of energy efficiency, utilization of sustainable resources and waste management",
+                "pub_year": "2019",
+                "citation": "Journal of cleaner production 231, 565-591, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:q3oQSFYPqjQC",
+            "num_citations": 380,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12779158475859413515",
+            "cites_id": [
+                "12779158475859413515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impacts of COVID-19 pandemic on the global energy system and the shift progress to renewable energy: Opportunities, challenges, and policy implications",
+                "pub_year": "2021",
+                "citation": "Energy Policy 154, 112322, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Dip1O2bNi0gC",
+            "num_citations": 330,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12470937614535550519",
+            "cites_id": [
+                "12470937614535550519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of coronavirus (COVID\u201019) pandemic on air transport mobility, energy, and environment: A case study",
+                "pub_year": "2020",
+                "citation": "International Journal of Energy Research 44 (13), 10953-10961, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:uc_IGeMz5qoC",
+            "num_citations": 252,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17415179737882263829",
+            "cites_id": [
+                "17415179737882263829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PCM integrated to external building walls: An optimization study on maximum activation of latent heat",
+                "pub_year": "2020",
+                "citation": "Applied Thermal Engineering 165, 114560, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:bnK-pcrLprsC",
+            "num_citations": 237,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3717087089283595239",
+            "cites_id": [
+                "3717087089283595239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive analysis and general economic-environmental evaluation of cooling techniques for photovoltaic panels, Part II: Active cooling techniques",
+                "pub_year": "2018",
+                "citation": "Energy Conversion and Management 155, 301-323, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:70eg2SAEIzsC",
+            "num_citations": 237,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15248815872831551466,17210581773138726574",
+            "cites_id": [
+                "15248815872831551466",
+                "17210581773138726574"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and feasibility of implementing solar chimney power plants in the Mediterranean region",
+                "pub_year": "2008",
+                "citation": "Energy 33 (11), 1680-1690, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:IWHjjKOFINEC",
+            "num_citations": 204,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12793888812369230518",
+            "cites_id": [
+                "12793888812369230518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent advances in machine learning research for nanofluid-based heat transfer in renewable energy system",
+                "pub_year": "2022",
+                "citation": "Energy & Fuels 36 (13), 6626-6658, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:4vMrXwiscB8C",
+            "num_citations": 173,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11517109164819381964",
+            "cites_id": [
+                "11517109164819381964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Floating photovoltaic plants and wastewater basins: an Australian project",
+                "pub_year": "2017",
+                "citation": "Energy Procedia 134, 664-674, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:3s1wT3WcHBgC",
+            "num_citations": 170,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=383910859314033272",
+            "cites_id": [
+                "383910859314033272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review on application of artificial neural network (ANN) for performance and emission characteristics of diesel engine fueled with biodiesel-based fuels",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 47, 101416, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:XoXfffV-tXoC",
+            "num_citations": 160,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10540416730348913278",
+            "cites_id": [
+                "10540416730348913278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The electric propulsion system as a green solution for management strategy of CO2 emission in ocean shipping: A comprehensive review",
+                "pub_year": "2021",
+                "citation": "International Transactions on electrical energy systems 31 (11), e12580, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:EkHepimYqZsC",
+            "num_citations": 159,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6609383888066392397",
+            "cites_id": [
+                "6609383888066392397"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photovoltaic panels: A review of the cooling techniques",
+                "pub_year": "2016",
+                "citation": "Transactions of FAMENA 40 (SI-1), 63-74, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:r0BpntZqJG4C",
+            "num_citations": 157,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2266205369154425160",
+            "cites_id": [
+                "2266205369154425160"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy-related approach for reduction of CO2 emissions: A critical strategy on the port-to-ship pathway",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 355, 131772, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:DUooU5lO8OsC",
+            "num_citations": 149,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2285395357846869403",
+            "cites_id": [
+                "2285395357846869403"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heavy metal removal by biomass-derived carbon nanotubes as a greener environmental remediation: A comprehensive review",
+                "pub_year": "2022",
+                "citation": "Chemosphere 287, 131959, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:_axFR9aDTf0C",
+            "num_citations": 147,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3218809465142615838",
+            "cites_id": [
+                "3218809465142615838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insight into the recent advances of microwave pretreatment technologies for the conversion of lignocellulosic biomass into sustainable biofuel",
+                "pub_year": "2021",
+                "citation": "Chemosphere 281, 130878, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:HbR8gkJAVGIC",
+            "num_citations": 147,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14537467826945435538",
+            "cites_id": [
+                "14537467826945435538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of the passive cooled free-standing photovoltaic panel with fixed aluminum fins on the backside surface",
+                "pub_year": "2018",
+                "citation": "Journal of Cleaner Production 176, 119-129, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:u_35RYKgDlwC",
+            "num_citations": 137,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14987284313677938199",
+            "cites_id": [
+                "14987284313677938199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cardboard/sawdust briquettes as biomass fuel: Physical\u2013mechanical and thermal characteristics",
+                "pub_year": "2016",
+                "citation": "Waste management 47, 236-245, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 130,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6619448317786709337",
+            "cites_id": [
+                "6619448317786709337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perspective review on Municipal Solid Waste-to-energy route: Characteristics, management strategy, and role in circular economy",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 359, 131897, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:WJVC3Jt7v1AC",
+            "num_citations": 120,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10216177134090191191",
+            "cites_id": [
+                "10216177134090191191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal performance based optimization of an office wall containing PCM under intermittent cooling operation",
+                "pub_year": "2020",
+                "citation": "Applied Thermal Engineering 179, 115750, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:9Nmd_mFXekcC",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11135438017924700220",
+            "cites_id": [
+                "11135438017924700220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplified analytical approach for evaluation of the optimal ratio of pressure drop across the turbine in solar chimney power plants",
+                "pub_year": "2010",
+                "citation": "Applied Energy 87 (2), 587-591, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:qUcmZB5y_30C",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14766722452368202337",
+            "cites_id": [
+                "14766722452368202337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characteristics of hydrogen production from steam gasification of plant-originated lignocellulosic biomass and its prospects in Vietnam",
+                "pub_year": "2022",
+                "citation": "International journal of hydrogen energy 47 (7), 4394-4425, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:GtLg2Ama23sC",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6989143234375386383",
+            "cites_id": [
+                "6989143234375386383"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A technical review on composite phase change material based secondary assisted battery thermal management system for electric vehicles",
+                "pub_year": "2021",
+                "citation": "Journal of Cleaner Production 322, 129079, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:YohjEiUPhakC",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1054606173857083134",
+            "cites_id": [
+                "1054606173857083134"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical investigation of natural convection behavior of molten PCM in an enclosure having rectangular and tree-like branching fins",
+                "pub_year": "2020",
+                "citation": "Energy 207, 118223, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:JQOojiI6XY0C",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4992998344846569013",
+            "cites_id": [
+                "4992998344846569013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase change material based cooling of photovoltaic panel: A simplified numerical model for the optimization of the phase change material layer and general economic evaluation",
+                "pub_year": "2018",
+                "citation": "Journal of Cleaner Production 189, 738-745, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:f2IySw72cVMC",
+            "num_citations": 111,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11598386196041443559",
+            "cites_id": [
+                "11598386196041443559"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental and numerical investigation of a backside convective cooling mechanism on photovoltaic panels",
+                "pub_year": "2016",
+                "citation": "Energy 111, 211-225, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:TFP_iSt0sucC",
+            "num_citations": 110,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14120276563191477423",
+            "cites_id": [
+                "14120276563191477423"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Liquid hot water as sustainable biomass pretreatment technique for bioenergy production: A review",
+                "pub_year": "2022",
+                "citation": "Bioresource technology 344, 126207, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:bz8QjSJIRt4C",
+            "num_citations": 107,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15014526774300461674",
+            "cites_id": [
+                "15014526774300461674"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced super-hydrophobic polymer-based porous absorbents for the treatment of oil-polluted water",
+                "pub_year": "2021",
+                "citation": "Chemosphere 277, 130274, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:S16KYo8Pm5AC",
+            "num_citations": 103,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14427508439730099395",
+            "cites_id": [
+                "14427508439730099395"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nano-enhanced phase change materials and fluids in energy applications: A review",
+                "pub_year": "2020",
+                "citation": "Renewable and Sustainable Energy Reviews 129, 109931, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:WqliGbK-hY8C",
+            "num_citations": 99,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15062232657464737330",
+            "cites_id": [
+                "15062232657464737330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acid-based lignocellulosic biomass biorefinery for bioenergy production: Advantages, application constraints, and perspectives",
+                "pub_year": "2021",
+                "citation": "Journal of Environmental Management 296, 113194, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:FPJr55Dyh1AC",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12509588164720710194",
+            "cites_id": [
+                "12509588164720710194"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of pork fat as potential novel phase change material for passive cooling applications in photovoltaics",
+                "pub_year": "2018",
+                "citation": "Journal of Cleaner Production 170, 1006-1016, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ZHo1McVdvXMC",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6391023732745750482",
+            "cites_id": [
+                "6391023732745750482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative assessments of the performances of PV/T and conventional solar plants",
+                "pub_year": "2019",
+                "citation": "Journal of Cleaner Production 219, 304-315, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10405610935884912434",
+            "cites_id": [
+                "10405610935884912434"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomass-derived biochar: From production to application in removing heavy metal-contaminated water",
+                "pub_year": "2022",
+                "citation": "Process Safety and Environmental Protection 160, 704-733, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:a9-T7VOCCH8C",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10818990595904317838",
+            "cites_id": [
+                "10818990595904317838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Microbial fuel cells for bioelectricity production from waste as sustainable prospect of future energy sector",
+                "pub_year": "2022",
+                "citation": "Chemosphere 287, 132285, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Ri6SYOTghG4C",
+            "num_citations": 86,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17762496395155814165",
+            "cites_id": [
+                "17762496395155814165"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of phase change materials for thermal regulation of photovoltaic thermal systems: Comprehensive analysis of design approaches",
+                "pub_year": "2021",
+                "citation": "Energy 228, 120546, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:SpbeaW3--B0C",
+            "num_citations": 86,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12468051196836981949",
+            "cites_id": [
+                "12468051196836981949"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An assessment study of evaporation rate models on a water basin with floating photovoltaic plants",
+                "pub_year": "2021",
+                "citation": "International Journal of Energy Research 45 (1), 167-188, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:tkaPQYYpVKoC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10450608164597178577",
+            "cites_id": [
+                "10450608164597178577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selecting the best nanofluid type for A photovoltaic thermal (PV/T) system based on reliability, efficiency, energy, economic, and environmental criteria",
+                "pub_year": "2021",
+                "citation": "Journal of the Taiwan Institute of Chemical Engineers 124, 351-358, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:e_rmSamDkqQC",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9051105554584664087",
+            "cites_id": [
+                "9051105554584664087"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of methods towards reduction of harmful pollutants from diesel engines",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 262, 121105, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17142406124280025501",
+            "cites_id": [
+                "17142406124280025501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comprehensive review of parabolic trough solar collectors equipped with turbulators and numerical evaluation of hydrothermal performance of a novel model",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 45, 101103, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:-FonjvnnhkoC",
+            "num_citations": 76,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13452621788078873420",
+            "cites_id": [
+                "13452621788078873420"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biofuel production from microalgae: challenges and chances",
+                "pub_year": "2023",
+                "citation": "Phytochemistry Reviews 22 (4), 1089-1126, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:2VqYfGB8ITEC",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14570601222669108221",
+            "cites_id": [
+                "14570601222669108221"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prospective review on the application of biofuel 2, 5-dimethylfuran to diesel engine",
+                "pub_year": "2021",
+                "citation": "Journal of the Energy Institute 94, 360-386, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:URolC5Kub84C",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2496115181304700375",
+            "cites_id": [
+                "2496115181304700375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of advanced injection timing and inducted gaseous fuel on performance, combustion and emission characteristics of a diesel engine operated in dual-fuel mode",
+                "pub_year": "2022",
+                "citation": "Fuel 310, 122232, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:kh2fBNsKQNwC",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4454047119600585752",
+            "cites_id": [
+                "4454047119600585752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel and effective passive cooling strategy for photovoltaic panel",
+                "pub_year": "2021",
+                "citation": "Renewable and Sustainable Energy Reviews 145, 111164, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:PoWvk5oyLR8C",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4022413484588828084",
+            "cites_id": [
+                "4022413484588828084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Further progress in the research of fin\u2010based passive cooling technique for the free\u2010standing silicon photovoltaic panels",
+                "pub_year": "2019",
+                "citation": "International Journal of Energy Research 43 (8), 3475-3495, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:8AbLer7MMksC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15972545359702229567",
+            "cites_id": [
+                "15972545359702229567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Commercial vehicle auxiliary loads powered by PEM fuel cell",
+                "pub_year": "2019",
+                "citation": "International journal of hydrogen energy 44 (20), 10082-10090, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:sSrBHYA8nusC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14456946496567809707",
+            "cites_id": [
+                "14456946496567809707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of injection timing on performance and combustion characteristics of compression ignition engine working on quaternary blends of diesel fuel, mixed biodiesel, and t \u2026",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 333, 130160, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:_FM0Bhl9EiAC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15131450094502140301",
+            "cites_id": [
+                "15131450094502140301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen-enriched biogas premixed charge combustion and emissions in direct injection and indirect injection diesel dual fueled engines: A comparative study",
+                "pub_year": "2021",
+                "citation": "Journal of Energy Resources Technology 143 (12), 120907, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:5qfkUJPXOUwC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17356173612107607459",
+            "cites_id": [
+                "17356173612107607459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of machine learning and Box-Behnken design in optimizing engine characteristics operated with a dual-fuel mode of algal biodiesel and waste-derived biogas",
+                "pub_year": "2023",
+                "citation": "International Journal of Hydrogen Energy 48 (18), 6738-6760, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:IRz6iEL74y4C",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16975433970272174222",
+            "cites_id": [
+                "16975433970272174222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis pathway and combustion mechanism of a sustainable biofuel 2, 5-Dimethylfuran: Progress and prospective",
+                "pub_year": "2021",
+                "citation": "Fuel 286, 119337, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Z5m8FVwuT1cC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4329213627910467106",
+            "cites_id": [
+                "4329213627910467106"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding behaviors of compression ignition engine running on metal nanoparticle additives-included fuels: A control comparison between biodiesel and diesel fuel",
+                "pub_year": "2022",
+                "citation": "Fuel 326, 124981, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:cWzG1nlazyYC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14137938553370055110",
+            "cites_id": [
+                "14137938553370055110"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart monitoring technologies for personal thermal comfort: A review",
+                "pub_year": "2021",
+                "citation": "Journal of Cleaner Production 312, 127685, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:q3CdL3IzO_QC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9833104406548113630",
+            "cites_id": [
+                "9833104406548113630"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2, 5-Dimethylfuran (DMF) as a promising biofuel for the spark ignition engine application: A comparative analysis and review",
+                "pub_year": "2021",
+                "citation": "Fuel 285, 119140, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:epqYDVWIO7EC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17676680323645840380",
+            "cites_id": [
+                "17676680323645840380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of flow separation effect in the case of the free-standing photovoltaic panel exposed to various operating conditions",
+                "pub_year": "2018",
+                "citation": "Journal of Cleaner Production 174, 53-64, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:rO6llkc54NcC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=442938480714700352",
+            "cites_id": [
+                "442938480714700352"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elementary theory of stationary vortex columns for solar chimney power plants",
+                "pub_year": "2009",
+                "citation": "Solar Energy 83 (4), 462-476, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:hC7cP41nSMkC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4304452166573063446",
+            "cites_id": [
+                "4304452166573063446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production and utilization of pyrolysis oil from solidplastic wastes: A review on pyrolysis process and influence of reactors design",
+                "pub_year": "2022",
+                "citation": "Journal of environmental management 302, 114046, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:DJbcl8HfkQkC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15743265348576309066",
+            "cites_id": [
+                "15743265348576309066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid energy scenarios for residential applications based on the heat pump split air-conditioning units for operation in the Mediterranean climate conditions",
+                "pub_year": "2017",
+                "citation": "Energy and Buildings 140, 110-120, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:NMxIlDl6LWMC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16764900032102275737",
+            "cites_id": [
+                "16764900032102275737"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exergy studies in water-based and nanofluid-based photovoltaic/thermal collectors: Status and prospects",
+                "pub_year": "2022",
+                "citation": "Renewable and Sustainable Energy Reviews 168, 112740, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:HtS1dXgVpQUC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11647358164714635651",
+            "cites_id": [
+                "11647358164714635651"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive analysis of preparation strategies for phase change nanocomposites and nanofluids with brief overview of safety equipment",
+                "pub_year": "2020",
+                "citation": "Journal of Cleaner Production 274, 122963, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:yB1At4FlUx8C",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13367122233697236017",
+            "cites_id": [
+                "13367122233697236017"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal constant analysis of phase change nanocomposites and discussion on selection strategies with respect to economic constraints",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 43, 100957, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:tuHXwOkdijsC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10001610512394065729",
+            "cites_id": [
+                "10001610512394065729"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On calculated and actual energy savings from thermal building renovations\u2013Long term field evaluation of multifamily buildings",
+                "pub_year": "2020",
+                "citation": "Energy and buildings 223, 110145, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:eq2jaN3J8jMC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9354811821767431139",
+            "cites_id": [
+                "9354811821767431139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution to the research of an alternative energy concept for carbon free electricity production: Concept of solar power plant with short diffuser",
+                "pub_year": "2017",
+                "citation": "Energy Conversion and Management 148, 533-553, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:vV6vV6tmYwMC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11365705738883784476",
+            "cites_id": [
+                "11365705738883784476"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive analysis and general economic-environmental evaluation of cooling techniques for photovoltaic panels, Part I: Passive cooling techniques",
+                "pub_year": "2017",
+                "citation": "Energy Conversion and Management 149, 334-354, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:9c2xU6iGI7YC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4687651620091491313",
+            "cites_id": [
+                "4687651620091491313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid energy fuel cell based system for household applications in a Mediterranean climate",
+                "pub_year": "2015",
+                "citation": "Energy Conversion and Management 105, 1037-1045, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18133119990134885026",
+            "cites_id": [
+                "18133119990134885026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy efficiency evaluation of a hybrid energy system for building applications in a Mediterranean climate and its feasibility aspect",
+                "pub_year": "2015",
+                "citation": "Energy 90, 1171-1179, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11403225403254476769",
+            "cites_id": [
+                "11403225403254476769"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technical utilisation of convective vortices for carbon-free electricity production: A review",
+                "pub_year": "2011",
+                "citation": "Energy 36 (2), 1236-1242, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:mB3voiENLucC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8636096282025409642",
+            "cites_id": [
+                "8636096282025409642"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing operation parameters of a spark-ignition engine fueled with biogas-hydrogen blend integrated into biomass-solar hybrid renewable energy system",
+                "pub_year": "2022",
+                "citation": "Energy 252, 124052, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:6ZxmRoH8BuwC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17595397110624300355",
+            "cites_id": [
+                "17595397110624300355"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy saving and CO2 reduction potential of external building walls containing two layers of phase change material",
+                "pub_year": "2022",
+                "citation": "Energy 252, 124010, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:sNmaIFBj_lkC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16340286620629445146",
+            "cites_id": [
+                "16340286620629445146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic and environmental evaluation of passive cooled photovoltaic systems in Mediterranean climate conditions",
+                "pub_year": "2020",
+                "citation": "Applied Thermal Engineering 169, 114947, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Mojj43d5GZwC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3151781622685996027",
+            "cites_id": [
+                "3151781622685996027"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy storage onboard zero-emission two-wheelers: Challenges and technical solutions",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 47, 101435, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:0N-VGjzr574C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17624179675776099590",
+            "cites_id": [
+                "17624179675776099590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental study on a hybrid energy system with small-and medium-scale applications for mild climates",
+                "pub_year": "2014",
+                "citation": "Energy 75, 379-389, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:-f6ydRqryjwC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7438970839830622558",
+            "cites_id": [
+                "7438970839830622558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and optimization of passive cooling approach for free-standing photovoltaic panel: Introduction of slits",
+                "pub_year": "2020",
+                "citation": "Energy Conversion and Management 204, 112277, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:olpn-zPbct0C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4468908999516798378",
+            "cites_id": [
+                "4468908999516798378"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar plant with short diffuser concept: Further improvement of numerical model by included influence of guide vane topology on shape and stability of gravitational vortex",
+                "pub_year": "2019",
+                "citation": "Journal of cleaner production 212, 353-361, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:vRqMK49ujn8C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10012581074853455763",
+            "cites_id": [
+                "10012581074853455763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive analysis and general economic-environmental evaluation of cooling techniques for photovoltaic panels, Part II: Active cooling techniques",
+                "pub_year": "2018",
+                "citation": "Energy Conversion and Management 155, 301-323, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:0izLItjtcgwC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11140679767475309194",
+            "cites_id": [
+                "11140679767475309194"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of smart wearable sensors in office buildings for modelling of occupants\u2019 metabolic responses",
+                "pub_year": "2020",
+                "citation": "Energy and Buildings 226, 110399, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ipzZ9siozwsC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17427203806209491766",
+            "cites_id": [
+                "17427203806209491766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using pellet fuels for residential heating: A field study on its efficiency and the users\u2019 satisfaction",
+                "pub_year": "2019",
+                "citation": "Energy and Buildings 184, 193-204, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:tS2w5q8j5-wC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1076866550037910406",
+            "cites_id": [
+                "1076866550037910406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen production by water splitting with support of metal and carbon-based photocatalysts",
+                "pub_year": "2023",
+                "citation": "ACS Sustainable Chemistry & Engineering 11 (4), 1221-1252, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:P7Ujq4OLJYoC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8661453690441582762",
+            "cites_id": [
+                "8661453690441582762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation on simultaneous production of bioethanol and biodiesel from macro-algae",
+                "pub_year": "2022",
+                "citation": "Fuel 329, 125362, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:bKqednn6t2AC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15164678581935325723",
+            "cites_id": [
+                "15164678581935325723"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combustion and emission characteristics of spark and compression ignition engine fueled with 2, 5-dimethylfuran (DMF): A comprehensive review",
+                "pub_year": "2021",
+                "citation": "Fuel 288, 119757, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:gsN89kCJA0AC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2324070876806166034",
+            "cites_id": [
+                "2324070876806166034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamic assessment of combined supercritical CO2 cycle power systems with organic Rankine cycle or Kalina cycle",
+                "pub_year": "2022",
+                "citation": "Sustainable Energy Technologies and Assessments 52, 102166, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:XvxMoLDsR5gC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16315033897891924731",
+            "cites_id": [
+                "16315033897891924731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flame characteristics and ignition delay times of 2, 5-Dimethylfuran: A systematic review with comparative analysis",
+                "pub_year": "2021",
+                "citation": "Journal of Energy Resources Technology 143 (7), 070801, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:p__nRnzSRKYC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099470916414492154",
+            "cites_id": [
+                "7099470916414492154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical calculation and experimental measurement of temperatures and welding residual stresses in a thick-walled T-joint structure",
+                "pub_year": "2020",
+                "citation": "Journal of Thermal Analysis and Calorimetry 141, 313-322, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:WA5NYHcadZ8C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12256378010284825162",
+            "cites_id": [
+                "12256378010284825162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic and environmental evaluation of photovoltaic-thermal collector design with pork fat as phase change material",
+                "pub_year": "2022",
+                "citation": "Energy 254, 124284, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:OTTXONDVkokC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16814747181320321597",
+            "cites_id": [
+                "16814747181320321597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small scale archimedes hydro power plant test station: Design and experimental investigation",
+                "pub_year": "2019",
+                "citation": "Journal of cleaner production 231, 756-771, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15200027860463301091",
+            "cites_id": [
+                "15200027860463301091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing the thermal performance of solar energy devices using meta-heuristic algorithms: A critical review",
+                "pub_year": "2023",
+                "citation": "Renewable and Sustainable Energy Reviews 173, 112903, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:a3BOlSfXSfwC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15892030452831242867",
+            "cites_id": [
+                "15892030452831242867"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energetic and exergetic performances of a nanofluid-based photovoltaic/thermal system equipped with a sheet-and-grooved serpentine tube collector: Indoor experimental tests",
+                "pub_year": "2021",
+                "citation": "Solar Energy 225, 918-933, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:86PQX7AUzd4C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8106155328594958367",
+            "cites_id": [
+                "8106155328594958367"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An atmospheric gravitational vortex as a flow object: improvement of the three-layer model",
+                "pub_year": "2010",
+                "citation": "Geofizika 27 (1), 1-20, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6549439574635450501",
+            "cites_id": [
+                "6549439574635450501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical prediction and experimental validation of temperature and residual stress distributions in buried\u2010arc welded thick plates",
+                "pub_year": "2019",
+                "citation": "International Journal of Energy Research 43 (8), 3590-3600, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:BrmTIyaxlBUC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=964264402319770599",
+            "cites_id": [
+                "964264402319770599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of heat convection for photovoltaic panel towards efficient design of novel hybrid cooling approach with incorporated organic phase change material",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 47, 101497, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:PVjk1bu6vJQC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15738514521936881515",
+            "cites_id": [
+                "15738514521936881515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method for improving the accuracy of numerical simulations of a photovoltaic panel",
+                "pub_year": "2021",
+                "citation": "Sustainable Energy Technologies and Assessments 47, 101433, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:edDO8Oi4QzsC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14928879944574512597",
+            "cites_id": [
+                "14928879944574512597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A state-of-the-art review on emission characteristics of SI and CI engines fueled with 2, 5-dimethylfuran biofuel",
+                "pub_year": "2021",
+                "citation": "Environmental Science and Pollution Research 28, 4918-4950, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:tYavs44e6CUC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15999651352583345770",
+            "cites_id": [
+                "15999651352583345770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of novel passive cooling strategies for free-standing silicon photovoltaic panels",
+                "pub_year": "2020",
+                "citation": "Journal of Thermal Analysis and Calorimetry 141, 163-175, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:JoZmwDi-zQgC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=534777405750702356",
+            "cites_id": [
+                "534777405750702356"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of hydrogen in energy transition",
+                "pub_year": "2019",
+                "citation": "International Journal of Hydrogen Energy 44 (20), 9673-9674, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:eJXPG6dFmWUC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=487077496525917906",
+            "cites_id": [
+                "487077496525917906"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Since January 2020 Elsevier Has Created a COVID-19 Resource centre with Free Information in English and Mandarin on the Novel Coronavirus COVID-19. e COVID-19 Resource centre \u2026",
+                "pub_year": "2020",
+                "citation": "The COVID-19 resource centre is hosted on Elsevier Connect, the company\u2019s \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:tH6gc1N1XXoC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=83285081571201498",
+            "cites_id": [
+                "83285081571201498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic evaluation of a hybrid photovoltaic system with hot/cold water storage for poly-generation in a residential building",
+                "pub_year": "2023",
+                "citation": "Applied Energy 331, 120391, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:yqoGN6RLRZoC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6439691089110191669",
+            "cites_id": [
+                "6439691089110191669"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of novel hybrid phase change materials",
+                "pub_year": "2022",
+                "citation": "Clean Technologies and Environmental Policy 24 (1), 201-212, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:foquWX3nUaYC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15609540910527926470",
+            "cites_id": [
+                "15609540910527926470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Occupant behavior and thermal comfort field analysis in typical educational research institution: A case study",
+                "pub_year": "2018",
+                "citation": "Thermal Science 22 (Suppl. 3), 785-795, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:dfsIfKJdRG4C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944419590327120918",
+            "cites_id": [
+                "11944419590327120918"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Carbon free electricity production from the alternative energy concepts based on the utilization of the convective vortex systems as a heat engines: Review of the current \u2026",
+                "pub_year": "2018",
+                "citation": "Journal of cleaner production 170, 85-95, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:SeFeTyx0c_EC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14547529259841309579",
+            "cites_id": [
+                "14547529259841309579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cleaner production of aviation oil from microwave-assisted pyrolysis of plastic wastes",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production 390, 136102, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:nZcligLrVowC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10333777250819228417",
+            "cites_id": [
+                "10333777250819228417"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart and sustainable technologies in energy transition",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production, 135944, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:OP4eGU-M3BUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8016737594020419218",
+            "cites_id": [
+                "8016737594020419218"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Total Site Hydrogen Integration with fresh hydrogen of multiple quality and waste hydrogen recovery in refineries",
+                "pub_year": "2022",
+                "citation": "International Journal of Hydrogen Energy 47 (24), 12159-12178, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ClCfbGk0d_YC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10620103218328126229",
+            "cites_id": [
+                "10620103218328126229"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of flow characteristics in supersonic combustion ramjet combustor toward improvement of combustion efficiency",
+                "pub_year": "2021",
+                "citation": "International Journal of Energy Research 45 (1), 231-253, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:WZBGuue-350C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15219125306044019043",
+            "cites_id": [
+                "15219125306044019043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of longitudinal residual stresses and deflections in a T-joint welded structure using a local preheating technique",
+                "pub_year": "2018",
+                "citation": "Energies 11 (12), 3487, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16613668801186282716",
+            "cites_id": [
+                "16613668801186282716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective ventilation strategies for net zero-energy buildings in Mediterranean climates",
+                "pub_year": "2017",
+                "citation": "International Journal of Ventilation 16 (4), 291-307, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:isC4tDSrTZIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2157260790947528200",
+            "cites_id": [
+                "2157260790947528200"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of optimal water utilization for water spray cooled photovoltaic panel: A three-dimensional computational study",
+                "pub_year": "2022",
+                "citation": "Sustainable Energy Technologies and Assessments 51, 101975, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:anf4URPfarAC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17450699577336010051",
+            "cites_id": [
+                "17450699577336010051"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of nano\u2010enhanced phase change material on thermal performance of building envelope and energy consumption",
+                "pub_year": "2022",
+                "citation": "International Journal of Energy Research 46 (14), 20249-20264, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:QYdC8u9Cj1oC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5969466608055328211",
+            "cites_id": [
+                "5969466608055328211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approaches in performance and structural analysis of wind turbines\u2013A review",
+                "pub_year": "2022",
+                "citation": "Sustainable Energy Technologies and Assessments 53, 102570, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:yFnVuubrUp4C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1181933100323390007",
+            "cites_id": [
+                "1181933100323390007"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen-enriched biogas premixed charge combustion and emissions in DI and IDI diesel dual fueled engines: A comparative study",
+                "pub_year": "2021",
+                "citation": "Journal of Energy Resources Technology, 1-27, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Ug5p-4gJ2f0C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12891073331088463573",
+            "cites_id": [
+                "12891073331088463573"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamical aspect of definitions CAPE and TCAPE",
+                "pub_year": "2006",
+                "citation": "G eofizika 23 (2), 143-154, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=827899306239541416",
+            "cites_id": [
+                "827899306239541416"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of the best air space value for installation of a PV fa\u00e7ade technology based on 4E characteristics",
+                "pub_year": "2023",
+                "citation": "Energy 262, 125386, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:yMeIxYmEMEAC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4366693808521754854",
+            "cites_id": [
+                "4366693808521754854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of thermo-electrical model of photovoltaic panel under hot-spot conditions with experimental validation",
+                "pub_year": "2021",
+                "citation": "Energy 230, 120785, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:xtoqd-5pKcoC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10776672828697835239",
+            "cites_id": [
+                "10776672828697835239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of exergy in energy and the environment",
+                "pub_year": "2018",
+                "citation": "Springer International Publishing, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:P5F9QuxV20EC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10060030326772841295",
+            "cites_id": [
+                "10060030326772841295"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coolant induced variable temperature flow field for improved performance of proton exchange membrane fuel cells",
+                "pub_year": "2019",
+                "citation": "International Journal of Hydrogen Energy 44 (20), 10102-10119, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:uWQEDVKXjbEC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9823865169096903109",
+            "cites_id": [
+                "9823865169096903109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative review and evaluation of state-of-the-art photovoltaic cooling technologies",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production, 136953, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:fbc8zXXH2BUC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4178445935095586405",
+            "cites_id": [
+                "4178445935095586405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Engine model for onboard marine engine failure simulation",
+                "pub_year": "2020",
+                "citation": "Journal of Thermal Analysis and Calorimetry 141, 119-130, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:t6usbXjVLHcC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5991625128055066287",
+            "cites_id": [
+                "5991625128055066287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of the effect of mechanical vibration and rotating magnetic field on the hydrothermal performance of water-Fe3O4 ferrofluid inside a rifled tube",
+                "pub_year": "2023",
+                "citation": "Journal of Magnetism and Magnetic Materials 572, 170586, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Aul-kAQHnToC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10987157460857730482",
+            "cites_id": [
+                "10987157460857730482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Simulation and Experimental Measurement of Residual Stresses in a Thick-Walled Buried-Arc Welded Pipe Structure",
+                "pub_year": "2022",
+                "citation": "Metals 12 (7), 1102, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:mNrWkgRL2YcC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1192349864677469992",
+            "cites_id": [
+                "1192349864677469992"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Simulation and Experimental Investigation of Temperature and Residual Stress Distributions in a Circular Patch Welded Structure",
+                "pub_year": "2020",
+                "citation": "Energies 13 (20), 5423, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:BUYA1_V_uYcC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=476346719331215855",
+            "cites_id": [
+                "476346719331215855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar assisted organic Rankine cycle for power generation: a comparative analysis for natural working fluids",
+                "pub_year": "2016",
+                "citation": "Energy, Transportation and Global Warming, 175-192, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:maZDTaKrznsC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1051991230748260318",
+            "cites_id": [
+                "1051991230748260318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implications of boundary conditions on natural convective heat transfer of molten phase change material inside enclosures",
+                "pub_year": "2021",
+                "citation": "International Journal of Energy Research 45 (5), 7631-7650, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:MLfJN-KU85MC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16495991722296992125",
+            "cites_id": [
+                "16495991722296992125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis and experimental validation of heat transfer during solidification of phase change material in a large domain",
+                "pub_year": "2020",
+                "citation": "Journal of Energy Storage 30, 101543, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:5awf1xo2G04C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17790062452316595716",
+            "cites_id": [
+                "17790062452316595716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of wearable sensory devices in predicting occupant\u2019s thermal comfort in office buildings during the cooling season",
+                "pub_year": "2020",
+                "citation": "IOP Conference Series: Earth and Environmental Science 410 (1), 012092, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Y5dfb0dijaUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10088314174622345345",
+            "cites_id": [
+                "10088314174622345345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Realisation barriers in energy efficiency projects in Croatian public buildings: a critic overview and proposals",
+                "pub_year": "2017",
+                "citation": "International Journal of Sustainable Energy 36 (9), 901-913, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8782027225202372181",
+            "cites_id": [
+                "8782027225202372181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar power plant with short diffuser",
+                "pub_year": "2009",
+                "citation": "World Intellectual Property Organization, WO 2009/060245 Al, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:k_IJM867U9cC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10160198317642060503",
+            "cites_id": [
+                "10160198317642060503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The potential of demand response as a tool for decarbonization in the energy transition",
+                "pub_year": "2023",
+                "citation": "Energy and Buildings 296, 113255, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:KbBQZpvPDL4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=148664702679152036",
+            "cites_id": [
+                "148664702679152036"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamic analysis of active modular internal combustion engine concept: targeting efficiency increase and carbon dioxide emissions reduction of gasoline engines",
+                "pub_year": "2018",
+                "citation": "International Journal of Energy Research 42 (9), 3017-3029, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:a0OBvERweLwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4710861335492170950",
+            "cites_id": [
+                "4710861335492170950"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concept of building evaluation methodology for gap estimation between designed and achieved energy savings",
+                "pub_year": "2017",
+                "citation": "Procedia environmental sciences 38, 538-545, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:blknAaTinKkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9085869507257542126",
+            "cites_id": [
+                "9085869507257542126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of personal thermal comfort in office building by implementation of smart bracelet: A case study",
+                "pub_year": "2022",
+                "citation": "Energy 260, 124973, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ODE9OILHJdcC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4209083357450705860",
+            "cites_id": [
+                "4209083357450705860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental setup for the analysis of vortices",
+                "pub_year": "2014",
+                "citation": "Journal of Applied Fluid Mechanics 8 (1), 143-149, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13618325119124698822",
+            "cites_id": [
+                "13618325119124698822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration and optimisation for sustainable industrial processing within the circular economy",
+                "pub_year": "2022",
+                "citation": "Renewable and Sustainable Energy Reviews 158, 112105, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:NXb4pA-qfm4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8968626866738851845",
+            "cites_id": [
+                "8968626866738851845"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimum energy, economic, and environmental design based on DEVAP concept to reach maximum heat recovery in a PV-wind turbine system with hydrogen storage",
+                "pub_year": "2023",
+                "citation": "Energy Conversion and Management 288, 117147, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:nVrZBo8bIpAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8062330606428543369",
+            "cites_id": [
+                "8062330606428543369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An experimental study on a solar-assisted heat pump incorporated with PCM based thermal energy storage unit",
+                "pub_year": "2023",
+                "citation": "Energy, 128035, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:5icHVeHT4IsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1975175328248564943",
+            "cites_id": [
+                "1975175328248564943"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission analysis of diesel vehicles in circumstances of emission regulation system failure: a case study",
+                "pub_year": "2022",
+                "citation": "Journal of Energy Resources Technology 144 (8), 082307, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:9pM33mqn1YgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16930415868554927960",
+            "cites_id": [
+                "16930415868554927960"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Progress in smart and sustainable technologies",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 337, 130450, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:LO7wyVUgiFcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17217313646587982520",
+            "cites_id": [
+                "17217313646587982520"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical approach for estimating the pressure drop potential in convective vortex heat engines",
+                "pub_year": "2014",
+                "citation": "Transactions of the Canadian Society for Mechanical Engineering 38 (1), 81-91, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:TQgYirikUcIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15790347659214845134",
+            "cites_id": [
+                "15790347659214845134"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building integrated photovoltaic/thermal technologies in Middle Eastern and North African countries: Current trends and future perspectives",
+                "pub_year": "2023",
+                "citation": "Renewable and Sustainable Energy Reviews 182, 113370, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:gVv57TyPmFsC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6812602960783815515",
+            "cites_id": [
+                "6812602960783815515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Targeting and optimisation of industrial and urban symbiosis for circular economy",
+                "pub_year": "2021",
+                "citation": "Computer Aided Chemical Engineering 50, 1659-1664, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:hCrLmN-GePgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3510418041972420302",
+            "cites_id": [
+                "3510418041972420302"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of overall Solar Chimney power plant efficiency",
+                "pub_year": "2007",
+                "citation": "Strojarstvo 49 (3), 233-240, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10706154635741366372",
+            "cites_id": [
+                "10706154635741366372"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biofuels an option for agro-waste management",
+                "pub_year": "2023",
+                "citation": "Environmental Sustainability of Biofuels, 27-47, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:LhH-TYMQEocC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11331980701423513986",
+            "cites_id": [
+                "11331980701423513986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Electrical Yield on Temperature Drop of the PhotovoltaicPanel: Numerical and Experimental Findings",
+                "pub_year": "2020",
+                "citation": "Journal of Sustainable Development of Energy, Water and Environment Systems \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:nrtMV_XWKgEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7057333183280200496",
+            "cites_id": [
+                "7057333183280200496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exergy, energy and environment",
+                "pub_year": "2018",
+                "citation": "International Journal of Hydrogen Energy 43 (11), 5794-5794, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:D03iK_w7-QYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2493544426590690761",
+            "cites_id": [
+                "2493544426590690761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "State of the art and future prospects for TEG-PCM Systems: A review",
+                "pub_year": "2023",
+                "citation": "Energy for Sustainable Development 74, 328-348, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:lvd772isFD0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=142784531377910741",
+            "cites_id": [
+                "142784531377910741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart energy technologies",
+                "pub_year": "2021",
+                "citation": "International Journal of Energy Research 45 (1), 5-5, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:zLWjf1WUPmwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3875546390581098827",
+            "cites_id": [
+                "3875546390581098827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal management of silicon photovoltaic panels: a review",
+                "pub_year": "2020",
+                "citation": "Resource-Efficient Technologies, 11-36, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ML0RJ9NH7IQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14936655687915169320",
+            "cites_id": [
+                "14936655687915169320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental performance analysis of an integrated air-conditioning split heat pump system for application in a Mediterranean climate",
+                "pub_year": "2015",
+                "citation": "IEEES7 symposium, Valenciennes, april 27\u201330, France,(conference paper), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6844847867415822830",
+            "cites_id": [
+                "6844847867415822830"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Alternative Energy Concept: A Solar Power Plant with a Short Diffuser",
+                "pub_year": "2014",
+                "citation": "Progress in Sustainable Energy Technologies: Generating Renewable Energy \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2743626666841874703",
+            "cites_id": [
+                "2743626666841874703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Kornati fire accident\u2013Aerodynamic and thermodynamic aspects of the accident",
+                "pub_year": "2008",
+                "citation": "WIT Transactions on Ecology and the Environment 119, 377-386, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2699239027661763769",
+            "cites_id": [
+                "2699239027661763769"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of Exclusive Feeding of Wheat Straw on Rumen Microbes and Metabolites in Buffalo Calves (Bubalus bubalis)",
+                "pub_year": "1996",
+                "citation": "BUFFALO JOURNAL 12, 1-10, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:IUKN3-7HHlwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5669724185890699121",
+            "cites_id": [
+                "5669724185890699121"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of printed circuit heat exchangers in SCO2 Brayton/Organic Rankine combined cycle: Assessment of simplified boiling temperature and heat flux type of boundary \u2026",
+                "pub_year": "2024",
+                "citation": "Applied Thermal Engineering 236, 121543, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:0CzhzZyukY4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14357261768385607046",
+            "cites_id": [
+                "14357261768385607046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing building wall thermal performance with phase change material and insulation: A comparative and synergistic assessment",
+                "pub_year": "2023",
+                "citation": "Renewable Energy 218, 119270, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:6yz0xqPARnAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4480169778692114283",
+            "cites_id": [
+                "4480169778692114283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison between different thermal comfort models based on the exergy analysis",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:fFSKOagxvKUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10348076841363814783",
+            "cites_id": [
+                "10348076841363814783"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decarbonization strategies for commercial buildings",
+                "pub_year": "2021",
+                "citation": "Zbornik Me\u0111unarodnog kongresa o KGH 52 (1), 121-129, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:8d8msizDQcsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9594524300426775467",
+            "cites_id": [
+                "9594524300426775467"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission of diesel powered vehicle under real operating conditions-impact of emissions control system failure",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:hMsQuOkrut0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9730246744778266382",
+            "cites_id": [
+                "9730246744778266382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Natural convection of molten PCM in a finned enclosure used in PV/PCM systems",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ILKRHgRFtOwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8335577462836126287",
+            "cites_id": [
+                "8335577462836126287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increasing engine efficiency at part load with the exhaust valve control: a simplified modelling approach",
+                "pub_year": "2018",
+                "citation": "International Journal of Exergy 26 (1-2), 131-153, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:fPk4N6BV_jEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7168236304255075351",
+            "cites_id": [
+                "7168236304255075351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent Glazed Facades Nearly Zero-Energy Buildings",
+                "pub_year": "2014",
+                "citation": "Proceeding of theInternational Congress Energy and the Environment, Opatija \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2735943489135172494",
+            "cites_id": [
+                "2735943489135172494"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Basic solar chimney flow improvements",
+                "pub_year": "2009",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 51 (5), 465-472, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=815366213391142616",
+            "cites_id": [
+                "815366213391142616"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of material doping on the performance of thermoelectric generator with/without equal segments",
+                "pub_year": "2023",
+                "citation": "Applied Energy 350, 121709, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:4X0JR2_MtJMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16680562812381567519",
+            "cites_id": [
+                "16680562812381567519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel method for calculation of the CO2 concentration impact on correlation between thermal comfort and human body exergy consumption",
+                "pub_year": "2023",
+                "citation": "Energy and Buildings, 113234, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:gKiMpY-AVTkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2411906724475204261",
+            "cites_id": [
+                "2411906724475204261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of thermal properties of pykrete",
+                "pub_year": "2023",
+                "citation": "IOP Conference Series: Earth and Environmental Science 1196 (1), 012055, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:artPoR2Yc-kC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2214089919419733499",
+            "cites_id": [
+                "2214089919419733499"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid deep learning-CFD approach for modeling nanoparticles\u2019 sedimentation processes for possible application in clean energy systems",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production 399, 136532, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:GFxP56DSvIMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13064184763005181162",
+            "cites_id": [
+                "13064184763005181162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Innovative approaches in energy efficiency evaluation of glazed facades in nZEB buildings",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:3htObqc8RwsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9152317867933897495",
+            "cites_id": [
+                "9152317867933897495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Vehicles Emissions Assessment",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:4fGpz3EwCPoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5014711465890961719",
+            "cites_id": [
+                "5014711465890961719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy savings with heat transfer enhancement techniques and heat exchangers",
+                "pub_year": "2020",
+                "citation": "Journal of Thermal Analysis and Calorimetry 141, 1-4, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:4hFrxpcac9AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5829314863675411694",
+            "cites_id": [
+                "5829314863675411694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guest editorial for a special issue on alternative energy dimensions",
+                "pub_year": "2018",
+                "citation": "International Journal of Energy Research 42 (9), 2863-2863, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:pyW8ca7W8N0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6652997906653249985",
+            "cites_id": [
+                "6652997906653249985"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The current state of research on thermal comfort prediction models",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:tKAzc9rXhukC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3587928890779839170",
+            "cites_id": [
+                "3587928890779839170"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Guide Vane Topology on the Shape and Stability of Gravitational Vortex",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:LPZeul_q3PIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=530915544897505174",
+            "cites_id": [
+                "530915544897505174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Aluminum and Copper Particle Critical Diameter Produced in Overhead Line Conductor Clashing",
+                "pub_year": "2018",
+                "citation": "The Role of Exergy in Energy and the Environment, 13-25, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16737611455245192518",
+            "cites_id": [
+                "16737611455245192518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental approach for exploring the characteristics of convective vortices as an alternative\u201f green\u201d energy concept",
+                "pub_year": "2012",
+                "citation": "WIT Transactions on Engineering Sciences 75, 317-322, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:HDshCWvjkbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3107628944844299999",
+            "cites_id": [
+                "3107628944844299999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-quality oil recovered from waste solar panel through using microwave-assisted pyrolysis",
+                "pub_year": "2024",
+                "citation": "Solar Energy 267, 112239, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:wMgC3FpKEyYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An experimental investigation on thermal energy storage characteristics of nanocomposite particles dispersed phase change material for solar photovoltaic module cooling",
+                "pub_year": "2023",
+                "citation": "Journal of Energy Storage 73, 109221, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:uDGL6kOW6j0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards resilient operation of photovoltaic-thermal collector with incorporated organic phase change material: Numerical and experimental investigation",
+                "pub_year": "2023",
+                "citation": "Sustainable Energy Technologies and Assessments 60, 103465, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:PVgj2kMGcgYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Investigation of Thermal Properties of Frozen Tap, Demineralized, and Sea Water",
+                "pub_year": "2023",
+                "citation": "Energies 16 (23), 7745, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:4xDN1ZYqzskC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process Integration Contribution to Sustainable Energy Saving and Pollution Reduction VSI: PRES'21",
+                "pub_year": "2023",
+                "citation": "Energy, 129198, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:NyGDZy8z5eUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy efficiency, resilience and sustainability: A trilemma for hospital buildings?",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:2tRrZ1ZAMYUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and analysis of a solid oxide fuel cell based novel poly-generation system with power-ejector refrigeration and multi-stage flash desalination",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:AHdEip9mkN0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and evaluation of an innovative double-flash geothermal power plant combined with reheat tCO 2 Rankine cycle, Kalina cycle, desalination, and H 2 generation",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:F1b5ZUV5XREC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photovoltaic-thermal system coupled with ice bank",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Ak0FvsSvgGUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of a thermo-physiological model to determine sweating thermo-active zone for a medical staff subject",
+                "pub_year": "2023",
+                "citation": "IOP Conference Series: Earth and Environmental Science 1196 (1), 012088, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:BJbdYPG6LGMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Importance of air quality indicators for office environments: An overview",
+                "pub_year": "2023",
+                "citation": "IOP Conference Series: Earth and Environmental Science 1196 (1), 012099, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:vDZJ-YLwNdEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mitigation of hot-spot effect via back side cooling techniques: A potential for electrical and thermal performance improvement",
+                "pub_year": "2023",
+                "citation": "Energy and Buildings 288, 113010, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:u-coK7KVo8oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biofuels an option for agro-waste management",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:JTqpx9DYBaYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of reinforced ice as alternative building material in cold regions: an overview",
+                "pub_year": "2023",
+                "citation": "Archives of Thermodynamics, 269-300-269-300, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:jL-93Qbq4QoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heat transfer enhancement of phase change materials",
+                "pub_year": "2023",
+                "citation": "Phase Change Materials for Heat Transfer, 61-101, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:5MTHONV0fEkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental impact abatement by clean energy solutions",
+                "pub_year": "2022",
+                "citation": "International Journal of Energy Research 46 (14), 20067-20067, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:HeT0ZceujKMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global warming reduction by hydrogen",
+                "pub_year": "2022",
+                "citation": "International Journal of Hydrogen Energy 47 (74), 31729, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:OcBU2YAGkTUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emission and efficiency estimation of hybrid powertrains with continuous Vehicle Specific Power analysis",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:OR75R8vi5nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2021",
+                "citation": "IEEE Communications Magazine 59 (6), 7-10, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:HtEfBTGE9r8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODELING, EXPERIMENTAL ANALYSIS AND OPTIMIZATION OF FLOATING PHOTOVOLTAIC POWER PLANTS",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:QD3KBmkZPeQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design approaches for photovoltaic thermal collectors with incorporated phase change materials",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:FAceZFleit8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring of occupant metabolic responses with application of wearable sensors",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:g3aElNc5_aQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar power plant with short diffuser concept: An Overview of development",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:L7CI7m0gUJcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2020",
+                "citation": "IEEE Communications Magazine 58 (2), 7-10, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:dBIO0h50nwkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Communications Newsletter",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:QyXJ3EUuO1IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flame characteristics and ignition delay times of 2, 5-Dimethylfuran: A systematic review with comparative analysis",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:uWiczbcajpAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational fluid dynamics analysis and design exploration of water-cooled photovoltaics subjected to various operating conditions",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The use of the wearable sensory devices for metabolic rate estimation",
+                "pub_year": "2019",
+                "citation": "Zbornik 50. Me\u0111unarodnog kongresa o KGH, 417, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ZzlSgRqYykMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Field research on occupants\u2019 behavior related to energy consumption in Mediterranean area",
+                "pub_year": "2018",
+                "citation": "Zbornik Me\u0111unarodnog kongresa o KGH 49 (1), 43-48, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design scenarios for renovation of sports complex: a case study",
+                "pub_year": "2018",
+                "citation": "International Journal of Sustainable Energy 37 (2), 105-114, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Performance Analysis of an Integrated Air Conditioning Split Heat Pump System for Application in a Mediterranean Climate",
+                "pub_year": "2018",
+                "citation": "Exergy for A Better Environment and Improved Sustainability 2: Applications \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CLEAN ENERGY AND ENERGY EFFICIENCY",
+                "pub_year": "2018",
+                "citation": "THERMAL SCIENCE 22, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comfort Sensation Versus Environmental Aspects in Office Buildings",
+                "pub_year": "2018",
+                "citation": "The Role of Exergy in Energy and the Environment, 833-847, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Special Issue on: Exergetic Dimensions of Energy Systems",
+                "pub_year": "2018",
+                "citation": "INTERNATIONAL JOURNAL OF EXERGY 26 (1-2), 1-2, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:xtRiw3GOFMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impacts that are contributing to a gap between designed and achieved energy savings in buildings",
+                "pub_year": "2017",
+                "citation": "Zbornik Me\u0111unarodnog kongresa o KGH 46 (1), 421-425, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SpliTech 2018",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution to airflow effect investigation over photovoltaic surfaces: Temperature and velocity contours",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Istra\u017eivanje i razvoj plutaju\u0107ih platformi",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:3bvyWxjaHKcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Istra\u017eivanje i razvoj plutaju\u0107ih ledenih platformi",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:pS0ncopqnHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vrijeme je da se od hrvatske napravi zdrava dr\u017eava, u kojoj \u0107e ljudi htjeti ostati i \u017eivjeti.",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:5bg8sr1QxYwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated Split Heat Pump System for Building Applications",
+                "pub_year": "2015",
+                "citation": "Applied Mechanics and Materials 705, 263-267, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehno-ekonomske podloge za odabir idejnog rje\u0161enja termoenergetskog sustava''Bazeni Poljud''",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:7H_MAutzIkAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Alternative Energy Concept: A Solar Power Plant with a Short Diffuser",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:CB2v5VPnA5kC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ulaganje u znanost ulaganje je u budu\u0107nost",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:ALROH1vI_8AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "U\u0161tedi",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:48xauSegjOkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prirodni plin dolazi u stan",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:BrOSOlqYqPUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Atmosferski gravitacijski vrtlo\u017eni stup kao proto\u010dni objekt: pobolj\u0161anje troslojnog modela",
+                "pub_year": "2010",
+                "citation": "Geofizika 27 (1), 1-20, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New definition of fluid exergy in a gravitational field",
+                "pub_year": "2010",
+                "citation": "International Journal of Exergy 7 (6), 667-677, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osnovna unapre\u0111enja solarne dimnja\u010dne elektrane",
+                "pub_year": "2009",
+                "citation": "Strojarstvo: \u010dasopis za teoriju i praksu u strojarstvu 51 (5), 465-472, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TERMODINAMI\u010cKI MODEL PRIZEMNE KONCENTRACIJE EKSERGIJE TOPLOG VLA\u017dNOG ZRAKA",
+                "pub_year": "2009",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:QUX0mv85b1cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osuvremenjeni fakultet za in\u017eenjere budu\u0107nosti",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:DrR-2ekChdkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In\u017eenjeri strojarstva u modi",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:-nhnvRiOwuoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Najmla\u0111i doktor znanosti vikendom''pra\u0161i''s Banom",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:v1_lew4L6wgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solarne dimnja\u010dne elektrane-vizija pretvorena u stvarnost",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:rbm3iO8VlycC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj vi\u0161enamijenskih dizalica topline s prijedlogom usvajanja proizvodnje",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:PkcyUWeTMh0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Podloge za preliminarnu analizu solarne elektrane Jelina Draga 850 kW",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:wvYxNZNCP7wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Termodinami\u010dka ocjena mogu\u0107nosti brzog toplinskog udara",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:kWvqk_afx_IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Termodinami\u010dki aspekt definicija\u00bb CAPE \u00abi\u00bb TCAPE \u00ab",
+                "pub_year": "2006",
+                "citation": "Geofizika 23 (2), 143-154, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija potro\u0161nje toplinske energije za objekte: \u0160portski kompleks''Bazeni Poljud'', gradski stadion''Poljud'', Hrvatski Hidrografski Institut, Pomorski centar za Elektroniku",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:EPG8bYD4jVwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spli\u0107ani ukrotili tornado",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:1Ye0OR6EYb4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Idejni projekat za klimatizaciju upravne zgrade TDM-a",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:69ZgNCALVd0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija sa idejnim rje\u0161enjem energetski optimalnog termotehni\u010dkog postrojenja za sportski kompleks bazena u Poljudu",
+                "pub_year": "2003",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:IsPWOBWtZBwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija sa idejnim rje\u0161enjem vi\u0161enamjenskog termoenergetskog postrojenja za klimatizaciju prostora i pogon rekreacijskog klizali\u0161ta",
+                "pub_year": "2003",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:owLR8QvbtFgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stamatiadou, Marina Eirini",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:LgRImbQfgY4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of guide vane topology on the shape and stability of gravitational vortex",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:8xutWZnSdmoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LI, Shuaibing Lopes, Nuno Maras, Josip Marasovic, Tea",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:dQ2og3OwTAUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iliev, Plamen 111",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal comfort field analysis in typical educational research institution: A case study",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal comfort in office buildings: General issues and challenges",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INTELLIGENT GLAZED FACADES NEARLY NET ZERO-ENERGY BUILDINGS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of influence of panel size on PV panel operating temperature",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spli\u0107ani ukrotili tornado",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic character of Thermall transmittance trough Active glass envelopes",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BtHI3X8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

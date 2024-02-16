@@ -1,0 +1,551 @@
+{
+    "name": "\u0106urkovi\u0107 Milan",
+    "num_citations": 415,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FPGA-based predictive sliding mode controller of a three-phase inverter",
+                "pub_year": "2012",
+                "citation": "IEEE Transactions on Industrial Electronics 60 (2), 637-644, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 101,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16762284168493878347",
+            "cites_id": [
+                "16762284168493878347"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying dynamic model parameters of a BLDC motor",
+                "pub_year": "2008",
+                "citation": "Simulation Modelling Practice and Theory 16 (9), 1254-1265, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14911302552677137151",
+            "cites_id": [
+                "14911302552677137151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DSP based rapid control prototyping systems for engineering education and research",
+                "pub_year": "2006",
+                "citation": "2006 IEEE Conference on Computer Aided Control System Design, 2006 IEEE \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5563311544731710387",
+            "cites_id": [
+                "5563311544731710387"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Programming of the DSP2 board with the Matlab/Simulink",
+                "pub_year": "2003",
+                "citation": "IEEE International Conference on Industrial Technology, 2003 2, 709-713, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10645281254432267578",
+            "cites_id": [
+                "10645281254432267578"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Event-Driven Approach to the Current Control of a BLDC Motor Using FPGA",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Industrial Electronics 61 (7), 3719-3726, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2105471666700376571",
+            "cites_id": [
+                "2105471666700376571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A switching control strategy for the reduction of torque ripple for PMSM",
+                "pub_year": "2012",
+                "citation": "IEEE Transactions on Industrial Informatics 9 (3), 1272-1279, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10082342687337747164",
+            "cites_id": [
+                "10082342687337747164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate FPGA-based velocity measurement with an incremental encoder by a fast generalized divisionless MT-type algorithm",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (10), 3250, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:aqlVkmm33-oC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14646689093369611263",
+            "cites_id": [
+                "14646689093369611263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient stepper motor torque ripple minimization based on fpga hardware implementation",
+                "pub_year": "2006",
+                "citation": "IECON 2006-32nd Annual Conference on IEEE Industrial Electronics, 3916-3921, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7494677524332009666",
+            "cites_id": [
+                "7494677524332009666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FPGA based BLDC motor current control with spectral analysis",
+                "pub_year": "2006",
+                "citation": "2006 12th International Power Electronics and Motion Control Conference \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8604564337303467102",
+            "cites_id": [
+                "8604564337303467102"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low speed performance improvement in sensorless drive using measured stator voltages of PWM voltage source inverter",
+                "pub_year": "2003",
+                "citation": "IEEE International Conference on Industrial Technology, 2003 1, 542-547, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10298369368745993629",
+            "cites_id": [
+                "10298369368745993629"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matrix based design of current source inverter with FPGA implementation",
+                "pub_year": "2004",
+                "citation": "Proc. of IEEE IECON'04, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14405697560781850871",
+            "cites_id": [
+                "14405697560781850871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel divisionless mt-type velocity estimation algorithm for efficient FPGA implementation",
+                "pub_year": "2018",
+                "citation": "IEEE Access 6, 48074-48087, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1176773859243559975",
+            "cites_id": [
+                "1176773859243559975"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear torque control of BLAC motor",
+                "pub_year": "2010",
+                "citation": "IFAC Proceedings Volumes 43 (18), 453-460, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3706264914272870784",
+            "cites_id": [
+                "3706264914272870784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DSP-2 User\u2019s Manual",
+                "pub_year": "2001",
+                "citation": "Institute of Robotics, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6967486606565016407",
+            "cites_id": [
+                "6967486606565016407"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digitalno merjenje hitrosti",
+                "pub_year": "1986",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8528691394186099026",
+            "cites_id": [
+                "8528691394186099026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedded platform for rapid implementation of local and remote motion control experiments",
+                "pub_year": "2011",
+                "citation": "Przeglqad Elektrotechniczny 87 (3), 73-76, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8321315931920785039",
+            "cites_id": [
+                "8321315931920785039"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matrix based design of the current source inverter with FPGA based implementation",
+                "pub_year": "2004",
+                "citation": "Industrial Electronics Society, 2004. IECON 2004. 30th Annual Conference of \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18030530119544148538",
+            "cites_id": [
+                "18030530119544148538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust speed sensorless control of PMSM",
+                "pub_year": "2008",
+                "citation": "2008 IEEE International Symposium on Industrial Electronics, 520-525, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5934512107443372365",
+            "cites_id": [
+                "5934512107443372365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analizator dinami\u010dnega obna\u0161anja kora\u010dnih motorjev",
+                "pub_year": "2007",
+                "citation": "Ventil 13 (4), 232-237, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1053807161956947190",
+            "cites_id": [
+                "1053807161956947190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dead time influence compensation considering switching times of power transistors",
+                "pub_year": "1996",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15003958667018750817",
+            "cites_id": [
+                "15003958667018750817"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izvedba hapti\u010dnega regulacijskega algoritma za bilateralno teleoperiranje na FPGA",
+                "citation": "Konferenca: Avtomatizacija v industriji in gospodarstvu-AIG, 1-8, 0"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12932799177043405929",
+            "cites_id": [
+                "12932799177043405929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Event-driven approach to control mechatronic system with FPGA",
+                "pub_year": "2012",
+                "citation": "2012 12th IEEE International Workshop on Advanced Motion Control (AMC), 1-6, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12495270842737202073",
+            "cites_id": [
+                "12495270842737202073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meritev hitrosti z inkrementalnim dajalnikom",
+                "pub_year": "2011",
+                "citation": "Konferenca: Avtomatizacija v industriji in gospodarstvu-AIG, 1-7, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11617194077608201313",
+            "cites_id": [
+                "11617194077608201313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistem za preizku\u0161anje algoritmov vodenja navora motorja z visoko dinamiko",
+                "pub_year": "2013",
+                "citation": "Univerza v Mariboru\u2013Fakulteta za elektrotehniko, ra\u010dunalni\u0161tvo in \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3514248670869870589",
+            "cites_id": [
+                "3514248670869870589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vgrajeni sistemi DSP/FPGA v sistemih vodenja",
+                "pub_year": "2010",
+                "citation": "Univerza v Mariboru, Fakulteta za elektrotehniko, ra\u010dunalni\u0161tvo in informatiko, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=486486584362914813",
+            "cites_id": [
+                "486486584362914813"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensorless Control of IM in Mining Applications",
+                "pub_year": "2006",
+                "citation": "2006 12th International Power Electronics and Motion Control Conference \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11020951052954044577",
+            "cites_id": [
+                "11020951052954044577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dvoosni krmilnik za hitro eksperimentiranje v robotskih aplikacijah",
+                "citation": "DIO 10, 8, 0"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11321669783856688940",
+            "cites_id": [
+                "11321669783856688940"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dsp sistem raz\u0161irjen z fpga za vodenje hitro odzivnih pogonov",
+                "pub_year": "2014",
+                "citation": "PQDT-Global, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DSP sistem raz\u0161irjen z FPGA za vodenje hitro odzivnih pogonov: doktorska disertacija",
+                "pub_year": "2013",
+                "citation": "M. \u010curkovi\u010d, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vgrajeni sistemi DSP/FPGA v sistemih vodenja: magistrsko delo",
+                "pub_year": "2010",
+                "citation": "M. \u010curkovi\u010d, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PC supported motor drive controller",
+                "pub_year": "1999",
+                "citation": "ISIE'99. Proceedings of the IEEE International Symposium on Industrial \u2026, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FPGA Implementation of a Hybrid Sensorless Control of SMPMSM in the Whole Speed Range..........................",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trifazni IGBT most za izmenicne motorje",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zbornik \u010dlankov v angle\u0161kem in slovenskem jeziku",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regulirano (mehko) vodenje elektromotornih pogonov v jami Premogovnika Velenje",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DSP Based Speed Sensorless VSS Torque Controller for Induction Motor",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eksperimentalni sistem za hapti\u010dno pogonsko ro\u010dico letala s hibridno elektri\u010dnim pogonom",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bYt0eg8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

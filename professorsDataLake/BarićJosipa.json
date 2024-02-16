@@ -1,0 +1,443 @@
+{
+    "name": "Bari\u0107 Josipa",
+    "num_citations": 249,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fejer and Hermite\u2013Hadamard type inequalities for superquadratic functions",
+                "pub_year": "2008",
+                "citation": "Journal of Mathematical Analysis and Applications 344 (2), 1048-1056, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6100993659972007551",
+            "cites_id": [
+                "6100993659972007551"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time scales integral inequalities for superquadratic functions",
+                "pub_year": "2013",
+                "citation": "Journal of the Korean Mathematical Society 50 (3), 465-477, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15167986944879611555",
+            "cites_id": [
+                "15167986944879611555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Variant of the Jensen-Mercer Operator Inequality for Superquadratic Functions",
+                "pub_year": "2010",
+                "citation": "Mathematical and computer modelling 51 (9-10), 1230-1239, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:0EnyYjriUFMC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4516155370399300856",
+            "cites_id": [
+                "4516155370399300856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bounds for the normalized Jensen Mercer functional",
+                "pub_year": "2009",
+                "citation": "J. Math. Inequal 3 (4), 529-541, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10123073401664930396",
+            "cites_id": [
+                "10123073401664930396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the bounds for the normalized Jensen functional and Jensen-Steffensen inequality",
+                "pub_year": "2009",
+                "citation": "Math. Inequal. Appl 12 (2), 413-432, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12840992267720142431",
+            "cites_id": [
+                "12840992267720142431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jensen Inequalities on Time Scales: Theory and ApplicationsI $ nJosipa Bari\u0107, Rabia Bibi, Martin Bohner, Ammara Nosheen and Josip Pe\u010dari\u0107",
+                "pub_year": "2015",
+                "citation": "Element, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12231380183288062761",
+            "cites_id": [
+                "12231380183288062761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variant of Jessen\u2019s inequality of Mercer\u2019s type for superquadratic functions",
+                "pub_year": "2008",
+                "citation": "J. Inequal. Pure Appl. Math 9 (3), 13, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4170527486836360506",
+            "cites_id": [
+                "4170527486836360506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new proof of an inequality of Bohr for Hilbert space operators",
+                "pub_year": "2009",
+                "citation": "Linear algebra and its applications 430 (4), 1432-1435, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7969382498528514479",
+            "cites_id": [
+                "7969382498528514479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On van de Lune-Alzer\u2019s inequality",
+                "pub_year": "2007",
+                "citation": "J. Math. Inequal 1 (4), 563-587, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17601127121268376593",
+            "cites_id": [
+                "17601127121268376593"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superquadracity, Bohr\u2019s inequality and deviation from a mean value",
+                "pub_year": "2010",
+                "citation": "Aust. J. Math. Anal. Appl 7 (1), 9, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2247066442646537994",
+            "cites_id": [
+                "2247066442646537994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time scale Hardy-type inequalities with general kernel for superquadratic functions",
+                "pub_year": "2014",
+                "citation": "Proceedings of A. Razmadze Mathematical Institute (1512-0007) 165, 1-18, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4059488282286226004",
+            "cites_id": [
+                "4059488282286226004"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fej\u00e9r type inequalities for higher order convex functions and quadrature formulae",
+                "pub_year": "2022",
+                "citation": "Aequationes mathematicae 96 (2), 417-430, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:Se3iqnhoufwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12615614165820104728",
+            "cites_id": [
+                "12615614165820104728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Converses of Jessen's inequality on time scales",
+                "pub_year": "2015",
+                "citation": "Mathematical Notes 98 (1), 11-24, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1723573661569426832",
+            "cites_id": [
+                "1723573661569426832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Levinson\u2019s Functional in Time Scale Settings",
+                "pub_year": "2023",
+                "citation": "Axioms 12 (2), 141, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3498805174524432043",
+            "cites_id": [
+                "3498805174524432043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimates on some quadrature rules via weighted Hermite-Hadamard inequality",
+                "pub_year": "2022",
+                "citation": "Applicable Analysis and Discrete Mathematics 16 (1), 232-245, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17192121516051848111",
+            "cites_id": [
+                "17192121516051848111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New bounds for generalized Taylor expansions",
+                "pub_year": "2021",
+                "citation": "Mathematical Inequalities & Applications 24 (4), 993-993, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12313221321150783450",
+            "cites_id": [
+                "12313221321150783450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osnove kriptografije",
+                "pub_year": "2020",
+                "citation": "Acta mathematica Spalatensia. Series didactica 3 (3), 37-53, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9089736331786785210",
+            "cites_id": [
+                "9089736331786785210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integral inequalities of Levinson\u2019s type in time scale settings",
+                "pub_year": "2019",
+                "citation": "Math. Inequalities Appl 22, 1477-1491, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5194937567222817913",
+            "cites_id": [
+                "5194937567222817913"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CONVERSES OF JESSEN'S INEQUALITY ON TIME SCALES II",
+                "pub_year": "2016",
+                "citation": "MATHEMATICAL INEQUALITIES & APPLICATIONS 19 (4), 1271-1285, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2270037188121779632",
+            "cites_id": [
+                "2270037188121779632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superquadratic functions and refinements of inequalities between averages",
+                "pub_year": "2011",
+                "citation": "arXiv preprint arXiv:1110.5217, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7897895693139553189",
+            "cites_id": [
+                "7897895693139553189"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hermite\u2013Hadamard-Type Inequalities and Two-Point Quadrature Formula",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (9), 1432, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SUPERQUADRATIC FUNCTIONS IN INFORMATION THEORY",
+                "pub_year": "2020",
+                "citation": "JOURNAL OF MATHEMATICAL INEQUALITIES 14 (4), 1321-1331, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Profinjenja Jensenove is njom povezanih nejednakosti",
+                "pub_year": "2011",
+                "citation": "Prirodoslovno-matemati\u010dki fakultet, Zagreb, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matematika 1-zbirka zadataka",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hermite-Hadamard-Fej\u00e9r type inequalities for higher order convex functions and quadrature formulae",
+                "citation": "Nurettin DO\u011eAN, 89, 0"
+            },
+            "filled": false,
+            "author_pub_id": "msBqQaAAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tNbi8ZMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josip Pe\u010dari\u0107",
+            "affiliation": "Akademik, Tekstilno-tehnolo\u0161ki fakultet, Sveu\u010dili\u0161te u Zagrebu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sbyVrGoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Martin Bohner",
+            "affiliation": "Missouri University of Science and Technology (Missouri S&T)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5oK7BhgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marko Mati\u0107",
+            "affiliation": "Full Professor, University of Split, Faculty of Science, unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "a0-pr-gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anita Matkovi\u0107 Split, Croatia",
+            "affiliation": "unist.hr, University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MXdEfWIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr. Ammara Nosheen",
+            "affiliation": "Assistant Professor of Mathematics, University of Sargodha, Sargodha, Pakistan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wMNbhhMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mihaela Ribi\u010di\u0107 Penava",
+            "affiliation": "Full professor at the Department of Mathematics, University of Osijek"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2qD4NVkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rabia Bibi",
+            "affiliation": "Student"
+        }
+    ]
+}

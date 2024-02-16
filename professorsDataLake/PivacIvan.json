@@ -1,0 +1,706 @@
+{
+    "name": "Pivac Ivan",
+    "num_citations": 388,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inductive phenomena at low frequencies in impedance spectra of proton exchange membrane fuel cells\u2013A review",
+                "pub_year": "2016",
+                "citation": "Journal of Power Sources 326, 112-119, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=257253106379373863",
+            "cites_id": [
+                "257253106379373863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental diagnostics and modeling of inductive phenomena at low frequencies in impedance spectra of proton exchange membrane fuel cells",
+                "pub_year": "2017",
+                "citation": "Journal of Power Sources 365, 240-248, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:Se3iqnhoufwC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7473636416379070273",
+            "cites_id": [
+                "7473636416379070273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Catalyst degradation diagnostics of proton exchange membrane fuel cells using electrochemical impedance spectroscopy",
+                "pub_year": "2018",
+                "citation": "International Journal of Hydrogen Energy 43 (29), 13512-13520, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:Zph67rFs4hoC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13207497232110241555",
+            "cites_id": [
+                "13207497232110241555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of oxygen starvation during carbon corrosion in proton exchange membrane fuel cells using low-frequency electrochemical impedance spectroscopy",
+                "pub_year": "2020",
+                "citation": "Journal of Power Sources 470, 228285, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10060773143593223091",
+            "cites_id": [
+                "10060773143593223091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical low-frequency impedance spectroscopy algorithm for diagnostics of PEM fuel cell degradation",
+                "pub_year": "2020",
+                "citation": "International Journal of Hydrogen Energy 45 (2), 1325-1334, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:4TOpqqG69KYC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8179081969663885400",
+            "cites_id": [
+                "8179081969663885400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic assessment of hydrogen refueling station: A case study in Croatia",
+                "pub_year": "2022",
+                "citation": "International Journal of Hydrogen Energy 47 (57), 24155-24168, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:hC7cP41nSMkC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8210051755578256034",
+            "cites_id": [
+                "8210051755578256034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental validation of variable temperature flow field concept for proton exchange membrane fuel cells",
+                "pub_year": "2017",
+                "citation": "International Journal of Hydrogen Energy 42 (41), 26084-26093, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:UebtZRa9Y70C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11120347994552172419",
+            "cites_id": [
+                "11120347994552172419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Shutdown Procedures on Recovery Phenomena of Proton Exchange Membrane Fuel Cells",
+                "pub_year": "2020",
+                "citation": "Fuel Cells 20 (2), 185-195, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16292624884626175302",
+            "cites_id": [
+                "16292624884626175302"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of testing procedures for proton exchange membrane electrolyzer degradation",
+                "pub_year": "2023",
+                "citation": "Journal of Power Sources 557, 232569, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:-f6ydRqryjwC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13020262196722537061",
+            "cites_id": [
+                "13020262196722537061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of tank heating coil heat transfer process",
+                "pub_year": "2015",
+                "citation": "Towards Green Marine Technology and Transport, 623-628, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3567237529127004354",
+            "cites_id": [
+                "3567237529127004354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostic methods for automotive fuel cell systems",
+                "pub_year": "2017",
+                "citation": "Technical Report D-1.4, European Commission, Brussels, https://ec. europa \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2722004784821761871",
+            "cites_id": [
+                "2722004784821761871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical Impedance Spectroscopy for PEM Fuel Cell Degradation Diagnostics",
+                "pub_year": "2015",
+                "citation": "6th European Fuel Cell Piero Lunghi Conference, 171-173, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10331667554636136730",
+            "cites_id": [
+                "10331667554636136730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operando investigations of proton exchange membrane fuel cells performance during air interruptions in dry and humidified conditions",
+                "pub_year": "2023",
+                "citation": "Journal of Power Sources 580, 233418, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13571523499365602181",
+            "cites_id": [
+                "13571523499365602181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent advances and perspectives in diagnostics and degradation of electrochemical hydrogen compressors",
+                "pub_year": "2023",
+                "citation": "International Journal of Hydrogen Energy, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13849233137215544675",
+            "cites_id": [
+                "13849233137215544675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of Hydrogen Refueling Stations and Spatial Occupancy Assessment: A Preliminary Results of the Case Study in Croatia",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2640198507912957372",
+            "cites_id": [
+                "2640198507912957372"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical Low-Frequency Impedance Spectroscopy for Diagnostics of Fuel Cells",
+                "pub_year": "2019",
+                "citation": "2019 IEEE Vehicle Power and Propulsion Conference (VPPC), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9159251561985224283",
+            "cites_id": [
+                "9159251561985224283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of inductive phenomena at low frequencies in electrochemical impedance spectroscopy of PEM fuel cell",
+                "pub_year": "2017",
+                "citation": "14th Symposium on Fuel Cell and Battery Modelling and Experimental \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=84727906271255884",
+            "cites_id": [
+                "84727906271255884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of electrochemical hydrogen compressor performance under different humidity levels",
+                "pub_year": "2023",
+                "citation": "2nd Renewable Hydrogen Energy Convention, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of different activation procedures on PEM electrolyzer performance",
+                "pub_year": "2023",
+                "citation": "2nd Renewable Hydrogen Energy Convention, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kako proizvoditi zeleniji vodik u rafineriji?",
+                "pub_year": "2022",
+                "citation": "15. me\u0111unarodno znanstveno-stru\u010dno savjetovanje Energetska i procesna \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of electrochemical hydrogen purifier performance diagnostics",
+                "pub_year": "2022",
+                "citation": "23rd World Hydrogen Energy Conference (WHEC 2022), 427-429, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Carbon Footprint of Hydrogen Produced within the Electrolyser Plant: A Case Study in Croatia",
+                "pub_year": "2022",
+                "citation": "25th Conference on Process Integration, Modelling and Optimisation for \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija predizvedivosti izgradnje elektrolizatora unutar podru\u010dja Rafinerije nafte Rijeka",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Case Study on Spatial Occupancy Assessment of Hydrogen Refueling Station in Croatia",
+                "pub_year": "2021",
+                "citation": "1st Renewable Hydrogen Energy Conference (RH2EC 2021), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local Temperature Estimation in PEM Fuel Cell",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza predizvodljivosti punionice za vodik",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical Characterization Of Proton Exchange Membrane Electrolyzer Under Various Operating Conditions",
+                "pub_year": "2020",
+                "citation": "5th International Conference on Smart and Sustainable Technologies (SpliTech \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Shut-Down Procedures on Performance Recovery of Proton Exchange Membrane Fuel Cells",
+                "pub_year": "2019",
+                "citation": "Electrochemical Society Meeting Abstracts 236, 1460-1460, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primjena elektrokemijske impedancijske spektroskopije u dijagnostici degradacije kataliti\u010dkog sloja membranskih gorivnih \u010dlanaka",
+                "pub_year": "2018",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Giantleap Project-The Development of Fuel Cell Modules to Increase the Electric Bus Driving Range",
+                "pub_year": "2018",
+                "citation": "13. me\u0111unarodno znanstveno-stru\u010dno savjetovanje Energetska i procesna \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-Frequency EIS for PEM Fuel-Cell Diagnostics",
+                "pub_year": "2018",
+                "citation": "International Hydrogen and Fuel Cells Conference (H2fc2018), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coolant Induced Variable Temperature Flow Field for PEM Fuel Cells: Experimental Validation of the Developed CFD Model",
+                "pub_year": "2018",
+                "citation": "15th Symposium on Modeling and Experimental Validation of Electrochemical \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmented Fuel Cell for Verification of Variable Temperature Flow Field Concept",
+                "pub_year": "2017",
+                "citation": "Electrochemical Society Meeting Abstracts 232, 1459-1459, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostics of PEM Fuel Cell Degradation",
+                "pub_year": "2017",
+                "citation": "VI Symposium on Hydrogen, Fuel Cells and Advanced Batteries, Hyceltec2017, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmented PEM fuel cell for verification of the variable temperature flow field concept",
+                "pub_year": "2017",
+                "citation": "14th Symposium on Fuel Cell and Battery Modelling and Experimental \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water Balance in Non-Humidified PEM Fuel Cell with Different Membrane Thicknesses",
+                "pub_year": "2016",
+                "citation": "Electrochemical Society Meeting Abstracts 230, 2559-2559, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Durability investigation of PEM fuel cells",
+                "pub_year": "2016",
+                "citation": "12. me\u0111unarodno znanstveno-stru\u010dno savjetovanje Energetska i procesna \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variable temperature flow field for proton exchange membrane fuel cells",
+                "pub_year": "2016",
+                "citation": "World Hydrogen Energy Conference WHEC 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inductance at Low Frequencies in Electrochemical Impedance Spectroscopy of PEM Fuel Cells",
+                "citation": "5th European PEFC & H2 Forum 2015, 54, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Istra\u017eivanje trajnosti membranskih gorivnih \u010dlanaka",
+                "citation": "Zbornik radova/12. me\u0111unarodno znanstveno-stru\u010dno savjetovanje Energetska i \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of PEM water electrolysis cell with electrochemical impedance spectroscopy",
+                "citation": "European Fuel Cell Proceedings of the 8th European Fuel Cell Piero Lunghi \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variable temperature flow field for proton exchange membrane fuel cells",
+                "citation": "Proceedings World Hydrogen Energy Conference, WHEC 2016, 518, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rejuvenation phenomena of proton exchange membrane fuel cells performance",
+                "citation": "7th Regional Symposium on Electrochemistry\u2013South East Europe Book of \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostics of PEM Fuel Cell Degradation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rejuvenation techniques for automotive fuel cells",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-frequency EIS intercept as a diagnostic tool for PEM fuel cells degradation",
+                "citation": "European Fuel Cell Proceedings of the 7th European Fuel Cell Piero Lunghi \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking the processes at PEM fuel cell anode and cathode in hx diagram",
+                "citation": "IEEES-9 Book of Abstracts, 223, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking the process at PEM fuel cell cathode in hx diagram",
+                "citation": "Interklima 2017 24th International Symposium on Heating, Refirgerating and \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "0nuAPVAAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cilw8V8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Frano Barbir",
+            "affiliation": "Professor of Thermodynamics, FESB University of Split"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RCqdn1cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dario Bezmalinovi\u0107",
+            "affiliation": "Research assistant. University of Split, unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bgl4Wu0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jakov \u0160imunovi\u0107",
+            "affiliation": "FESB, Sveu\u010dili\u0161te u Splitu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zX2wbsEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Quentin Meyer",
+            "affiliation": "Fuel Cell Cluster Leader in the Nanoelectrochemistry group of University of New South Wales"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "96ato0cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Federico Zenith",
+            "affiliation": "Senior Research Scientist, SINTEF Mathematics & Cybernetics"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PM5ZWS4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivar J. Halvorsen",
+            "affiliation": "Senior Scientist, SINTEF. Adjunct Professor of Chemical Engineering, NTNU"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wClXOWAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gojko Magazinovi\u0107",
+            "affiliation": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XnuRgY8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Tolj",
+            "affiliation": "FESB, University of Split unist.hr"
+        }
+    ]
+}

@@ -1,0 +1,607 @@
+{
+    "name": "Vlak Frane",
+    "num_citations": 235,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A finite element formulation based on non-associated plasticity for sheet metal forming",
+                "pub_year": "2008",
+                "citation": "International Journal of Plasticity 24 (4), 646-687, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 148,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13582430402671814105",
+            "cites_id": [
+                "13582430402671814105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Failure analysis of the highway sign structure and the design improvement",
+                "pub_year": "2011",
+                "citation": "Engineering failure analysis 18 (3), 1076-1084, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2063333829727834293",
+            "cites_id": [
+                "2063333829727834293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NPV-based decision support in multi-objective design using evolutionary algorithms",
+                "pub_year": "2010",
+                "citation": "Engineering Applications of Artificial Intelligence 23 (1), 48-60, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5649500119981297530",
+            "cites_id": [
+                "5649500119981297530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytic solution for torsion of thin-walled laminated composite beams of symmetrical open cross sections with influence of shear",
+                "pub_year": "2017",
+                "citation": "Archive of Applied Mechanics 87, 1371-1384, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13639610740313425350",
+            "cites_id": [
+                "13639610740313425350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytic solution for bending of thin-walled laminated composite beams of symmetrical open sections with influence of shear",
+                "pub_year": "2017",
+                "citation": "The Journal of Strain Analysis for Engineering Design 52 (3), 190-203, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15654888255473856741",
+            "cites_id": [
+                "15654888255473856741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending fatigue behaviour of shotpeened al-li 8090t3 thin plates",
+                "pub_year": "2009",
+                "citation": "Kovove materialy 47 (2), 115-120, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11940176997222446973",
+            "cites_id": [
+                "11940176997222446973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short Steel Thin-walled Columns Subjected to Eccentric Axial Loads",
+                "pub_year": "2016",
+                "citation": "Procedia engineering 161, 349-355, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9796874803978588071",
+            "cites_id": [
+                "9796874803978588071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approximate analytic solution for the stresses and displacements of thin-walled orthotropic beams subjected to bending",
+                "pub_year": "2014",
+                "citation": "Proccedings of the 16th European Conference on Composite Materials-ECCM16 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3359189618184378606",
+            "cites_id": [
+                "3359189618184378606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary topology optimization using parameterized B-spline surface",
+                "pub_year": "2016",
+                "citation": "VII European Congress on Computational Methods in Applied Sciences and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2023272591068673456",
+            "cites_id": [
+                "2023272591068673456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN ANALYSIS OF NON-ASSOCIATED PLASTICITY FORMULATIONS IN DEEP DRAWING SIMULATIONS.",
+                "pub_year": "2007",
+                "citation": "Transactions of FAMENA 31 (2), 2007"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15225725388921317646",
+            "cites_id": [
+                "15225725388921317646"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In-plane Displacements of Thin-walled Curved Beams",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14326352771223743574",
+            "cites_id": [
+                "14326352771223743574"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic analyiss of multibody systems using constraint elimination methods",
+                "pub_year": "2003",
+                "citation": "4th International Congress of Croatian Society of Mechanics, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16296263661856528390",
+            "cites_id": [
+                "16296263661856528390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Out-of-plane Static Analysis of Thin-walled Curved H-beams",
+                "pub_year": "2023",
+                "citation": "Transactions of FAMENA 47 (3), 61-78, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:RHpTSmoSYBkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14860406885200596212",
+            "cites_id": [
+                "14860406885200596212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fractures on a drillship derrick, evaluation and improvement",
+                "pub_year": "2020",
+                "citation": "Engineering Failure Analysis 118, 104792, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=128058743648060184",
+            "cites_id": [
+                "128058743648060184"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach for reduction of the volume loss in the rigid-plastic FEM using two-step updating procedure",
+                "pub_year": "2011",
+                "citation": "International journal of mechanical sciences 53 (10), 839-845, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10967904902351541632",
+            "cites_id": [
+                "10967904902351541632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPARISON OF RIGID-PLASTIC FINITE ELEMENT METHODS FOR BULK METAL FORMING PROCESSES.",
+                "pub_year": "2007",
+                "citation": "Transactions of FAMENA 31 (2), 2007"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10488498768883928380",
+            "cites_id": [
+                "10488498768883928380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eccentric compressive load on short pultruded wide flange beam",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zip Line Structural Analysis",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three axis force load cells comparative analysis",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytical solution for displacements and stresses for mono symmetrical stiffend plate structures under transverse loads",
+                "pub_year": "2012",
+                "citation": "Sorta 2012 Simpozij Teorija i praksa brodogradnje, 76-76, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending and torsion of stiffeners with L sections under the plate normal pressure",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Service strength of wind loaded welded structures",
+                "pub_year": "2010",
+                "citation": "Zavarivanje 53 (5/6), 157-164, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Effective Breadth Concept for Non-Symmetric Stiffeners",
+                "pub_year": "2009",
+                "citation": "Book of Abstracts, 13, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prora\u010dun integriteta plinskog cjevovoda faze i izvedbe sustava sekundarnog otpra\u0161ivanja pogona \u010deli\u010dane \u017eeljezare Split",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prora\u010dun integriteta plinskog cjevovoda za cijev c3 izvedbe sustava sekundarnog otpra\u0161ivanja pogona \u010deli\u010dane \u017eeljezare Split",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrity calculation of of gas pipeline Pipe 3 of secondary dusting off of Split steelworks run",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Mechanical Properties of 2xxx T3 and T8 Aluminum Extruded Rods by Means of Neural Networks",
+                "pub_year": "2008",
+                "citation": "International Aluminum Extrusion Technology Seminar, 377-386, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrity calculation of PhaseI gas pipeline of secondary dusting off of Split steelworks run",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Simulation and Experimental method in Structural Change Detection",
+                "pub_year": "2007",
+                "citation": "24th DANUBIA-ADRIA Symposium on Developments in Experimental Mechanics, 127-128, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inverse analysis of the contact friction in metal forming processes",
+                "pub_year": "2006",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Sveu\u010dili\u0161te u Splitu, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of non-associated flow rule for sheet metal forming",
+                "pub_year": "2006",
+                "citation": "5th INTERNATIONAL CONGRESS OF CROATIAN SOCIETY OF MECHANICS, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of the friction parameters using MATLAB interpolation surfaces",
+                "pub_year": "2006",
+                "citation": "5th INTERNATIONAL CONGRESS OF CROATIAN SOCIETY OF MECHANICS, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of metal sandwich plates with corrugated core",
+                "pub_year": "2005",
+                "citation": "International Journal for Engineering Modelling 18 (1-2), 23-32, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Element Analysis of Cylinder Upsetting Problem using Elasto-plastic Material Model",
+                "pub_year": "2005",
+                "citation": "5th International Conference on Industrial Tools, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic analysis of flexible multibody systems",
+                "pub_year": "2004",
+                "citation": "International Conference on the Theory of Machines and Mechanisms (9; 2004), 2004"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic analysis of constrained multibody systems",
+                "pub_year": "2004",
+                "citation": "From Scientific Computing to Computational Engineering, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconfigurable computing in composite structure monitoring",
+                "pub_year": "2003",
+                "citation": "Experimental techniques and design in composite materials 6, 141-142, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of Lagrange multipliers in numerical analysis of the contact problems",
+                "pub_year": "2000",
+                "citation": "3-rd International Congress of Croatian Society of Mechanics, 137-144, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brzi lom uslijed zamora materijala",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "fast fracture due to the fatigue",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue Weld Reliability",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the application of single Fourier series in the analysis of thin-walled beams",
+                "citation": "Proceedings of the 8th International Congress of Croatian Society of Mechanics, 0"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN APPROXIMATE ANALYTIC SOLUTION FOR DISTORTION OF THIN-WALLED ORTHOTROPIC BEAMS WITH SYMMETRIC CROSS-SECTIONS SUBJECTED TO TORSION",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Analytic Solution For The Stresses And Displacements Of Thin-Walled Cross-Ply Composite Beams Subjected To Bending",
+                "citation": "Proceedings of the 8th International Congress of Croatian Society of \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposed design for sign gantry according to EN 12767 norm",
+                "citation": "Energy 50 (70), 100, 0"
+            },
+            "filled": false,
+            "author_pub_id": "D9PFN64AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

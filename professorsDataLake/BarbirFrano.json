@@ -1,0 +1,3424 @@
+{
+    "name": "Barbir Frano",
+    "num_citations": 11997,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PEM fuel cells: theory and practice",
+                "pub_year": "2012",
+                "citation": "Academic press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:YohjEiUPhakC",
+            "num_citations": 3531,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1899136992016642613",
+            "cites_id": [
+                "1899136992016642613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PEM electrolysis for production of hydrogen from renewable energy sources",
+                "pub_year": "2005",
+                "citation": "Solar energy 78 (5), 661-669, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1356,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=950331904398946214",
+            "cites_id": [
+                "950331904398946214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind energy and the hydrogen economy\u2014review of the technology",
+                "pub_year": "2005",
+                "citation": "Solar energy 78 (5), 647-660, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 582,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18024162434481606876",
+            "cites_id": [
+                "18024162434481606876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen: the wonder fuel",
+                "pub_year": "1992",
+                "citation": "International Journal of Hydrogen Energy 17 (6), 391-404, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 505,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7465886302286662853",
+            "cites_id": [
+                "7465886302286662853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental damage due to fossil fuels use",
+                "pub_year": "1990",
+                "citation": "International journal of hydrogen energy 15 (10), 739-749, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 339,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13020072458486195167",
+            "cites_id": [
+                "13020072458486195167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency and economics of proton exchange membrane (PEM) fuel cells",
+                "pub_year": "1997",
+                "citation": "international journal of hydrogen energy 22 (10-11), 1027-1037, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 338,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5978289154030177966",
+            "cites_id": [
+                "5978289154030177966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytical solution of a half\u2010cell Model for PEM fuel cells",
+                "pub_year": "2000",
+                "citation": "Journal of the Electrochemical Society 147 (7), 2468, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 320,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8658518116821270981",
+            "cites_id": [
+                "8658518116821270981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relationship between pressure drop and cell resistance as a diagnostic tool for PEM fuel cells",
+                "pub_year": "2005",
+                "citation": "Journal of power sources 141 (1), 96-101, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 305,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8711652874886317244",
+            "cites_id": [
+                "8711652874886317244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transition to renewable energy systems with hydrogen as an energy carrier",
+                "pub_year": "2009",
+                "citation": "Energy 34 (3), 308-312, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 301,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17159972562247582207",
+            "cites_id": [
+                "17159972562247582207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The use of metal hydrides in fuel cell applications",
+                "pub_year": "2017",
+                "citation": "Progress in Natural Science: Materials International 27 (1), 3-20, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:URolC5Kub84C",
+            "num_citations": 284,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18081408332614824613",
+            "cites_id": [
+                "18081408332614824613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency and economics of proton exchange membrane (PEM) fuel cells",
+                "pub_year": "1996",
+                "citation": "International Journal of Hydrogen Energy 21 (10), 891-901, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 274,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17649499490432820342",
+            "cites_id": [
+                "17649499490432820342"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PEM fuel cells",
+                "pub_year": "2006",
+                "citation": "Fuel cell technology: reaching towards commercialization, 27-51, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 212,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13606672430049613643",
+            "cites_id": [
+                "13606672430049613643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Status and development of PEM fuel cell technology",
+                "pub_year": "2008",
+                "citation": "International Journal of Energy Research 32 (5), 369-378, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 164,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9146781570526149024",
+            "cites_id": [
+                "9146781570526149024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a hydrogen economy",
+                "pub_year": "2005",
+                "citation": "The Electricity Journal 18 (6), 62-76, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 148,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5706137785542060049",
+            "cites_id": [
+                "5706137785542060049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen energy technologies",
+                "pub_year": "1998",
+                "citation": "United Nations Industrial Development Organization, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 137,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17577880660760253685",
+            "cites_id": [
+                "17577880660760253685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency and weight trade-off analysis of regenerative fuel cells as energy storage for aerospace applications",
+                "pub_year": "2005",
+                "citation": "International Journal of Hydrogen Energy 30 (4), 351-357, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 124,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3233983006133901195",
+            "cites_id": [
+                "3233983006133901195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a hybrid fuel cell/battery powered electric vehicle",
+                "pub_year": "1996",
+                "citation": "International journal of hydrogen energy 21 (6), 497-505, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 120,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7130286267123956656",
+            "cites_id": [
+                "7130286267123956656"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic analysis of PEM fuel cells role in photovoltaic-based systems for the remote base stations",
+                "pub_year": "2013",
+                "citation": "International journal of hydrogen energy 38 (1), 417-425, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 109,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8604919552439732309",
+            "cites_id": [
+                "8604919552439732309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Renewable energy focus e-Mega handbook",
+                "pub_year": "2008",
+                "citation": "Academic Press, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:TQgYirikUcIC",
+            "num_citations": 103,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16357738355715732832",
+            "cites_id": [
+                "16357738355715732832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An algorithm for estimation of membrane water content in PEM fuel cells",
+                "pub_year": "2006",
+                "citation": "Journal of power sources 157 (1), 389-394, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 99,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15897244362015985525",
+            "cites_id": [
+                "15897244362015985525"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inductive phenomena at low frequencies in impedance spectra of proton exchange membrane fuel cells\u2013A review",
+                "pub_year": "2016",
+                "citation": "Journal of Power Sources 326, 112-119, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:bFI3QPDXJZMC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=257253106379373863",
+            "cites_id": [
+                "257253106379373863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell electrochemistry",
+                "pub_year": "2005",
+                "citation": "PEM fuel cells 2, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:jL-93Qbq4QoC",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7781395332362403244",
+            "cites_id": [
+                "7781395332362403244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Properties of molded graphite bi-polar plates for PEM fuel cell stacks",
+                "pub_year": "1999",
+                "citation": "Journal of New Materials for Electrochemical Systems 2, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17199253040374647293",
+            "cites_id": [
+                "17199253040374647293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical hydrogen pump for recirculation of hydrogen in a fuel cell stack",
+                "pub_year": "2007",
+                "citation": "Journal of Applied Electrochemistry 37, 359-365, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16020220284354214155",
+            "cites_id": [
+                "16020220284354214155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental diagnostics and modeling of inductive phenomena at low frequencies in impedance spectra of proton exchange membrane fuel cells",
+                "pub_year": "2017",
+                "citation": "Journal of Power Sources 365, 240-248, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:kz9GbA2Ns4gC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7473636416379070273",
+            "cites_id": [
+                "7473636416379070273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical hydrogen compressor for electrochemical cell system and method for controlling",
+                "pub_year": "2006",
+                "citation": "US Patent 6,994,929, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5398015439106063452",
+            "cites_id": [
+                "5398015439106063452"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-humidifying fuel cell",
+                "pub_year": "2001",
+                "citation": "US Patent 6,207,312, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:WF5omc3nYNoC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16486759928413867758",
+            "cites_id": [
+                "16486759928413867758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of PEM fuel cell degradation by polarization change curves",
+                "pub_year": "2015",
+                "citation": "Journal of Power Sources 294, 82-87, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:70eg2SAEIzsC",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11597297239450753703",
+            "cites_id": [
+                "11597297239450753703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method for optimal sizing of an electrolyzer directly connected to a PV module",
+                "pub_year": "2011",
+                "citation": "International journal of hydrogen energy 36 (12), 7012-7018, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8471005015364539208",
+            "cites_id": [
+                "8471005015364539208"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pem fuel cells: Theory and practice. 2005",
+                "pub_year": "2004",
+                "citation": "Editorial ELSEVIER 433, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:yqoGN6RLRZoC",
+            "num_citations": 68,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18237137941507475833",
+            "cites_id": [
+                "18237137941507475833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Obnovljivi izvori energije",
+                "pub_year": "2002",
+                "citation": "Energetika marketing, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:1DsIQWDZLl8C",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3488751908254435641",
+            "cites_id": [
+                "3488751908254435641"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Commercial vehicle auxiliary loads powered by PEM fuel cell",
+                "pub_year": "2019",
+                "citation": "International journal of hydrogen energy 44 (20), 10082-10090, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:_axFR9aDTf0C",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14456946496567809707",
+            "cites_id": [
+                "14456946496567809707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Catalyst degradation diagnostics of proton exchange membrane fuel cells using electrochemical impedance spectroscopy",
+                "pub_year": "2018",
+                "citation": "International Journal of Hydrogen Energy 43 (29), 13512-13520, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ruyezt5ZtCIC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13207497232110241555",
+            "cites_id": [
+                "13207497232110241555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Principles of hydrogen energy production, storage and utilization",
+                "pub_year": "2003",
+                "citation": "NISCAIR-CSIR, India, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Z5m8FVwuT1cC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=521924449126247393",
+            "cites_id": [
+                "521924449126247393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar\u2013hydrogen energy system: The choice of the future",
+                "pub_year": "1991",
+                "citation": "Environmental Conservation 18 (4), 304-312, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:UebtZRa9Y70C",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11268414543656994831",
+            "cites_id": [
+                "11268414543656994831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Economics of hydrogen as a fuel for surface transportation",
+                "pub_year": "1990",
+                "citation": "International journal of hydrogen energy 15 (9), 663-668, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:roLk4NBRz8UC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3070784205785899918",
+            "cites_id": [
+                "3070784205785899918"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and experimental analysis of liquid water distribution in PEM fuel cells",
+                "pub_year": "2019",
+                "citation": "Energy Conversion and Management 189, 167-183, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:anf4URPfarAC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=209228097934185057",
+            "cites_id": [
+                "209228097934185057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining desired level of relative humidity throughout a fuel cell with spatially variable heat removal rates",
+                "pub_year": "2011",
+                "citation": "International journal of hydrogen energy 36 (20), 13105-13113, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:4TOpqqG69KYC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15993810917524012916",
+            "cites_id": [
+                "15993810917524012916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trade-off design analysis of operating pressure and temperature in PEM fuel cell systems",
+                "pub_year": "1999",
+                "citation": "ASME International Mechanical Engineering Congress and Exposition 16509, 305-315, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Se3iqnhoufwC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13814123444202989196",
+            "cites_id": [
+                "13814123444202989196"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of oxygen starvation during carbon corrosion in proton exchange membrane fuel cells using low-frequency electrochemical impedance spectroscopy",
+                "pub_year": "2020",
+                "citation": "Journal of Power Sources 470, 228285, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ODE9OILHJdcC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10060773143593223091",
+            "cites_id": [
+                "10060773143593223091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of hydrogen conversion technologies",
+                "pub_year": "1999",
+                "citation": "Hemijska Industrija 53 (12), 426-433, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ML0RJ9NH7IQC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15654183265172038994",
+            "cites_id": [
+                "15654183265172038994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A voltage-based observer design for membrane water content in PEM fuel cells",
+                "pub_year": "2005",
+                "citation": "Proceedings of the 2005, American Control Conference, 2005., 4796-4801, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11496194485961090057",
+            "cites_id": [
+                "11496194485961090057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regenerative fuel cells for energy storage: efficiency and weight trade-offs",
+                "pub_year": "2005",
+                "citation": "IEEE Aerospace and Electronic Systems Magazine 20 (3), 35-40, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7693197965174980038",
+            "cites_id": [
+                "7693197965174980038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal management of edge-cooled 1 kW portable proton exchange membrane fuel cell stack",
+                "pub_year": "2020",
+                "citation": "Applied Energy 257, 114038, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:4vMrXwiscB8C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6029199747384541641",
+            "cites_id": [
+                "6029199747384541641"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A segmented fuel cell unit with functionally graded distributions of platinum loading and operating temperature",
+                "pub_year": "2021",
+                "citation": "Chemical Engineering Journal 406, 126889, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:5icHVeHT4IsC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3008116794353654172",
+            "cites_id": [
+                "3008116794353654172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical low-frequency impedance spectroscopy algorithm for diagnostics of PEM fuel cell degradation",
+                "pub_year": "2020",
+                "citation": "International Journal of Hydrogen Energy 45 (2), 1325-1334, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:4hFrxpcac9AC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8179081969663885400",
+            "cites_id": [
+                "8179081969663885400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell collector plates with improved mass transfer channels",
+                "pub_year": "2003",
+                "citation": "US Patent 6,551,736, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12210217533093662308,10378921249706199929",
+            "cites_id": [
+                "12210217533093662308",
+                "10378921249706199929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational fluid dynamics study of PEM fuel cell performance for isothermal and non-uniform temperature boundary conditions",
+                "pub_year": "2016",
+                "citation": "International Journal of Hydrogen Energy 41 (39), 17585-17594, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:dshw04ExmUIC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1396231010766323096",
+            "cites_id": [
+                "1396231010766323096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and operational characteristics of automotive PEM fuel cell stacks",
+                "pub_year": "2000",
+                "citation": "SAE Technical Paper, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16723139191184215377,9704816356981051349",
+            "cites_id": [
+                "16723139191184215377",
+                "9704816356981051349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing heat exchanger with spatially variable surface area for passive cooling of PEM fuel cell",
+                "pub_year": "2013",
+                "citation": "Applied thermal engineering 51 (1-2), 1339-1344, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:dhFuZR0502QC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2694251045967529363",
+            "cites_id": [
+                "2694251045967529363"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustainable energy production and consumption: benefits, strategies and environmental costing",
+                "pub_year": "2008",
+                "citation": "Springer Science & Business Media, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:hCrLmN-GePgC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13094249902875176309",
+            "cites_id": [
+                "13094249902875176309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Initial conditioning of polymer eelectrolyte membrane fuel cell by temperature and potential cycling",
+                "pub_year": "2015",
+                "citation": "Acta Chimica Slovenica 62 (1), 83-87, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:hkOj_22Ku90C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14253017888412215301",
+            "cites_id": [
+                "14253017888412215301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel flow field with controllable pressure gradient to enhance mass transport and water removal of PEM fuel cells",
+                "pub_year": "2020",
+                "citation": "AIChE Journal 66 (6), e16957, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:bKqednn6t2AC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6740543695641619826",
+            "cites_id": [
+                "6740543695641619826"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen energy solutions",
+                "pub_year": "2005",
+                "citation": "Environmental solutions, 143-180, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:GnPB-g6toBAC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8868218994259517533",
+            "cites_id": [
+                "8868218994259517533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Safety issues of hydrogen in vehicles",
+                "pub_year": "1999",
+                "citation": "Energy Partners, 1-5, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17029947640851734494",
+            "cites_id": [
+                "17029947640851734494"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of hydrogen in energy transition",
+                "pub_year": "2019",
+                "citation": "International Journal of Hydrogen Energy 44 (20), 9673-9674, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:LO7wyVUgiFcC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=487077496525917906",
+            "cites_id": [
+                "487077496525917906"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combustible gas detection systems and method thereof",
+                "pub_year": "2007",
+                "citation": "US Patent 7,159,444, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:vV6vV6tmYwMC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10739016997230805539",
+            "cites_id": [
+                "10739016997230805539"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method and apparatus for operating and controlling a power system",
+                "pub_year": "2005",
+                "citation": "US Patent App. 11/208,174, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:abG-DnoFyZgC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16267309445299729181",
+            "cites_id": [
+                "16267309445299729181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic assessment of hydrogen refueling station: A case study in Croatia",
+                "pub_year": "2022",
+                "citation": "International Journal of Hydrogen Energy 47 (57), 24155-24168, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:buQ7SEKw-1sC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8210051755578256034",
+            "cites_id": [
+                "8210051755578256034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method and apparatus for maintaining neutral water balance in a fuel cell system",
+                "pub_year": "2003",
+                "citation": "US Patent 6,617,065, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:r0BpntZqJG4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16492571868499436685",
+            "cites_id": [
+                "16492571868499436685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technical challenges in PEM fuel cell development",
+                "pub_year": "1998",
+                "citation": "HYDROGEN ENERGY PROGRESS 2, 1589-1596, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15415685774060767632",
+            "cites_id": [
+                "15415685774060767632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of hydrogen penetration in the energy market",
+                "pub_year": "1993",
+                "citation": "International journal of hydrogen energy 18 (3), 187-195, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15193878755556394545",
+            "cites_id": [
+                "15193878755556394545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cells and hydrogen economy",
+                "pub_year": "2005",
+                "citation": "Chemical Industry and Chemical Engineering Quarterly 11 (3), 105-113, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:aqlVkmm33-oC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13745989663469937469",
+            "cites_id": [
+                "13745989663469937469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compendium of Hydrogen Energy: Hydrogen Energy Conversion",
+                "pub_year": "2015",
+                "citation": "Woodhead Publishing, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Ug5p-4gJ2f0C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11475673148495573172",
+            "cites_id": [
+                "11475673148495573172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical cell system and method of operation",
+                "pub_year": "2006",
+                "citation": "US Patent 7,153,409, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2884305506603430737",
+            "cites_id": [
+                "2884305506603430737"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method and apparatus for operating and controlling a power system",
+                "pub_year": "2006",
+                "citation": "US Patent 7,006,898, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:4DMP91E08xMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8050566047554381396",
+            "cites_id": [
+                "8050566047554381396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a hybrid fuel cell/battery powered electric vehicle",
+                "pub_year": "1994",
+                "citation": "HYDROGEN ENERGY PROGRESS 3, 1427-1427, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:_kc_bZDykSQC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8275570542095915223",
+            "cites_id": [
+                "8275570542095915223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental validation of variable temperature flow field concept for proton exchange membrane fuel cells",
+                "pub_year": "2017",
+                "citation": "International Journal of Hydrogen Energy 42 (41), 26084-26093, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:BwyfMAYsbu0C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11120347994552172419",
+            "cites_id": [
+                "11120347994552172419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "System design for stationary power generation",
+                "pub_year": "2010",
+                "citation": "Handbook of Fuel Cells, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12742980662476139486",
+            "cites_id": [
+                "12742980662476139486"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Oi\u201d Hmal operating temperature and pressure of PEM fuel cell systems in automotive applications",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:TFP_iSt0sucC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17713912736452745182",
+            "cites_id": [
+                "17713912736452745182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical assessment of an automotive derivative CHP fuel cell system",
+                "pub_year": "2017",
+                "citation": "Energy Procedia 105, 1564-1569, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:gsN89kCJA0AC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=909026853418704973",
+            "cites_id": [
+                "909026853418704973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen energy technologies",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:IWHjjKOFINEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12692021833418070676",
+            "cites_id": [
+                "12692021833418070676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coolant induced variable temperature flow field for improved performance of proton exchange membrane fuel cells",
+                "pub_year": "2019",
+                "citation": "International Journal of Hydrogen Energy 44 (20), 10102-10119, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:PVjk1bu6vJQC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9823865169096903109",
+            "cites_id": [
+                "9823865169096903109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell basic chemistry, electrochemistry and thermodynamics",
+                "pub_year": "2008",
+                "citation": "Mini-Micro Fuel Cells: Fundamentals and Applications, 13-26, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:iH-uZ7U-co4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17503294513457375256",
+            "cites_id": [
+                "17503294513457375256"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Initiation of hydrogen energy system in developing countries",
+                "pub_year": "1992",
+                "citation": "International journal of hydrogen energy 17 (7), 527-538, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7658515103265016970",
+            "cites_id": [
+                "7658515103265016970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of shutdown procedures on recovery phenomena of proton exchange membrane fuel cells",
+                "pub_year": "2020",
+                "citation": "Fuel Cells 20 (2), 185-195, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:yFnVuubrUp4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16292624884626175302",
+            "cites_id": [
+                "16292624884626175302"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen energy systems",
+                "pub_year": "2001",
+                "citation": "Wiley Encyclopedia of Electrical and Electronics Engineering, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17465931115488239406",
+            "cites_id": [
+                "17465931115488239406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell powered utility vehicles",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4375903707656002644",
+            "cites_id": [
+                "4375903707656002644"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of testing procedures for proton exchange membrane electrolyzer degradation",
+                "pub_year": "2023",
+                "citation": "Journal of Power Sources 557, 232569, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:48xauSegjOkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13020262196722537061",
+            "cites_id": [
+                "13020262196722537061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of third generation fuel cell powered utility vehicle Nr. 2 with metal hydride fuel storage",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:FPJr55Dyh1AC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16474258521872792820",
+            "cites_id": [
+                "16474258521872792820"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective costs of the future energy systems",
+                "pub_year": "1992",
+                "citation": "International journal of hydrogen energy 17 (4), 299-308, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17158558692298871831",
+            "cites_id": [
+                "17158558692298871831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stand-alone micro-trigeneration system coupling electrolyzer, fuel cell, and heat pump with renewables",
+                "pub_year": "2022",
+                "citation": "International Journal of Hydrogen Energy 47 (82), 35068-35080, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:otzGkya1bYkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8217011404364680451",
+            "cites_id": [
+                "8217011404364680451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time capable transient model of liquid water dynamics in proton exchange membrane Fuel Cells",
+                "pub_year": "2022",
+                "citation": "Journal of Power Sources 541, 231598, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:QD3KBmkZPeQC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082173206815938319",
+            "cites_id": [
+                "6082173206815938319"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell stack design principles with some design concepts of micro-mini fuel cells",
+                "pub_year": "2008",
+                "citation": "Mini-micro fuel cells, 27-46, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:M3NEmzRMIkIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11809150477586612995",
+            "cites_id": [
+                "11809150477586612995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regenerative fuel cell applications and design options",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:hC7cP41nSMkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17714345641557562464",
+            "cites_id": [
+                "17714345641557562464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated renewable hydrogen utility system",
+                "pub_year": "1999",
+                "citation": "Proc. 1999 DoE Hydrogen Program Annual Review Meeting, Lakewood, CO, May, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7772363927797662985",
+            "cites_id": [
+                "7772363927797662985"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-dimensional model for the entire sandwich of a PEM fuel cell",
+                "pub_year": "1998",
+                "citation": "ECS Proceedings Volumes 1998 (1), 479, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:HDshCWvjkbEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=44326952916845118",
+            "cites_id": [
+                "44326952916845118"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of collector plate resistance on fuel cell stack performance",
+                "pub_year": "1998",
+                "citation": "ECS Proceedings Volumes 1998 (1), 400, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5777372819599794847",
+            "cites_id": [
+                "5777372819599794847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control strategy of a vehicular fuel cell power system",
+                "pub_year": "1996",
+                "citation": "HYDROGEN ENERGY PROGRESS 2, 1695-1706, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16287426604341199314",
+            "cites_id": [
+                "16287426604341199314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Progress in PEM fuel cell systems development",
+                "pub_year": "1995",
+                "citation": "Hydrogen Energy System: Production and Utilization of Hydrogen and Future \u2026, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5149632646657376678",
+            "cites_id": [
+                "5149632646657376678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application and analysis of solid oxide fuel cells in ship energy systems",
+                "pub_year": "2018",
+                "citation": "Brodogradnja: Teorija i praksa brodogradnje i pomorske tehnike 69 (4), 53-68, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:86PQX7AUzd4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8562574036283480069",
+            "cites_id": [
+                "8562574036283480069"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Degradation mechanisms in automotive fuel cell systems",
+                "pub_year": "2017",
+                "citation": "Fuel Cells and Hydrogen Joint Undertaking: Brussels, Belgium, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Dip1O2bNi0gC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10442305677186764685",
+            "cites_id": [
+                "10442305677186764685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regenerative Fuel Cells",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:geHnlv5EZngC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10527871192781599405",
+            "cites_id": [
+                "10527871192781599405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of a novel design air-cooled 1 kw PEM-based fuel cell stack",
+                "pub_year": "2004",
+                "citation": "1st International Conference on Fuel Cell Development and Deployment, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:mB3voiENLucC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13727855608721086807",
+            "cites_id": [
+                "13727855608721086807"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal behavior of an air cooled PEM fuel cell stack",
+                "pub_year": "2008",
+                "citation": "ECS Transactions 16 (2), 535, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ns9cj8rnVeAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14799353182511291389",
+            "cites_id": [
+                "14799353182511291389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cells for clean power generation: status and perspectives",
+                "pub_year": "2007",
+                "citation": "Assessment of Hydrogen Energy for Sustainable Development 8, 113e21, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:bEWYMUwI8FkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17632241566551333514",
+            "cites_id": [
+                "17632241566551333514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compression Devices and Electrochemical Cell Stack Design",
+                "pub_year": "2006",
+                "citation": "US Patent App. 11/419,057, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:fPk4N6BV_jEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15607010646796198141",
+            "cites_id": [
+                "15607010646796198141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proton exchange membrane fuel cell technology status and applicability for propulsion of autonomous underwater vehicles",
+                "pub_year": "2002",
+                "citation": "Proceedings of the 2002 Workshop on Autonomous Underwater Vehicles, 2002., 65-69, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:blknAaTinKkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18195149088162013025",
+            "cites_id": [
+                "18195149088162013025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of automotive fuel cell stack",
+                "pub_year": "2000",
+                "citation": "SAE transactions, 1657-1661, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:RHpTSmoSYBkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8089385811007785105",
+            "cites_id": [
+                "8089385811007785105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of residential fuel cell power systems",
+                "pub_year": "2000",
+                "citation": "Fuel Cell Seminar, 483-486, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5479774926979933309",
+            "cites_id": [
+                "5479774926979933309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and modeling of environmental and economic impacts of the solar hydrogen energy system",
+                "pub_year": "1992",
+                "citation": "University of Miami, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Bg7qf7VwUHIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11842333956711871230",
+            "cites_id": [
+                "11842333956711871230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design optimization and simplification of PEM fuel cell systems for backup power applications",
+                "pub_year": "2002",
+                "citation": "Fuel Chemistry Division Preprints 47 (2), 611-613, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:maZDTaKrznsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8880043707557215461",
+            "cites_id": [
+                "8880043707557215461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model of PEM fuel cell performance in electric vehicle",
+                "pub_year": "1994",
+                "citation": "Proceedings of the 12th annual international electric vehicle symposium. San \u2026, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:artPoR2Yc-kC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13105362173716812635",
+            "cites_id": [
+                "13105362173716812635"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen: its comparison with fossil fuels and its potential as a universal fuel",
+                "pub_year": "1993",
+                "citation": "United States Geological Survey, Professional Paper;(United States) 1570, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:-f6ydRqryjwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1874255706452771375",
+            "cites_id": [
+                "1874255706452771375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental damage caused by fossil fuels consumption.[External cost estimation ($/GJ)]",
+                "pub_year": "1991",
+                "citation": "International Journal of Energy-Environment-Economics;(United States) 1 (4), 1991"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=800158604183984002",
+            "cites_id": [
+                "800158604183984002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of components capacity loss on the performance of a hybrid PV/wind/battery/hydrogen stand-alone energy system",
+                "pub_year": "2023",
+                "citation": "Energy Conversion and Management 291, 117314, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:43bX7VzcjpAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8885954765160378239",
+            "cites_id": [
+                "8885954765160378239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen economy",
+                "pub_year": "2014",
+                "citation": "Handbook of Hydrogen Energy, 1, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:dTyEYWd-f8wC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11375506688064026043",
+            "cites_id": [
+                "11375506688064026043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing PEM fuel cell for portable applications",
+                "pub_year": "2005",
+                "citation": "International Hydrogen Energy Congress, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:35N4QoGY0k4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11078036704089040385",
+            "cites_id": [
+                "11078036704089040385"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pressure drop on the cathode side of a PEM fuel cell as a diagnostic tool for detection of flooding and drying conditions",
+                "pub_year": "2005",
+                "citation": "International Conference on Fuel Cell Science, Engineering and Technology \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:BqipwSGYUEgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4654169481588902644",
+            "cites_id": [
+                "4654169481588902644"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical cell stack design",
+                "pub_year": "2004",
+                "citation": "US Patent App. 10/202,701, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:B3FOqHPlNUQC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875739908038312999",
+            "cites_id": [
+                "7875739908038312999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent progress and remaining technical issues in PEM fuel cell development",
+                "pub_year": "2000",
+                "citation": "World Hydrogen Energy Conference, 88-90, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6069118245863087583",
+            "cites_id": [
+                "6069118245863087583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and Testing of High Performing PEM Fuel Cell Stack",
+                "pub_year": "1998",
+                "citation": "Proc. 1998 Fuel Cell Seminar, Palm Springs, CA, 718-721, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:isC4tDSrTZIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1543557268170902454",
+            "cites_id": [
+                "1543557268170902454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of hydrogen in energy supply of the County of Split and Dalmatian Islands",
+                "pub_year": "1998",
+                "citation": "HYDROGEN ENERGY PROGRESS 1, 483-494, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9622887094637550209",
+            "cites_id": [
+                "9622887094637550209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen Systems Application Analysis",
+                "pub_year": "1989",
+                "citation": "Report to DOE/SERI~ XL-9-18168-1, Clean Energy Research Institute \u2026, 1989"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:nVrZBo8bIpAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14154834589000955383",
+            "cites_id": [
+                "14154834589000955383"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exergy, energy and environment",
+                "pub_year": "2018",
+                "citation": "International Journal of Hydrogen Energy 43 (11), 5794-5794, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:xtoqd-5pKcoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2493544426590690761",
+            "cites_id": [
+                "2493544426590690761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "International association for hydrogen energy",
+                "pub_year": "2010",
+                "citation": "Handbook of Transnational Economic Governance Regimes, 915-921, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:zA6iFVUQeVQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679333040275135703",
+            "cites_id": [
+                "14679333040275135703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vehicles with hydrogen-air fuel cells",
+                "pub_year": "2009",
+                "citation": "Energy carriers and conversion systems with emphasis on hydrogen 2, 25-45, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:D03iK_w7-QYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15950384190966188330",
+            "cites_id": [
+                "15950384190966188330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studying the\" addiction to oil\" of developed societies using the approach of Multi-Scale Integrated Analysis of Societal Metabolism (MSIASM)(In press)",
+                "pub_year": "2007",
+                "citation": "Sustainable Energy Production and Consumption and Environmental Costing-NATO \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Ak0FvsSvgGUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3714734811671081285",
+            "cites_id": [
+                "3714734811671081285"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical Cell Stack Design",
+                "pub_year": "2006",
+                "citation": "US Patent App. 11/419,053, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:yD5IFk8b50cC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4380691153921888732",
+            "cites_id": [
+                "4380691153921888732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind energy and the hydrogen economy",
+                "pub_year": "2003",
+                "citation": "Wind Energy Symposium 75944, 155-166, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:g5m5HwL7SMYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15226968600059429106",
+            "cites_id": [
+                "15226968600059429106"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PEM fuel cell stack design considerations",
+                "pub_year": "2002",
+                "citation": "American Institute of Chemical Engineers, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:hMod-77fHWUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17064550017811599",
+            "cites_id": [
+                "17064550017811599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar hydrogen energy system\u2014real possibility or Utopia",
+                "pub_year": "2001",
+                "citation": "Advances in Energy Studies, Second International Workshop: Exploring \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:JV2RwH3_ST0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12149116697019019061",
+            "cites_id": [
+                "12149116697019019061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of Low Cost Bi-Polar Plates for PEM Fuel Cell",
+                "pub_year": "2000",
+                "citation": "Proceedings of Fuel Cell 2000 Research & Development, Strategic Research \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ldfaerwXgEUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2904169461478580846",
+            "cites_id": [
+                "2904169461478580846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell power system for utility vehicle",
+                "pub_year": "1996",
+                "citation": "Fuel Cell Seminar Organizing Committee (United States), 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:J_g5lzvAfSwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1231345884467886008",
+            "cites_id": [
+                "1231345884467886008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel Cell Vehicle",
+                "pub_year": "1995",
+                "citation": "Hydrogen energy system: production and utilization of hydrogen and future \u2026, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:YFjsv_pBGBYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3379106197162750381",
+            "cites_id": [
+                "3379106197162750381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Techno-economic analysis of PV/wind turbine stand-alone energy system",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:IUKN3-7HHlwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3082491834233910300",
+            "cites_id": [
+                "3082491834233910300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen energy technologies",
+                "pub_year": "2016",
+                "citation": "Energy Effic. Renew. Energy Handbook,, 1669-1702, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:SpbeaW3--B0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18214731984830759887",
+            "cites_id": [
+                "18214731984830759887"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compact, modular regenerative fuel cell",
+                "pub_year": "2007",
+                "citation": "US Patent App. 11/643,073, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:kRWSkSYxWN8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3617863766724644322",
+            "cites_id": [
+                "3617863766724644322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel Cell Stack and System Development: Matching Market to Technology Status",
+                "pub_year": "2002",
+                "citation": "Proc. 2002 Fuel Cell Seminar, 18-21, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:6_hjMsCP8ZoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11907999105538343923",
+            "cites_id": [
+                "11907999105538343923"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel Cell Powered Utility Vehicle with Metal Hydride Fuel Storage",
+                "pub_year": "2000",
+                "citation": "Globe Ex 2000 Conference, Las Vegas, Nevada, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:M05iB0D1s5AC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14809382630940336561",
+            "cites_id": [
+                "14809382630940336561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Air, Water and Heat Management in Automotive Fuel Cell Systems",
+                "pub_year": "2000",
+                "citation": "Proceedings of the, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:O3NaXMp0MMsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9635435052630631943",
+            "cites_id": [
+                "9635435052630631943"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-Dimensional Model for the Entire PEM Fuel Cell Sandwich",
+                "pub_year": "1999",
+                "citation": "Proton Conduction Membrane Fuel Cells II 98, 27, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:RGFaLdJalmkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15744533704519460250",
+            "cites_id": [
+                "15744533704519460250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen Energy System and Hydrogen Production Methods",
+                "pub_year": "1992",
+                "citation": "Clean Utilization of Coal: Coal Structure and Reactivity, Cleaning and \u2026, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:NMxIlDl6LWMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1330059436563622402",
+            "cites_id": [
+                "1330059436563622402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of environmental damage by fossil fuels",
+                "pub_year": "1992",
+                "citation": "Clean Utilization of Coal: Coal Structure and Reactivity, Cleaning and \u2026, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:k_IJM867U9cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8184232946090363558",
+            "cites_id": [
+                "8184232946090363558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ex situ measurement of charge carrier concentration in Nafion by Hall effect",
+                "pub_year": "2022",
+                "citation": "Polymer Bulletin, 1-15, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:BJbdYPG6LGMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7410539320066206312",
+            "cites_id": [
+                "7410539320066206312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostic methods for automotive fuel cell systems",
+                "pub_year": "2017",
+                "citation": "Technical Report D-1.4, European Commission, Brussels, https://ec. europa \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:PoWvk5oyLR8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2722004784821761871",
+            "cites_id": [
+                "2722004784821761871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen Islands\u2013Utilization of Renewable Energy for an Autonomous Power Supply",
+                "pub_year": "2016",
+                "citation": "Hydrogen Science and Engineering: Materials, Processes, Systems and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:3s1wT3WcHBgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5240317239149366752",
+            "cites_id": [
+                "5240317239149366752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen and fuel cells: A preface to the special issue section on \u201cThe 14th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 27 \u2026",
+                "pub_year": "2016",
+                "citation": "International Journal of Hydrogen Energy 41 (31), 13797-13799, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:P5F9QuxV20EC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1266646999099929328",
+            "cites_id": [
+                "1266646999099929328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical Impedance Spectroscopy for PEM Fuel Cell Degradation Diagnostics",
+                "pub_year": "2015",
+                "citation": "European Fuel Cell Technology & Applications Conference\u2013Piero Lunghi \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:S16KYo8Pm5AC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10331667554636136730",
+            "cites_id": [
+                "10331667554636136730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gaseous hydrogen storage",
+                "pub_year": "2014",
+                "citation": "Handbook of Hydrogen Energy, 612-615, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:HoB7MX3m0LUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18294785981831786052",
+            "cites_id": [
+                "18294785981831786052"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimalno kori\u0161tenje energije sa socijalnog aspekta (Osvrt na esej Ivana Illicha Energy and Equity)",
+                "pub_year": "2013",
+                "citation": "Jahr\u2013European Journal of Bioethics 4 (2), 673-680, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17535395113487976959",
+            "cites_id": [
+                "17535395113487976959"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining desired temperature and relative humidity throughout a fuel cell",
+                "pub_year": "2011",
+                "citation": "ECS Transactions 41 (1), 1879, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10923020314264061805",
+            "cites_id": [
+                "10923020314264061805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Options Impact on Regional Security",
+                "pub_year": "2010",
+                "citation": "Springer, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:5qfkUJPXOUwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13044711246550020059",
+            "cites_id": [
+                "13044711246550020059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Demonstration of a fuel cell powered boat",
+                "pub_year": "2010",
+                "citation": "18th World Hydrogen Energy Conference, 269-271, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:LI9QrySNdTsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=198070046648191282",
+            "cites_id": [
+                "198070046648191282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cell stack operation with low cathode stoichiometry with cells or sections fed in series",
+                "pub_year": "2009",
+                "citation": "ECS Transactions 25 (1), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:a0OBvERweLwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15593840947583403482",
+            "cites_id": [
+                "15593840947583403482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical Cell Stacks and Use Thereof",
+                "pub_year": "2006",
+                "citation": "US Patent App. 11/419,049, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ZHo1McVdvXMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481668842809002076",
+            "cites_id": [
+                "15481668842809002076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen Energy Solutions",
+                "pub_year": "2005",
+                "citation": "Environmental Solutions, 143-180, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:NyGDZy8z5eUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5741047466618746645",
+            "cites_id": [
+                "5741047466618746645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen economy-status and outlook",
+                "pub_year": "2003",
+                "citation": "The Proceedings of the 1st International Conference on Energy Efficiency, 34-39, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:RYcK_YlVTxYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3798809023567547031",
+            "cites_id": [
+                "3798809023567547031"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fundamentals of hydrogen energy utilization",
+                "pub_year": "2001",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:NaGl4SEjCO4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=986639758655519950",
+            "cites_id": [
+                "986639758655519950"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal operating temperature and pressure of PEM fuel cell systems in automotive applications.",
+                "pub_year": "1999",
+                "citation": "Abstracts of papers of the American chemical society 218, U637-U637, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:wMgC3FpKEyYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6053715809627375495",
+            "cites_id": [
+                "6053715809627375495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Economic comparison of hydrogen and fossil fuel systems",
+                "pub_year": "1992",
+                "citation": "Clean Utilization of Coal: Coal Structure and Reactivity, Cleaning and \u2026, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:u_35RYKgDlwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9462217078923943747",
+            "cites_id": [
+                "9462217078923943747"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A solar hydrogen house",
+                "pub_year": "1991",
+                "citation": "International journal of ambient energy 12 (3), 121-126, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:pyW8ca7W8N0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17873693574627575431",
+            "cites_id": [
+                "17873693574627575431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self Humidifying Fuel Cell",
+                "citation": "US Patent 6, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:4fGpz3EwCPoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11809055803578064632",
+            "cites_id": [
+                "11809055803578064632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operando investigations of proton exchange membrane fuel cells performance during air interruptions in dry and humidified conditions",
+                "pub_year": "2023",
+                "citation": "Journal of Power Sources 580, 233418, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:BzfGm06jWhQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13571523499365602181",
+            "cites_id": [
+                "13571523499365602181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel Cells for Transportation: Fundamental Principles and Applications",
+                "pub_year": "2023",
+                "citation": "Elsevier, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ubry08Y2EpUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8773071543988008012",
+            "cites_id": [
+                "8773071543988008012"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent advances and perspectives in diagnostics and degradation of electrochemical hydrogen compressors",
+                "pub_year": "2023",
+                "citation": "International Journal of Hydrogen Energy, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:lgwcVrK6X84C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13849233137215544675",
+            "cites_id": [
+                "13849233137215544675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of Hydrogen Refueling Stations and Spatial Occupancy Assessment: A Preliminary Results of the Case Study in Croatia",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:6yz0xqPARnAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2640198507912957372",
+            "cites_id": [
+                "2640198507912957372"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical low-frequency impedance spectroscopy for diagnostics of fuel cells",
+                "pub_year": "2019",
+                "citation": "2019 IEEE Vehicle Power and Propulsion Conference (VPPC), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:cWzG1nlazyYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9159251561985224283",
+            "cites_id": [
+                "9159251561985224283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of dynamic performance of PEM fuel cell using a segmented single-cell",
+                "pub_year": "2019",
+                "citation": "2019 4th International Conference on Smart and Sustainable Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:WJVC3Jt7v1AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3625185290749347059",
+            "cites_id": [
+                "3625185290749347059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of Proton Concentration in PEM by Hall Effect",
+                "pub_year": "2018",
+                "citation": "Fuel Cells 18 (4), 408-412, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:q3CdL3IzO_QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13107702072386792975",
+            "cites_id": [
+                "13107702072386792975"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of inductive phenomena at low frequencies in electrochemical impedance spectroscopy of PEM fuel cell",
+                "pub_year": "2017",
+                "citation": "Book of Abstracts, 27, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:KUbvn5osdkgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=84727906271255884",
+            "cites_id": [
+                "84727906271255884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clean energy research institute university of miami",
+                "pub_year": "2013",
+                "citation": "Clean Utilization of Coal: Coal Structure and Reactivity, Cleaning and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:N5tVd3kTz84C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12751618825083686350",
+            "cites_id": [
+                "12751618825083686350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustainable development of energy, water and environment systems",
+                "pub_year": "2009",
+                "citation": "International Journal of Hydrogen Energy 34 (16), 6979-6979, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5403908982694620421",
+            "cites_id": [
+                "5403908982694620421"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bio-diesel and/or hydrogen in Croatia\u2013challenge and necessity",
+                "pub_year": "2008",
+                "citation": "Sustainable Energy Production and Consumption: Benefits, Strategies and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:rO6llkc54NcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5743032141785395432",
+            "cites_id": [
+                "5743032141785395432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uloga vodika u sastavima kori\u0161\u0107enja obnovljivih izvora energije",
+                "pub_year": "2006",
+                "citation": "Me\u0111unarodni forum o obnovljivim izvorima energije, Dubrovnik, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:owLR8QvbtFgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=218390587747174114",
+            "cites_id": [
+                "218390587747174114"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of the solar hydrogen energy system",
+                "pub_year": "1993",
+                "citation": "Hydrogen Program Review, 151, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:edDO8Oi4QzsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1348344712779010583",
+            "cites_id": [
+                "1348344712779010583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective Costs of the Future Systems",
+                "pub_year": "1992",
+                "citation": "International J. of Hydrogen Energy 17 (4), 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:VaXvl8Fpj5cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9047090150908201281",
+            "cites_id": [
+                "9047090150908201281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Hydrogen with Coal and Synthetic Fossil Fuels",
+                "pub_year": "1992",
+                "citation": "Electrochemistry in Transition: From the 20th to the 21st Century, 325-338, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3380893016284739453",
+            "cites_id": [
+                "3380893016284739453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "One-parameter battery degradation model for optimization of islanded microgrid system",
+                "pub_year": "2023",
+                "citation": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 45 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ALROH1vI_8AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuel cells for transportation\u2014an overview",
+                "pub_year": "2023",
+                "citation": "Fuel Cells for Transportation, 1-28, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:1lhNe0rCu4AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of an electrochemical device with integrated diagnostics, prognostics and lifetime management",
+                "pub_year": "2022",
+                "citation": "US Patent 11,239,481, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:k8Z6L05lTy4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studija predizvedivosti izgradnje elektrolizatora unutar podru\u010dja Rafinerije nafte Rijeka",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:QsaTk4IG4EwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical hydrogen compressor technology overview",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:WC9gN4BGCRcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tehno-ekonomska analiza postavljanja baterijskog sustava i elektrolizatora s pripadaju\u0107im sustavima na lokaciji KTE Jertovec",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:7H_MAutzIkAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local Temperature Estimation in PEM Fuel Cell",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:tH6gc1N1XXoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analiza predizvodljivosti punionice za vodik",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:UuEBAcK4md4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Shut-Down Procedures on Performance Recovery of Proton Exchange Membrane Fuel Cells",
+                "pub_year": "2019",
+                "citation": "Electrochemical Society Meeting Abstracts 236, 1460-1460, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:HIFyuExEbWQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmented Fuel Cell for Verification of Variable Temperature Flow Field Concept",
+                "pub_year": "2017",
+                "citation": "Electrochemical Society Meeting Abstracts 232, 1459-1459, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:oNZyr7d5Mn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Segmented PEM fuel cell for verification of the variable temperature flow field concept",
+                "pub_year": "2017",
+                "citation": "Book of Abstracts, 58, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:g3aElNc5_aQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water Balance in Non-Humidified PEM Fuel Cell with Different Membrane Thicknesses",
+                "pub_year": "2016",
+                "citation": "Electrochemical Society Meeting Abstracts 230, 2559-2559, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:uc_IGeMz5qoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EFCF2015\u2013Bringing Fuel Cells & Hydrogen, as Part of our Energy Future, Closer to Deployment",
+                "pub_year": "2016",
+                "citation": "Fuel Cells 16 (4), 405-405, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digital Proceedings of the 10th Conference on Sustainable Development of Energy, Water and Environment Systems",
+                "pub_year": "2015",
+                "citation": "Faculty of Mechanical Engineering and Naval Architecture, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:2VqYfGB8ITEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Fuel Cell Stacks Degradation by Polarization Change Curves",
+                "pub_year": "2014",
+                "citation": "2014 IEEE Vehicle Power and Propulsion Conference (VPPC), 1-2, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clean Energy Research Institute University of Miami",
+                "pub_year": "2013",
+                "citation": "Clean Utilization of Coal: Coal Structure and Reactivity, Cleaning and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:1yQoGdGgb4wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Partners, Inc. 1501 Northpoint Parkway, Suite 102",
+                "pub_year": "2012",
+                "citation": "Hydrogen Energy System: Production and Utilization of Hydrogen and Future \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:kzcrU_BdoSEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WITHDRAWN: Fuel cell efficiency at peak power is a meaningless parameter",
+                "pub_year": "2011",
+                "citation": "Journal of Power Sources, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An LCA evaluation of MCFCS, SOFCS and PEMFCS, towards product category rules and environmental product declaration",
+                "pub_year": "2011",
+                "citation": "4th European Fuel Cell Piero Lunghi Conference and Exhibition, EFC 2011, 243-244, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining Desired Level of Relative Humidity throughout a Fuel Cell with Spatially Variable Heat Transfer Rates",
+                "pub_year": "2010",
+                "citation": "ECS Meeting Abstracts, 723, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Vision of the Role of Hydrogen in Energy Supply in the Future",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:p2g8aNsByqUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FUEL CELL STACK DESIGN PRINCIPLES WITHSOME DESIGN CONCEPTS OF MICRO-MINI FUEL CELLS",
+                "pub_year": "2008",
+                "citation": "Mini-Micro Fuel Cells: Fundamentals and Applications, 27, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:jgBuDB5drN8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HYDROGEN FOR SUSTAINABLE DEVELEOPMENT",
+                "pub_year": "2007",
+                "citation": "Sustainable Development Of Energy, Water And Environment Systems, 143-154, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Activities of UNIDO-ICHET: On a Mission to Convert the World to Hydrogen Economy",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Current Interrupt and AC Impedance Techniques for Resistance Measurement in PEM Fuel Cells",
+                "pub_year": "2006",
+                "citation": "ECS Meeting Abstracts, 1522, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:nrtMV_XWKgEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cathode Pressure Drop as a Diagnostic Tool for Detection of Flooding and Drying Conditions in PEM Fuel Cells",
+                "pub_year": "2006",
+                "citation": "ECS Meeting Abstracts, 1508, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen Energy Solutions",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:Xl6nMSl579sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observation of Pressure Drop Behavior in an Operating Fuel Cell Stack",
+                "pub_year": "2005",
+                "citation": "ASME Power Conference 41820, 899-903, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen as energy carrier for eco-resorts on Dalmatian Islands: pilot program",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:LgRImbQfgY4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen energy",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:WAzi4Gm8nLoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Operational Characteristics of Automotive PEM Fuel Cell Stacks (2000-01-0011)",
+                "pub_year": "2001",
+                "citation": "PROGRESS IN TECHNOLOGY 84, 139-146, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:xtRiw3GOFMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bi-polar plates, flow fields and stack design criteria",
+                "pub_year": "2000",
+                "citation": "APS March Meeting Abstracts, P2. 001, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Operational Characteristics of Automotive PEIVI Fuel Cell Stacks",
+                "pub_year": "2000",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen energy news & views",
+                "pub_year": "1998",
+                "citation": "International Journal of Hydrogen Energy 23 (3), 219-220, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "System comparison of hydrogen with other alternative fuels in terms of EPACT requirements",
+                "pub_year": "1997",
+                "citation": "University of Miami, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:W5xh706n7nkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a 10 kW hydrogen/air PEM fuel cell stack",
+                "pub_year": "1996",
+                "citation": "Fuel Cell Seminar Organizing Committee (United States), 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "System comparison of hydrogen with other alternative fuels in terms of EPACT requirements",
+                "pub_year": "1996",
+                "citation": "Proceedings of the 1996 US DOE Hydrogen Program Review, May 1-2, 1996, Miami \u2026, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of renewable hydrogen in global energy-environment-economic system",
+                "pub_year": "1995",
+                "citation": "Hydrogen Energy System: Production and Utilization of Hydrogen and Future \u2026, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INTERNATIONAL SYMPOSIUM ON NEW ENERGY",
+                "pub_year": "1993",
+                "citation": "Proceedings of the International Symposium on New Energy, 29, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:zCSUwVk65WsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSIS OF THE SOLAR HYDROGEN ENERGY SYSTEM",
+                "pub_year": "1992",
+                "citation": "Proceedings o Hydrogen Prog, 187, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:mNrWkgRL2YcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advantages of hydrogen as a universal fuel",
+                "pub_year": "1992",
+                "citation": "TIDE (TERI Information Digest on Energy);(India) 2 (2), 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Economic comparison of hydrogen and fossil fuel systems",
+                "pub_year": "1992",
+                "citation": "Clean utilization of coal, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:z_wVstp3MssC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy and environmental progress\u2014I: Edited by T. Nejat Veziro\u011dlu. Nova Science Publishers, 1991. 7 Volumes, 4260 pages, Price US $480",
+                "pub_year": "1992",
+                "citation": "International Journal of Hydrogen Energy 17 (1), 63-64, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:j8SEvjWlNXcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and modeling of environmental and economic impacts of the solar hydrogen energy system(Ph. D. Thesis)",
+                "pub_year": "1992",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:olpn-zPbct0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen aircraft technology: By G. Daniel Brewer. CRC Press, Boca Raton, 1991; 430 pages, including references and index; clothbound, price $169.95",
+                "pub_year": "1991",
+                "citation": "International Journal of Hydrogen Energy 16 (12), 839-840, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:tzM49s52ZIMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence or Divergence in Europe?: Growth and Business Cycles in France, Germany and Italy\u00bb show extra info.",
+                "pub_year": "1988",
+                "citation": "NATO Science for Peace and Security Series (, 1988"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:U4n9YNQMCAIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Related ebooks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:sA9dB-pw3HoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct Alcohol Fuel Cells for Portable Applications: Fundamentals, Engineering and Advances",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:silx2ntsSuwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Storing Energy: with Special Reference to Renewable Energy Sources",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:7Hz3ACDFbsoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chatzipanagiotidou, Panagiota 381 Chavhan, Suresh 259 Chetta, Valentina 76",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:0CzhzZyukY4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stand-alone renewable hydrogen system for power, heat and cooling micro-trigeneration",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:sJsF-0ZLhtgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stand-alone Energy System Applicable for Islands",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:2tRrZ1ZAMYUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Castaldi, Paolo 67 Castellano, Giovanna 85",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:F1b5ZUV5XREC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VIZIJA ULOGE VODIKA U OPSKRBI ENERGIJOM U BUDU\u0106NOSTI",
+                "citation": "17. FORUM: EUROPA, HRVATSKA I REGIJA 2030. GODINE 17th FORUM: EUROPE, REGION \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:gKiMpY-AVTkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostics of PEM Fuel Cell Degradation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:6ZxmRoH8BuwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen Technologies and Their Role in Energy Future",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:0izLItjtcgwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rejuvenation techniques for automotive fuel cells",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:8d8msizDQcsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPUTATIONAL FLUID DYNAMICS MODEL OF HIGH PERFORMANCE PROTON EXCHANGE MEMBRANE FUEL CELL WITHOUT EXTERNAL HUMIDIFICATION",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:b1wdh0AR-JQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Algorithm for Humidity Estimation in PEM Fuel Cells",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Volume Contents and Author Index",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HYDROGEN AS A TRANSPORT FUEL: PAST AND PRESENT USAGE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:1qzjygNMrQYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SA Sherif",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cilw8V8AAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

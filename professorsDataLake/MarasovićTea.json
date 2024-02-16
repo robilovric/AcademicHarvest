@@ -1,0 +1,541 @@
+{
+    "name": "Marasovi\u0107 Tea",
+    "num_citations": 371,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and interpretation of ground reaction forces in normal gait",
+                "pub_year": "2009",
+                "citation": "WSEAS Trans. Syst 8 (9), 1105-1114, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8227927264154656905",
+            "cites_id": [
+                "8227927264154656905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust nonlinear regression in enzyme kinetic parameters estimation",
+                "pub_year": "2017",
+                "citation": "Journal of Chemistry 2017, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:_kc_bZDykSQC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10188545630999926169",
+            "cites_id": [
+                "10188545630999926169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of compressive sensing image reconstruction for search and rescue",
+                "pub_year": "2016",
+                "citation": "IEEE Geoscience and Remote Sensing Letters 13 (11), 1739-1743, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:Zph67rFs4hoC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6075460137776973951",
+            "cites_id": [
+                "6075460137776973951"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gradient compressive sensing for image data reduction in UAV based search and rescue in the wild",
+                "pub_year": "2016",
+                "citation": "Mathematical problems in engineering 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18193934392031896768",
+            "cites_id": [
+                "18193934392031896768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerometer-based gesture classification using principal component analysis",
+                "pub_year": "2011",
+                "citation": "SoftCOM 2011, 19th International Conference on Software, Telecommunications \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14490516686121170138",
+            "cites_id": [
+                "14490516686121170138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerometer based gesture recognition system using distance metric learning for nearest neighbour classification",
+                "pub_year": "2012",
+                "citation": "2012 IEEE International Workshop on Machine Learning for Signal Processing, 1-6, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16449323070543912402",
+            "cites_id": [
+                "16449323070543912402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robotics and information technologies in education: four countries from Alpe-Adria-Danube Region survey",
+                "pub_year": "2020",
+                "citation": "International Journal of Technology and Design Education, 1-23, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5737374675906703029",
+            "cites_id": [
+                "5737374675906703029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transparency of retracting and replacing articles",
+                "pub_year": "2018",
+                "citation": "The Lancet 391 (10127), 1244-1245, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9172454345415674969",
+            "cites_id": [
+                "9172454345415674969"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CPM/PERT project planning methods as e-learning optional support",
+                "pub_year": "2006",
+                "citation": "2006 International Conference on Software in Telecommunications and Computer \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8860291376910372763",
+            "cites_id": [
+                "8860291376910372763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201eCrkva Sv",
+                "pub_year": "1995",
+                "citation": "Spasa na vrelu Cetine \u201c, Starohrvatska prosvjeta 3 (22), 37-54, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:dhFuZR0502QC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=469091493608434340",
+            "cites_id": [
+                "469091493608434340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diocletian's palace: report on joint excavations in southeast quarter, part one",
+                "pub_year": "1972",
+                "citation": "Split: Urbanisticki zavod dalmacije, 1972"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:hC7cP41nSMkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5563184071242095687",
+            "cites_id": [
+                "5563184071242095687"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cardiac arrhythmia detection using DCT based compressive sensing and random forest algorithm",
+                "pub_year": "2016",
+                "citation": "2016 International Multidisciplinary Conference on Computer and Energy \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2675495959746528579",
+            "cites_id": [
+                "2675495959746528579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motion-based gesture recognition algorithms for robot manipulation",
+                "pub_year": "2015",
+                "citation": "International Journal of Advanced Robotic Systems 12 (5), 51, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8224565359120611741",
+            "cites_id": [
+                "8224565359120611741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel feature descriptor for gesture classification using smartphone accelerometers",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Symposium on Computers and Communications (ISCC), 000951-000955, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7549207497796150504",
+            "cites_id": [
+                "7549207497796150504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ground reaction forces in gait: Statistical analysis and interpretation",
+                "pub_year": "2009",
+                "citation": "WSEAS Trans. Syst 8 (9), 1105-1114, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5191067375950831125",
+            "cites_id": [
+                "5191067375950831125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Person classification from aerial imagery using local convolutional neural network features",
+                "pub_year": "2019",
+                "citation": "International Journal of Remote Sensing 40 (24), 9084-9102, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8159690716341854487",
+            "cites_id": [
+                "8159690716341854487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "User-dependent gesture recognition on Android handheld devices",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Software, Telecommunications and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9113956649576680332",
+            "cites_id": [
+                "9113956649576680332"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying needs of robotic and technological solutions for the classroom",
+                "pub_year": "2018",
+                "citation": "2018 26th International Conference on Software, Telecommunications and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7119094423116544366",
+            "cites_id": [
+                "7119094423116544366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparative study of FFT, DCT, and DWT for efficient arrhytmia classification in RP-RF framework",
+                "pub_year": "2018",
+                "citation": "International Journal of E-Health and Medical Communications (IJEHMC) 9 (1 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15087477176236272787",
+            "cites_id": [
+                "15087477176236272787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feature weighted nearest neighbour classification for accelerometer-based gesture recognition",
+                "pub_year": "2012",
+                "citation": "SoftCOM 2012, 20th International Conference on Software, Telecommunications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2735154677670173059",
+            "cites_id": [
+                "2735154677670173059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ground Reaction Forces in Gait: Statistical Analysis and Interpretation, 9th WSEAS Int",
+                "pub_year": "2009",
+                "citation": "Conf. SIMULATION, MODELLING and OPTIMIZATION (SMO\u201909), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5335020513709496792",
+            "cites_id": [
+                "5335020513709496792"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantum Chemical and Biochemical Study on Antioxidant Properties of Halogenated Boroxine K2[B3O3F4OH]",
+                "pub_year": "2017",
+                "citation": "Croatica chemica acta 90 (2), 155-161, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9208203223392931422,6272910777543455289",
+            "cites_id": [
+                "9208203223392931422",
+                "6272910777543455289"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and Interpretation of Grand Reaction Forces in Normal Gait, Laboratory for Biomechanics and Control System, Faculty of Electrical Engineering",
+                "pub_year": "2010",
+                "citation": "Mechanical Engineering and Naval Architecture, University of Split, Croatia, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:aqlVkmm33-oC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15154069272461880951",
+            "cites_id": [
+                "15154069272461880951"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LMNN metric learning and fuzzy nearest neighbour classifier for hand gesture recognition",
+                "pub_year": "2015",
+                "citation": "Journal on Multimodal User Interfaces 9, 211-221, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5079288463141778536",
+            "cites_id": [
+                "5079288463141778536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology based road service task manager and route planning system",
+                "pub_year": "2010",
+                "citation": "SoftCOM 2010, 18th International Conference on Software, Telecommunications \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5097074329986375224",
+            "cites_id": [
+                "5097074329986375224"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Road maintenance optimal route planning with more than one base location",
+                "pub_year": "2007",
+                "citation": "2007 15th International Conference on Software, Telecommunications and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=110604922944554974",
+            "cites_id": [
+                "110604922944554974"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Siamese Network for Content-Based Image Retrieval: Detection of Alzheimer's Disease from neuroimaging data",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Razvoj i implementacija gestualnog su\u010delja kori\u0161tenjem signala akcelerometra i metoda u\u010denja daljinske metrike",
+                "pub_year": "2013",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fair division methods approach as the option of learning process modeling",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Symposium on Computers and Communications (ISCC), 000735-000739, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial Sensor based Identification of Human Movements.",
+                "pub_year": "2009",
+                "citation": "BIODEVICES, 300-303, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The analysis of animated character structure useful in ballet distance education",
+                "pub_year": "2007",
+                "citation": "2007 15th International Conference on Software, Telecommunications and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SREDNJOVJEKOVNA OPATIJA NA SUSTIPANU U SPLITU. ARHEOLOSKA ISTRAZIVANJA L'ABBAYE MEDIEVALE DE SUSTIPAN A SPLIT. RECHERCHES ARCHEOLOGIQUES",
+                "pub_year": "1963",
+                "citation": "VJ. ARHEOL. HIST. DALMAT 65, 175-208, 1963"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "STAROKRSCANSKA BAZILIKA NA STIPANSKOJ KOD SOLTE BASILIQUE PALEOCHRETIENNE A STIPANSKA, PRES DE L'ILE DE SOLTA",
+                "pub_year": "1961",
+                "citation": "VJ. ARHEOL. HIST. DALMAT 63, 151-161, 1961"
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DIOCLETIAN'S PALACE TRAD. DE SERBO-CROATE: DIOKLECIJANOVA PALAOA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DIOKLECIJANOVA PALACA. IZVJESTAJ O JUGOSLAVENSKO AMERICKOM PROJEKTU ISTRAZIVANJA JUGOIZTOCNOG DIJELA PALACE. PRVI DIO. 1968-1971 PALAIS DE DIOCLETIEN A SPLIT. RAPPORT SUR LE \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prilozi istrazivanja starohrvatske arhitekture..(Contributions \u00e0 la recherche sur l'ancienne architecture croate)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Saq9by0AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

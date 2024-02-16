@@ -1,0 +1,99 @@
+{
+    "name": "Zovko Kristina",
+    "num_citations": 14,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IoT and health monitoring wearable devices as enabling technologies for sustainable enhancement of life quality in smart environments",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production 413, 137506, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5HlyxS0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7541207793237008855",
+            "cites_id": [
+                "7541207793237008855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tag Estimation Method for ALOHA RFID System Based on Machine Learning Classifiers",
+                "pub_year": "2022",
+                "citation": "Electronics 11 (16), 2605, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5HlyxS0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2421385327231627190",
+            "cites_id": [
+                "2421385327231627190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology-Based Cybersecurity for Well-Being, Aging and Health: A Scoping Review",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Mediterranean Conference on Communications and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5HlyxS0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13125659689159426182",
+            "cites_id": [
+                "13125659689159426182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Investigation of a Replay Attack on LoRaWAN Wearable Devices",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Mediterranean Conference on Communications and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5HlyxS0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12413655470252194401",
+            "cites_id": [
+                "12413655470252194401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine Learning as Tag Estimation Method for ALOHA-based RFID system",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "5HlyxS0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3533032554184077290",
+            "cites_id": [
+                "3533032554184077290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wearables for ML applications in health monitoring: a review of technologies and approaches",
+                "pub_year": "2022",
+                "citation": "2022 7th International Conference on Smart and Sustainable Technologies \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5HlyxS0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

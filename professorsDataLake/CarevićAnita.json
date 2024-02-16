@@ -1,0 +1,163 @@
+{
+    "name": "Carevi\u0107 Anita",
+    "num_citations": 99,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconstruction of ultrasound tomography for cancer detection using total least squares and conjugate gradient method",
+                "pub_year": "2018",
+                "citation": "Medical Imaging 2018: Ultrasonic Imaging and Tomography 10580, 125-135, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4314438964796649862",
+            "cites_id": [
+                "4314438964796649862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularization in ultrasound tomography using projection-based regularized total least squares",
+                "pub_year": "2020",
+                "citation": "Inverse problems in science and engineering 28 (4), 556-579, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9089667244146211887",
+            "cites_id": [
+                "9089667244146211887"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the ultrasound inverse scattering problem of inhomogeneous media using different approaches of total least squares algorithms",
+                "pub_year": "2018",
+                "citation": "Medical Imaging 2018: Ultrasonic Imaging and Tomography 10580, 116-124, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8528707008740496554",
+            "cites_id": [
+                "8528707008740496554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive truncated total least square on distorted born iterative method in ultrasound inverse scattering problem",
+                "pub_year": "2019",
+                "citation": "Medical Imaging 2019: Ultrasonic Imaging and Tomography 10955, 248-255, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16087514182869864708",
+            "cites_id": [
+                "16087514182869864708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using filter factors for regularization in ultrasound tomography",
+                "pub_year": "2018",
+                "citation": "2018 40th Annual International Conference of the IEEE Engineering in \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8932730619011865091",
+            "cites_id": [
+                "8932730619011865091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Employing methods with generalized singular value decomposition for regularization in ultrasound tomography",
+                "pub_year": "2019",
+                "citation": "Medical Imaging 2019: Ultrasonic Imaging and Tomography 10955, 53-60, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6976811300973412638",
+            "cites_id": [
+                "6976811300973412638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving ultrasound tomography\u2019s inverse problem: Automating regularization parameter selection",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 69 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7386779646200563903",
+            "cites_id": [
+                "7386779646200563903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated regularization parameters method for the inverse problem in ultrasound tomography",
+                "pub_year": "2021",
+                "citation": "The Journal of the Acoustical Society of America 149 (4_Supplement), A42-A42, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18219096036513497947",
+            "cites_id": [
+                "18219096036513497947"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automating Regularization Parameter Selection of the Inverse Problem in Ultrasound Tomography",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Ultrasonics Symposium (IUS), 1-4, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3685209939003464772",
+            "cites_id": [
+                "3685209939003464772"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularization of ill-posed inverse problem in ultrasound tomography",
+                "pub_year": "2020",
+                "citation": "University of Zagreb. Faculty of Science. Department of Mathematics, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "okQOIQ4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

@@ -1,0 +1,588 @@
+{
+    "name": "Juri\u0107-Grgi\u0107 Ivica",
+    "num_citations": 112,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time domain finite element method analysis of multi\u2010conductor transmission lines",
+                "pub_year": "2010",
+                "citation": "European transactions on electrical power 20 (6), 822-832, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17269927883416393456",
+            "cites_id": [
+                "17269927883416393456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Least squares estimation of Heidler function parameters",
+                "pub_year": "2011",
+                "citation": "European Transactions on Electrical Power 21 (1), 329-344, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:Se3iqnhoufwC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6110138031646162348",
+            "cites_id": [
+                "6110138031646162348"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient analysis of coupled non\u2010uniform transmission line using finite element method",
+                "pub_year": "2015",
+                "citation": "International journal of circuit theory and applications 43 (9), 1167-1174, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:5nxA0vEk-isC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13616292967402469173",
+            "cites_id": [
+                "13616292967402469173"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Izrada pravila i mjera sigurnosti za osiguranje mjesta rada na elektroenergetskim vodovima",
+                "pub_year": "2013",
+                "citation": "Sveu\u010dili\u0161te u Splitu, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:Zph67rFs4hoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=431377604585121391",
+            "cites_id": [
+                "431377604585121391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grounding grid transient analysis using the improved transmission line model based on the finite element method",
+                "pub_year": "2013",
+                "citation": "International Transactions on Electrical Energy Systems 23 (2), 282-289, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:8k81kl-MbHgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13722863226374322399",
+            "cites_id": [
+                "13722863226374322399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM analysis of electromagnetic transients in linear networks",
+                "pub_year": "2009",
+                "citation": "European transactions on electrical power 19 (6), 890-897, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6894580887257349728",
+            "cites_id": [
+                "6894580887257349728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A characteristics-based finite element method for transmission line problem",
+                "pub_year": "2012",
+                "citation": "Electric power systems research 84 (1), 152-158, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10103840757056128911",
+            "cites_id": [
+                "10103840757056128911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EMTP-RV Model of Hydraulic Digital Governor",
+                "pub_year": "2011",
+                "citation": "International Review on Modelling and Simulations 4 (6), 1-5, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3828997277261452469",
+            "cites_id": [
+                "3828997277261452469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of grounding electrode dynamic characteristics using FEM",
+                "pub_year": "2008",
+                "citation": "INTERNATIONAL REVIEW OF ELECTRICAL ENGINEERING-IREE 3 (3), 479-483, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11730625438457810190",
+            "cites_id": [
+                "11730625438457810190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analysis of power system transient angle stability using finite element technique",
+                "pub_year": "2019",
+                "citation": "International Transactions on Electrical Energy Systems 29 (1), e2694, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15587653309136173979",
+            "cites_id": [
+                "15587653309136173979"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM analysis for MTL problems in frequency domain",
+                "pub_year": "2009",
+                "citation": "International Review on Modelling and Simulations 2 (3), 249-253, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2525677431688330221",
+            "cites_id": [
+                "2525677431688330221"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power system fault studies using finite element technique",
+                "pub_year": "2009",
+                "citation": "International Review on Modelling and Simulations 2 (1), 12-17, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7398979969254930300",
+            "cites_id": [
+                "7398979969254930300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving time integration scheme for FEM analysis of MTL problems",
+                "pub_year": "2019",
+                "citation": "International Journal of Circuit Theory and Applications 47 (11), 1800-1811, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4722911647604331009",
+            "cites_id": [
+                "4722911647604331009"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-domain finite element method analysis of frequency-dependent transmission lines",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Electromagnetic Compatibility 58 (1), 287-293, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18236846165652156947",
+            "cites_id": [
+                "18236846165652156947"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A coupled nonuniform transmission line analysis using FEM",
+                "pub_year": "2013",
+                "citation": "International Transactions on Electrical Energy Systems 23 (8), 1365-1372, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14588500315540946650",
+            "cites_id": [
+                "14588500315540946650"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM analysis of electromagnetic transients in nonlinear networks",
+                "pub_year": "2010",
+                "citation": "European transactions on electrical power 20 (3), 247-254, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16687452863227034756",
+            "cites_id": [
+                "16687452863227034756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective length of horizontal grounding electrode",
+                "pub_year": "2008",
+                "citation": "2008 16th International Conference on Software, Telecommunications and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5878516750100807199",
+            "cites_id": [
+                "5878516750100807199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-harmonic and transient linear circuit analysis using finite element technique",
+                "pub_year": "2008",
+                "citation": "International Review on Modelling and Simulations (IREMOS) 1 (2), 275-280, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14974466353869465506",
+            "cites_id": [
+                "14974466353869465506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transients analysis of synchronous generator using the finite element technique",
+                "pub_year": "2003",
+                "citation": "WIT Transactions on Engineering Sciences 41, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8951106825716750464",
+            "cites_id": [
+                "8951106825716750464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient Linear Circuit Analysis Using Finite Element Technique",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (19), 9554, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:0EnyYjriUFMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11997252553572711020",
+            "cites_id": [
+                "11997252553572711020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving time integration scheme for FET analysis of power system angle stability",
+                "pub_year": "2019",
+                "citation": "Facta Universitatis, Series: Electronics and Energetics 33 (1), 119-131, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8333285289925850916",
+            "cites_id": [
+                "8333285289925850916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solution of Electromagnetic Compatibility problem in electrical power network using the Finite Element Method",
+                "pub_year": "2010",
+                "citation": "2010 Conference Proceedings ICECom, 20th International Conference on Applied \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2708369847541464732",
+            "cites_id": [
+                "2708369847541464732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic transients modeling in power systems using the finite element technique",
+                "pub_year": "2005",
+                "citation": "WIT Transactions on Modelling and Simulation 41, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9364770058115770309",
+            "cites_id": [
+                "9364770058115770309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and Simulations",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM vs. modal method in the MTL analysis",
+                "pub_year": "2009",
+                "citation": "SoftCOM 2009-17th International Conference on Software, Telecommunications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and Simulations",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and Simulations",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje elektromagnetskih pojava u elektroenergetskom sustavu tehnikom kona\u010dnih elemenata",
+                "pub_year": "2008",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ENERGIJA",
+                "pub_year": "2007",
+                "citation": "The International Symposium was organized by the Croatian CIGRE 18, 21st, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "To\u010dkasti izvor izmjeni\u010dne struje u vi\u0161eslojnom sredstvu",
+                "pub_year": "2000",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved Algorithm for FET Analysis of Transient Linear Circuit Problems",
+                "citation": "eNergetics 2022, 63, 0"
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of Corona Effect on Three-phase Transmission Lines",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SNSP 2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ELEKTROTECHNICA & ELEKTRONICA E+ E",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NUMERI\u010cKI MODEL ZA ANALIZU KUTNE STABILNOSTI U EES-U",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IZRA\u010cUN EFEKTIVNE DULJINE UZEMLJIVA\u010cKE TRAKE HORIZONTALNO UKOPANE U ZEMLJU PRIMJENOM TEORIJE VI\u0160E\u017dI\u010cNOG VODA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TECHNICAL PROGRAM: SYMPOSIUMS & SPECIAL SESSION",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REVERZIBILNA HIDROELEKTRANA BLACA U SLIVU RIJEKE CETINE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "61g1vSkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cx06qqAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rino Luci\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x0tCkogAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Slavko Vujevic",
+            "affiliation": "Professor, University of Split, www.fesb.unist.hr"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "is9oPN8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dino Lovric",
+            "affiliation": "Researcher, University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "B5Oje2sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ton\u0107i Modri\u0107",
+            "affiliation": "University of Split unist.hr, Faculty of Electrical Engineering, Mechanical Engineering and Naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sT82LYwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Krolo",
+            "affiliation": "University of Split unist.hr"
+        }
+    ]
+}

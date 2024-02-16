@@ -1,0 +1,1217 @@
+{
+    "name": "Slapni\u010dar Ivan",
+    "num_citations": 1743,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handbook of linear algebra",
+                "pub_year": "2006",
+                "citation": "CRC press, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 752,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670342223246719799",
+            "cites_id": [
+                "17670342223246719799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handbook of linear algebra",
+                "pub_year": "2006",
+                "citation": "CRC press, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 752,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670342223246719799",
+            "cites_id": [
+                "17670342223246719799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing the singular value decomposition with high relative accuracy",
+                "pub_year": "1999",
+                "citation": "Linear Algebra and its Applications 299 (1-3), 21-80, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 272,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16313360164897447478",
+            "cites_id": [
+                "16313360164897447478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Floating-point perturbations of Hermitian matrices",
+                "pub_year": "1993",
+                "citation": "Linear Algebra and its applications 195, 81-116, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 94,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15805743013643282813",
+            "cites_id": [
+                "15805743013643282813"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate symmetric eigenreduction by a Jacobi method",
+                "pub_year": "1993",
+                "citation": "Linear Algebra for Large Scale and Real-Time Applications, 417-418, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15920337672365016131,12056613046566488324",
+            "cites_id": [
+                "15920337672365016131",
+                "12056613046566488324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Componentwise analysis of direct factorization of real symmetric and Hermitian matrices",
+                "pub_year": "1998",
+                "citation": "Linear algebra and its applications 272 (1-3), 227-275, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3446355120005620748",
+            "cites_id": [
+                "3446355120005620748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of real symmetric arrowhead matrices and applications",
+                "pub_year": "2015",
+                "citation": "Linear algebra and its applications 464, 62-89, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367702285364749126",
+            "cites_id": [
+                "1367702285364749126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of real symmetric arrowhead matrices and applications",
+                "pub_year": "2015",
+                "citation": "Linear algebra and its applications 464, 62-89, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367702285364749126",
+            "cites_id": [
+                "1367702285364749126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast two-step histogram-based image segmentation",
+                "pub_year": "2011",
+                "citation": "IET image processing 5 (1), 63-72, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12674740681608775512",
+            "cites_id": [
+                "12674740681608775512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Highly accurate symmetric eigenvalue decomposition and hyperbolic SVD",
+                "pub_year": "2003",
+                "citation": "Linear algebra and its applications 358 (1-3), 387-424, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7613845104061861874",
+            "cites_id": [
+                "7613845104061861874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative perturbation theory for hyperbolic eigenvalue problem",
+                "pub_year": "2000",
+                "citation": "Linear Algebra and its Applications 309 (1-3), 57-72, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8922720555871286286,9594627988103322826,7605795472776548201",
+            "cites_id": [
+                "8922720555871286286",
+                "9594627988103322826",
+                "7605795472776548201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative perturbation theory for hyperbolic eigenvalue problem",
+                "pub_year": "2000",
+                "citation": "Linear Algebra and its Applications 309 (1-3), 57-72, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8922720555871286286,9594627988103322826,7605795472776548201",
+            "cites_id": [
+                "8922720555871286286",
+                "9594627988103322826",
+                "7605795472776548201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epidemic spread of a lesion-forming plant pathogen\u2014Analysis of a mechanistic model with infinite age structure",
+                "pub_year": "2005",
+                "citation": "Linear Algebra and its Applications 398, 117-140, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4976318244216576382",
+            "cites_id": [
+                "4976318244216576382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal perturbation bounds for the Hermitian eigenvalue problem",
+                "pub_year": "2000",
+                "citation": "Linear Algebra and its Applications 309 (1-3), 19-43, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15591501112043290493",
+            "cites_id": [
+                "15591501112043290493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal perturbation bounds for the Hermitian eigenvalue problem",
+                "pub_year": "2000",
+                "citation": "Linear Algebra and its Applications 309 (1-3), 19-43, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15591501112043290493",
+            "cites_id": [
+                "15591501112043290493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perturbations of the eigenprojections of a factorized Hermitian matrix",
+                "pub_year": "1995",
+                "citation": "Linear algebra and its applications 218, 273-280, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6722741748325093916",
+            "cites_id": [
+                "6722741748325093916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the quadratic convergence of the Falk\u2013Langemeyer method",
+                "pub_year": "1991",
+                "citation": "SIAM journal on matrix analysis and applications 12 (1), 84-114, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2990554970438783196",
+            "cites_id": [
+                "2990554970438783196"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative perturbation bound for invariant subspaces of graded indefinite Hermitian matrices",
+                "pub_year": "1999",
+                "citation": "Linear Algebra and its Applications 301 (1-3), 171-185, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1732296266337810195",
+            "cites_id": [
+                "1732296266337810195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconstruction of ultrasound tomography for cancer detection using total least squares and conjugate gradient method",
+                "pub_year": "2018",
+                "citation": "Medical Imaging 2018: Ultrasonic Imaging and Tomography 10580, 125-135, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4314438964796649862",
+            "cites_id": [
+                "4314438964796649862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward stable eigenvalue decomposition of rank-one modifications of diagonal matrices",
+                "pub_year": "2015",
+                "citation": "Linear Algebra and its Applications 487, 301-315, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:4DMP91E08xMC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12490677592836807365",
+            "cites_id": [
+                "12490677592836807365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A bound for the condition of a hyperbolic eigenvector matrix",
+                "pub_year": "1999",
+                "citation": "Linear algebra and its applications 290 (1-3), 247-255, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4580733953408038890",
+            "cites_id": [
+                "4580733953408038890"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An alternative algorithm for the refinement of ULV decompositions",
+                "pub_year": "2005",
+                "citation": "SIAM Journal on Matrix Analysis and Applications 27 (1), 198-211, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16131307353632957864",
+            "cites_id": [
+                "16131307353632957864"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matematika",
+                "pub_year": "2002",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje, Split, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:35N4QoGY0k4C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4305279977272230757",
+            "cites_id": [
+                "4305279977272230757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the ultrasound inverse scattering problem of inhomogeneous media using different approaches of total least squares algorithms",
+                "pub_year": "2018",
+                "citation": "Medical Imaging 2018: Ultrasonic Imaging and Tomography 10580, 116-124, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:TQgYirikUcIC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8528707008740496554",
+            "cites_id": [
+                "8528707008740496554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Employing methods with generalized singular value decomposition for regularization in ultrasound tomography",
+                "pub_year": "2019",
+                "citation": "Medical Imaging 2019: Ultrasonic Imaging and Tomography 10955, 53-60, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6976811300973412638",
+            "cites_id": [
+                "6976811300973412638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate computation of singular values and eigenvalues of symmetric matrices",
+                "pub_year": "1996",
+                "citation": "Mathematical Communications 1 (2), 153-167, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1010125351880779691",
+            "cites_id": [
+                "1010125351880779691"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analysis of parallel implementations of the block-Jacobi algorithm for computing the SVD",
+                "pub_year": "1995",
+                "citation": "Proceedings of the 17th International Conference on Information Technology \u2026, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9571014686529729141",
+            "cites_id": [
+                "9571014686529729141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advances in Jacobi methods",
+                "pub_year": "2003",
+                "citation": "Applied Mathematics and Scientific Computing, 63-90, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:WF5omc3nYNoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13422132776196190489",
+            "cites_id": [
+                "13422132776196190489"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comments on\" MLCM: Multi-Label Confusion Matrix\"",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2999714468101341509",
+            "cites_id": [
+                "2999714468101341509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving ultrasound tomography\u2019s inverse problem: Automating regularization parameter selection",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 69 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7386779646200563903",
+            "cites_id": [
+                "7386779646200563903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Universal evolutionary model for periodical species",
+                "pub_year": "2021",
+                "citation": "Complexity 2021, 1-15, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8520894002668600672",
+            "cites_id": [
+                "8520894002668600672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symmetric matrix eigenvalue techniques",
+                "pub_year": "2006",
+                "citation": "Handbook of Linear Algebra, 42-1-42-23, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2036419577773852291",
+            "cites_id": [
+                "2036419577773852291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web indexing and search with local language support",
+                "pub_year": "2003",
+                "citation": "Proceedings of SoftCOM, 488-492, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:dhFuZR0502QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12854590515614619306",
+            "cites_id": [
+                "12854590515614619306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On spectral condition of J-Herminian operators",
+                "pub_year": "2000",
+                "citation": "Glasnik matemati\u010dki 35 (1), 3-23, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1252965545565984648",
+            "cites_id": [
+                "1252965545565984648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On spectral condition of J-Herminian operators",
+                "pub_year": "2000",
+                "citation": "Glasnik matemati\u010dki 35 (1), 3-23, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1252965545565984648",
+            "cites_id": [
+                "1252965545565984648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative perturbation bounds for invariant subspaces of indefinite Hermitian matrices",
+                "pub_year": "1997",
+                "citation": "Unpublished manuscript, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9825003950372806329",
+            "cites_id": [
+                "9825003950372806329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative perturbation of invariant subspaces",
+                "pub_year": "1996",
+                "citation": "Mathematical Communications 1 (2), 169-174, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7546697408742259547",
+            "cites_id": [
+                "7546697408742259547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast computation of optimal damping parameters for linear vibrational systems",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (5), 790, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:BqipwSGYUEgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16592911053975907804",
+            "cites_id": [
+                "16592911053975907804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deflation for the Symmetric Arrowhead and Diagonal-Plus-Rank-One Eigenvalue Problems",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Matrix Analysis and Applications 43 (2), 681-709, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:f2IySw72cVMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7379197032012230028",
+            "cites_id": [
+                "7379197032012230028"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated regularization parameters method for the inverse problem in ultrasound tomography",
+                "pub_year": "2021",
+                "citation": "The Journal of the Acoustical Society of America 149 (4_Supplement), A42-A42, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:u_35RYKgDlwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18219096036513497947",
+            "cites_id": [
+                "18219096036513497947"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of arrowhead matrices, rank-one modifications of diagonal matrices and applications",
+                "pub_year": "2014",
+                "citation": "International Workshop on Accurate Solution of Eigenvalue Problems X, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3917202581264753258",
+            "cites_id": [
+                "3917202581264753258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matematika 2, 3",
+                "pub_year": "2008",
+                "citation": "FESB, Split, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:rO6llkc54NcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3421219116487639805",
+            "cites_id": [
+                "3421219116487639805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative residual bounds for indefinite Hermitian matrices",
+                "pub_year": "2006",
+                "citation": "Linear algebra and its applications 417 (2-3), 466-477, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6336654896797509312",
+            "cites_id": [
+                "6336654896797509312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving text search performance with grammar support",
+                "pub_year": "2004",
+                "citation": "Workshop on Information and Communication Technologies, 71-75, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:IWHjjKOFINEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11395076412224995745",
+            "cites_id": [
+                "11395076412224995745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On an implementation of a one-sided block Jacobi method on a distributed memory computer",
+                "pub_year": "1996",
+                "citation": "Zeitschrift f\u00fcr angewandte Mathematik und Mechanik 76, 343-344, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13114806113907454987",
+            "cites_id": [
+                "13114806113907454987"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automating Regularization Parameter Selection of the Inverse Problem in Ultrasound Tomography",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Ultrasonics Symposium (IUS), 1-4, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:abG-DnoFyZgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3685209939003464772",
+            "cites_id": [
+                "3685209939003464772"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perturbation analysis of matrices over a quaternion division algebra",
+                "pub_year": "2021",
+                "citation": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:a0OBvERweLwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10826028277936596349",
+            "cites_id": [
+                "10826028277936596349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward Stable Computation of Roots of Real Polynomials with Real Simple Roots",
+                "pub_year": "2017",
+                "citation": "Appl. Math. Inf. Sci 11, 33-41, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13637134966835310903",
+            "cites_id": [
+                "13637134966835310903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the spectra of generalized Fibonacci and Fibonacci-like operators",
+                "pub_year": "2011",
+                "citation": "arXiv preprint arXiv:1104.1049, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10993137471184320939",
+            "cites_id": [
+                "10993137471184320939"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative perturbation bound for invariant subspaces of Hermitian matrix",
+                "pub_year": "2000",
+                "citation": "Glasnik matemati\u010dki 35 (2), 221-231, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1184191606778112948",
+            "cites_id": [
+                "1184191606778112948"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Label Confusion Tensor",
+                "pub_year": "2024",
+                "citation": "IEEE Access, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plan upravljanja istra\u017eiva\u010dkim podacima HRZZ projekta IP-202-02-2240, Matri\u010dni algoritmi u nekomutativnim asocijativnim algebrama, MANAA",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comments on\" MLCM: Multi-Label Confusion",
+                "pub_year": "2023",
+                "citation": "IEEE ACCESS 11, 40692-40697, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast multiplication, determinants, and inverses of arrowhead and diagonal-plus-rank-one matrices over associative fields",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2212.10966, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast multiplication, determinants, and inverses of arrowhead and diagonal-plus-rank-one matrices over associative fields",
+                "pub_year": "2022",
+                "citation": "arXiv e-prints, arXiv: 2212.10966, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Computation of Optimal Damping Parameters for Linear Vibrational Systems. Mathematics 2022, 10, 790",
+                "pub_year": "2022",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article Universal Evolutionary Model for Periodical Species",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Universal evolutionary model for periodical organisms",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2010.00940, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward stable computation of roots of real polynomials with only real distinct roots",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1509.06224, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward stable computation of roots of real polynomials with only real distinct roots",
+                "pub_year": "2015",
+                "citation": "arXiv e-prints, arXiv: 1509.06224, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADVANCES IN JACOBI METHODS",
+                "pub_year": "2013",
+                "citation": "Applied Mathematics and Scientific Computing, 63, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of arrowhead matrices and applications",
+                "pub_year": "2013",
+                "citation": "arXiv e-prints, arXiv: 1302.7203, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid-based mode seeking procedure",
+                "pub_year": "2011",
+                "citation": "Intelligent Data Analysis 15 (3), 343-356, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matematika 1-zbirka zadataka",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of: Matrix Mathematics: Theory, Facts, and Formulas By Dennis S. Bernstein",
+                "pub_year": "2010",
+                "citation": "Linear Algebra and its Applications 11 (433), 2269-2271, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematics 1-Excercises",
+                "pub_year": "2010",
+                "citation": "Fakultet elektrotehnike, strojarstva i brodogradnje u Splitu, Sveu\u010dili\u0161te u \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aston, JAD and RN Gunn, Statistical esti-mation with Kronecker products in positron emission tomography 398 (2005) 25 Davydova, NV, O. Diekmann and SA van Gils, On circulant \u2026",
+                "pub_year": "2005",
+                "citation": "gene 398, 37, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting the Spread of Plant Disease: Analysis of an Infinite-Dimensional Leslie Matrix Model for Phytophthora infestans",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematics 1",
+                "pub_year": "2002",
+                "citation": "FESB, Sveu\u010dili\u0161te u Splitu, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Highly Accurate Hyperbolic Svd and Symmetric Eigenvalue Decomposition",
+                "pub_year": "2001",
+                "citation": "Science Direct Working Paper, 04, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On-line interactive programs for solving and visualization of scientific problems",
+                "pub_year": "2001",
+                "citation": "MIPRO 2001, 74-78, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "University Josip Juraj Strossmayer, University of Split, Croatia",
+                "pub_year": "2000",
+                "citation": "Glasnik Matemati\u010dki: Serija III. 35, 221, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Informacijske WWW stranice \u017dupanije splitsko-dalmatinske",
+                "pub_year": "1998",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DEFLATION FOR THE SYMMETRIC ARROW MATRIX EIGENVALUE PROBLEM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative Perturbation Bounds for Eigenvalues and Eigenvectors of Indefinite Hermitian Matrices",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MR2176816 (2006i: 15027) 15A23 (65F25)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate eigenvalue decomposition of real symmetric arrowhead (AH) and diagonal-plus-rank-one (DPR1) matrices and applications",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On-line Mathematical Utilities for Java Enabled Devices",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BOOK OF ABSTRACTS IWASEP 9",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dijagonalizacijske metode za simetri\u010dne matrice",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On-line Interactive Educational Programs for Students of Engineering and Natural Sciences",
+                "citation": "Proceedings of MIPRO 2001-Computers in Education, 102-106, 0"
+            },
+            "filled": false,
+            "author_pub_id": "9UJdlLMAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HeVgezQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ninoslav Truhar",
+            "affiliation": "Professor of Mathematics,Department of Mathematics, Josip Juraj Strossmayer University of Osijek"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "z5Q8HrYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zlatko Drmac",
+            "affiliation": "Department of Mathematics, Faculty of Science, University of Zagreb"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "okQOIQ4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anita Carevic",
+            "affiliation": "University of Split, FESB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WnRSJtwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ana Kuzmanic Skelin",
+            "affiliation": "University of Split, Faculty of electrical engineering, mechanical engineering and naval"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eEnMsvUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vjeran Hari",
+            "affiliation": "Professor, University of Zagreb, Faculty of Science, Dept. of Mathematics"
+        }
+    ]
+}

@@ -1,0 +1,1032 @@
+{
+    "name": "Stan\u010di\u0107 Ivo",
+    "num_citations": 323,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved structured light 3D scanner with application to anthropometric parameter estimation",
+                "pub_year": "2013",
+                "citation": "Measurement 46 (1), 716-726, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:UebtZRa9Y70C",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14745606277424841244",
+            "cites_id": [
+                "14745606277424841244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gesture recognition system for real-time mobile robot control based on inertial sensors and motion strings",
+                "pub_year": "2017",
+                "citation": "Engineering Applications of Artificial Intelligence 66, 33-48, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:-f6ydRqryjwC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3298372387949563880",
+            "cites_id": [
+                "3298372387949563880"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design, development and evaluation of optical motion\u2010tracking system based on active white light markers",
+                "pub_year": "2013",
+                "citation": "IET Science, Measurement & Technology 7 (4), 206-214, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:8k81kl-MbHgC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14555800692089771410",
+            "cites_id": [
+                "14555800692089771410"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Outline of a qualitative analysis for the human motion in case of ergometer rowing",
+                "pub_year": "2009",
+                "citation": "WSEAS International Conference. Proceedings. Mathematics and Computers in \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10063306540421209103",
+            "cites_id": [
+                "10063306540421209103"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Is it possible to detect mobile phone user's attention based on accelerometer measurment of gait pattern?",
+                "pub_year": "2013",
+                "citation": "2013 IEEE symposium on computers and communications (ISCC), 000522-000527, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5368125376150056640",
+            "cites_id": [
+                "5368125376150056640"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design, development and testing of the modular unmanned surface vehicle platform for marine waste detection",
+                "pub_year": "2017",
+                "citation": "Journal of Multimedia Information System 4 (4), 195-204, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:mB3voiENLucC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3941219350434324984",
+            "cites_id": [
+                "3941219350434324984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer vision system for human anthropometric parameters estimation",
+                "pub_year": "2009",
+                "citation": "WSEAS Transactions on Systems 8 (3), 430-439, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1519127878295944868",
+            "cites_id": [
+                "1519127878295944868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TheraProx: Capacitive proximity sensing",
+                "pub_year": "2022",
+                "citation": "Electronics 11 (3), 393, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:k_IJM867U9cC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7077132602455437822",
+            "cites_id": [
+                "7077132602455437822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecting Underwater Sea Litter Using Deep Neural Networks: An Initial Study",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Smart and Sustainable Technologies \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:TFP_iSt0sucC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18034835363750503672",
+            "cites_id": [
+                "18034835363750503672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New kinematic parameters for quantifying irregularities in the human and humanoid robot gait",
+                "pub_year": "2012",
+                "citation": "International journal of advanced robotic systems 9, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:5nxA0vEk-isC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12437337483348292016",
+            "cites_id": [
+                "12437337483348292016"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human kinematics measuring using a high speed camera and active markers",
+                "pub_year": "2009",
+                "citation": "WSEAS International Conference. Proceedings. Mathematics and Computers in \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16835416528271183783",
+            "cites_id": [
+                "16835416528271183783"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cleaning up smart cities\u2014localization of semi-autonomous floor scrubber",
+                "pub_year": "2016",
+                "citation": "2016 international multidisciplinary conference on computer and energy \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8028419521772963591",
+            "cites_id": [
+                "8028419521772963591"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of UAV engine parameters",
+                "pub_year": "2015",
+                "citation": "WSEAS Transactions on Systems and Control 10, 179-185, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6306670172017638997",
+            "cites_id": [
+                "6306670172017638997"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multichannel protocols for user-friendly and scalable initialization of sensor networks",
+                "pub_year": "2009",
+                "citation": "Security and Privacy in Communication Networks: 5th International ICST \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4860054514803581409",
+            "cites_id": [
+                "4860054514803581409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of human-computer interface elements on performance of teleoperated mobile robot",
+                "pub_year": "2017",
+                "citation": "2017 40th International Convention on Information and Communication \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:TQgYirikUcIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10367497366950481425",
+            "cites_id": [
+                "10367497366950481425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "eMoorings: Distributed low power wide area system to control moorings",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2717638164043111422",
+            "cites_id": [
+                "2717638164043111422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel low-cost adaptive scanner concept for mobile robots",
+                "pub_year": "2014",
+                "citation": "Ingenier\u00eda e Investigaci\u00f3n 34 (3), 37-43, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13816487692185279271,13034968469056006876",
+            "cites_id": [
+                "13816487692185279271",
+                "13034968469056006876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel Low-Cost Adaptive Scanner Concept for Mobile Robots",
+                "pub_year": "2014",
+                "citation": "Ingenier\u00eda e Investigaci\u00f3n 34 (3), 37-43, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13816487692185279271",
+            "cites_id": [
+                "13816487692185279271"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive fuzzy mediation for multimodal control of mobile robots in navigation-based tasks",
+                "pub_year": "2019",
+                "citation": "International Journal of Computational Intelligence Systems 12 (2), 1197-1211, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1653565746369285067",
+            "cites_id": [
+                "1653565746369285067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning from depth sensor data using inductive logic programming",
+                "pub_year": "2015",
+                "citation": "2015 XXV International Conference on Information, Communication and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9983146691497246021",
+            "cites_id": [
+                "9983146691497246021"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201eMikroregulatori i ugradbeni mre\u017eni sustavi u Arduino razvojnom okru\u017eenju \u201c",
+                "pub_year": "2013",
+                "citation": "Split, FESB, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:Zph67rFs4hoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6508978181493548231",
+            "cites_id": [
+                "6508978181493548231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial sensor measurement of head-cervical range of motion in transverse plane",
+                "pub_year": "2007",
+                "citation": "Data Process, 47-51, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949433060213029597",
+            "cites_id": [
+                "6949433060213029597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial sensor measurement of head-cervical range of motion in transverse plane",
+                "pub_year": "2007",
+                "citation": "Data Process, 47-51, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949433060213029597",
+            "cites_id": [
+                "6949433060213029597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of Low-Resolution Flying Objects in Videos Using the Machine Learning Approach.",
+                "pub_year": "2022",
+                "citation": "Advances in Electrical & Computer Engineering 22 (2), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:maZDTaKrznsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8697064254974706067",
+            "cites_id": [
+                "8697064254974706067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tag Estimation Method for ALOHA RFID System Based on Machine Learning Classifiers",
+                "pub_year": "2022",
+                "citation": "Electronics 11 (16), 2605, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2421385327231627190",
+            "cites_id": [
+                "2421385327231627190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep Semantic Image Segmentation for UAV-UGV Cooperative Path Planning: A Car Park Use Case",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Software, Telecommunications and Computer \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4919700194309382935",
+            "cites_id": [
+                "4919700194309382935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultra wideband assisted localization of semi-autonomous floor scrubber",
+                "pub_year": "2017",
+                "citation": "Journal of Communications Software and Systems 13 (2), 109-119, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16142298296323824765",
+            "cites_id": [
+                "16142298296323824765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active IR System for Projectile Detection and Tracking",
+                "pub_year": "2017",
+                "citation": "Advances in Electrical and Computer Engineering 17 (4), 125-130, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16082703629867805175",
+            "cites_id": [
+                "16082703629867805175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active IR System for Projectile Detection and Tracking",
+                "pub_year": "2017",
+                "citation": "Advances in Electrical and Computer Engineering 17 (4), 133-138, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16082703629867805175",
+            "cites_id": [
+                "16082703629867805175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive sensing for reconstruction of 3D point clouds in smart systems",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6397455026787402301",
+            "cites_id": [
+                "6397455026787402301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive sensing for reconstruction of 3D point clouds in smart systems",
+                "pub_year": "2016",
+                "citation": "2016 24th International Conference on Software, Telecommunications and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:dhFuZR0502QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6397455026787402301",
+            "cites_id": [
+                "6397455026787402301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustav za mjerenje i vrednovanje antropometrijskih parametara i kinematike ljudskog kretanja",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:r0BpntZqJG4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13994932395708506260",
+            "cites_id": [
+                "13994932395708506260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustav za mjerenje i vrednovanje antropometrijskih parametara i kinematike ljudskog kretanja",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13994932395708506260",
+            "cites_id": [
+                "13994932395708506260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and testing of a device for human kinematics measurement",
+                "pub_year": "2009",
+                "citation": "WSEAS transactions on systems 8 (9), 1083-1092, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5299354926691416114",
+            "cites_id": [
+                "5299354926691416114"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and testing of a device for human kinematics measurement",
+                "pub_year": "2009",
+                "citation": "WSEAS transactions on systems 8 (9), 1083-1092, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5299354926691416114",
+            "cites_id": [
+                "5299354926691416114"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison and Evaluation of Machine Learning-Based Classification of Hand Gestures Captured by Inertial Sensors",
+                "pub_year": "2022",
+                "citation": "Computation 10 (9), 159, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:hMod-77fHWUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731490506005728509",
+            "cites_id": [
+                "12731490506005728509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Data Collection Parameters on Performance of Neural Network-based Obstacle Avoidance",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16837627794447173359",
+            "cites_id": [
+                "16837627794447173359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial Sensor Based Identification of Human Movement, BIODEVICES 2009 Proceedings",
+                "pub_year": "2009",
+                "citation": "International Conference on Biomedical Electronics and Devices, 14th-17th \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13896343398681550781",
+            "cites_id": [
+                "13896343398681550781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability in human postural control",
+                "pub_year": "2006",
+                "citation": "WSEAS International Conference on Automation & Information (ICAI'06), 2006"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460814284508637899",
+            "cites_id": [
+                "14460814284508637899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability in human postural control",
+                "pub_year": "2006",
+                "citation": "Engineering in Medicine and Biology 27th Annual Conference, 29-31, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460814284508637899",
+            "cites_id": [
+                "14460814284508637899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural Network-based End-effector Force Estimation for Mobile Manipulator on Simulated Uneven Surfaces",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Software, Telecommunications and Computer \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:blknAaTinKkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4426916421191449970",
+            "cites_id": [
+                "4426916421191449970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Off-line inertial-sensor based hand gesture recognition and evaluation",
+                "pub_year": "2022",
+                "citation": "Complex Control Systems 4 (1), 1-6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15337860548757400401",
+            "cites_id": [
+                "15337860548757400401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine Learning as Tag Estimation Method for ALOHA-based RFID system",
+                "pub_year": "2021",
+                "citation": "2021 6th International Conference on Smart and Sustainable Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:isC4tDSrTZIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3533032554184077290",
+            "cites_id": [
+                "3533032554184077290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prototype of the energy efficient device for measurement and analysis of impacts during small parcel shipping",
+                "pub_year": "2019",
+                "citation": "Journal of Testing and Evaluation 47 (2), 1259-1270, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5106724292611240514",
+            "cites_id": [
+                "5106724292611240514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of modular unmanned surface vehicle for research and education",
+                "pub_year": "2017",
+                "citation": "Proceedings of 2nd International Multidisciplinary Conference on Computer \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5791477754208722971",
+            "cites_id": [
+                "5791477754208722971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wake-on-a-Schedule: Energy-aware Communication in Wi-Fi Networks",
+                "pub_year": "2014",
+                "citation": "Advances in Electrical and Computer Engineering 14 (1), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5931624957977040755",
+            "cites_id": [
+                "5931624957977040755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human anthropometric parameters estimation using video based techniques",
+                "pub_year": "2009",
+                "citation": "WSEAS International Conference. Proceedings. Mathematics and Computers in \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=589884154778092071",
+            "cites_id": [
+                "589884154778092071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image-Based Sensor for Liquid Level Monitoring during Bottling with Application to Craft and Home-Brewing",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (16), 7126, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Sensor Data and Machine Learning Models for Gesture Recognition in Smart Toy Design",
+                "pub_year": "2023",
+                "citation": "2023 8th International Conference on Smart and Sustainable Technologies \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Development of a Cost-Effective Imaging Device Based on Thermographic Technology",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (10), 4582, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a Machine Learning Smart Toy Design for Early Childhood Geometry Education: Usability and Performance",
+                "pub_year": "2023",
+                "citation": "Electronics 12 (8), 1951, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quadcopter Altitude Control Methods for Communication Relay Systems",
+                "pub_year": "2017",
+                "citation": "Recent Advances in Communications and Networking Technology (Formerly Recent \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quadcopter altitude control in low level hovering using PID controller",
+                "pub_year": "2017",
+                "citation": "2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomedical Engineering in Practice: Human Motion Tracking, Detection and Analysis",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Science and Technology in Biomedical Engineering: Labacs Case Example",
+                "pub_year": "2014",
+                "citation": "Phys Med Rehabil Int 1 (2), 11, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Case Study in Biomedical Engineering: New Approach to Biosignal Processing",
+                "pub_year": "2014",
+                "citation": "International Conference on Innovative Technologies IN-TECH, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building and testing of a simple high speed kinematics measurement system",
+                "pub_year": "2011",
+                "citation": "Annals of DAAAM & Proceedings, 1651-1653, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building and Testing of a Simple High Speed Kinematics Measurement System",
+                "pub_year": "2011",
+                "citation": "International DAAAM syposium''Iteligent Manufacturing & Automation Power of \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust Structured Light Coding for Fast Antropometry Measurements",
+                "pub_year": "2010",
+                "citation": "Seventh IASTED International Conference on Biomedical Engineering, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human Kinematics Measuring Using a High Speed Camera and Active Markers",
+                "pub_year": "2009",
+                "citation": "9th International Conference on SIMULATION, MODELLING AND OPTIMIZATION (SMO'09), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fuzzy qualitative framework for indoor rowing kinematics analysis",
+                "pub_year": "2009",
+                "citation": "WSEAS Transactions on Signal Processing 5 (8), 304-313, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial Sensor based Identification of Human Movements.",
+                "pub_year": "2009",
+                "citation": "BIODEVICES, 300-303, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of human kinematics using high speed camera",
+                "pub_year": "2008",
+                "citation": "17th Annual Meeting of ESMAC, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "P093 Measurement of human kinematics using high speed camera",
+                "pub_year": "2008",
+                "citation": "Gait & Posture, S107, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and Simulation by Modelica",
+                "pub_year": "2008",
+                "citation": "CEEPUS CII-CZ-0031-03-0708 Summer School 2008-\u201cAutomatic Control for the 21 \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability during quite standing",
+                "pub_year": "2006",
+                "citation": "FAKULTET ELEKTROTEHNIKE, STROJARSTVA I BRODOGRADNJE, Sveu\u010dili\u0161te u Splitu, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilnost pri uspravnom stajanju",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inertial Sensor Based Identification of Human Movements",
+                "citation": "Proceedings of the International Conference on Biomedical Electronics and \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "eMoorings: Distributed low power wide area system to control moorings",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Shadowed Clustering and Breeder GA in the Imbalanced Data Classification Problems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "C2P1GHUAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

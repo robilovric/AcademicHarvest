@@ -1,0 +1,243 @@
+{
+    "name": "Bo\u017ei\u0107-\u0160tuli\u0107 Dunja",
+    "num_citations": 230,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-label classifier performance evaluation with confusion matrix",
+                "pub_year": "2020",
+                "citation": "Computer Science & Information Technology 1, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:qjMakFHDy7sC",
+            "num_citations": 78,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1829100163140422669",
+            "cites_id": [
+                "1829100163140422669"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep learning approach in aerial imagery for supporting land search and rescue missions",
+                "pub_year": "2019",
+                "citation": "International Journal of Computer Vision 127 (9), 1256-1278, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 66,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5066210892939893227",
+            "cites_id": [
+                "5066210892939893227"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visual-based person detection for search-and-rescue with uas: Humans vs. machine learning algorithm",
+                "pub_year": "2020",
+                "citation": "Remote Sensing 12 (20), 3295, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6714067642692011596",
+            "cites_id": [
+                "6714067642692011596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Region proposal approach for human detection on aerial imagery",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=230752111486878384",
+            "cites_id": [
+                "230752111486878384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of latent space dimension on the quality of synthesized human face images",
+                "pub_year": "2021",
+                "citation": "Journal of Communications Software and Systems 17 (2), 124-133, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2404055723316718320",
+            "cites_id": [
+                "2404055723316718320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping aerial images from UAV",
+                "pub_year": "2016",
+                "citation": "2016 International Multidisciplinary Conference on Computer and Energy \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6402333180718961148",
+            "cites_id": [
+                "6402333180718961148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete model for automatic object detection and localisation on aerial images using convolutional neural networks",
+                "pub_year": "2018",
+                "citation": "Journal of Communications Software and Systems 14 (1), 82-90, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8518461509146451797",
+            "cites_id": [
+                "8518461509146451797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep learning based approach for optic disc and optic cup semantic segmentation for glaucoma analysis in retinal fundus images",
+                "pub_year": "2020",
+                "citation": "International journal of electrical and computer engineering systems 11 (2 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13157470541053564277",
+            "cites_id": [
+                "13157470541053564277"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model for automatic geomapping of aerial images mosaic acquired by UAV",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4726520494070695328",
+            "cites_id": [
+                "4726520494070695328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convolutional Neural Networks and Transfer Learning Based Classification of Natural Landscape Images",
+                "pub_year": "2020",
+                "citation": "JOURNAL OF UNIVERSAL COMPUTER SCIENCE 26 (2), 244-267, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9486210671356563838",
+            "cites_id": [
+                "9486210671356563838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of image processing and deep learning based methods for automated analysis of digital retinal fundus images",
+                "pub_year": "2018",
+                "citation": "2018 3rd International Conference on Smart and Sustainable Technologies \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4704254087025307409",
+            "cites_id": [
+                "4704254087025307409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of cogent confabulation based classifier and Naive Bayes classifier in the detection of lens flares in wildfire smoke detection",
+                "pub_year": "2017",
+                "citation": "2017 2nd International Multidisciplinary Conference on Computer and Energy \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1300395195266541068",
+            "cites_id": [
+                "1300395195266541068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the age estimation efficiency by calculation of the area ratio index using semi-automatic segmentation of knee MRI images",
+                "pub_year": "2023",
+                "citation": "Biomedicines 11 (7), 2046, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10621911647312241338",
+            "cites_id": [
+                "10621911647312241338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Site-Specific Wildfire Risk Index in Croatian Wildfire Monitoring and Surveillance System",
+                "pub_year": "2022",
+                "citation": "Environmental Sciences Proceedings 17 (1), 34, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8024871609596603349",
+            "cites_id": [
+                "8024871609596603349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semanti\u010dka segmentacija slika prirodnog krajolika temeljena na dubokom u\u010denju",
+                "pub_year": "2020",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "KlwP_5QAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}

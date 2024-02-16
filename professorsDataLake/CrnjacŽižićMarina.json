@@ -1,0 +1,496 @@
+{
+    "name": "Crnjac \u017di\u017ei\u0107 Marina",
+    "num_citations": 634,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From concept to the introduction of industry 4.0",
+                "pub_year": "2017",
+                "citation": "International Journal of Industrial Engineering and Management 8 (1), 21, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 260,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6857809068424703265",
+            "cites_id": [
+                "6857809068424703265"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From industry 4.0 towards industry 5.0: A review and analysis of paradigm shift for the people, organization and technology",
+                "pub_year": "2022",
+                "citation": "Energies 15 (14), 5221, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 117,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13443706973256257654",
+            "cites_id": [
+                "13443706973256257654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended process failure mode and effect analysis (PFMEA) for the automotive industry: The FSQC-PFMEA",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12793729423663586041",
+            "cites_id": [
+                "12793729423663586041"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration and testing of the RFID-enabled Smart Factory concept within the Learning Factory",
+                "pub_year": "2019",
+                "citation": "Procedia manufacturing 31, 384-389, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:5nxA0vEk-isC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9527355169925236406",
+            "cites_id": [
+                "9527355169925236406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Collaborative robot task allocation on an assembly line using the decision support system",
+                "pub_year": "2022",
+                "citation": "International Journal of Computer Integrated Manufacturing 35 (4-5), 510-526, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:hC7cP41nSMkC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17988190323008729086",
+            "cites_id": [
+                "17988190323008729086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selecting manufacturing partners in push and pull-type smart collaborative networks",
+                "pub_year": "2018",
+                "citation": "Advanced engineering informatics 38, 291-305, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:ufrVoPGSRksC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4069512057223085581",
+            "cites_id": [
+                "4069512057223085581"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of the RFID system for optimal design of the intelligent assembly line in the learning factory",
+                "pub_year": "2018",
+                "citation": "Procedia Manufacturing 23, 63-68, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6361027662302572125",
+            "cites_id": [
+                "6361027662302572125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a knowledge-based cognitive system for industrial application: Case of personalized products",
+                "pub_year": "2022",
+                "citation": "Journal of Industrial Information Integration 27, 100284, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:qUcmZB5y_30C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17856671140341706822",
+            "cites_id": [
+                "17856671140341706822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration of the human-robot system in the learning factory assembly process",
+                "pub_year": "2020",
+                "citation": "Procedia manufacturing 45, 158-163, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13346190418931613381",
+            "cites_id": [
+                "13346190418931613381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-stage product design selection by using PROMETHEE and Taguchi method: A case study.",
+                "pub_year": "2019",
+                "citation": "Advances in Production Engineering & Management 14 (1), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2433918713942935677",
+            "cites_id": [
+                "2433918713942935677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Criteria Decision Support System for Smart and Sustainable Machining Process",
+                "pub_year": "2022",
+                "citation": "Energies 15 (3), 772, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:dhFuZR0502QC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12227275506120813458",
+            "cites_id": [
+                "12227275506120813458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of bullwhip effect in a supply chain for lean learning factory purposes",
+                "pub_year": "2017",
+                "citation": "Int J Simul Modell 16 (4), 576-589, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15364306517905443429",
+            "cites_id": [
+                "15364306517905443429"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From Industry 4.0 towards Industry 5.0: A Review and Analysis of Paradigm Shift for the People, Organization and Technology. Energies 2022, 15, 5221",
+                "pub_year": "2022",
+                "citation": "Industry 4.0\u2014from Smart Factory to Cognitive Cyberphysical Production \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13543336115887337465",
+            "cites_id": [
+                "13543336115887337465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of De Novo Programming Approach for Optimizing the Business Process",
+                "pub_year": "2018",
+                "citation": "International Journal of Industrial and Systems Engineering 12 (5), 591-596, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6265435673771417765",
+            "cites_id": [
+                "6265435673771417765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The assessment and ranking of failures in the information technology industry based on FMEA and MCDM",
+                "pub_year": "2018",
+                "citation": "Ekonomski horizonti 20 (3), 257-268, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:roLk4NBRz8UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16306570330583698286",
+            "cites_id": [
+                "16306570330583698286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Croatian Model Of Innovative Smart Enterprise (HR-ISE Model)",
+                "pub_year": "2017",
+                "citation": "16th International Scientific Conference on Production Engineering (CIM 2017 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11616278610390113113",
+            "cites_id": [
+                "11616278610390113113"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of performances of RFID systems for assembly line purposes in Learning Factory",
+                "pub_year": "2019",
+                "citation": "Proceeding of the 9th International Conference of Mechanical Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2461563709523540426",
+            "cites_id": [
+                "2461563709523540426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection of the Cobot Workstation for the Learning Factory by using the Multi-Criteria Analysis",
+                "pub_year": "2022",
+                "citation": "12th Conference on Learning Factories (CLF 2022), Proceedings of the 12th \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6580117703486685019",
+            "cites_id": [
+                "6580117703486685019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards equipping an assembly line with Industry 4.0 concept elements in laboratory environment",
+                "pub_year": "2018",
+                "citation": "LEAN SPRING SUMMIT, 24-25, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7828809921442683248",
+            "cites_id": [
+                "7828809921442683248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPLICATION OF THE INTEGRATIVE PROCEDURE FOR MANAGEMENT OF PRODUCTION AND SERVICE IMPROVEMENT PROCESS ON THE ASSEMBLY LINE.",
+                "pub_year": "2018",
+                "citation": "Annals of DAAAM & Proceedings 29, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7857190759921287512",
+            "cites_id": [
+                "7857190759921287512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The application of Taguchi method for choosing the optimal table construction",
+                "pub_year": "2017",
+                "citation": "International conference \u201cMechanical Technologies and Structural Materials \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14490790335319739415",
+            "cites_id": [
+                "14490790335319739415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of artificial intelligence fuzzy logic technique in modelling of Industry 4.0 maturity level of production enterprises",
+                "pub_year": "2023",
+                "citation": "Proceedings of the International Conference Mechanical Technologies and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2229405311382159509",
+            "cites_id": [
+                "2229405311382159509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Industry 4.0--from Smart Factory to Cognitive Cyberphysical Production System and Cloud Manufacturing",
+                "pub_year": "2022",
+                "citation": "MDPI-Multidisciplinary Digital Publishing Institute, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9046619551585557393",
+            "cites_id": [
+                "9046619551585557393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Croatian model of Innovative smart Enterprise for Different Sizes of Enterprise",
+                "pub_year": "2018",
+                "citation": "The International Conference on Applied Mechanics and Mechanical Engineering \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11094002312753881684",
+            "cites_id": [
+                "11094002312753881684"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for sustainable product development in the learning factory environment",
+                "pub_year": "2023",
+                "citation": "Available at SSRN 4476049, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complexity Measurement for Assembly of Personalized Products",
+                "pub_year": "2022",
+                "citation": "International Conference \u201cNew Technologies, Development and Applications \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Criteria Decision Support System for Smart and Sustainable Machining Process. Energies 2022, 15, 772",
+                "pub_year": "2022",
+                "citation": "Industry 4.0\u2014from Smart Factory to Cognitive Cyberphysical Production \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tackling the problem of defective components in the Learning Factory assembly process by using the intelligent assembly line",
+                "pub_year": "2021",
+                "citation": "Proceedings of the Conference on Learning Factories (CLF), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeliranje sustava za potporu odlu\u010divanju pri upravljanju monta\u017eom personaliziranih proizvoda",
+                "pub_year": "2021",
+                "citation": "University of Split. Faculty of Electrical Engineering, Mechanical \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Innovative Smart Enterprise: Konfigurator proizvoda",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart Factory Project",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE HR-ISE MODEL FOR DIFFERENT SIZES OF ENTERPRISE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Konfigurator proizvoda",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7kOsMooAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "co_authors": []
+}
