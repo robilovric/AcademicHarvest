@@ -27,7 +27,6 @@ for prof in professorData.professors:
 
         prof.display_information()
 
-        #Spremanje u file
         prof.WriteDataToFile()        
 
     except Exception as e:

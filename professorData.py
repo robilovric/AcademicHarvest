@@ -35,22 +35,18 @@ class Professor:
             print(f"  - {intensity_value}")
     
     def WriteDataToFile(self):
-        # Create folder if it doesn't exist
         folder_name = 'professorsDataLake'
         if not os.path.exists(folder_name):
             os.makedirs(folder_name)
         
-        # Create file name
         file_name = f"{self.name.replace(' ', '')}.json"
         file_path = os.path.join(folder_name, file_name)
 
-        # Write data to JSON file
         data = {
             'name': self.name,
             'num_citations': self.num_citations,
             'publications': self.publications,
             'co_authors': self.co_authors,
-            # Intensity is not saved in the JSON file
         }
         with open(file_path, 'w') as file:
             json.dump(data, file, indent=4)
@@ -64,9 +60,9 @@ class Professor:
                 num_citations=data['num_citations'],
                 publications=data['publications'],
                 co_authors=data['co_authors'],
-                intensity=[]  # Intensity not saved in JSON, set to empty list
+                intensity=[]  
             )
-
+        
 professors=[] 
 
 url = "https://nastava.fesb.unist.hr/nastava/nastavnici/detalji"

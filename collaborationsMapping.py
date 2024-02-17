@@ -7,34 +7,22 @@ pg = ProxyGenerator()
 success = pg.ScraperAPI("c06ba0ead8c6972001e73b3807e139f0")
 scholarly.use_proxy(pg)
 
-#Extract publications title from PerkovicToni.json
 prof=professorData.Professor.ReadDataFromFile("professorsDataLake/PerkovićToni.json")
-#prof.display_information()
 
 collaboratorsImage=dict()
 
-
 def write_collaboratorsImage_to_csv():
     with open('CollaboratorsImage.csv', 'w', newline='', encoding='utf-8') as csvfile:
-        # Create a CSV writer object
         csvwriter = csv.writer(csvfile)
-    
-        # Write header
         csvwriter.writerow(['Collaborator', 'Count'])
     
-        # Write data rows
         for collaborator, count in collaboratorsImage.items():
             csvwriter.writerow([collaborator, count])
 
 def save_backup(data):
     with open('backup.csv', 'w', newline='', encoding='utf-8') as csvfile:
-        # Create a CSV writer object
         csvwriter = csv.writer(csvfile)
-    
-        # Write header
         csvwriter.writerow(['Title'])
-    
-        # Write data rows
         csvwriter.writerow([data])
 
 def get_couauthors_from_publications(title):
@@ -45,8 +33,6 @@ def get_couauthors_from_publications(title):
         coauthors = publication.get('bib', {}).get('author', [])
         coautorString = ''.join(coauthors)
 
-        print("RAW DATA FORMAT\n", coautorString)
-        print("EXTRACTED AUTHORS")
         format_coauthors_adjust_intensity(coautorString)
 
     except StopIteration:
@@ -75,20 +61,14 @@ def format_coauthors_adjust_intensity(coauthor_raw):
         if author not in collaboratorsImage:
             collaboratorsImage[author] = 0
         collaboratorsImage[author] += 1
-        for key, value in collaboratorsImage.items():
-            print(key, value)
-
-# Test printing
-for name, count in collaboratorsImage.items():
-    print(name, count)
-
+        
 try:
     for pub in prof.publications:
         title = pub.get('bib', {}).get('title', 'N/A')
         save_backup(title)
         get_couauthors_from_publications(title)
     
-    # Save to csv file
     write_collaboratorsImage_to_csv()
+    
 except Exception as e:
     print(type(e).__name__)
